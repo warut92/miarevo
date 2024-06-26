@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sterk.xml,v 1.30 2024/03/25 07:28:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sterk</rad>/o <fnt><bib>UV</bib></fnt>
+</kap>
+<drv mrk="sterk.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="sterk.0o.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      &Gcirc;enerala nomo de &ccirc;iuj produkta&jcirc;oj, organikaj a&ubreve; mineralaj, uzataj
+      por plibonigi la kulturgrundojn; tradicie, <ref cel="ekskre1.0o">ekskremento</ref>j miksitaj kun pajlo:
+      <ekz>
+        <tld/>o de kolomboj <klr>(kp <ref tip="sub" cel="guan.0o">guano</ref>)</klr>
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Re&gcirc;oj 6:25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pajlo estas dispremata en <tld/>a koto
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 25:10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam la akvoj malaperas, <klr>[&#x2026;]</klr> restas fruktoporta
+        &scirc;limo, kiu anstata&ubreve;as plej bonajn <tld/>ojn
+        <fnt><bib>Far1</bib>, <lok>Anta&ubreve;parolo</lok></fnt>;
+      </ekz>
+      <ekz>
+        kadavroj de homoj falos kiel <tld/>o sur la kampojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 9:22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        vi estas nenia&jcirc;o, <tld/>o, ekskremento
+        <fnt>
+          <bib>&Ccirc;uk&ccirc;oj</bib>
+          <lok>7. La nesolvebla problemo.</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        kiom kostas <klr>[&#x2026;]</klr> artefarita <tld/>o
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Disaj vojoj</lok>
+        </fnt>?
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="hum.0o">humo</ref>,
+      <ref cel="komposxt.0o">kompo&scirc;to</ref>,
+      <ref cel="marn.0o">marno</ref>,
+      <ref cel="mulcx.0o">mul&ccirc;o</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_n;&c_o;&c_j;</trd>,
+    <trd>&c_k;&c_a;&c_m;&c_p;&c_o;&c_s;&c_t;</trd>,
+    <trd>&c_p;&c_a;&c_m;&c_jo;&c_t;</trd>,
+    <trd>&c_u;&c_g;&c_n;&c_a;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_t;&c_o;&c_r;</trd>
+  <trdgrp lng="ca">
+    <trd>fem</trd>,
+    <trd>adob</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hn&uring;j</trd>,
+    <trd>mrva</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>D&uuml;nger</trd>,
+    <trd>Dung</trd>,
+    <trd>Mist</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>manure</trd>,
+    <trd>fertilizer</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>abono</trd>,
+    <trd>fertilizante</trd>
+  </trdgrp>
+  <trd lng="fa">&f_k;&a_w;&a_d;</trd>
+  <trdgrp lng="fr">
+    <trd>engrais</trd>,
+    <trd>fumier</trd>
+  </trdgrp>
+  <trd lng="hu">tr&aacute;gya</trd>
+  <trdgrp lng="ja">
+    <trd>&#x80A5;&#x6599;  <pr>&#x3072;&#x308A;&#x3087;&#x3046;</pr></trd>,
+    <trd>&#x80A5;&#x3084;&#x3057;  <pr>&#x3053;&#x3084;&#x3057;</pr></trd>
+  </trdgrp>
+  <trd lng="kek">ab&#x315;oon</trd>
+  <trd lng="nl">mest</trd>
+  <trdgrp lng="pl">
+    <trd>naw&oacute;z</trd>,
+    <trd>gn&oacute;j</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_d;&c_o;&c_b;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_n;&c_a;&c_v;&c_o;&c_z;</trd>,
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_o;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hnoj</trd>,
+    <trd>hnojivo</trd>
+  </trdgrp>
+  <trd lng="sv">g&ouml;dsel</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_n;&c_ib;&c_j;</trd>,
+    <trd>&c_p;&c_o;&c_s;&c_l;&c_ib;&c_d;</trd>,
+    <trd>&c_d;&c_o;&c_b;&c_r;&c_i;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x80A5;&#x6599; <pr>f&#xE9;ili&#xE0;o</pr></trd>,
+    <trd>&#x7CAA; <pr>f&#xE8;n</pr></trd>,
+    <trd>&#x7CDE; <pr>f&#xE8;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sterk.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sterk.0i.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Plibonigi grundon per <tld/>o:
+      <ekz>
+        La venenan herbon &parsl; Ne <tld/>u, ke &gcirc;i pli ankora&ubreve; kresku
+        <fnt>
+          <bib>Hamlet</bib>
+          <lok>Hamleto</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        <nom>Liebig</nom> faris rimarkindajn eltrovojn pri la <tld/>ado de la tero
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        multkampan sistemon vi havas, ma&scirc;inojn, kemian <tld/>adon, bonan rikolton
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ekskrementojn oni efike reuzas por <tld/>i
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ivo Durwael</aut>
+          <vrk><url ref="&Monato;/2004/008236.html">La rikolto de la nova tempo</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        tentas min poemon mian <tld/>i per mallicencoj, versi inter limoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Antonio Val&eacute;n</aut>
+          <vrk><url ref="&Monato;/2005/008499.php">&Ccirc;u Ertl provizore stilekzercas?</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fekund.0igi">fekundigi</ref>,
+      <ref cel="mulcx.0i">mul&ccirc;i</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_g;&c_n;&c_a;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_g;&c_n;&c_o;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_t;&c_o;&c_r;&c_ja;</trd>
+  <trdgrp lng="ca">
+    <trd>femar</trd>,
+    <trd>adobar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hnojit chl&eacute;vsk&yacute;m hnojem</trd>,
+    <trd>hnojit mrvou</trd>
+  </trdgrp>
+  <trd lng="de">d&uuml;ngen</trd>
+  <trd lng="en">fertilize</trd>
+  <trdgrp lng="es">
+    <trd>abonar</trd>,
+    <trd>fertilizar</trd>
+  </trdgrp>
+  <trd lng="fa">&f_k;&a_w;&a_d; &a_d;&a_A;&a_d;&a_n;</trd>
+  <trdgrp lng="fr">
+    <trd>mettre de l'<ind>engrais</ind></trd>,
+    <trd>fumer<klr> (un terrain)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">tr&aacute;gy&aacute;z</trd>
+  <trd lng="ja">&#x80A5;&#x6599;&#x3092;&#x65BD;&#x3059;  <pr>&#x3072;&#x308A;&#x3087;&#x3046;&#x3092;&#x307B;&#x3069;&#x3053;&#x3059;</pr></trd>
+  <trd lng="nl">bemesten</trd>
+  <trd lng="pl">gnoi&cacute;  <klr>(nawozi&cacute;)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_d;&c_o;&c_b;&c_r;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_n;&c_a;&c_v;&c_o;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">hnoji&tcaron;</trd>
+  <trd lng="sv">g&ouml;dsla</trd>
+  <trdgrp lng="uk">
+    <trd>&c_u;&c_g;&c_n;&c_o;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_n;&c_o;&c_s;&c_i;&c_t;&c_i; &c_g;&c_n;&c_ib;&c_j;</trd>,
+    <trd>&c_u;&c_d;&c_o;&c_b;&c_r;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x65BD;&#x80A5; <pr>sh&#x12B;f&#xE9;i</pr></trd>,
+    <trd>&#x80A5; <pr>f&#xE9;i</pr></trd>,
+    <trd>&#x80A5;&#x7530; <pr>f&#xE9;iti&#xE1;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sterk.0ejo">
+  <kap><tld/>ejo, <var><kap><tld/>amaso</kap></var></kap>
+  <snc mrk="sterk.0ejo.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Loko, kie oni amasigas kaj maturigas (organikan)
+      <tld/>on:
+      <ekz>
+        devus esti bonaj defluejoj kaj urinputo apud la <tld/>ejo
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Feli&ccirc;a homo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en via stud&ccirc;ambreto certe estis pli da komforto ol
+        sur la malvarma kampo, en la stalo a&ubreve; sur la
+        <tld/>ejo
+        <fnt>
+          <aut>C. O.</aut>,
+          <vrk>Ni Kune</vrk>,
+          <lok><url ref="http://www.ikef.org/uploads/1/2/0/6/12064354/ekonomia_egaleco_1950_8.pdf">
+          </url>Ekonomia Egaleco, 1950:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        saluton, mia plej kara <tld/>amaso tie sube, pli
+        belega ol alta&jcirc;o de feli&ccirc;o
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep
+        fratoj</vrk>, <lok>1947</lok></fnt>!
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">hromada hnoje</trd>
+  <trd lng="de">Misthaufen</trd>
+  <trdgrp lng="en">
+    <trd>dung hill</trd>,
+    <trd>dung heap</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>estercolero</trd>,
+    <trd>muladar<klr tip="ind">(estercolero)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">tas de <ind>fumier</ind></trd>
+  <trd lng="pl">gnojowisko</trd>
+  <trd lng="sk">hromada hnoja</trd>
+  <trd lng="uk">&c_g;&c_n;&c_o;&c_j;&c_o;&c_v;&c_a; &c_ja;&c_m;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x8C9D;&#x585A; <pr>b&#xE8;izh&#x1D2;ng</pr></trd>,
+    <trd>&#x8D1D;&#x51A2; <pr>b&#xE8;izh&#x1D2;ng</pr></trd>,
+    <trd>&#x8C9D;&#x585A; <pr>b&#xE8;izh&#x1D2;ng</pr></trd>,
+    <trd>&#x8D1D;&#x585A; <pr>b&#xE8;izh&#x1D2;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.29 2024/01/26 09:22:17
+Wolfram Diestel: +ekz-oj, ref-oj, trd de
+
+versio 1.28 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.27 2023/10/03 22:26:20
+Vito Redsky: +trd pl
+
+versio 1.25 2022/04/06 16:40:28
+Noam Mohr: +trd en sterk-
+
+Revision 1.22  2018/10/12 20:10:19  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.21  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/09/21 01:10:13  revo
+-->
+</vortaro>

@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: parafr.xml,v 1.22 2024/02/22 09:22:54 revo Exp $">
+<kap>
+  <ofc>2</ofc> <rad>parafraz</rad>/o
+  <fnt><bib>JED</bib></fnt>
+</kap>
+<drv mrk="parafr.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BELE</uzo>
+  <snc mrk="parafr.0o.klariga">
+    <dif>
+      Klariga plivastigo de teksto:
+      <ekz>
+        ne temas &gcirc;uste pri <tld/>oj a&ubreve; interpretoj, sed simple pri
+        disvolvo de la origina rakonto en novela formo
+        <fnt><aut>Sten Johansson</aut>: <vrk>Satira, humure
+        serioza, amara, ridiga (T&oacute;th-M&aacute;th&eacute; Miklos, Trans la
+        se&gcirc;o)</vrk>,
+        <bib>Monato</bib><lok>jaro 1998a, numero 1a, p. 19a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la bu&scirc;on ili menciis nur en neeviteblaj okazoj kaj e&ccirc; tiam nur <tld/>e
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dekkvina &Ccirc;apitro</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="alegor.0o">alegorio</ref>,
+      <ref cel="fraz.cxirkaux0o">&ccirc;irka&ubreve;frazo</ref>,
+      <ref cel="metafo.0o">metaforo</ref>
+    </refgrp>
+    <trd lng="pt">par&aacute;frase</trd>
+  </snc>
+  <snc mrk="parafr.0o.traduko">
+    <dif>
+      Nesevera <ref tip="super" cel="traduk.0o">traduko</ref>,
+      en kiu originala teksto estas plivastigita,
+      redonata per priskribaj vortoj:
+      <ekz>
+        aperis <klr>[&#8230;]</klr> la verko <nom>Gudrun</nom> <klr>[kiel]</klr> <tld/>o de la antikva
+        germana eposo
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Vo&ccirc;oj el mallumo &ndash; <tld/>oj el poezia&jcirc;oj de naturaj gentoj
+        <fnt>
+          <bib>SkandalJozef</bib>
+          <lok>Pri la a&ubreve;toro</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Umschreibung</trd>,
+      <trd>sinngem&auml;&szlig;e <ind>Wiedergabe</ind></trd>,
+      <trd>&Uuml;bertragung <klr>(Paraphrase)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_f;&c_r;&c_a;&c_z;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>opis jin&yacute;mi slovy</trd>,
+    <trd>parafr&aacute;ze</trd>
+  </trdgrp>
+  <trd lng="de">Paraphrase</trd>
+  <trd lng="en">paraphrase</trd>
+  <trdgrp lng="fr">
+    <trd>paraphrase</trd>
+  </trdgrp>
+  <trd lng="hu">parafr&aacute;zis</trd>
+  <trd lng="it">parafrasi</trd>
+  <trdgrp lng="ja">
+    <trd>&#12497;&#12521;&#12501;&#12524;&#12540;&#12474;</trd>,
+    <trd>&#35500;&#26126;&#30340;&#35328;&#12356;&#25563;&#12360;  <pr>&#12379;&#12388;&#12417;&#12356;&#12390;&#12365;&#12356;&#12356;&#12363;&#12360;</pr></trd>,
+    <trd>&#25975;&#34893;&#12375;&#12383;&#24847;&#35379;  <pr>&#12405;&#12360;&#12435;&#12375;&#12383;&#12356;&#12420;&#12367;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>parafrase</trd>,
+    <trd>omschrijving</trd>
+  </trdgrp>
+  <trd lng="pl">parafraza</trd>
+  <trd lng="ro">parafraza</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_a;&c_r;&c_a;&c_f;&c_r;&c_a;&c_z;&c_a;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_k;&c_a;&c_z;</trd>
+  </trdgrp>
+  <trd lng="sk">parafr&aacute;za</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_a;&c_r;&c_a;&c_f;&c_r;&c_a;&c_z;&c_a;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_k;&c_a;&c_z;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_k;&c_a;&c_z;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_p;&c_o;&c_v;&c_ib;&c_d;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_v;&c_i;&c_k;&c_l;&c_a;&c_d;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#28436;&#32377;&#26354; <pr>y&#462;ny&igrave;q&#468;</pr></trd>,
+    <trd>&#28436;&#32462;&#26354; <pr>y&#462;ny&igrave;q&#468;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="parafr.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Klarigi a&ubreve; <ref tip="super" cel="traduk.0i">traduki</ref> <tld/>e:
+      <ekz>
+        mi devis &ccirc;ion <tld/>i tiel <klr>(metafore)</klr>, ke la interligajn animajn kro&ccirc;ilojn mi komparis al
+        la fortolinioj de la magneto
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Kvina &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="parol.cxirkaux0i">&ccirc;irka&ubreve;paroli</ref>,
+      <ref cel="skrib.cxirkaux0i.per_aliaj_vortoj">&ccirc;irka&ubreve;skribi<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_f;&c_r;&c_a;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>parafr&aacute;zovat</trd>,
+    <trd>vyjad&rcaron;ovat opisem</trd>,
+    <trd>vysv&ecaron;tlovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>paraphrasieren</trd>,
+    <trd>sinngem&auml;&szlig; <ind>wiedergeben</ind></trd>,
+    <trd>umschreiben</trd>
+  </trdgrp>
+  <trd lng="en">paraphrase</trd>
+  <trdgrp lng="fr">
+    <trd>paraphraser</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kifejt&eacute;s</trd>,
+    <trd>k&ouml;r&uuml;l&iacute;r&aacute;s</trd>
+  </trdgrp>
+  <trd lng="it">parafrasare</trd>
+  <trdgrp lng="ja">
+    <trd>&#12497;&#12521;&#12501;&#12524;&#12540;&#12474;&#12377;&#12427;</trd>,
+    <trd>&#12420;&#12373;&#12375;&#12367;&#35328;&#12356;&#25563;&#12360;&#12427;  <pr>&#12420;&#12373;&#12375;&#12367;&#12356;&#12356;&#12363;&#12360;&#12427;</pr></trd>,
+    <trd>&#12431;&#12363;&#12426;&#12420;&#12377;&#12367;&#24847;&#35379;&#12377;&#12427;
+    <pr>&#12431;&#12363;&#12426;&#12420;&#12377;&#12367;&#12356;&#12420;&#12367;&#12377;&#12427;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">parafraseren</trd>
+  <trd lng="pl">parafrazowa&cacute;</trd>
+  <trd lng="ro">parafraseaz&abreve;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_a;&c_r;&c_a;&c_f;&c_r;&c_a;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>parafr&aacute;zova&tcaron;</trd>,
+    <trd>vyjadri&tcaron; opisom</trd>,
+    <trd>vysvet&lcaron;ova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_a;&c_r;&c_a;&c_f;&c_r;&c_a;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_k;&c_a;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_k;&c_l;&c_a;&c_d;&c_a;&c_t;&c_i; &c_s;&c_v;&c_o;&c_ji;&c_m;&c_i; &c_s;&c_l;&c_o;&c_v;&c_a;&c_m;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#24847;&#35695; <pr>y&igrave;y&igrave;</pr></trd>,
+    <trd>&#24847;&#35793; <pr>y&igrave;y&igrave;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2024/02/22 09:22:54
+Wolfram Diestel: ekz-oj, ref, trd de
+
+versio 1.20 2023/10/20 14:25:19
+revo: transskribo per <pr>
+
+versio 1.19 2023/09/13 16:30:39
+Wolfram Diestel: pr. ja
+
+versio 1.16 2021/11/29 22:31:24
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.14  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2010/07/07 16:30:29  revo
+Russ Williams: +trd en
+
+Revision 1.12  2010/04/16 16:31:24  revo
+Antonio Codazzi: +td it
+
+Revision 1.11  2006/02/24 17:36:37  revo
+-->
+</vortaro>

@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: parale1.xml,v 1.23 2024/03/16 12:36:22 revo Exp $">
+<kap><rad>paralelepiped</rad>/o
+<fnt><bib>PVEF</bib></fnt>
+</kap>
+<drv mrk="parale1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 30</lok></fnt>
+  <snc>
+    <dif>
+      <ref tip="super" cel="edr.n0o">Sesedro</ref>, kiun limas ses
+      <ref cel="parale2.0o">paralelogramoj</ref>:
+      <ekz>
+        ortangula, neortangula <tld/>o;
+      </ekz>
+      <ekz>
+        li nomis &gcirc;in &leftquot;sfero&rightquot;, kvankam en miaj okuloj &gcirc;i &scirc;ajnis klare rektangula <tld/>o
+        <fnt>
+          <aut>Sten Johansson</aut>
+          <vrk><url ref="http://esperanto.davidgsimpson.com/inko/204-2.pdf"
+              >Nifulo</url></vrk>
+          <lok>La Deka Logo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        determinanto <klr>[de]</klr> kvadrata matrico <klr>[estas]</klr> egala al la
+        signuma volumeno de la <tld/>o difinita de tiu &ccirc;i
+        <fnt>
+          <vrk><url ref="http://www.eventoj.hu/steb/matematiko/kiselman-piv2-matstat.pdf"
+              > La matematiko kaj statistiko en Plena Ilustrita Vortaro</url></vrk>
+          <lok>determini</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="prism.0o">prismo</ref>,
+      <ref cel="spat.0o.MIN">spato</ref>
+    </refgrp>
+    <rim>
+      Ortangulan <tld/>on oni foje nomas <ctl>kvadro</ctl> a&ubreve;
+      <ctl>ortepipedo</ctl>
+      [<fnt><bib>MatVort</bib></fnt>].
+    </rim>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_l;&c_je;&c_l;&c_je;&c_p;&c_ib;&c_p;&c_e;&c_d;</trd>
+  <trdgrp lng="cs">
+    <trd>kv&aacute;dr</trd>,
+    <trd>rovnob&ecaron;&zcaron;nost&ecaron;n</trd>
+  </trdgrp>
+  <trd lng="de">Parallelepiped</trd>
+  <trd lng="en">parallelepiped[on]</trd>
+  <trd lng="fr">parall&eacute;l&eacute;pip&egrave;de</trd>
+  <trd lng="hu">parallelepipedon</trd>
+  <trd lng="ja">&#24179;&#34892;&#20845;&#38754;&#20307;  <pr>&#12408;&#12356;&#12371;&#12358;&#12429;&#12367;&#12417;&#12435;&#12383;&#12356;</pr></trd>
+  <trd lng="nl">parallellepipedum</trd>
+  <trd lng="pl">r&oacute;wnoleg&lstroke;o&sacute;cian</trd>
+  <trd lng="pt">paralelep&iacute;pedo</trd>
+  <trd lng="ru">&c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_je;&c_p;&c_i;&c_p;&c_je;&c_d;</trd>
+  <trd lng="sk">kv&aacute;der</trd>
+  <trd lng="uk">&c_p;&c_a;&c_r;&c_a;&c_l;&c_je;&c_l;&c_je;&c_p;&c_ib;&c_p;&c_je;&c_d;</trd>
+  <trdgrp lng="zh">
+    <trd>&#24179;&#34892;&#20845;&#38754;&#20307; <pr>p&iacute;ngx&iacute;ngli&ugrave;mi&agrave;nt&#464;</pr></trd>,
+    <trd>&#24179;&#34892;&#20845;&#38754;&#39636; <pr>p&iacute;ngx&iacute;ngli&ugrave;mi&agrave;nt&#464;</pr></trd>,
+    <trd>&#24179;&#34892;&#20845;&#38754;&#20307; <pr>p&iacute;ngh&aacute;ngli&ugrave;mi&agrave;nt&#464;</pr></trd>,
+    <trd>&#24179;&#34892;&#20845;&#40629;&#39636; <pr>p&iacute;ngh&aacute;ngli&ugrave;mi&agrave;nt&#464;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2024/03/16 12:36:22
+Wolfram Diestel: +ekz, fnt, ref
+
+versio 1.21 2023/10/20 14:25:19
+revo: transskribo per <pr>
+
+Revision 1.17  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2006/02/25 17:33:52  revo
+Tulio Flores: +trd pt
+
+Revision 1.15  2004/07/16 16:31:47  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2003/10/24 16:30:59  revo
+Zmicier Lapcionak: kor trd be
+
+Revision 1.13  2003/07/15 16:31:34  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2003/04/27 16:30:47  revo
+-->
+</vortaro>

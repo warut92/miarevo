@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: nadl.xml,v 1.24 2024/02/04 09:20:02 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>nadl</rad>/o <fnt><bib>PVEF</bib></fnt>
+</kap>
+<drv mrk="nadl.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Pintoforma metala vergeto (ekz-e <ref cel="montr.0ilo">montrilo</ref>
+      a&ubreve; pinta kontaktilo de mezurilo):
+      <ekz>
+        <tld/>o de elektra aparato;
+      </ekz>
+      <ekz>
+        ili pikas iaspecan elektran <tld/>on en la nukon de la paciento
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Sesa &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o de mia interna kompaso komencis giri freneze
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>Blogo de &scirc;iprompulo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la gravura laboro valoras la koston &ndash; kondi&ccirc;e ke la <tld/>o ne estas en la mano
+        de fu&scirc;uloj
+        <fnt>
+          <bib>KrM</bib>
+          <lok>7. Belaj Rakontoj El Trans La Montoj.</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="pingl.0o">pinglo</ref>,
+      <ref cel="pint.0o">pinto</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_g;&c_o;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_t;&c_r;&c_e;&c_l;&c_k;&c_a; <klr>(&c_n;&c_a;&c_p;&c_r;.,
+    &c_g;&c_a;&c_d;&c_z;&c_ib;&c_n;&c_mol;&c_n;&c_ib;&c_k;&c_a;)</klr></trd>
+  </trdgrp>
+  <trd lng="br">nadoz <klr tip="ind">(nemet evit gwiat)</klr></trd>
+  <trdgrp lng="ca">
+    <trd>agulla</trd>,
+    <trd>punxa</trd>,
+    <trd>pua</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>jehla</trd>,
+    <trd>st&rcaron;elka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Nadel <klr>(Zeiger, Messspitze)</klr></trd>,
+    <trd>Spitze <klr>(Messger&auml;t usw.)</klr></trd>,
+    <trd>Zeiger</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>needle</trd>,
+    <trd>indicator</trd>,
+    <trd>hand</trd>,
+    <trd>pointer</trd>
+  </trdgrp>
+  <trd lng="es">aguja<klr> (de coser)</klr></trd>
+  <trd lng="fr">aiguille <klr tip="ind">(sauf pour coudre)</klr></trd>
+  <trd lng="hu">t&udblac;</trd>
+  <trdgrp lng="ja">
+    <trd>&#37341;  <pr>&#12399;&#12426;</pr></trd>,
+    <trd>&#25351;&#37341;  <pr>&#12375;&#12375;&#12435;</pr></trd>,
+    <trd>&#30913;&#37341;  <pr>&#12376;&#12375;&#12435;</pr></trd>,
+    <trd>&#25731;&#37341;  <pr>&#12370;&#12365;&#12375;&#12435;</pr></trd>,
+    <trd>&#12456;&#12462;&#12540;&#12518;</trd>
+  </trdgrp>
+  <trd lng="nl">naald</trd>
+  <trd lng="pt">agulha</trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_g;&c_o;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_t;&c_r;&c_je;&c_l;&c_k;&c_a; <klr>(&c_ch;&c_a;&c_s;&c_o;&c_v; &c_i; &c_t;.&c_p;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ihla</trd>,
+    <trd>strelka</trd>
+  </trdgrp>
+  <trd lng="tr">i&gbreve;ne</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_r;&c_ib;&c_l;&c_k;&c_a; (&c_g;&c_o;&c_d;&c_i;&c_n;&c_n;&c_i;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_je;&c_k;&c_u;&c_n;&c_d;&c_o;&c_m;&c_ib;&c_r;&c_a;</trd>,
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_a;&c_s;&c_a; &c_ib; &c_t;.&c_p;.)</trd>,
+    <trd>&c_g;&c_o;&c_l;&c_k;&c_a; (&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_v;&c_a;&c_ch;&c_a; &c_ib; &c_t;.&c_p;.)</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#37341; <pr>zh&emacron;n</pr></trd>,
+    <trd>&#38024; <pr>zh&emacron;n</pr></trd>,
+    <trd>&#37756; <pr>zh&emacron;n</pr></trd>,
+    <trd>&#38024; <pr>zh&emacron;n</pr></trd>,
+    <trd>&#26426;&#38024; <pr>j&imacron;zh&emacron;n</pr></trd>,
+    <trd>&#27231;&#37341; <pr>j&imacron;zh&emacron;n</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2024/02/04 09:20:02
+Wolfram Diestel: fnt PVEF, precizigo, +ekz, trd de
+
+versio 1.22 2023/10/19 20:12:29
+revo: transskribo per <pr>
+
+Revision 1.18  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2012/09/17 15:10:16  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2009/08/25 16:32:54  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.14  2005/12/06 17:34:05  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.13  2005/06/11 16:31:42  revo
+-->
+</vortaro>

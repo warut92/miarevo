@@ -1,0 +1,472 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: avar.xml,v 1.34 2024/04/08 06:27:29 revo Exp $">
+<kap><ofc>*</ofc>
+  <rad>avar</rad>/a
+  <fnt><bib>UV</bib></fnt>
+</kap>
+<drv mrk="avar.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="avar.0a.elspezi">
+    <dif>
+      Tro <ref tip="super" cel="sxpar.0ema">&scirc;parema</ref>,
+      doma&gcirc;anta elspezi a&ubreve; fordoni ion:
+      <ekz>
+        kvankam ne <tld/>a, ci ne estas mal&scirc;parema, kaj ci ne estus elspezinta kvin
+        frankojn por kontentigi simplan kapricon
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas mono en la komodo, prenu kiom vi bezonas por vi kaj la knabo, kaj ne estu
+        <tld/>a, &ndash; <nom>Selma</nom> ne kontra&ubreve;diris, kvankam estis iom malagrable al &scirc;i uzi
+        monon, kiun &scirc;i ne ricevis salajre
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Sia propra mastro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la simpla &ccirc;erko, la <tld/>aj <klr>(simplaj, malmultkostaj)</klr> kronoj,
+        la malmultaj funebrantoj, &ccirc;io indikis ke
+        jene kvieta simplulino trovis sian finon
+        <fnt>
+          <bib>Kiso</bib>
+          <lok>Tombeja Arabesko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi malestiminda, sagaca a&gcirc;ulo &ccirc;ielprofitema, senekzemple &scirc;parema kaj modele
+        <tld/>a
+        <fnt>
+          <bib>SkandalJozef</bib>
+          <lok>Plendoj de Jozefo arestita</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        oni disdonis la plej mizeran man&gcirc;a&ccirc;on al la &scirc;ipanaro, kiun <tld/>a kompanio kaj
+        &scirc;ipestro, kiu devas havigi al si kromajn enspezojn, iel povas aran&gcirc;i
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Homo <ref cel="avid.0a">avida</ref> estas prenema, dum
+      homo avida estas maldonema. Ne &ccirc;iam amba&ubreve; koincidas.
+    </rim>
+    <trdgrp lng="zh">
+      <trd>&#25248;&#38376; <pr>k&omacron;um&eacute;n</pr></trd>,
+      <trd>&#25715;&#38272; <pr>k&omacron;um&eacute;n</pr></trd>,
+      <trd>&#23146; <pr>l&aacute;n</pr></trd>,
+      <trd>&#21533; <pr>l&igrave;n</pr></trd>,
+      <trd>&#24749; <pr>qi&amacron;n</pr></trd>,
+      <trd>&#24947; <pr>qi&amacron;n</pr></trd>,
+      <trd>&#25248; <pr>k&omacron;u</pr></trd>,
+      <trd>&#25715; <pr>k&omacron;u</pr></trd>,
+      <trd>&#25248;&#38376;&#20799; <pr>k&omacron;um&eacute;n&emacron;r</pr></trd>,
+      <trd>&#25715;&#38272;&#20818; <pr>k&omacron;um&eacute;n&emacron;r</pr></trd>,
+      <trd>&#22914;&#39249;&#20284;&#28212; <pr>r&uacute;j&imacron;s&igrave;k&ecaron;</pr></trd>,
+      <trd>&#22914;&#39269;&#20284;&#28212; <pr>r&uacute;j&imacron;s&igrave;k&ecaron;</pr></trd>,
+      <trd>&#21868; <pr>s&egrave;</pr></trd>,
+      <trd>&#21959; <pr>s&egrave;</pr></trd>
+      <trd>&#19968;&#27611;&#19981;&#25300; <pr>y&imacron;m&aacute;ob&ugrave;b&aacute;</pr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="avar.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Tro &scirc;parema pri io:
+      <ekz>
+        <tld/>a je helpo, pri la&ubreve;doj;
+      </ekz>
+      <ekz>
+        li a&ubreve;dis la molan vo&ccirc;on de la juna virino kaj
+        rememoris la grumblajn vortojn kaj <tld/>ajn okulojn de sia
+        edzino
+        <fnt>
+          <bib>VRA</bib>
+          <lok>Gustaf Rune Eriks</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tro <tld/>a vorttransmetado
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2001, &#8470;5</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="zh">
+      <trd>&#23567;&#27668; <pr>xi&#462;oq&igrave;</pr></trd>,
+      <trd>&#23567;&#27683; <pr>xi&#462;oq&igrave;</pr></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_k;&c_u;&c_p;&c_y;</trd>,
+    <trd>&c_s;&c_k;&c_n;&c_a;&c_r;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_g;&c_n;&c_y;</trd>,
+    <trd>&c_h;&c_c;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_s;&c_k;&c_malmol;&c_p;&c_je;&c_r;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;</trd>,
+    <trd>&c_s;&c_t;&c_i;&c_s;&c_n;&c_a;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>pizh<klr tip="ind"> (na foran ket)</klr></trd>,
+    <trd>skragn</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>lakom&yacute;</trd>,
+    <trd>lakotn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>geizig</trd>,
+    <trd>knausrig</trd>,
+    <trd>zugekn&ouml;pft</trd>
+  </trdgrp>
+  <trdgrp lng="en">,
+    <trd>avaricious</trd>,
+    <trd>miserly</trd>,
+    <trd>stingy</trd>,
+    <trd>niggardly</trd>,
+    <trd>greedy</trd>
+  </trdgrp>
+  <trd lng="es">avaro</trd>
+  <trd lng="fr">avare<klr> (adj.)</klr></trd>
+  <trd lng="he">&qof;&mem;&tsadi;&fnun;</trd>
+  <trdgrp lng="hu">
+    <trd>f&ouml;sv&eacute;ny</trd>,
+    <trd>fukar</trd>,
+    <trd>sz&udblac;kmark&uacute;</trd>,
+    <trd>kuporgat&oacute;</trd>
+  </trdgrp>
+  <trd lng="it">avaro</trd>
+  <trdgrp lng="ja">
+    <trd>&#27442;&#12398;&#28145;&#12356;  <pr>&#12424;&#12367;&#12398;&#12405;&#12363;&#12356;</pr></trd>,
+    <trd>&#12369;&#12385;&#12394;</trd>
+  </trdgrp>
+  <trd lng="nl">gierig</trd>
+  <trd lng="pt">avarento</trd>
+  <trd lng="ru">&c_s;&c_k;&c_u;&c_p;&c_o;&c_j;</trd>
+  <trd lng="sk">lakom&yacute;</trd>
+  <trd lng="uk">&c_s;&c_k;&c_u;&c_p;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="avar.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="avar.0i.elspezi">
+    <dif>
+      Esti <tld/>a pri, agi <tld/>e pri elspezo:
+      <ekz>
+        unu disdonas, kaj ri&ccirc;i&gcirc;as &ccirc;iam pli, alia tro <tld/>as, kaj tamen nur malri&ccirc;i&gcirc;as
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 11:24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ho Izido, neniam mi <tld/>is al vi oferojn, sed hodia&ubreve; mi donas la plej grandan
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li decidis <tld/>i por tio nek monon, nek homojn
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        onklo nenion por eduk&#8217; <tld/>is
+        <fnt>
+          <bib>SrT</bib>
+          <lok>Libro I.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        patroj <tld/>as, infanoj mal&scirc;paras
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="domagx.0i.avari">doma&gcirc;i</ref>,
+      <ref cel="sxpar.0i.moderi">&scirc;pari</ref>
+    </refgrp>
+    <ref tip="vid" cel="avid.0i">avidi</ref>
+  </snc>
+  <snc mrk="avar.0i.FIG">
+    <dif>
+      Esti <tld/>a pri io nemateria:
+      <ekz>
+        se la sango bolas, tiam lango &parsl; La &jcirc;urojn ne <tld/>as
+        <fnt>
+          <bib>Hamlet</bib>
+          <lok>Hamleto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anta&ubreve; nelonge ili dronis, nur por vidi la viza&gcirc;on de lia sankteco, kaj hodia&ubreve;
+        ili <tld/>as la kriojn
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ne <tld/>is la&ubreve;dojn
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XXXI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Petronius</nom> sciis tamen ne <tld/>i la punojn, al kiuj ilin subigis la &gcirc;enerala moro
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_k;&c_u;&c_p;&c_ib;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_s;&c_k;&c_n;&c_a;&c_r;&c_y;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_g;&c_n;&c_u;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>beza&ntilde; <ind>pizh</ind></trd>,
+    <trd>beza&ntilde; <ind>skragn</ind></trd>
+  </trdgrp>
+  <trd lng="de">geizen</trd>
+  <trdgrp lng="en">
+    <trd>be <ind>greedy</ind></trd>,
+    <trd>stint</trd>,
+    <trd>penny-pinch</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre <ind>avare</ind> (de)</trd>,
+    <trd>rationner<klr tip="ind"> (par avarice)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>fukarkodik</trd>,
+    <trd>f&ouml;sv&eacute;nykedik</trd>,
+    <trd>zsugorgat</trd>
+  </trdgrp>
+  <trd lng="it">lesinare</trd>
+  <trdgrp lng="ja">
+    <trd>&#27442;&#24373;&#12427;  <pr>&#12424;&#12367;&#12400;&#12427;</pr></trd>,
+    <trd>&#12369;&#12385;&#12427;</trd>,
+    <trd>&#20986;&#12375;&#24796;&#12375;&#12416;  <pr>&#12384;&#12375;&#12362;&#12375;&#12416;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">karig zijn met</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_k;&c_u;&c_p;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_zh;&c_a;&c_l;&c_je;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>by&tcaron; sk&uacute;py</trd>,
+    <trd>&zcaron;grlo&scaron;i&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>lakotit</trd>,
+    <trd>skrblit</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_k;&c_u;&c_p;&c_i;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_sh;&c_k;&c_o;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i;&nbsp;(&c_ch;&c_o;&c_g;&c_o;-&c_n;.)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="avar.0ulo">
+  <kap><ofc>*</ofc><tld/>ulo</kap>
+  <snc>
+    <dif>
+      Homo, kiu avaras:
+      <ekz>
+        pri <tld/>ulo oni ne plu diros, ke li estas bonfaranto
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 32:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili flugis internen de la kvar nudaj muroj de <tld/>ulo, kie, tute malgrasa,
+        tremanta de malvarmo, malsata kaj soifa, la maljunulo per &ccirc;iuj siaj pensoj
+        kaj meditoj alkro&ccirc;i&gcirc;is al sia mono
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kion vi nomas honesta? depreni al ri&ccirc;aj <tld/>uloj de ilia kolo trionon de la
+        zorgoj,
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ulo, elirante el la pre&gcirc;ejo, kie la pastro parolis pri bonfarado, diris: &mdash;
+        la prediko tiel min tu&scirc;is, ke mi mem estas preta peti almozojn
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mal&scirc;parulo &gcirc;uas nelonge, <tld/>ulo neniam
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_k;&c_n;&c_a;&c_r;&c_a;</trd>,
+    <trd>&c_s;&c_k;&c_u;&c_p;&c_ja;&c_n;&c_d;&c_a;</trd>,
+    <trd>&c_zh;&c_m;&c_ib;&c_n;&c_d;&c_a;</trd>,
+    <trd>&c_h;&c_c;&c_ib;&c_v;&c_je;&c_c;</trd>,
+    <trd>&c_z;&c_a;&c_c;&c_ib;&c_s;&c_k;&c_a;&c_j;&c_l;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Geizhals</trd>,
+    <trd>Knauser</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>miser</trd>,
+    <trd>covetous person</trd>,
+  </trdgrp>
+  <trd lng="fr">avare<klr> (subst.)</klr></trd>
+  <trd lng="he">&qof;&#1463;&mem;&tsadi;&#1464;&fnun;</trd>
+  <trdgrp lng="ja">
+    <trd>&#12369;&#12385;&#12435;&#22346;  <pr>&#12369;&#12385;&#12435;&#12412;&#12358;</pr></trd>,
+    <trd>&#23432;&#37549;&#22900;  <pr>&#12375;&#12421;&#12379;&#12435;&#12393;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_k;&c_u;&c_p;&c_a;&c_r;</trd>,
+    <trd>&c_s;&c_k;&c_u;&c_p;&c_je;&c_r;&c_d;&c_ja;&c_g;&c_a;</trd>,
+    <trd>&c_s;&c_k;&c_n;&c_a;&c_r;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="avar.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc>
+    <dif>
+      Facile donanta:
+      <ekz>
+        amikoj <klr>[&#8230;]</klr> per mal<tld/>a fondo de la Centra Oficejo donis fortikan
+        fundamenton por &ccirc;iuj plej gravaj laboroj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Dua Kongreso Esperantista en Gen&egrave;ve en la 28a de a&ubreve;gusto 1906</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la faraono faris al la dioj mal<tld/>ajn oferojn kaj konstruis templojn
+        <fnt>
+          <bib>Far1</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tre pla&ccirc;is al li <klr>[&#8230;]</klr> ilia mal<tld/>a la&ubreve;dado kaj preska&ubreve; adorado
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        viroj, junaj kaj maljunaj, tributis al la beleco kaj la lerteco de la
+        dancistinoj la plej mal<tld/>an admiron
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro XIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pri havo najbara <klr>(de najbaro)</klr> oni estas mal<tld/>a
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="don.0ema">donema</ref>
+    <refgrp tip="vid">
+      <ref cel="donac.0ema">donacema</ref>,
+      <ref cel="spez.el0ema">elspezema</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_sh;&c_ch;&c_o;&c_d;&c_r;&c_y;</trd>
+  <trd lng="bg">&c_shch;&c_je;&c_d;&c_malmol;&c_r;</trd>
+  <trd lng="bo">&t_la;&t_ga;&t_tsheg;&t_pa;&t_tsheg;&t_sha;&t_naro;&t_ga;&t_tsheg;&t_pa;&t_naro;&t_tsheg;</trd>
+  <trd lng="br">brokus</trd>
+  <trd lng="cs">&scaron;t&ecaron;dr&yacute;</trd>
+  <trdgrp lng="de">
+    <trd>freigiebig</trd>,
+    <trd>gener&ouml;s</trd>,
+    <trd>spendabel</trd>
+  </trdgrp>
+  <trd lng="en">generous</trd>
+  <trd lng="es">generoso</trd>
+  <trdgrp lng="fr">
+    <trd>g&eacute;n&eacute;reux</trd>,
+    <trd>large<klr tip="ind"> (g&eacute;n&eacute;reux)</klr></trd>,
+    <trd>prodigue</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>b&odblac;kez&udblac;</trd>,
+    <trd>adakoz&oacute;</trd>,
+    <trd>t&eacute;kozl&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>generoso</trd>,
+    <trd>prodigo</trd>,
+    <trd>munifico</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#27671;&#21069;&#12398;&#12424;&#12356;  <pr>&#12365;&#12414;&#12360;&#12398;&#12356;&#12356;</pr></trd>,
+    <trd>&#29289;&#24796;&#12375;&#12415;&#12375;&#12394;&#12356;  <pr>&#12418;&#12398;&#12362;&#12375;&#12415;&#12375;&#12394;&#12356;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>vrijgevig</trd>,
+    <trd>gul</trd>
+  </trdgrp>
+  <trd lng="ru">&c_shch;&c_je;&c_d;&c_r;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>radodajn&yacute;</trd>,
+    <trd>&scaron;tedr&yacute;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_shch;&c_je;&c_d;&c_r;&c_i;&c_j;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.34 2024/04/08 06:27:29
+Wolfram Diestel: kunigo snc 1,2 (motivo ne gravas); +ekz-oj, trd de, ref
+
+versio 1.32 2023/10/13 17:08:38
+revo: transskribo per <pr>
+
+versio 1.30 2022/07/06 09:33:26
+Dmitri Gabinski: + trd be
+
+Revision 1.24  2017/12/18 23:10:23  revo
+Michel Cantigneaux: "avar/ul/o" : ekzemplo de ul' en la Universala
+Vortaro, do fundamenta kunmetajxo
+
+Revision 1.23  2015/09/29 11:10:18  revo
+Evandro Avellar: +trd pt
+
+Revision 1.22  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+-->
+</vortaro>

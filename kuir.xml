@@ -1,0 +1,979 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kuir.xml,v 1.136 2024/03/18 08:28:58 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kuir</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="kuir.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kuir.0i.KUI">
+    <tezrad fak="KUI"/>
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      <ref tip="super" cel="prepar.0i.krei">Prepari</ref> nutra&jcirc;on, elmetante &gcirc;in al varmego por igi
+      &gcirc;in man&gcirc;ebla:
+      <ekz>
+        la gvidanto <tld/>as por li pilafon <klr>[&#8230;]</klr> el kokina viando kaj rizo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Ligo de amikeco</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i enportigis la tema&scirc;inon, por <tld/>i por li bonan tason da sambuka teo
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Sambuka virineto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        li pulvorigis pagitajn honorajn versojn kaj mensogajn supertombajn parolojn
+        <klr>[&#8230;]</klr> kaj <tld/>is ilin en larmoj, kiujn ploris la envio
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la sor&ccirc;istino metis la kaldronon, por <tld/>i la sor&ccirc;an trinka&jcirc;on
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la maljuna poeto <klr>[&#8230;]</klr> <tld/>is por li dol&ccirc;an vinon
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Malbonkonduta knabo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Jakob</nom> <tld/>is <tld/>a&jcirc;on
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 25:29</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        paron da bovoj <klr>[li]</klr> bu&ccirc;is ilin, kaj <klr>[&#8230;]</klr> <tld/>is la
+        viandon kaj donis al la homoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Re&gcirc;oj 19:21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        starigu la grandan kaldronon kaj <tld/>u supon
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Re&gcirc;oj 4:38</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        libere mi povas <tld/>i al mi &ccirc;iujn miajn teatra&jcirc;ojn
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Pupludisto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li frapetas la &scirc;elon de mole <tld/>ita ovo
+        <fnt>
+          <bib>OIP</bib>
+          <lok>Ombro sur interna pejza&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kurso de <ind>&ccirc;ina <tld/>ado</ind>
+        <fnt>
+          <bib>ChC</bib>
+          <lok>22</lok>
+        </fnt>;
+        <trd lng="de">chinesische <ind>K&uuml;che</ind> <klr>(Kochkunst)</klr></trd>
+      </ekz>
+      <ekz>
+        kiu ka&ccirc;on <tld/>is, tiu &gcirc;in man&gcirc;u
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+        <trd lng="de">die <ind>Suppe</ind> ausl&ouml;ffeln, die man sich eingebrockt hat</trd>
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        plej <tld/>ita <klr>(kulturita, edukita)</klr> kampulo
+        &ccirc;iam restos krudulo
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="bak.0i.KUI">baki<sncref/></ref>,
+      <ref cel="kuir.bol0i.KUI">bol<tld/>i</ref>,
+      <ref cel="frit.0i">friti</ref>,
+      <ref cel="rost.0i.KUI">rosti</ref>
+    </refgrp>
+  </snc>
+  <trd lng="af">kok</trd>
+  <trd lng="am">&#4637;&#4877;&#4709; &#4635;&#4709;&#4656;&#4621;</trd>
+  <trd lng="ar">&a_T;&a_b;&a_kh;</trd>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_g;&c_a;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;
+    <klr>(&c_s;&c_t;&c_r;&c_a;&c_v;&c_u;)</klr></trd>,
+    <trd>&c_k;&c_u;&c_h;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_g;&c_o;&c_t;&c_v;&c_ja;</trd>
+  <trd lng="bn">&#2480;&#2494;&#2472;&#2509;&#2472;&#2494;&#2456;&#2480;</trd>
+  <trd lng="bo">&t_kha;&t_tsheg;&t_la;&t_ga;&t_tsheg;&t_ba;&t_za;&t_naro;&t_tsheg;&t_ba;&t_tsheg;</trd>
+  <trd lng="bs">kuvarica</trd>
+  <trd lng="co">cuocu</trd>
+  <trdgrp lng="cs">
+    <trd>va&rcaron;it</trd>,
+    <trd>va&rcaron;it <klr>(j&iacute;dla)</klr></trd>
+  </trdgrp>
+  <trd lng="cy">cogydd</trd>
+  <trd lng="da">kok</trd>
+  <trdgrp lng="de">
+     <trd>kochen</trd>,
+     <trd>zubereiten</trd>
+  </trdgrp>
+  <trd lng="en">cook</trd>
+  <trd lng="es">cocinar</trd>
+  <trd lng="eu">sukaldari</trd>
+  <trd lng="fr">faire <ind>cuire</ind></trd>
+  <trd lng="fy">kok</trd>
+  <trd lng="ga">c&oacute;caireacht</trd>
+  <trd lng="gd">c&ograve;caire</trd>
+  <trd lng="gl">coci&ntilde;eiro</trd>
+  <trd lng="gu">&#2736;&#2744;&#2763;&#2696;&#2735;&#2750;</trd>
+  <trd lng="ha">dafa</trd>
+  <trd lng="hi">&#2325;&#2369;&#2325;</trd>
+  <trd lng="hmn">ua noj</trd>
+  <trd lng="hr">kuharica</trd>
+  <trd lng="ht">kwit manje</trd>
+  <trdgrp lng="hu">
+    <trd>k&eacute;sz&iacute;t <klr tip="ind">(&eacute;ltelt)</klr></trd>,
+    <trd>f&odblac;z</trd>,
+    <trd>s&uuml;t</trd>
+  </trdgrp>
+  <trd lng="hy">&#1389;&#1400;&#1392;&#1377;&#1408;&#1377;&#1408;</trd>
+  <trdgrp lng="id">
+    <trd>masak</trd>,
+    <trd><baz>masak</baz>memasak</trd>
+  </trdgrp>
+  <trd lng="ig">isi nri</trd>
+  <trd lng="is">elda</trd>
+  <trd lng="ja">&#26009;&#29702;&#20154; <pr>&#12426;&#12423;&#12358;&#12426;&#12395;&#12435;</pr></trd>
+  <trd lng="ka">&#4315;&#4310;&#4304;&#4320;&#4308;&#4323;&#4314;&#4312;</trd>
+  <trd lng="kk">&c_a;&c_s;&c_p;&c_a;&c_z;</trd>
+  <trd lng="km">&#6021;&#6086;&#6050;&#6071;&#6035;</trd>
+  <trd lng="kn">&#3205;&#3233;&#3265;&#3223;&#3270;</trd>
+  <trd lng="ko">&#50836;&#47532;</trd>
+  <trd lng="ku">a&scedil;baz</trd>
+  <trd lng="ky">&c_a;&c_sh;&c_p;&c_o;&c_z;&c_ch;&c_u; &c_a;&c_ja;&c_l;</trd>
+  <trd lng="lat">cocus</trd>
+  <trd lng="lo">&#3713;&#3762;&#3737;&#3716;&#3771;&#3751;&#3713;&#3764;&#3737;</trd>
+  <trd lng="lt">vir&#279;jas</trd>
+  <trd lng="lv">pav&amacron;rs</trd>
+  <trd lng="mi">tuari</trd>
+  <trd lng="mk">&c_K;&c_u;&c_k;</trd>
+  <trd lng="ml">&#3370;&#3390;&#3354;&#3349;&#3349;&#3405;&#3349;&#3390;&#3376;&#3368;&#3405;</trd>
+  <trd lng="mn">&c_t;&c_o;&c_g;&c_o;&c_o;&c_ch;</trd>
+  <trd lng="mr">&#2325;&#2370;&#2325;</trd>
+  <trd lng="ms">tukang masak</trd>
+  <trd lng="mt">kok</trd>
+  <trd lng="my">&#4097;&#4155;&#4096;&#4154;&#4117;&#4156;&#4143;&#4112;&#4154;</trd>
+  <trd lng="ne">&#2325;&#2369;&#2325;</trd>
+  <trd lng="nl">koken<klr tip="ind"> (van voedsel)</klr></trd>
+  <trd lng="ny">wophika</trd>
+  <trd lng="pa">&#2581;&#2625;&#2673;&#2581;</trd>
+  <trdgrp lng="pl">
+    <trd>gotowa&cacute; <klr> (warzy&cacute;)</klr></trd>,
+    <trd>gotowa&cacute; si&eogonek;</trd>,
+    <trd>ugotowa&cacute;</trd>
+  </trdgrp>
+  <trd lng="ps">&a_A;&a_sh;&f_p;&a_z;</trd>
+  <trdgrp lng="pt">
+    <trd>cozinhar</trd>,
+    <trd>cozer</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>gati</trd>,
+    <trd>coace <klr> (gastronomic)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_a;&c_r;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_g;&c_o;&c_t;&c_o;&c_v;&c_i;&c_t;&c_mol;
+    <klr>(&c_p;&c_i;&c_shch;&c_u;)</klr></trd>
+  </trdgrp>
+  <trd lng="rw">guteka</trd>
+  <trd lng="sd">&f_p;&f_ch;&a_A;&a_y_hamza;&#1723;</trd>
+  <trd lng="si">&#3482;&#3540;&#3482;&#3530;</trd>
+  <trd lng="sk">vari&tcaron;</trd>
+  <trd lng="sl">kuharica</trd>
+  <trd lng="sm">kuka</trd>
+  <trd lng="sn">kuka</trd>
+  <trd lng="so">kariye</trd>
+  <trd lng="sq">kuzhinier</trd>
+  <trd lng="st">laga</trd>
+  <trd lng="su">juru masak</trd>
+  <trd lng="sv">laga mat</trd>
+  <trd lng="sw">mpishi</trd>
+  <trd lng="ta">&#2970;&#2990;&#3016;&#2991;&#2993;&#3021;&#2965;&#3006;&#2992;&#2992;&#3021;</trd>
+  <trd lng="te">&#3093;&#3137;&#3093;&#3149;</trd>
+  <trd lng="tg">&c_K;&c_u;&c_k;</trd>
+  <trd lng="th">&#3611;&#3619;&#3640;&#3591;&#3629;&#3634;&#3627;&#3634;&#3619;</trd>
+  <trd lng="tl">tagaluto</trd>
+  <trd lng="tok">seli</trd>
+  <trd lng="tr">pi&scedil;irmek</trd>
+  <trd lng="tt">&c_p;&c_je;&c_sh;&c_je;&c_r;&c_je;&c_g;&c_je;&c_z;</trd>
+  <trd lng="uk">&c_p;&c_o;&c_v;&c_a;&c_r;</trd>
+  <trd lng="ur">&f_k;&f_k;</trd>
+  <trd lng="uz">oshpaz</trd>
+  <trd lng="vi">n&#7845;u &abreve;n</trd>
+  <trd lng="xh">umpheki</trd>
+  <trd lng="yi">&qof;&alef;&#1464;&kaf;&fnun;</trd>
+  <trd lng="yo">jado</trd>
+  <trdgrp lng="zh">
+    <trd>&#20570;&#33756; <pr>zu&ograve;c&agrave;i</pr></trd>,
+    <trd>&#20570;&#39151; <pr>zu&ograve;f&agrave;n</pr></trd>,
+    <trd>&#20570;&#39277; <pr>zu&ograve;f&agrave;n</pr></trd>,
+    <trd>&#29224; <pr>cu&agrave;n</pr></trd>,
+    <trd>&#28649; <pr>hu&ograve;</pr></trd>,
+    <trd>&#28921;&#35519; <pr>p&emacron;ngti&aacute;o</pr></trd>,
+    <trd>&#28921;&#35843; <pr>p&emacron;ngti&aacute;o</pr></trd>,
+    <trd>&#28903;&#29038; <pr>sh&amacron;ozh&#468;</pr></trd>,
+    <trd>&#29138;&#29038; <pr>sh&amacron;ozh&#468;</pr></trd>,
+    <trd>&#39246; <pr>ch&igrave;</pr></trd>,
+    <trd>&#39146; <pr>r&egrave;n</pr></trd>,
+    <trd>&#39274; <pr>r&egrave;n</pr></trd>,
+    <trd>&#28810; <pr>chu&imacron;</pr></trd>,
+    <trd>&#28921; <pr>p&emacron;ng</pr></trd>,
+    <trd>&#28921;&#39146; <pr>p&emacron;ngr&egrave;n</pr></trd>,
+    <trd>&#28921;&#39274; <pr>p&emacron;ngr&egrave;n</pr></trd>
+  </trdgrp>
+  <trd lng="zu">umpheki</trd>
+</drv>
+
+<drv mrk="kuir.0ajxo">
+  <kap>
+    <tld/>a&jcirc;o
+  </kap>
+  <snc mrk="kuir.0ajxo.mangxajxo">
+    <dif>
+      <ref tip="super" cel="mangx.0ajxo">Man&gcirc;a&jcirc;o</ref>, kiun
+      oni kuiras; <ref cel="plad.0o.kombino">plado<sncref/></ref>:
+      <ekz>
+        <nom>Jakob</nom> donis al <nom>Esav</nom> panon kaj <tld/>a&jcirc;on el lentoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 25:34</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pladoj kun rosta&jcirc;oj kaj <tld/>a&jcirc;oj
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Tablo , la orazeno kaj bastono el sako</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        avidanta bongustan hejman <tld/>a&jcirc;on
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i]</klr> ordonis, ke la servistino preparu la <tld/>a&jcirc;on preferitan de
+        &scirc;ia iama amanto
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Oka</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_v;&c_a; <klr>(&c_p;&c_r;&c_y;&c_g;&c_a;&c_t;&c_a;&c_v;&c_a;&c_n;&c_a;&c_ja;)</klr></trd>
+  <trdgrp lng="id">
+    <trd><baz>hidang</baz>hidangan</trd>,
+    <trd><baz>masak</baz>masakan</trd>
+  </trdgrp>
+  </snc>
+  <snc mrk="kuir.0ajxo.ingredienco">
+    <dif>
+      <ref tip="super" cel="konsis.0ajxo">Konsista&jcirc;o</ref> uzata en
+      <tld/>ado; <ref cel="ingred.0o">ingredienco</ref>:
+      <ekz>
+        mi klarigis mallonge, kiel oni enmetas la diversajn <tld/>a&jcirc;ojn <klr>[&#8230;]</klr>:
+        se oni volas kuiri rizpudingon, oni <klr>[&#8230;]</klr>
+        <fnt>
+          <bib>KrM</bib>
+          <lok>8. Virina Lango Bu&ccirc;as Sen Sango.</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_s;&c_k;&c_l;&c_a;&c_d;&c_n;&c_ib;&c_k; &c_s;&c_t;&c_r;&c_a;&c_v;&c_y;</trd>
+    <trd lng="de">Zutat</trd>
+    <trd lng="en">ingredient</trd>
+  <trd lng="id"><ind>bahan</ind>-bahan<klr> (makanan)</klr></trd>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Gericht <klr>(Essen)</klr></trd>,
+    <trd>Speise</trd>
+  </trdgrp>
+  <trd lng="en">meal</trd>
+  <trd lng="fr">plat cuisin&eacute;</trd>
+  <trd lng="ja">&#26009;&#29702;  <pr>&#12426;&#12423;&#12358;&#12426;</pr></trd>
+  <trdgrp lng="zh">
+    <trd>&#27491;&#39184; <pr>zh&egrave;ngc&amacron;n</pr></trd>,
+    <trd>&#36827;&#39184; <pr>j&igrave;nc&amacron;n</pr></trd>,
+    <trd>&#36914;&#39184; <pr>j&igrave;nc&amacron;n</pr></trd>,
+    <trd>&#39151; <pr>f&agrave;n</pr></trd>,
+    <trd>&#39277; <pr>f&agrave;n</pr></trd>,
+    <trd>&#39184; <pr>c&amacron;n</pr></trd>,
+    <trd>&#39184;&#28857; <pr>c&amacron;ndi&#462;n</pr></trd>,
+    <trd>&#39184;&#40670; <pr>c&amacron;ndi&#462;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kuir.0ejo">
+  <kap><ofc>*</ofc><tld/>ejo</kap>
+  <snc mrk="kuir.0ejo.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Parto de domo a&ubreve; de restoracio destinita por <tld/>i la
+      man&gcirc;a&jcirc;ojn:
+      <ekz>
+        &scirc;i devigis &scirc;in man&gcirc;i en la <tld/>ejo kaj laboradi sen&ccirc;ese
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia <tld/>ejo kaj kelo estas bone provizitaj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Elinjo-fingreto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kortega <tld/>ejo devas engluti eksterordinarajn sumojn
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro II</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Klaro alportis el la <tld/>ejo kelke da piroj sur telero
+        <fnt>
+          <bib>IK</bib>
+          <lok>&Ccirc;aptiro III</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per la krakado de la teleroj kaj pladoj, la mu&gcirc;ado de la patoj, la skui&gcirc;ado de
+        la kaseroloj, la monotona bruado de la rostponarda rado kaj per la aliaj
+        preparadoj en la <tld/>ejo al ilia tagman&gcirc;o ne trapenetris e&ccirc; unu vorteto
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_u;&c_h;&c_n;&c_ja;</trd>
+  <trd lng="bg">&c_k;&c_u;&c_h;&c_n;&c_ja;</trd>
+  <trd lng="bo">&t_tha;&t_ba;&t_tsheg;&t_tsha;&t_nga;&t_tsheg;</trd>
+  <trd lng="cs">kuchy&ncaron;</trd>
+  <trdgrp lng="de">
+     <trd>K&uuml;che</trd>,
+     <trd>Kochstube</trd>
+  </trdgrp>
+  <trd lng="en">kitchen</trd>
+  <trd lng="es">cocina</trd>
+  <trd lng="fr">cuisine</trd>
+  <trd lng="hu">konyha</trd>
+  <trd lng="id">dapur</trd>
+  <trdgrp lng="ja">
+    <trd>&#21488;&#25152;  <pr>&#12384;&#12356;&#12393;&#12371;&#12429;</pr></trd>,
+    <trd>&#35519;&#29702;&#22580;  <pr>&#12385;&#12423;&#12358;&#12426;&#12400;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">keuken</trd>
+  <trd lng="pl">kuchnia</trd>
+  <trd lng="ro">buc&abreve;t&abreve;rie</trd>
+  <trd lng="ru">&c_k;&c_u;&c_h;&c_n;&c_ja;</trd>
+  <trd lng="sk">kuchy&ncaron;a</trd>
+  <trd lng="sv">k&ouml;k</trd>
+  <trd lng="tr">mutfak</trd>
+  <trd lng="uk">&c_k;&c_u;&c_h;&c_n;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd>&#21416; <pr>ch&uacute;</pr></trd>,
+    <trd>&#24282; <pr>ch&uacute;</pr></trd>,
+    <trd>&#21416;&#25151; <pr>ch&uacute;f&aacute;ng</pr></trd>,
+    <trd>&#24282;&#25151; <pr>ch&uacute;f&aacute;ng</pr></trd>,
+    <trd>&#24214; <pr>p&aacute;o</pr></trd>,
+    <trd>&#28790;&#38291; <pr>z&agrave;oji&amacron;n</pr></trd>,
+    <trd>&#28790;&#38388; <pr>z&agrave;oji&amacron;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kuir.0estro">
+  <kap><tld/>estro</kap>
+  <snc mrk="kuir.0estro.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Profesiulo direktanta <tld/>ejon, ekzemple en restoracio:
+      <ekz>
+        gustumu la froma&gcirc;okukojn <klr>[&#8230;]</klr>
+        ili estas la fiero de la <tld/>estro
+        <fnt>
+          <aut>J. Ribillard</aut>,
+          <vrk>Vagado sub palmoj</vrk>,
+          <lok>1956</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        al la <tld/>estro estas egale, kiu trovi&gcirc;as kun li, se nur la necesa nombro da
+        helpantoj venas labori
+        <fnt>
+          <bib>ChR</bib>
+          <lok>Ne nur tamtamado</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_sh;&c_e;&c_f;-&c_k;&c_u;&c_h;&c_a;&c_r;</trd>,
+    <trd>&c_k;&c_u;&c_h;&c_m;&c_ib;&c_s;&c_t;&c_a;&c_r;</trd>,
+    <trd>&c_k;&c_u;&c_h;&c_m;&c_a;&c_j;&c_s;&c_t;&c_a;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>K&uuml;chenchef</trd>,
+    <trd>Chefkoch</trd>
+  </trdgrp>
+  <trd lng="en">head chef</trd>
+  <trd lng="es">jefe de cocina</trd>
+  <trdgrp lng="fr">
+    <trd>chef cuisinier</trd>,
+    <trd>maitre queux</trd>
+  </trdgrp>
+  <trd lng="id"><ind>kepala</ind> koki</trd>
+  <trd lng="pl">szef kuchni</trd>
+  <trd lng="ro">buc&abreve;tar-&#537;ef</trd>
+  <trd lng="zh">&#25484;&#21242; <pr>zh&#462;ngsh&aacute;o</pr></trd>
+</drv>
+
+<drv mrk="kuir.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="kuir.0igxi.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      I&gcirc;i <tld/>ita:
+      <ekz>
+        fajro, &ccirc;e kiu <tld/>i&gcirc;is man&gcirc;a&jcirc;o
+        <fnt>
+          <aut>Eliza Orzeszko, trad. Dro L. L. Zamenhof</aut>,
+          <vrk><url ref="&Steloj;marta/">Marta</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;afa&jcirc;on <klr>[&#8230;]</klr> boligu bone, ke anka&ubreve; la ostoj <tld/>i&gcirc;u
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 24:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        eldonistoj, propagandistoj, instruistoj plu kontente <tld/>i&gcirc;as en la propra suko
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Nikolao Gudskov</aut>
+          <vrk><url ref="&Monato;/2004/008392.html">Reveno de heroo</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        deserto, kiu prepari&gcirc;as el ovoflava&jcirc;oj, lakto kaj sukero kaj <tld/>i&gcirc;as en
+        bolbano
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Petro De Smet'</aut>
+          <vrk><url ref="&Monato;/2008/009292.php">Sidante en pudingo, mi alvokas miajn
+          savantojn!</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni povos lasi la man&gcirc;on, kaj dum &gcirc;i <tld/>i&gcirc;os, mi povos helpi al vi kolporti
+        <fnt>
+          <bib>KrM</bib>
+          <lok>11. Petro Rifuzas, Pa&ubreve;lo Ekuzas.</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">cuire</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_t;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_v;&c_a;&c_r;&c_y;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="de">garen</trd>
+  <trd lng="en">cook<klr> (become cooked)</klr></trd>
+  <trd lng="es">cocinarse</trd>
+  <trdgrp lng="id">
+    <trd><baz>masak</baz>dimasak</trd>,
+    <trd><baz>masak</baz>termasak</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12391;&#12365;&#12427;</trd>,
+    <trd>&#29038;&#12360;&#12427;  <pr>&#12395;&#12360;&#12427;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">gotowa&cacute; si&eogonek;</trd>
+  <trd lng="ro">s&abreve; g&abreve;te&#537;ti</trd>
+  <trdgrp lng="zh">
+    <trd>&#28903;&#29087; <pr>sh&amacron;osh&uacute;</pr></trd>,
+    <trd>&#29138;&#29087; <pr>sh&amacron;osh&uacute;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kuir.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="kuir.0ilo.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Aparato a&ubreve; ilo uzata por <tld/>ado:
+      <ekz>
+        mi fandis la grason en la <tld/>ilo kaj komencis rosti kokidon
+        <fnt>
+          <aut>C. Rossetti</aut>,
+          <vrk>Kredu min, sinjorino!</vrk>,
+          <lok>1950</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en unu <tld/>ilo povis esti <tld/>ata kompleta man&gcirc;o el viando, legomoj kaj
+        deserto
+        <fnt>
+          <bib>KrM</bib>
+          <lok>3. Ne Gutas Mielo El La &Ccirc;ielo.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> lakton, vinon <klr>[&#8230;]</klr> &#11005; Ver&scirc;as en kaserolojn, potojn,
+        <tld/>ilojn
+        <fnt>
+          <bib>SrT</bib>
+          <lok>Libro XI.</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Kochgeschirr</trd>,
+    <trd>Kochger&auml;t</trd>,
+    <trd>Kochtopf</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>kitchenware</trd>,
+    <trd>cooking implements</trd>,
+    <trd>cooking utensils</trd>
+  </trdgrp>
+  <trd lng="fr">appareil de cuisson</trd>
+  <trdgrp lng="id">
+    <trd><ind>alat</ind> dapur</trd>,
+    <trd><baz>alat</baz>peralatan dapur</trd>,
+    <trd><ind>alat</ind> masak</trd>,
+    <trd><baz>alat</baz>peralatan masak</trd>
+  </trdgrp>
+  <trd lng="ja">&#35519;&#29702;&#22120;&#20855;  <pr>&#12385;&#12423;&#12358;&#12426;&#12365;&#12368;</pr></trd>
+  <trd lng="pl">kuchenka</trd>
+  <trd lng="ro">aragaz</trd>
+  <trd lng="uk">&c_p;&c_o;&c_s;&c_u;&c_d;&c_i;&c_n;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd>&#28810;&#20855; <pr>chu&imacron;j&ugrave;</pr></trd>,
+    <trd>&#28790;&#20855; <pr>z&agrave;oj&ugrave;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kuir.0isto">
+  <kap><ofc>*</ofc><tld/>isto</kap>
+  <snc mrk="kuir.0isto.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Homo, kiu profesie preparas man&gcirc;a&jcirc;on:
+      <ekz>
+        ni havas diversajn servantojn: <tld/>iston, &ccirc;ambristinon,
+        infanistinon
+        <fnt><bib>F</bib>, <lok>&FE; 37</lok></fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>isto prezentis femuron <klr>[&#8230;]</klr>: jen estas, kio restis, metu &gcirc;in
+        anta&ubreve; vin kaj man&gcirc;u
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Samuel 9:24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la maro la <tld/>isto devas povoscii helpi al si, sed estas facile helpi al
+        si, kiam &ccirc;ie estas plene de lardo, de bareloj da peklita viando, kaj de &scirc;ima
+        faruno
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Supo el kolbasaj bastonetoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi estas nur ordinara maristo, kial do mi estus <tld/>isto?&ndash; &ccirc;ar vi &ccirc;iam kuiras
+        pizojn &ndash;, &scirc;i diris
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>tro da <tld/>istoj ka&ccirc;on difektas</ind>
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+        <trd lng="de">viele <ind>K&ouml;che</ind> verderben den
+        Brei</trd>
+        <trd lng="en">too many <ind>cook</ind>s spoil the broth</trd>
+        <trd lng="nl">te veel <ind>kok</ind>s bederven de brij</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_u;&c_h;&c_a;&c_r;</trd>
+  <trd lng="bg">&c_g;&c_o;&c_t;&c_v;&c_a;&c_ch;</trd>
+  <trd lng="bo">&t_ma;&t_tsheg;&t_ba;&t_yata;&t_na;&t_tsheg;</trd>
+  <trd lng="cs">kucha&rcaron;</trd>
+  <trdgrp lng="de">
+     <trd>Koch</trd>,
+     <trd>K&ouml;chin</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>cook</trd>,
+    <trd>chef</trd>
+  </trdgrp>
+  <trd lng="es">cocinero</trd>
+  <trd lng="fr">cuisinier</trd>
+  <trdgrp lng="hu">
+    <trd>szak&aacute;cs</trd>,
+    <trd>kukta</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>koki</trd>,
+    <trd><ind>juru</ind> masak</trd>,
+    <trd><ind>tukang</ind> masak</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#26009;&#29702;&#20154;  <pr>&#12426;&#12423;&#12358;&#12426;&#12395;&#12435;</pr></trd>,
+    <trd>&#35519;&#29702;&#24107;  <pr>&#12385;&#12423;&#12358;&#12426;&#12375;</pr></trd>,
+    <trd>&#12467;&#12483;&#12463;  <pr>&#12371;&#12387;&#12367;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">kok</trd>
+  <trd lng="pl">kucharz</trd>
+  <trd lng="ro">buc&abreve;tar</trd>
+  <trd lng="ru">&c_p;&c_o;&c_v;&c_a;&c_r;</trd>
+  <trd lng="sk">kuch&aacute;r</trd>
+  <trd lng="sv">kock</trd>
+  <trd lng="tr">a&scedil;&ccedil;&inodot;</trd>
+  <trd lng="uk">&c_k;&c_u;&c_h;&c_a;&c_r;</trd>
+  <trdgrp lng="zh">
+    <trd>&#21416;&#24072; <pr>ch&uacute;sh&imacron;</pr></trd>,
+    <trd>&#24282;&#24107; <pr>ch&uacute;sh&imacron;</pr></trd>,
+    <trd>&#24214;&#21416; <pr>p&aacute;och&uacute;</pr></trd>,
+    <trd>&#24214;&#24282; <pr>p&aacute;och&uacute;</pr></trd>,
+    <trd>&#28810;&#20107;&#21592; <pr>chu&imacron;sh&igrave;yu&aacute;n</pr></trd>,
+    <trd>&#28810;&#20107;&#21729; <pr>chu&imacron;sh&igrave;yu&aacute;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kuir.bol0i">
+  <kap>bol<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kuir.bol0i.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      <ref tip="super" cel="kuir.0i.KUI"><tld lit="K"/>i</ref>
+      man&gcirc;a&jcirc;on en bolanta akvo:
+      <ekz>
+        sa&ubreve;co a&ubreve; spica&jcirc;o <klr>[uzata]</klr> en
+        bol<tld/>ado
+        <fnt>
+        <vrk>PIV2</vrk>, <lok>art. &leftquot;Sojo&rightquot;</lok>.
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="frit.0i">friti</ref>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_r;&c_y;&c_c;&c_mol;
+  <klr>(&c_s;&c_t;&c_r;&c_a;&c_v;&c_u;)</klr></trd>
+  <trd lng="cs">va&rcaron;it ve vrouc&iacute; vod&ecaron;</trd>
+  <trdgrp lng="de">
+    <trd>frittieren</trd>,
+    <trd>kochen<klr> (in kochendem Wasser)</klr></trd>
+  </trdgrp>
+  <trd lng="en">boil</trd>
+  <trd lng="es">hervir</trd>
+  <trd lng="fr">faire <ind>bouillir</ind></trd>
+  <trd lng="hu">f&odblac;z <klr>(l&eacute;ben)</klr></trd>
+  <trdgrp lng="id">
+    <trd><baz>rebus</baz>merebus<klr> (utk memasak)</klr></trd>,
+    <trd><baz>didih</baz>mendidihkan</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#29038;&#12427;  <pr>&#12395;&#12427;</pr></trd>,
+    <trd>&#12422;&#12391;&#12427;</trd>
+  </trdgrp>
+  <trd lng="nl">koken<klr tip="ind"> (in kokend water)</klr></trd>
+  <trd lng="pl">gotowa&cacute; <klr> (we wrz&aogonek;tku)</klr></trd>
+  <trd lng="ro">fierbe <klr> (&icirc;n ap&abreve; clocotit&abreve;)</klr></trd>
+  <trd lng="ru">&c_v;&c_a;&c_r;&c_i;&c_t;&c_mol;
+  <klr>(&c_p;&c_i;&c_shch;&c_u;)</klr></trd>
+  <trd lng="sk">vari&tcaron; vo vriacej vode</trd>
+  <trd lng="sv">koka</trd>
+  <trd lng="tr">kaynatmak</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_d;&c_v;&c_a;&c_r;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
+  <trdgrp lng="zh">
+    <trd>&#29038;&#27832; <pr>zh&#468;f&egrave;i</pr></trd>,
+    <trd>&#27718; <pr>cu&amacron;n</pr></trd>,
+    <trd>&#29038; <pr>zh&#468;</pr></trd>,
+    <trd>&#29100; <pr>&amacron;o</pr></trd>,
+    <trd>&#27832; <pr>f&egrave;i</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kuir.fusx0isto">
+  <kap>fu&scirc;<tld/>isto</kap>
+  <snc mrk="kuir.fusx0isto.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Mallerta <tld/>isto.
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_r;&c_e;&c_n;&c_n;&c_y; <ind>&c_k;&c_u;&c_h;&c_a;&c_r;</ind></trd>
+  <trdgrp lng="de">
+     <trd>schlechter <ind>Koch</ind></trd>
+  </trdgrp>
+  <trd lng="fr">g&acirc;te-sauce <klr>(mauvais cuisinier)</klr></trd>
+  <trd lng="hu">kont&aacute;r <ind>szak&aacute;cs</ind></trd>
+  <trd lng="ja">&#12408;&#12383;&#12394;&#26009;&#29702;&#20154;  <pr>&#12408;&#12383;&#12394;&#12426;&#12423;&#12358;&#12426;&#12376;&#12435;</pr></trd>
+  <trd lng="nl">slechte <ind>kok</ind></trd>
+  <trd lng="pl">z&lstroke;y kucharz</trd>
+  <trd lng="ro">buc&abreve;tar r&abreve;u</trd>
+  <trd lng="ru">&c_p;&c_l;&c_o;&c_h;&c_o;&c_j;
+  <ind>&c_p;&c_o;&c_v;&c_a;&c_r;</ind></trd>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_u;&c_h;&c_a;&c_r;-&c_p;&c_a;&c_r;&c_t;&c_a;&c_ch;</trd>,
+    <trd>&c_g;&c_o;&c_r;&c_je;-&c_k;&c_u;&c_h;&c_a;&c_r;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kuir.mar0isto">
+  <kap>
+    mar<tld/>isto,
+    <var><kap>&scirc;ip<tld/>isto</kap></var>
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="K"/>isto <tld/>anta por la &scirc;ipanoj:
+      <ekz>
+        al la fifamaj inventa&jcirc;oj de tiuj mar<tld/>istoj apartenas &leftquot;<nac>the potage</nac>&rightquot;, la
+        kunkuirado de la man&gcirc;restoj el pluraj tagoj, de la fi&scirc;vosto &gcirc;is la jam
+        priron&gcirc;itaj ostoj
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 29</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_o;&c_k; <klr tip="amb">(&c_k;&c_u;&c_h;&c_a;&c_r;)</klr></trd>
+  <trd lng="de">Schiffskoch</trd>
+  <trd lng="en">ship's cook</trd>
+  <trdgrp lng="fr">
+    <trd><ind>cuisinier</ind> de navire</trd>,
+    <trd>coq <klr>(marine)</klr></trd>
+  </trdgrp>
+<trd lng="id"><ind>koki</ind> kapal</trd>
+</drv>
+
+<drv mrk="kuir.sxel0i">
+  <kap>&scirc;el<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kuir.sxel0i.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      <ref tip="super" cel="kuir.0i.KUI"><tld lit="K"/>i</ref>
+      en la natura, neforigita &scirc;elo:
+      <ekz>
+        <ind>&scirc;el<tld/>itaj terpomoj</ind>
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 27</lok>
+        </fnt>.
+        <trd lng="de">Pellkartoffeln</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_n;&c_je; &c_a;&c_ch;&c_y;&c_s;&c_mol;&c_c;&c_ib;&c_w;&c_sh;&c_y; &c_a;&c_d; &c_a;&c_b;&c_a;&c_l;&c_o;&c_n;&c_k;&c_ib;, &c_s;&c_k;&c_u;&c_r;&c_k;&c_ib;&#8230;)</klr></trd>
+  <trd lng="en">cook something in its peel/shell</trd>
+  <trdgrp lng="fr">
+    <trd>cuire &agrave; la coque</trd>,
+    <trd>cuire en robe des champs</trd>
+  </trdgrp>
+  <trd lng="pl">gotowa&cacute; <klr> (nieobrane)</klr></trd>
+  <trd lng="ro">buc&abreve;tar <klr> (ne&#539;esut)</klr></trd>
+</drv>
+
+<drv mrk="kuir.sub0isto">
+  <kap>
+    sub<tld/>isto
+  </kap>
+  <snc>
+    <dif>
+      Helpanto en <tld/>ejo, plenumanta simplajn taskojn:
+      <ekz>
+        &ccirc;u vi anka&ubreve; ne memoras vian junan sub<tld/>iston
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Unua Parto</lok>
+        </fnt>?
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_u;&c_h;&c_c;&c_ib;&c_k;</trd>,
+    <trd>&c_p;&c_a;&c_v;&c_a;&c_r;&c_ch;&c_u;&c_k;</trd>,
+    <trd>&c_k;&c_u;&c_h;&c_a;&c_r;&c_ch;&c_u;&c_k;</trd>
+  </trdgrp>
+  <trd lng="de">K&uuml;chenhilfe</trd>
+  <trdgrp lng="en">
+    <trd>kitchen help</trd>,
+    <trd>cook's mate</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>aide-cuisinier</trd>,
+    <trd>commis de cuisine</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#21416;&#25151;&#22899;&#20323; <pr>ch&uacute;f&aacute;ngn&#474;y&ograve;ng</pr></trd>,
+    <trd>&#24282;&#25151;&#22899;&#20323; <pr>ch&uacute;f&aacute;ngn&#474;y&ograve;ng</pr></trd>,
+    <trd>&#21416;&#25151;&#22899;&#24110;&#24037; <pr>ch&uacute;f&aacute;ngn&#474;b&amacron;ngg&omacron;ng</pr></trd>,
+    <trd>&#24282;&#25151;&#22899;&#24171;&#24037; <pr>ch&uacute;f&aacute;ngn&#474;b&amacron;ngg&omacron;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kuir.tra0ita">
+  <kap>
+    tra<tld/>ita
+  </kap>
+  <snc>
+    <dif>
+      Plene kuirata, preta por man&gcirc;i; <ref tip="sin" cel="krud.mal0a">malkruda</ref>:
+      <ekz>
+        la granda viandopeco kiun mi turnadis odoris bonege, kiam &gcirc;i estis tra<tld/>ita,
+        Fortunato forprenis &gcirc;in de la stango, dividis &gcirc;in en maldikajn tran&ccirc;a&jcirc;ojn
+        kiujn li zorge aran&gcirc;is sur pluraj grandaj teleroj
+        <fnt>
+          <bib>StU</bib>
+          <lok>Al Romo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_g;&c_a;&c_t;&c_a;&c_v;&c_a;&c_n;&c_y; <klr tip="amb">(&c_a;&c_b; &c_je;&c_zh;&c_y;)</klr></trd>,
+    <trd>&c_z;&c_v;&c_a;&c_r;&c_a;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_v;&c_a;&c_r;&c_a;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">gar</trd>
+  <trd lng="en">cooked</trd>
+  <trdgrp lng="id">
+    <trd>masak</trd>,
+    <trd>matang</trd>
+  </trdgrp>
+  <trd lng="zh">&#33101; <pr>r&ecaron;n</pr></trd>
+</drv>
+
+<drv mrk="kuir.vapor0i">
+  <kap>
+    vapor<tld/>i
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="K"/>i en vaporo:
+      <ekz>
+        pudingo <klr>[&#8230;]</klr> vapor<tld/>ita
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Petro De Smet'</aut>
+          <vrk><url ref="&Monato;/2008/009292.php">Sidante en pudingo, mi alvokas miajn
+          savantojn!</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;ia nova &ccirc;ambro estas ekipita per <ind>vapor<tld/>ilo</ind>
+        <klr>(vd <ref cel="vapor.0umilo">vaporumilo</ref>)</klr> por moligi man&gcirc;a&jcirc;ojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>HORI Yasuo</aut>
+          <vrk><url ref="&Monato;/2003/008142.html">Elefantoj ne forgesas ... kaj ne
+          forgesitas</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+        <trdgrp lng="de">
+          <trd>D&auml;mpfer <klr>(Topf)</klr></trd>,
+          <trd>Dampfgarer</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="stuf.0i">stufi</ref>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol; &c_n;&c_a; <ind>&c_p;&c_a;&c_r;&c_y;</ind></trd>
+  <trdgrp lng="de">
+    <trd>d&auml;mpfen <klr>(garen)</klr></trd>,
+    <trd>dampfgaren</trd>
+  </trdgrp>
+  <trd lng="en">steam <klr>(cook)</klr></trd>
+  <trd lng="fr"><ind>cuire</ind> &agrave; la vapeur</trd>
+  <trd lng="id"><baz>kukus</baz>mengukus</trd>
+  <trd lng="ja">&#33976;&#12377;  <pr>&#12416;&#12377;</pr></trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.136 2024/03/18 08:28:58
+Dmitri Gabinski: + trd be
+
+versio 1.135 2024/03/05 01:21:44
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.134 2024/03/03 06:25:47
+Alain Gerard: + trd fr
+
+versio 1.133 2023/12/12 19:24:45
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.131 2023/10/18 17:23:25
+revo: transskribo per <pr>
+
+versio 1.129 2023/08/31 09:26:14
+Dmitri Gabinski: + trd be
+
+versio 1.128 2023/08/29 20:28:02
+Wolfram Diestel: ja: prononco
+
+versio 1.127 2023/05/04 16:53:14
+-->
+</vortaro>

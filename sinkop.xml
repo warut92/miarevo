@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sinkop.xml,v 1.23 2024/04/16 01:23:32 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>sinkop</rad>/o
+</kap>
+<drv mrk="sinkop.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sinkop.0o.MUZ">
+    <fnt><bib>RokPop</bib></fnt>
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Intenca alilokigo de regula akcento, kutime per akcentado de
+      malforta parto de mezuro:
+      <ekz>
+        ritma strukturo karakterizita per rafinita okazo de <tld/>oj kaj punktigitaj
+        ritmoj, kreantaj specifan draman stre&ccirc;on
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=31310">Jan Ladislav Dus&iacute;k</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_s;&c_y;&c_n;&c_k;&c_o;&c_p;&c_a;</trd>
+    <trd lng="en">syncopation</trd>
+    <trdgrp lng="fr">
+      <trd>syncope<klr> (musique)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">szink&oacute;pa</trd>
+    <trd lng="pl">synkopa</trd>
+    <trd lng="ru">&c_s;&c_i;&c_n;&c_k;&c_o;&c_p;&c_a;</trd>
+  </snc>
+  <snc mrk="sinkop.0o.sveno">
+    <dif>
+      <ref tip="dif" cel="sven.0o.PSI">Sveno</ref>
+      <ekz>
+        rapida malplii&gcirc;o de la fortoj sen <tld/>o
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 1 (51)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+<ref tip="sin" cel="kolaps.0o.MED">kolapso<sncref/></ref>
+    <trd lng="be">&c_n;&c_je;&c_p;&c_r;&c_y;&c_t;&c_o;&c_m;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    <trdgrp lng="de">
+      <trd>Kollaps</trd>,
+      <trd>Ohnmacht</trd>
+    </trdgrp>
+    <trd lng="en">syncope</trd>
+    <trdgrp lng="fr">
+      <trd>&eacute;vanouissement</trd>,
+      <trd>syncope<klr> (&eacute;vanouissement)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">&aacute;jul&aacute;s</trd>
+    <trdgrp lng="nl">
+      <trd>flauwte</trd>,
+      <trd>syncope</trd>
+    </trdgrp>
+    <trd lng="ru">&c_o;&c_b;&c_m;&c_o;&c_r;&c_o;&c_k;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;esunut&iacute; p&rcaron;&iacute;zvuku</trd>,
+    <trd>synkopa</trd>
+  </trdgrp>
+  <trd lng="de">Synkope</trd>
+  <trdgrp lng="ja">  <trd>&#x30B7;&#x30F3;&#x30B3;&#x30DA;&#x30FC;&#x30B7;&#x30E7;&#x30F3;</trd>,
+    <trd/>,
+    <trd>&#x8A9E;&#x4E2D;&#x97F3;&#30465;&#30053;  <pr>&#12372;&#12385;&#12421;&#12358;&#x304A;&#12392;&#12375;&#12423;&#12358;&#x308A;&#12419;&#x304F;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">presunutie pr&iacute;zvuku</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_i;&#x43D;&#x43A;&#x43E;&#x43F;&c_a;</trd>,
+    <trd>&c_u;&c_t;&c_r;&c_a;&c_t;&c_a; &c_s;&c_v;&c_ib;&c_d;&#x43E;&#x43C;&#x43E;&c_s;&c_t;&c_ib;</trd>,
+    <trd>&#x43D;&c_je;&#x43F;&c_r;&c_i;&c_t;&#x43E;&#x43C;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4E2D;&#30053; <pr>zh&#x14D;ngl&#xFC;&#xE8;</pr></trd>,
+    <trd>&#20551;&#x6B7B; <pr>ji&#x1CE;s&#x1D0;</pr></trd>,
+    <trd>&#x5B57;&#x4E2D;&#x97F3;&#30465;&#30053;
+    <pr>z&#xEC;zh&#x14D;ngy&#x12B;nsh&#x11B;ngl&#xFC;&#xE8;</pr></trd>,
+    <trd>&#20999;&#20998;&#x6CD5; <pr>qi&emacron;f&emacron;nf&#x1CE;</pr></trd>,
+    <trd>&#30465;&#30053;&#x4E2D;&#38291;&#30340;&#x97F3;&#x7BC0;
+    <pr>sh&#x11B;ngl&#xFC;&#xE8;zh&#x14D;ngji&#xE0;ndey&#x12B;nji&#xE9;</pr></trd>,
+    <trd>&#30465;&#30053;&#x4E2D;&#x95F4;&#30340;&#x97F3;&#33410;
+    <pr>sh&#x11B;ngl&#xFC;&#xE8;zh&#x14D;ngji&#xE0;ndey&#x12B;nji&#xE9;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.23 2024/04/16 01:23:32
+Vito Redsky: trd pl 
+
+versio 1.21 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.18 2021/12/27 13:39:22
+Wolfram Diestel: +ekz, ref, trd de
+
+Revision 1.16  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2009/10/06 16:44:58  revo
+Russ Williams: +trd en
+
+Revision 1.13  2005/03/31 16:32:31  revo
+Yury Finkel: +trd ru
+
+Revision 1.12  2004/10/13 16:32:28  revo
+-->
+</vortaro>

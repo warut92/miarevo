@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vengx.xml,v 1.28 2024/04/03 14:22:20 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>ven&gcirc;</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="vengx.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="vengx.0i.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="pag.re0i.FIG">Repagi</ref>
+      suferon per reciproka sufero.
+    </dif>
+    <subsnc mrk="vengx.0i.iun">
+      <gra><vspec>tr</vspec></gra>
+      <uzo tip="klr">(<tld/>i iun)</uzo>
+      <dif>
+        Havigi al iu kompenson por suferita malbono, kies farinton oni
+        punas
+        per egalvalora puno:
+        <ekz>
+          <tld/>i amikon;
+        </ekz>
+        <ekz>
+          mi havas sufi&ccirc;e da kura&gcirc;o por <tld/>i min mem por la ofendoj,
+          kiujn oni faras al mi<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          mi trovos rimedojn por <tld/>i min kontra&ubreve; vi<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          mi konsoli&gcirc;as per tio, ke mi tuj estos <tld/>ita<fnt>Z</fnt>..
+        </ekz>
+      </dif>
+      <trd lng="ca">venjar</trd>
+    </subsnc>
+    <subsnc mrk="vengx.0i.ion">
+      <gra><vspec>tr</vspec></gra>
+      <uzo tip="klr">(<tld/>i ion)</uzo>
+      <dif>
+        Kompensi suferitan malbonon, punante la farinton per egalvalora
+        puno:
+        <ekz>
+          <tld/>i sian ofendon al iu;
+        </ekz>
+        <ekz>
+          mi <tld/>os al li la morton de mia patro;
+        </ekz>
+        <ekz>
+          la &ccirc;ielo donu, ke mia morto estu <tld/>ita tiel, kiel
+          mi deziras!<fnt>Z</fnt>
+        </ekz>
+      </dif>
+      <trd lng="ca">venjar</trd>
+    </subsnc>
+    <subsnc mrk="vengx.0i.absolute">
+      <gra><vspec>ntr</vspec></gra>
+      <uzo tip="klr">(<tld/>i)</uzo>
+      <dif>
+        Fari malbonon por kompensi suferita&jcirc;on:
+        <ekz>
+          li volas plej
+          kruele <tld/>i;
+        </ekz>
+        <ekz>
+          li &jcirc;uris, ke li terure <tld/>os<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          oni &ccirc;irka&ubreve;batas vin, kaj vi e&ccirc; ne povas
+          <tld/>i<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          mi ne scius <tld/>i al humilaj<fnt>B</fnt>;
+        </ekz>
+        <ekz>
+          <tld/>u pro mia patro<fnt>Z</fnt>!
+        </ekz>
+        <ekz>
+          <tld/>u por mortigo lia<fnt>Z</fnt>!
+        </ekz>
+      </dif>
+      <trd lng="ca">venjar-se (de)</trd>
+    </subsnc>
+  </snc>
+  <trd lng="be">&c_p;&c_o;&c_m;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_o;&c_t;&c_m;&c_malmol;&c_shch;&c_a;&c_v;&c_a;&c_m;</trd>
+  <trd lng="de">r&auml;chen</trd>
+  <trdgrp lng="en">
+    <trd>revenge</trd>,
+    <trd>avenge</trd>
+  </trdgrp>
+  <trd lng="fa">&a_A;&a_n;&a_t;&a_q;&a_A;&a_m; &f_g;&a_r;&a_f;&a_t;&a_n;</trd>
+  <trdgrp lng="fr">
+    <trd>se <ind>venger</ind></trd>,
+    <trd>venger</trd>
+  </trdgrp>
+  <trd lng="hu">megbosszul</trd>
+  <trdgrp lng="ja">
+    <trd>&#24680;&#12415;&#12434;&#26228;&#12425;&#12377;  <pr>&#12358;&#12425;&#12415;&#12434;&#12399;&#12425;&#12377;</pr></trd>,
+    <trd>&#12354;&#12384;&#12434;&#35342;&#12388;  <pr>&#12354;&#12384;&#12434;&#12358;&#12388;</pr></trd>,
+    <trd>&#24489;&#35728;&#12377;&#12427;  <pr>&#12405;&#12367;&#12375;&#12421;&#12358;&#12377;&#12427;</pr></trd>,
+    <trd>&#22577;&#24489;&#12377;&#12427;  <pr>&#12411;&#12358;&#12405;&#12367;&#12377;&#12427;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">wreken</trd>
+  <trd lng="pt">vingar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_t;&c_o;&c_m;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">pomsti&tcaron;</trd>
+  <trd lng="uk">&c_m;&c_s;&c_t;&c_i;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="vengx.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="vengx.0a.KOMUNE">
+    <dif>
+      Kiu <tld/>as, kiu kompense punas:
+      <ekz>
+        mi venigas sur vin <tld/>an glavon
+        <fnt><bib>MT</bib>, <lok>&Lev; 26:25</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_s;&c_mol;&c_c;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_p;&c_o;&c_m;&c_s;&c_mol;&c_l;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trd lng="fr">vengeur<klr> (adj.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#22577;&#24489;&#12398;  <pr>&#12411;&#12358;&#12405;&#12367;&#12398;</pr></trd>,
+    <trd>&#24489;&#35728;&#12398;  <pr>&#12405;&#12367;&#12375;&#12421;&#12358;&#12398;</pr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_m;&c_s;&c_t;&c_i;&c_v;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="vengx.0anto">
+  <kap><tld/>anto</kap>
+  <snc mrk="vengx.0anto.KOMUNE">
+    <dif>
+      Tiu, kiu <tld/>as, por si a&ubreve; por alia:
+        <ekz>
+          ne a&ubreve;skultu ilin, <tld/>anto en la
+          &ccirc;ielo
+          <fnt>
+            <aut>F. Schiller, trad. L. L. Zamenhof</aut>,
+            <vrk>La Rabistoj</vrk>,
+            <lok>1908</lok>
+          </fnt>!
+        </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_s;&c_mol;&c_c;&c_ib;&c_v;&c_je;&c_c;</trd>,
+    <trd>&c_p;&c_o;&c_m;&c_s;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="fr">vengeur<klr> (subst.)</klr></trd>
+  <trd lng="ja">&#24489;&#35728;&#32773;  <pr>&#12405;&#12367;&#12375;&#12421;&#12358;&#12375;&#12419;</pr></trd>
+  <trd lng="uk">&c_m;&c_je;&c_s;&c_n;&c_i;&c_k;</trd>
+</drv>
+
+<drv mrk="vengx.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="vengx.0o.KOMUNE">
+    <dif>
+      Puno pro ofendo, por kontentigi sian koleron:
+      <ekz>
+        fari <tld/>on al, kontra&ubreve; iu<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        sed &ccirc;u ni faru nenian <tld/>on al la malbonaj knaboj
+        <fnt>
+          <bib>Fab1</bib>
+          <vrk>Cikonioj</vrk>
+        </fnt>?
+      </ekz>
+      <ekz>
+        se vi agas tiel, tiam mi ne &ccirc;esos, anta&ubreve; ol mi faros <tld/>on kontra&ubreve; vi
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ju&gcirc;istoj 15:7</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_o;&c_m;&c_s;&c_t;&c_a;</trd>
+  <trd lng="bg">&c_o;&c_t;&c_m;&c_malmol;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="ca">
+    <trd>venjan&ccedil;a</trd>,
+    <trd>revenja</trd>
+  </trdgrp>
+  <trd lng="de">Rache</trd>
+  <trdgrp lng="fa">
+    <trd>&f_k;&f_y;&a_n;&zwnj;&a_kh;&a_w;&a_A;&a_h;&f_y;</trd>,
+    <trd>&a_A;&a_n;&a_t;&a_q;&a_A;&a_m;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>vengeance</trd>
+    <trd>revenge</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>vengeance</trd>
+  </trdgrp>
+  <trd lng="es">venganza</trd>
+  <trd lng="hu">bossz&uacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#24489;&#35728;  <pr>&#12405;&#12367;&#12375;&#12421;&#12358;</pr></trd>,
+    <trd>&#20167;&#35342;&#12385;  <pr>&#12363;&#12383;&#12365;&#12358;&#12385;</pr></trd>,
+    <trd>&#22577;&#24489;  <pr>&#12411;&#12358;&#12405;&#12367;</pr></trd>,
+    <trd>&#20181;&#36820;&#12375;  <pr>&#12375;&#12363;&#12360;&#12375;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">wraak</trd>
+  <trd lng="pt">vingan&ccedil;a</trd>
+  <trd lng="ru">&c_m;&c_je;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">pomsta</trd>
+  <trd lng="uk">&c_p;&c_o;&c_m;&c_s;&c_t;&c_a;</trd>
+</drv>
+
+<drv mrk="vengx.0emo">
+  <kap><tld/>emo</kap>
+  <snc mrk="vengx.0emo.PSI">
+    <dif>
+      Inklino al <tld/>o:
+      <ekz>
+        unuj estas ri&ccirc;aj, aliaj &ndash; malri&ccirc;aj, unuj &ndash; mastroj,
+        aliaj &ndash; servistoj; tio naskas la envion kaj
+        <tld/>emon
+        <fnt>
+          <aut>L. Tolstoj, trad. A. &Scirc;aparov</aut>,
+          <vrk>Unu animo en &ccirc;iuj</vrk>,
+          <lok>1912</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_o;&c_m;&c_s;&c_mol;&c_l;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_o;&c_t;&c_m;&c_malmol;&c_s;&c_t;&c_i;&c_t;&c_je;&c_l;&c_n;&c_o;&c_s;&c_t;</trd>
+  <trd lng="ca">venjatiu</trd>
+  <trd lng="en">vindictiveness</trd>
+  <trdgrp lng="fa">
+    <trd>&a_A;&a_n;&a_t;&a_q;&a_A;&a_m;&a_j;&a_w;&f_y;&f_y;</trd>,
+    <trd>&f_k;&f_y;&a_n;&a_h;&zwnj;&a_j;&a_w;&f_y;&f_y;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>rancune</trd>,
+    <trd>vindicativit&eacute;</trd>
+  </trdgrp>
+  <trd lng="hu">bossz&uacute;v&aacute;gy</trd>
+  <trdgrp lng="ja">
+    <trd>&#24680;&#12415;  <pr>&#12358;&#12425;&#12415;</pr></trd>,
+    <trd>&#24616;&#24680;  <pr>&#12360;&#12435;&#12371;&#12435;</pr></trd>,
+    <trd>&#24489;&#35728;&#24515;  <pr>&#12405;&#12367;&#12375;&#12421;&#12358;&#12375;&#12435;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">wraakzucht</trd>
+  <trd lng="es">vengativo</trd>
+  <trdgrp lng="pt">
+   <trd>sentimento de vingan&ccedil;a</trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_s;&c_t;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">pomstychtivos&tcaron;</trd>
+  <trd lng="uk">&c_m;&c_s;&c_t;&c_i;&c_v;&c_ib;&c_s;&c_t;&c_mol;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2024/04/03 14:22:20
+Mahaer Mahmud: aldonis ekzemplojn por "venĝo"
+
+versio 1.27 2024/03/01 09:26:59
+Dmitri Gabinski: + trd be
+
+versio 1.26 2023/10/21 16:50:35
+revo: transskribo per <pr>
+
+Revision 1.22  2013/07/28 01:10:10  revo
+Joop Eggen: trd nl korrekto
+
+Revision 1.21  2013/07/26 14:10:13  revo
+Joop Eggen: +trd bg en
+
+Revision 1.20  2012/03/13 19:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.19  2009/09/14 16:31:03  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.18  2006/02/01 17:32:46  revo
+-->
+</vortaro>

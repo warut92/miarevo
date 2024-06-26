@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SenReta Vortaro</title>
+    <style>
+        body {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            background-color: black;
+            color: aliceblue;  
+            margin-left: 30%;
+            margin-right: 30%;
+        }
+        #vortoj {
+            overflow-wrap: break-word;
+        }
+        input {
+            font-size: 20px;
+            width: 60%;
+        }
+        trdgrp[lng="en"].trd {
+            display: block;
+        }
+        trd[lng="en"] {
+            display: block;
+        }
+        trd[lng="la"] {
+            display: block;
+        }
+        trd:only-child {
+            display: block;
+        }
+        trd, trdgrp  {
+            display: none;
+        }
+        ref, refgrp  {
+            border: 1px solid white;
+            background-color: rgb(201, 115, 115);
+            color: black;
+        }
+        kap {
+            border: 1px solid white;
+            background-color: orange;
+            color: black;
+        }
+        mlg {
+            border: 1px solid white;
+            background-color: blue;
+        }
+        #kapvorto {
+            font-size: 20px;
+            border: 1px solid white;
+            background-color: rgb(145, 67, 218);
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <h1>SenReta Vortaro</h1>
+    <input type="text" id="xmlPath" oninput="tujaVorto(this.value)" placeholder="via serĉanta vorto">
+    <button onclick="loadXML()">Serĉi</button>
+    <hr>
+    <div id="vortoj"></div>
+    <div id="xmlContent"></div>
+    <div id="demo"></div>
+    <script src="./0vortoj.js"></script>
+
+    <script>
+        var filename
+        // Function to fetch XML file using fetch API
+        function loadXML() {
+            filename = document.getElementById("xmlPath").value.trim()  + ".xml";
+
+            if (filename === "") {
+                alert("Please enter a valid path to the XML file.");
+                return;
+            }
+
+            fetch(filename)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.text();
+                })
+                .then(xmlText => {
+                    displayXML(xmlText);
+                })
+                .catch(error => {
+                    console.error('There was a problem with the fetch operation:', error);
+                alert("no word");
+
+                });
+        }
+
+        // Function to display XML content as text
+        function displayXML(xmlText) {
+            document.getElementById("xmlContent").innerHTML = xmlText
+            .replace(/<\/drv>/g, "</drv><br><br><hr>")
+            .replace(/<\/uzo>/g, "</uzo><hr>")
+            .replace(/<trd lng=\"en\">/g, "<trd lng=\"en\"> Angla:")
+            .replace(/<trdgrp lng=\"en\">/g, "<trdgrp lng=\"en\"> Angla:")
+            .replace(/<ekz>/g, "<ekz>EKZ:")
+            .replace(/<\/ekz>/g, "</ekz><hr>")
+            .replace(/<\/kap>/g, "</kap><br>")
+            .replace(/(<kap><rad>[a-z].*<\/rad>\/[a-z].*)<\/kap>/gm, "<span id=\"kapvorto\">$1</span>")
+            .replace(/<tld\/>/g, "<u>" + filename.slice(0, filename.length - 4) + "</u>")
+        }
+        document.addEventListener('keydown', e => {
+            if (e.keyCode === 13) {
+                loadXML()
+                document.getElementById("vortoj").innerHTML = ""
+            }
+        })
+        tujaVorto() 
+        function tujaVorto(v) {
+            cxiuj_vortoj = cxiuj_vortoj.replace(/\.0/g, "")
+            .replace(/0/g, "")
+            // abism(.en0)igxi
+            cxiuj_vortoj = cxiuj_vortoj.replace(/([a-z]*)\.([a-z]*)([a-z]{1})/g, "$2$1$3")
+            cxiuj_vortoj = cxiuj_vortoj.replace(/(xm)([a-z]*)([l]{1})/g, "$2.$1$3")
+            cxiuj_vortoj = cxiuj_vortoj.replace(/( [a-z]*)\.(.*)0(.*$)/gm, "$2$1$3").replace(/ /g,"")
+            // console.log(cxiuj_vortoj);
+            console.log(v);
+            let sercxantaVorto = document.getElementById("xmlPath").value.trim()
+
+            const cxiuj_vortoj_arr = cxiuj_vortoj.split(/\n/g)
+            // console.log(cxiuj_vortoj_arr);
+
+            if (sercxantaVorto.length > 0) {
+                let sxablono_regex = new RegExp(`(${(sercxantaVorto)})`, "gm");
+                let rezulto = cxiuj_vortoj_arr.filter(function(str) {
+                //test() ส่งค่าเป็น boolean สำหรับการตรวจสอบการค้นหา
+                return sxablono_regex.test(str);
+            });
+                // console.log(rezulto);
+                const aldoni_ion_al_rezulto = rezulto.join(" + ")
+                document.getElementById("vortoj").innerHTML = aldoni_ion_al_rezulto.toString()
+                //,palinu.xml
+                .replace(/\+/gm, "<br>")
+                .replace(/([a-z0-9]*)\.xml/g, "<u><span onclick=\"vorto(this.innerText)\">$1</span></u>") + "<hr>"
+            } else if (sercxantaVorto.length < 1) {
+                document.getElementById("vortoj").innerHTML = ""
+            }
+            }
+
+            function vorto(vorto) {
+                document.getElementById("xmlPath").value = vorto
+                loadXML()
+                document.getElementById("vortoj").innerHTML = ""
+            }
+    </script>
+</body>
+</html>

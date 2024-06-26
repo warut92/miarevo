@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kveta.xml,v 1.2 2024/03/25 20:23:51 afido Exp $">
+<kap><rad>kveta</rad>-</kap>
+<drv mrk="kveta.0">
+  <kap><tld/>-</kap>
+  <mlg>Q</mlg>
+  <gra><vspec>prefikso</vspec></gra>
+  <snc mrk="kveta.0.MEZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      &leftquot;Kviniliono da&rightquot;, 10<sup>30</sup> en la Internacia Sistemo de unuoj (SI):
+      <ekz>
+        la maso de Jupitero estas pli-malpli 2 <tld/>gramoj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">quetta-</trd>
+  <trd lng="en">quetta-</trd>
+  <trd lng="es">quetta-</trd>
+  <trd lng="fr">quetta-</trd>
+  <trd lng="it">quetta-</trd>
+  <trd lng="nl">quetta-</trd>
+  <trd lng="pl">quetta</trd>
+  <trd lng="pt">quetta-</trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.2 2024/03/25 20:23:51
+Vito Redsky: +trd pl 
+
+-->
+
+<!--
+$Log: kveta.xml,v $
+versio 1.1 2022/11/23 23:28:48
+Robin van der Vliet: nova artikolo
+-->
+</vortaro>

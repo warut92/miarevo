@@ -1,0 +1,584 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: mok.xml,v 1.31 2024/03/12 21:19:54 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>mok</rad>/i <fnt><bib>UV</bib></fnt>
+</kap>
+<drv mrk="mok.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="mok.0i.PSI">
+    <dif>
+      Mal&scirc;ate, ofende <ref cel="rid.0indigi">ridindigi</ref> iun a&ubreve; ion:
+      <ekz>
+        la fratinoj &ccirc;ikanis &scirc;in &ccirc;iamaniere, <tld/>is <klr>[&#8230;]</klr>
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Cindrulino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li publike <tld/>is mian piecon
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi for&jcirc;etis &ccirc;iujn miajn konsilojn, <klr>[&#8230;]</klr> tial mi
+        <tld/>os, kiam timo vin atakos
+        <fnt><bib>MT</bib>, <lok>&Sen; 1:25-26</lok></fnt>;
+      </ekz>
+      <ekz>
+        anta&ubreve; ne longe oni tute silentis pri ni kaj poste oni nin <tld/>is, nun oni jam
+        &ccirc;ie nin respektas, kiel grandan potencon
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto 1908</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne <tld/>u mizeron de alia, &ccirc;ar balda&ubreve;
+        venos via
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        ne <tld/>u riveron neatinginte la teron
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="insult.0i">insulti</ref>,
+      <ref cel="kritik.0i">kritiki</ref>,
+      <ref cel="rid.mok0i">mokridi</ref>,
+      <ref cel="rid.pri0i">priridi</ref>,
+      <ref cel="rikan.0i.ridacxi">rikani<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_s;&c_mol;&c_m;&c_ib;&c_h;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_z;&c_mol;&c_d;&c_z;&c_je;&c_k;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_v;&c_y;&c_s;&c_mol;&c_m;&c_je;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd>&c_k;&c_p;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_-a;&t_pha;&t_yata;&t_tsheg;&t_la;&t_da;&t_tsheg;&t_ra;&t_gata;&t_yata;&t_ga;&t_tsheg;</trd>
+  <trdgrp lng="br">
+    <trd>goapaat</trd>,
+    <trd>ober <ind>goap</ind></trd>,
+    <trd>ober al <ind>lu</ind> gant ub.</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>posm&iacute;vat se</trd>,
+    <trd>vysm&aacute;t se posm&ecaron;&scaron;n&ecaron;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>verspotten</trd>,
+    <trd>verh&ouml;hnen</trd>,
+    <trd><ind>lustig</ind> machen &uuml;ber</trd>,
+    <trd><ind>mokieren</ind> &uuml;ber</trd>,
+    <trd><ind>l&auml;cherlich</ind> machen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>mock</trd>,
+    <trd>deride</trd>,
+    <trd>jeer at</trd>,
+    <trd>scoff at</trd>,
+    <trd>make a <ind>butt</ind> of</trd>,
+    <trd>make <ind>sport</ind> of</trd>,
+    <trd>poke <ind>fun</ind> at</trd>,
+    <trd>ridicule</trd>,
+    <trd>taunt</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+     <trd>burlar se</trd>,
+     <trd>ridiculizar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>se <ind>moquer</ind> de</trd>,
+    <trd>railler</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>g&uacute;nyol</trd>,
+    <trd>kig&uacute;nyol</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12354;&#12374;&#12369;&#12427;</trd>,
+    <trd>&#22066;&#31505;&#12377;&#12427;  <pr>&#12385;&#12423;&#12358;&#12375;&#12423;&#12358;&#12377;&#12427;</pr></trd>,
+    <trd>&#12363;&#12425;&#12363;&#12358;</trd>,
+    <trd>&#20919;&#31505;&#12377;&#12427;  <pr>&#12428;&#12356;&#12375;&#12423;&#12358;&#12377;&#12427;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>spotten</trd>,
+    <trd>bespotten</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kpi&cacute;</trd>,
+    <trd>drwi&cacute;</trd>,
+    <trd>wy&sacute;miewa&cacute;</trd>,
+    <trd>szydzi&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>zeflemea</trd>,
+    <trd>batjocori</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_z;&c_d;&c_je;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_m;&c_je;&c_h;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_v;&c_y;&c_s;&c_m;&c_je;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_s;&c_m;&c_je;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>posme&scaron;kova&tcaron;</trd>,
+    <trd>posmieva&tcaron;<klr>(sa)</klr></trd>,
+    <trd>vysmieva&tcaron; (sa)</trd>,
+    <trd>zosmie&scaron;&ncaron;ova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_a;&c_s;&c_m;&c_ib;&c_h;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_g;&c_l;&c_u;&c_m;&c_i;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_v;&c_i;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_i; &c_n;&c_a;
+    &c_s;&c_m;&c_ib;&c_h;/&c_p;&c_o;&c_s;&c_m;&c_ib;&c_h;&c_o;&c_v;&c_i;&c_s;&c_mol;&c_k;&c_o;</trd>,
+    <trd>&c_o;&c_s;&c_m;&c_ib;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_s;&c_m;&c_ib;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#35575; <pr>f&ecaron;ng</pr></trd>,
+    <trd>&#35773; <pr>f&ecaron;ng</pr></trd>,
+    <trd>&#22066; <pr>ch&aacute;o</pr></trd>,
+    <trd>&#35663;&#31505; <pr>j&imacron;xi&agrave;o</pr></trd>,
+    <trd>&#35749;&#31505; <pr>j&imacron;xi&agrave;o</pr></trd>,
+    <trd>&#22066;&#31505; <pr>ch&aacute;oxi&agrave;o</pr></trd>,
+    <trd>&#35519;&#35604; <pr>ti&aacute;oxu&egrave;</pr></trd>,
+    <trd>&#35843;&#35857; <pr>ti&aacute;oxu&egrave;</pr></trd>,
+    <trd>&#35663;&#21050; <pr>j&imacron;c&igrave;</pr></trd>,
+    <trd>&#35749;&#21050; <pr>j&imacron;c&igrave;</pr></trd>,
+    <trd>&#35575;&#21050; <pr>f&ecaron;ngc&igrave;</pr></trd>,
+    <trd>&#35773;&#21050; <pr>f&ecaron;ngc&igrave;</pr></trd>,
+    <trd>&#21462;&#31505; <pr>q&#468;xi&agrave;o</pr></trd>,
+    <trd>&#22475;&#27760; <pr>m&aacute;itai</pr></trd>,
+    <trd>&#35349;&#31505; <pr>sh&agrave;nxi&agrave;o</pr></trd>,
+    <trd>&#35754;&#31505; <pr>sh&agrave;nxi&agrave;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mok.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="mok.0a.PSI">
+    <dif>
+      Malrespekte rida:
+      <ekz>
+        &scirc;i eka&ubreve;dis konatan <tld/>an vo&ccirc;on
+        <fnt><bib>FK</bib>, <lok>Arturo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_s;&c_mol;&c_m;&c_je;&c_sh;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_mol;&c_m;&c_je;&c_sh;&c_n;&c_y;</trd>,
+    <trd>&c_k;&c_p;&c_l;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trd lng="br">goapaus</trd>
+  <trdgrp lng="cs">
+    <trd>posm&ecaron;&scaron;n&yacute;</trd>,
+    <trd>v&yacute;sm&ecaron;&scaron;n&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>sp&ouml;ttisch</trd>,
+    <trd>h&ouml;hnisch</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>burla</trd>,
+    <trd>rid&iacute;culo<klr tip="amb"> (adj.)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">moqueur<klr tip="amb"> (adj.)</klr></trd>
+  <trd lng="ja">&#12354;&#12374;&#12369;&#12426;&#12398;</trd>
+  <trdgrp lng="pl">
+    <trd>kpi&aogonek;cy</trd>,
+    <trd>szyderczy</trd>,
+    <trd>ur&aogonek;gliwy</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>batjocoritor</trd>,
+    <trd>derizoriu</trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_a;&c_s;&c_m;&c_je;&c_sh;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>posme&scaron;n&yacute;</trd>,
+    <trd>posmieva&ccaron;n&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_a;&c_s;&c_m;&c_ib;&c_sh;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_g;&c_l;&c_u;&c_z;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_g;&c_l;&c_u;&c_m;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mok.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="mok.0o.PSI">
+    <dif>
+      Intenca malrespekta&jcirc;o, rido a&ubreve; alia malestima esprimo:
+      <ekz>
+        vi volus nur pagi <tld/>on per <tld/>o kaj min humiligi
+        <fnt><bib>FK</bib>, <lok>La Porcio da Glacia&jcirc;o</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_s;&c_mol;&c_m;&c_je;&c_sh;&c_k;&c_a;</trd>,
+    <trd>&c_k;&c_p;&c_ib;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="br">goapadenn</trd>
+  <trdgrp lng="cs">
+    <trd>posm&ecaron;ch</trd>,
+    <trd>posm&ecaron;&scaron;ek</trd>,
+    <trd>v&yacute;sm&ecaron;ch</trd>,
+    <trd>&scaron;leh</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Spott</trd>,
+    <trd>Verspotten</trd>,
+    <trd>Hohn</trd>,
+    <trd>Verh&ouml;hnung</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>burla</trd>,
+    <trd>rid&iacute;culo<klr tip="amb"> (sust.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>moquerie</trd>,
+    <trd>raillerie</trd>
+  </trdgrp>
+  <trd lng="ja">&#12354;&#12374;&#12369;&#12426;</trd>
+  <trdgrp lng="pl">
+    <trd>kpina</trd>,
+    <trd>drwina</trd>,
+    <trd>szyderstwo</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>tupeu</trd>,
+    <trd>&tcomma;&acirc;fn&abreve;</trd>,
+    <trd>batjocur&abreve;</trd>,
+    <trd>ridiculiza</trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_a;&c_s;&c_m;&c_je;&c_sh;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>posmech</trd>,
+    <trd>v&yacute;smech</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_a;&c_s;&c_m;&c_ib;&c_sh;&c_k;&c_a;</trd>,
+    <trd>&c_g;&c_l;&c_u;&c_m;</trd>,
+    <trd>&c_g;&c_l;&c_u;&c_z;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#22066;&#35575; <pr>ch&aacute;of&egrave;ng</pr></trd>,
+    <trd>&#22066;&#35773; <pr>ch&aacute;of&egrave;ng</pr></trd>,
+    <trd>&#21988; <pr>ch&imacron;</pr></trd>,
+    <trd>&#25366;&#33510; <pr>w&amacron;ku</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mok.0anto">
+  <kap><tld/>anto</kap>
+  <snc mrk="mok.0anto.PSI">
+    <dif>
+      Priridanto, elmontranto de sia malrespekto:
+      <ekz>
+        <tld/>anto ne amas tiun, kiu lin admonas
+        <fnt><bib>MT</bib>, <lok>&Sen; 15:12</lok></fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> rigardis la <tld/>antojn per siaj vitrecaj okuloj kaj minacis
+        ilin per la bastono, pro kio ili tre sin amuzis
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se la sorto vin batas, <tld/>antoj ne mankas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_s;&c_mol;&c_m;&c_je;&c_sh;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="br">goapaer</trd>
+  <trd lng="cs">posm&iacute;va&ccaron;</trd>
+  <trd lng="de">Sp&ouml;tter</trd>
+  <trdgrp lng="fr">
+    <trd>moqueur<klr tip="amb"> (subst.)</klr></trd>,
+    <trd>railleur<klr tip="amb"> (subst.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kpiarz</trd>,
+    <trd>przechera</trd>,
+    <trd>szyderca</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>batjocoritor</trd>,
+    <trd>zeflemist</trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_a;&c_s;&c_m;&c_je;&c_sh;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">posmieva&ccaron;</trd>
+</drv>
+
+<drv mrk="mok.0atajxo">
+  <kap><tld/>ata&jcirc;o</kap>
+  <snc mrk="mok.0atajxo.PSI">
+    <dif>
+      Homo a&ubreve; afero <tld/>ata, rigardata kiel malestiminda, ridinda:
+      <ekz>
+        li fari&gcirc;is <tld/>ata&jcirc;o por siaj najbaroj
+        <fnt><bib>MT</bib>, <lok>&Psa; 89:41</lok></fnt>;
+      </ekz>
+      <ekz>
+        se nin ne gvidus fera konstanteco, <klr>[&#8230;]</klr> la vortoj lingvo internacia
+        estus nun la plej granda <tld/>ata&jcirc;o por la mondo
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto 1908</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> iam servis kiel ridata&jcirc;o kaj <tld/>ata&jcirc;o, kiam oni proponis al
+        li bieron en &scirc;trumpo
+        <fnt>
+          <bib>Fab3</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_s;&c_mol;&c_m;&c_je;&c_sh;&c_y;&c_sh;&c_ch;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_m;&c_je;&c_t; <ind>&c_n;&c_a;&c_s;&c_mol;&c_m;&c_je;&c_sh;&c_k;&c_ib;</ind></trd>
+  </trdgrp>
+  <trd lng="de">Spottobjekt</trd>
+  <trdgrp lng="fr">
+    <trd>objet de moqueries</trd>,
+    <trd>t&ecirc;te de turc</trd>
+  </trdgrp>
+  <trd lng="pl">po&sacute;miewisko</trd>
+  <trdgrp lng="ro">
+    <trd>glum&abreve;</trd>,
+    <trd>obiect ale batjocurii</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_m;&c_je;&c_t; &c_n;&c_a;&c_s;&c_m;&c_je;&c_sh;&c_je;&c_k;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_s;&c_m;&c_ib;&c_h;&c_o;&c_v;&c_i;&c_s;&c_mol;&c_k;&c_o;</trd>,
+    <trd>&c_o;&c_b;&#8217;&c_jeu;&c_k;&c_t; &c_n;&c_a;&c_s;&c_m;&c_ib;&c_h;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mok.0ema">
+  <kap><tld/>ema</kap>
+  <snc mrk="mok.0ema.PSI">
+    <dif>
+      Kiu volonte <tld/>as, priridas;
+      <ref tip="vid" cel="pik.0ema.PSI">pikema</ref>:
+      <ekz>
+        la roma popolo estis <tld/>ema kaj <klr>[&#8230;]</klr> &gcirc;i permesis
+        al si <tld/>ajn &scirc;ercojn e&ccirc; kontra&ubreve; grandaj triumfantoj,
+        kontra&ubreve; tiuj, kiujn &gcirc;i efektive amis kaj estimis
+        <fnt>
+          <aut>H. Sienkewicz, trad. L. Zamenhof</aut>,
+          <vrk>Quo vadis?</vrk>,
+          <lok>1933</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_p;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_mol;&c_m;&c_je;&c_sh;&c_l;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">spottlustig</trd>
+  <trd lng="fr">moqueur<klr> (adj.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#22066;&#31505;&#30340;&#12394;  <pr>&#12385;&#12423;&#12358;&#12375;&#12423;&#12358;&#12390;&#12365;&#12394;</pr></trd>,
+    <trd>&#12363;&#12425;&#12363;&#12356;&#22909;&#12365;&#12398;  <pr>&#12363;&#12425;&#12363;&#12356;&#12377;&#12365;&#12398;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>sk&lstroke;onny do kpin</trd>,
+    <trd>ci&eogonek;ty</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>predispus la batjocur&abreve;</trd>,
+    <trd>t&abreve;iat</trd>
+  </trdgrp>
+  <trd lng="uk">&c_g;&c_l;&c_u;&c_z;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="mok.0emo">
+  <kap><tld/>emo</kap>
+  <snc mrk="mok.0emo.PSI">
+    <dif>
+      Inklino al <tld/>o, al prirido de homoj, situacioj...:
+      <ekz>
+        la fratoj diskutis en la korto, kiel ili plej bone povus
+        subpremi la malican <tld/>emon de Eero, <tld/>emon, kiu igis
+        lin <klr>[&#8230;]</klr> <tld/>adi ne nur ilin sed anka&ubreve; Dion kaj
+        lian vorton
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep
+        fratoj</vrk>, <lok>1947</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="ironi.0o">ironio</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_p;&c_l;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_mol;&c_m;&c_je;&c_sh;&c_l;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">posm&ecaron;va&ccaron;nost</trd>
+  <trd lng="de">Spottlust</trd>
+  <trdgrp lng="fr">
+    <trd>caract&egrave;re <ind>moqueur</ind></trd>,
+    <trd>goguenardise</trd>
+  </trdgrp>
+  <trd lng="pl">ci&eogonek;to&sacute;&cacute;</trd>
+  <trdgrp lng="ro">
+    <trd>r&abreve;utate</trd>,
+    <trd>am&abreve;r&abreve;ciune</trd>
+  </trdgrp>
+  <trd lng="sk">posmieva&ccaron;nos&tcaron;</trd>
+</drv>
+
+<drv mrk="mok.0eti">
+  <kap><tld/>eti</kap>
+  <snc mrk="mok.0eti.PSI">
+    <dif>
+      Milde, negrave <tld/>i, por komuna amuzo:
+      <ekz>
+        la laboristoj <tld/>etis unu la alian: &ndash; <nom>Sidorov</nom>, por kio vi
+        venis? Vi ja havas libertempon
+        <fnt><bib>Metrop</bib></fnt>!
+      </ekz>
+      <ekz>
+        &ccirc;iu havas sian sendan&gcirc;eran malprudenta&jcirc;eton: mi estus rajta miavice <tld/>etante
+        la pian zorgon, per kiu vi konservas vian antikvan flartabakujon
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>eto havis amikan tonon, kaj <nom>Ajna</nom> ne koleri&gcirc;is
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="incit.0eti">inciteti</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_d;&c_k;&c_je;&c_p;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_d;&c_zh;&c_a;&c_r;&c_t;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_d;&c_s;&c_mol;&c_m;&c_je;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="br">a&ntilde;jina&ntilde;</trd>
+  <trdgrp lng="de">
+    <trd>sticheln</trd>,
+    <trd>necken</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>mettre en boite<klr tip="amb"> (plaisanter)</klr></trd>,
+    <trd>plaisanter<klr tip="amb"> (quelqu'un)</klr></trd>,
+    <trd>taquiner</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12363;&#12425;&#12363;&#12358;</trd>,
+    <trd>&#20919;&#12420;&#12363;&#12377;  <pr>&#12402;&#12420;&#12363;&#12377;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">kpi&cacute; przyjacielsko</trd>
+  <trd lng="ro">batjocore&scomma;te prietenos</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_d;&c_r;&c_a;&c_z;&c_n;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_d;&c_t;&c_r;&c_u;&c_n;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_t;&c_r;&c_u;&c_n;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">posmieva&tcaron; sa</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_l;&c_u;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_k;&c_je;&c_p;&c_k;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#25103;&#24324; <pr>x&igrave;n&ograve;ng</pr></trd>,
+    <trd>&#25138;&#24324; <pr>x&igrave;n&ograve;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mok.0inda">
+  <kap><tld/>inda</kap>
+  <snc mrk="mok.0inda.PSI">
+    <dif>
+      Ne respektinda, tia ke &gcirc;in oni facile <tld/>as:
+      <ekz>
+        hontos tiuj viziistoj, <tld/>indaj fari&gcirc;os la anta&ubreve;diristoj
+        <fnt><bib>MT</bib>, <lok>&Mih; 3:7</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="rid.0inda.KOMUNE">ridinda</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_mol;&c_m;&c_je;&c_sh;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_d;&c_a;&c_r;&c_e;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="br">lu<klr tip="ind"> (ag.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>posm&ecaron;&scaron;n&yacute;</trd>,
+    <trd>sm&ecaron;&scaron;n&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">l&auml;cherlich</trd>
+  <trd lng="fr">ridicule</trd>
+  <trdgrp lng="ja">
+    <trd>&#29289;&#31505;&#12356;&#12398;  <pr>&#12418;&#12398;&#12431;&#12425;&#12356;&#12398;</pr></trd>,
+    <trd>&#12400;&#12363;&#12370;&#12383;</trd>
+  </trdgrp>
+  <trd lng="pl">zas&lstroke;uguj&aogonek;cy na  <ind>kpiny</ind></trd>
+  <trd lng="ro">demn de batjocur&abreve;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_m;&c_je;&c_sh;&c_n;&c_o;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_l;&c_je;&c_p;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">smie&scaron;ny</trd>
+  <trd lng="uk">&c_s;&c_m;&c_ib;&c_sh;&c_n;&c_i;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd>&#21487;&#31505; <pr>k&ecaron;xi&agrave;o</pr></trd>,
+    <trd>&#21487;&#31505;&#30340; <pr>k&ecaron;xi&agrave;ode</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.31 2024/03/12 21:19:54
+Wolfram Diestel: +ekz-oj, trd de
+
+versio 1.29 2023/10/19 18:36:53
+revo: transskribo per <pr>
+
+versio 1.27 2022/05/26 13:48:40
+Ulrich Fellmann: moki: +5 DE trdj; moko: +5 DE trdj
+
+versio 1.25 2021/10/19 09:30:21
+Dmitri Gabinski: +trd be
+
+versio 1.23 2021/02/28 23:10:57
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.21  2017/09/05 14:10:14  revo
+Jeromo Vasxe: + ~ema
+
+Revision 1.20  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:20  revo
+-->
+</vortaro>

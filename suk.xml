@@ -1,0 +1,535 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: suk.xml,v 1.39 2024/03/29 12:41:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>suk</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="suk.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="suk.0o.fluajxo">
+    <dif>
+      Organika nutra flua&jcirc;o:
+      <ekz>
+        <tld/>o de viando;
+      </ekz>
+      <ekz>
+        dol&ccirc;a <tld/>o a&ubreve; miel-akvo, &ccirc;erpita el la koro de la tiel nomata <ctl>milda agavo</ctl>
+        <fnt>
+          <aut>Fidel Figueroa M.</aut>
+          <vrk><url ref="&Monato;/2000/007033.php">Centra Ameriko: Nepre &gcirc;ia nomo
+          estas Meksiko</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/10, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tajloro prenis la froma&gcirc;on el la po&scirc;o kaj premis tiel, ke la <tld/>o elfluis
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>La kura&gcirc;a tajloreto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en &ccirc;iu herba trunketo estis <tld/>o kaj forto
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio de la jaro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i frotis Elizon per suko de juglando, tiel ke &scirc;i fari&gcirc;is tute mallume bruna
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Sova&gcirc;aj cignoj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="bg">&c_s;&c_o;&c_k;</trd>
+    <trd lng="ca">suc</trd>
+    <trd lng="de">Saft</trd>
+    <trd lng="en">juice</trd>
+    <trdgrp lng="es">
+      <trd>zumo</trd>,
+      <trd>jugo</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>l&eacute;</trd>,
+      <trd>nedv</trd>
+    </trdgrp>
+    <trd lng="id">jus</trd>
+    <trd lng="nl">sap</trd>
+    <trd lng="pl">sok</trd>
+    <trd lng="ro">suc</trd>
+    <trd lng="sv">saft</trd>
+  </snc>
+  <snc mrk="suk.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Flua&jcirc;o premita el fruktoj a&ubreve; legomoj kaj uzata en kuirado, precipe kiel
+      <ref tip="lst" lst="voko:trinka&jcirc;oj" cel="trink.0ajxo">trinka&jcirc;o</ref>:
+      <ekz>
+        citron<tld/>o;
+      </ekz>
+      <ekz>
+        &gcirc;emu vi, &ccirc;iuj drinkantoj, pri la <tld/>o vinbera, kiu estas prenita for de via bu&scirc;o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Joel 1:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de pli da <tld/>o ne malboni&gcirc;as la kuko
+        <fnt>
+          <bib>Prv</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mosto estas <tld/>o, elpremita el ankora&ubreve; nefermentintaj vinberoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=28653">Mosto</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="suk.0o.plejgravajxo">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Kerna esenco, plejgrava&jcirc;o, plej grava parto:
+      <ekz>
+        tiu libreto enhavus la <tld/>on de la doktrino.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="medol.0o">medolo</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Wesen</trd>,
+      <trd>Essenz</trd>
+    </trdgrp>
+    <trd lng="es">jugo</trd>
+    <trdgrp lng="hu">
+      <trd>l&eacute;nyeg</trd>,
+      <trd>esszencia</trd>,
+      <trd>veleje</trd>
+    </trdgrp>
+    <trdgrp lng="id">
+      <trd>esensi</trd>,
+      <trd>intisari</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>essentie</trd>,
+      <trd>wezen<klr tip="ind"> (essentie)</klr></trd>
+    </trdgrp>
+    <trd lng="sv">essens</trd>
+  </snc>
+  <trd lng="be">&c_s;&c_o;&c_k;</trd>
+  <trd lng="bg">&c_s;&c_o;&c_k;</trd>
+  <trd lng="bo">&t_sha;&t_gigu;&t_nga;&t_tsheg;&t_ta;&t_naro;&t_ga;&t_tsheg;&t_kha;&t_shabchu;&t_tsheg;&t_ba;&t_tsheg;</trd>
+  <trd lng="cs">&scaron;&tcaron;&aacute;va</trd>
+  <trd lng="de">Saft</trd>
+  <trd lng="en">juice</trd>
+  <trdgrp lng="fr">
+    <trd>jus</trd>,
+    <trd>suc</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#27713;  <pr>&#12375;&#12427;</pr></trd>,
+    <trd>&#32905;&#27713;  <pr>&#12395;&#12367;&#12376;&#12421;&#12358;</pr></trd>,
+    <trd>&#26524;&#27713;  <pr>&#12363;&#12376;&#12421;&#12358;</pr></trd>,
+    <trd>&#12472;&#12517;&#12540;&#12473;  <pr>&#12376;&#12421;&#12540;&#12377;</pr></trd>,
+    <trd>&#20307;&#28082;  <pr>&#12383;&#12356;&#12360;&#12365;</pr></trd>,
+    <trd>&#27193;&#28082;  <pr>&#12376;&#12421;&#12360;&#12365;</pr></trd>,
+    <trd>&#31934;&#39620;  <pr>&#12379;&#12356;&#12378;&#12356;</pr></trd>,
+    <trd>&#12456;&#12483;&#12475;&#12531;&#12473;</trd>
+  </trdgrp>
+  <trd lng="pl">sok</trd>
+  <trd lng="ru">&c_s;&c_o;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>d&zcaron;&uacute;s</trd>,
+    <trd>&scaron;&tcaron;ava</trd>
+  </trdgrp>
+  <trd lng="tok">telo</trd>
+  <trd lng="uk">&c_s;&c_ib;&c_k;</trd>
+  <trd lng="zh">&#27713;</trd>
+</drv>
+
+<drv mrk="suk.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="suk.0a.el_suko">
+    <dif>
+      El <tld/>o.
+    </dif>
+    <trd lng="be">&c_s;&c_o;&c_k;&c_a;&c_v;&c_y;</trd>
+    <trd lng="bg">&c_s;&c_o;&c_ch;&c_je;&c_n;</trd>
+    <trd lng="de">saftig</trd>
+    <trd lng="en">juicy</trd>
+    <trd lng="fr">juteux</trd>
+    <trdgrp lng="hu">
+      <trd>l&eacute;-</trd>,
+      <trd>leves-</trd>
+    </trdgrp>
+    <trd lng="nl">sappig</trd>
+    <trdgrp lng="pl">
+      <trd>soczysty</trd>,
+      <trd>sokowy</trd>
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_o;&c_k;&c_o;&c_v;&c_y;&c_j;</trd>
+    <trdgrp lng="zh">
+    <trd>&#22810;&#27700;&#20998; <pr>du&omacron;shu&#464;f&egrave;n</pr></trd>,
+    <trd>&#22810;&#27713; <pr>du&omacron;zh&imacron;</pr></trd>,
+    <trd>&#23500;&#21547;&#27713;&#28082; <pr>f&ugrave;h&aacute;nzh&imacron;y&egrave;</pr></trd>,
+    <trd>&#24188;&#24369; <pr>y&ograve;uru&ograve;</pr></trd>,
+    <trd>&#27700;&#28789; <pr>shu&#464;l&iacute;ng</pr></trd>,
+    <trd>&#27700;&#38728; <pr>shu&#464;l&iacute;ng</pr></trd>,
+    <trd>&#33485;&#32736; <pr>c&amacron;ngcu&igrave;</pr></trd>,
+    <trd>&#33980;&#32736; <pr>c&amacron;ngcu&igrave;</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="suk.0a.sukoplena">
+    <dif>
+      <ref tip="dif" cel="suk.0oplena.SUB"><tld lit="S"/>oplena</ref>:
+      <ekz>
+        <tld/>a ligno
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 23:31</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;erizarboj <klr>[&#8230;]</klr> kovritaj de <tld/>aj nigraj, preska&ubreve; varmegaj &ccirc;erizoj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio de la jaro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>e verda folio
+        <fnt>
+            <bib>Fab3</bib>
+            <lok>Koboldo &ccirc;e la butikisto</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="fresx.0a">fre&scirc;a</ref>
+    <trd lng="be">&c_s;&c_a;&c_k;&c_a;&c_v;&c_ib;&c_t;&c_y;</trd>
+    <trd lng="bg">&c_s;&c_o;&c_ch;&c_je;&c_n;</trd>
+    <trd lng="de">saftig</trd>
+    <trd lng="en">juicy</trd>
+    <trdgrp lng="es">
+      <trd>jugoso</trd>,
+      <trd>jugosa</trd>
+    </trdgrp>
+    <trd lng="fr">juteux</trd>
+    <trdgrp lng="hu">
+      <trd>l&eacute;d&uacute;s</trd>,
+      <trd>leveses</trd>
+    </trdgrp>
+    <trd lng="nl">sappig</trd>
+    <trd lng="ru">&c_s;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>
+    <trd lng="sv">saftig</trd>
+  </snc>
+  <snc mrk="suk.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Vive <ref tip="vid" cel="intere.0a">interesa</ref>,
+      ka&ubreve;zanta kvaza&ubreve;-frandan plezuron:
+      <ekz>
+        eleganta prozo, kiu uzas &ccirc;iujn rimedojn de nia lingvo por esprimori&ccirc;a, <tld/>a
+        teksto
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>Recenzo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> parolis en <tld/>a, provinca dialekto
+        <fnt>
+          <bib>KKr</bib>
+          <lok>I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tion ili]</klr> vipis per <tld/>aj esprimoj kaj proleta sarkasmo
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i parolis erare, &ccirc;ar neniam &scirc;i bone ellernis
+        la serban lingvon, per sia speciala <tld/>a kaj pitoreska lingvo, en kiu
+        la kazoj neniam estas &gcirc;ustaloke
+        <fnt>
+          <aut>I. Andri&ccaron;, trad. A. Sekelj</aut>,
+          <vrk><url ref="http://www.literaturo.dk/drino.htm">
+          Ponto super la Drino</url></vrk>,
+          <lok>Heroldo de Esperanto, 1962:17 (1347)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="suk.sen0a.FIG">sen<tld/>a<sncref/></ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="plen.esprim0a">esprimplena</ref>,
+      <ref cel="ricx.esprimo0a">esprimori&ccirc;a</ref>,
+      <ref cel="pik.0a.FIG">pika<sncref/></ref>,
+      <ref cel="spic.0a.FIG">spica<sncref/></ref>,
+      <ref cel="vigl.0a">vigla</ref>
+    </refgrp>
+    <trd lng="be">&c_s;&c_a;&c_k;&c_a;&c_v;&c_ib;&c_t;&c_y;</trd>
+    <trdgrp lng="de">
+      <trd>spritzig</trd>,
+      <trd>lebhaft</trd>,
+      <trd>lebendig</trd>,
+      <trd>schwungvoll</trd>,
+      <trd>temperamentvoll</trd>,
+      <trd>bildreich</trd>,
+      <trd>ausdrucksstark</trd>,
+      <trd>sprachgewaltig</trd>,
+      <trd>deftig</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>jugoso</trd>,
+      <trd>jugosa</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>fort de caf&eacute;</trd>,
+      <trd>savoureux<klr> (fig.)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">&scaron;&tcaron;avnat&yacute; <klr>(stav)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#27713;&#12398;  <pr>&#12375;&#12427;&#12398;</pr></trd>,
+    <trd>&#12415;&#12378;&#12415;&#12378;&#12375;&#12356;</trd>
+  </trdgrp>
+  <trd lng="sk">&scaron;&tcaron;avnat&yacute;</trd>
+  <trd lng="uk">&c_s;&c_o;&c_k;&c_o;&c_v;&c_i;&c_t;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="suk.flor0o">
+  <kap>flor<tld/>o</kap>
+  <snc mrk="suk.flor0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="dif" cel="nektar.0o.BOT">Nektaro</ref>:
+      <ekz>
+        la Muzoj estas flirtemaj abeloj; <klr>[&#8230;]</klr> kaptante nur la
+        flor<tld/>on de io, balda&ubreve; ili rapidas al nova
+        <fnt><aut>J. B. Gresset, trad. C. Rousseau</aut>,
+        <vrk>Ver-vert</vrk>, <lok>[1914?]</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_e;&c_k;&c_t;&c_a;&c_r;</trd>
+  <trd lng="bg">&c_n;&c_je;&c_k;&c_t;&c_a;&c_r;</trd>
+  <trd lng="de">Nektar</trd>
+  <trd lng="es">n&eacute;ctar</trd>
+  <trd lng="fr">nectar<klr> (botanique)</klr></trd>
+  <trd lng="id">nektar</trd>
+  <trd lng="pl">nektar</trd>
+  <trd lng="ro">nectar</trd>
+  <trd lng="sv">nektar</trd>
+</drv>
+
+<drv mrk="suk.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc>
+    <dif>
+      Tute senforta:
+      <ekz>
+        sen<tld/>a <klr>(senhuma)</klr> tero
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 41:18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sen<tld/>i&gcirc;is la vinbero
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 24:7</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sek.0igxi">seki&gcirc;i</ref>,
+      <ref cel="velk.0i">velki</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_u;&c_h;&c_ib;</trd>,
+      <trd>&c_s;&c_s;&c_u;&c_sh;&c_a;&c_n;&c_y;</trd>,
+      <trd>&c_b;&c_ja;&c_z; <ind>&c_s;&c_o;&c_k;&c_u;</ind></trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>d&ouml;rr</trd>,
+      <trd>ausged&ouml;rrt</trd>,
+      <trd>saftlos</trd>
+    </trdgrp>
+    <trd lng="fr">d&eacute;ss&eacute;ch&eacute;</trd>
+    <trdgrp lng="hu">
+      <trd>sz&aacute;raz</trd>,
+      <trd>v&eacute;rszeg&eacute;ny</trd>,
+      <trd>er&odblac;tlen</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>dor</trd>,
+      <trd>droog</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="suk.sen0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Ne donanta la atenditan plezuron,
+      neinteresa, elreviga:
+      <ekz>
+        la vera, viva sekvoiro post Jesuo retiri&gcirc;is favore al la
+        sen<tld/>a, distanca kaj dogmisma mispieco
+        <fnt>
+          <aut>W. Plock, trad. V. O&scaron;lak</aut>,
+          <vrk><url ref="http://www.kristana-misio-en-esperanto.si/docs/plock.pdf">
+          Kio min malhelpas por esti baptita?</url></vrk>,
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la albumo kiel tuto rezultis iom sen<tld/>a kaj grizeta
+        <fnt>
+          <aut>P. Mo&jcirc;ajev</aut>,
+          <vrk>La trajno misdirektita</vrk>,
+          <bib>LOdE</bib>,
+          <lok>2011:3 (197)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+     <refgrp tip="ant">
+      <ref cel="suk.0a.FIG"><tld/>a<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_u;&c_h;&c_ib;</trd>,
+      <trd>&c_n;&c_je;&c_v;&c_y;&c_r;&c_a;&c_z;&c_n;&c_y;</trd>,
+      <trd>&c_n;&c_je;&c_c;&c_ib;&c_k;&c_a;&c_v;&c_y;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>fade</trd>,
+      <trd>schn&ouml;de</trd>,
+      <trd>farblos <klr>(fade)</klr></trd>,
+      <trd>dr&ouml;ge</trd>,
+      <trd>bieder</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>fade<klr> (inint&eacute;ressant)</klr></trd>,
+      <trd>plat<klr> (inint&eacute;ressant)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>bez &scaron;&tcaron;&aacute;vy</trd>,
+    <trd>such&yacute;</trd>,
+    <trd>vyschl&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>sin jugo</trd>,
+    <trd>sin miga</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#27713;&#27671;&#12398;&#12394;&#12356;  <pr>&#12375;&#12427;&#12365;&#12398;&#12394;&#12356;</pr></trd>,
+    <trd>&#12402;&#12363;&#12425;&#12403;&#12383;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>sparcia&lstroke;y</trd>,
+    <trd>niesoczysty</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bez &scaron;&tcaron;avy</trd>,
+    <trd>such&yacute;</trd>,
+    <trd>vyschnut&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_je;&c_z; &c_s;&c_o;&c_k;&c_u;</trd>,
+    <trd>&c_s;&c_u;&c_h;&c_i;&c_j;</trd>,
+    <trd>&c_z;&c_ib;&c_v;&#8217;&c_ja;&c_l;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="suk.0oplena">
+  <kap><tld/>oplena,
+  <var><kap><tld/>ori&ccirc;a</kap></var></kap>
+  <snc mrk="suk.0oplena.SUB">
+    <dif>
+      Plena je abunda <tld/>o:
+      <ekz>
+        &ccirc;ie li trovis <tld/>plenan verda&jcirc;on
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        akvomelono <klr>[&#8230;]</klr> estas melonsimila kaj
+        &gcirc;ia <tld/>ori&ccirc;a pulpo estas akveca
+        <fnt>
+          <aut>G. Neves</aut>,
+          <vrk>&Ccirc;u Esperanto konas hermafroditojn?</vrk>,
+          <bib>LOdE</bib>,
+          <lok>2003:8-9 (106-107)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_k;&c_a;&c_v;&c_ib;&c_t;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd>saftig</trd>,
+    <trd>frisch <klr>(Gr&uuml;n)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>jugoso</trd>,
+    <trd>jugosa</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>l&eacute;d&uacute;s</trd>,
+    <trd>leveses</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>juteux</trd>,
+    <trd>succulent<klr> (juteux)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#27713;&#12398;&#22810;&#12356;  <pr>&#12375;&#12427;&#12398;&#12362;&#12362;&#12356;</pr></trd>,
+    <trd>&#12415;&#12378;&#12415;&#12378;&#12375;&#12356;</trd>
+  </trdgrp>
+  <trd lng="nl">sappig</trd>
+  <trd lng="pl">soczysty</trd>
+  <trd lng="ru">&c_s;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sv">saftig</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.39 2024/03/29 12:41:43
+Wolfram Diestel: +ref
+
+versio 1.38 2024/03/29 10:24:50
+Wolfram Diestel: +trd de, ref; ~a: +ekz
+
+versio 1.36 2023/11/13 21:24:13
+Vito Redsky: +trd pl
+
+versio 1.35 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.33 2023/04/09 13:26:13
+Paul Peeraerts: &Monato;/
+
+versio 1.32 2023/03/28 08:34:23
+Paul Peeraerts: &Monato;
+
+versio 1.31 2022/06/15 08:39:15
+Dmitri Gabinski: + trd be
+
+versio 1.30 2022/05/05 14:43:49
+-->
+</vortaro>

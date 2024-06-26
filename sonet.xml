@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sonet.xml,v 1.20 2024/04/16 01:23:33 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>sonet</rad>/o
+</kap>
+<drv mrk="sonet.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">POE</uzo>
+  <snc>
+    <dif>
+      Versa&jcirc;o konsistanta el 4 strofoj dividitaj en 2 verskvarojn kaj
+2
+      verstriojn:
+      <ekz>
+        se oni deziras verki <tld/>ojn, necesas fari tion almena&ubreve;
+same
+        fake kaj lerte, kiel la novparnasistoj (Tim Carr kaj Krys
+        Ungar)<fnt><aut>Georgo Kama&ccirc;o</aut>: <vrk>Berveling, poeto sen
+        tabua</vrk>, <bib>Monato</bib><lok>jaro 1994a, numero 12a, p.
+        22a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_n;&c_e;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>sonet</trd>,
+    <trd>zn&#x11B;lka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Sonett</trd>,
+     <trd>Klinggedicht<klr> [ark]</klr></trd>
+  </trdgrp>
+  <trd lng="en">sonnet</trd>
+  <trdgrp lng="fr">
+    <trd>sonnet</trd>
+  </trdgrp>
+  <trd lng="hu">szonett</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30BD;&#x30CD;&#x30C3;&#x30C8;</trd>,
+    <trd>&#21313;&#x56DB;&#x884C;&#x8A69;  <pr>&#12376;&#12421;&#12358;&#x56DB;&#x884C;&#x8A69;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">sonnet</trd>
+  <trd lng="pl">sonet</trd>
+  <trd lng="ru">&c_s;&c_o;&c_n;&c_je;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>sonet</trd>,
+    <trd>znelka</trd>
+  </trdgrp>
+  <trd lng="uk">&c_s;&#x43E;&#x43D;&c_je;&c_t;</trd>
+  <trdgrp lng="zh">
+    <trd>&#21313;&#x56DB;&#x884C;&#x8A69; <pr>sh&#xED;s&#xEC;h&#xE1;ngsh&#x12B;</pr></trd>,
+    <trd>&#21313;&#x56DB;&#x884C;&#x8BD7; <pr>sh&#xED;s&#xEC;h&#xE1;ngsh&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.20 2024/04/16 01:23:33
+Vito Redsky: trd pl 
+
+versio 1.18 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+Revision 1.14  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2008/07/29 16:30:40  revo
+Russ Williams: +trd en
+
+Revision 1.12  2004/10/19 16:33:26  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2003/01/17 17:31:57  revo
+Zmicier Lapcionak: + trd be, kor trd ge
+
+Revision 1.10  2003/01/02 17:40:50  revo
+Ulrich Fellmann: + 1 plia trd de
+
+Revision 1.9  2002/07/25 17:35:10  revo
+-->
+</vortaro>

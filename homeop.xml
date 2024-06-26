@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: homeop.xml,v 1.30 2024/04/02 16:26:59 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>homeopati</rad>/o <fnt><bib>JED</bib></fnt>
+</kap>
+
+<drv mrk="homeop.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="homeop.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Kuraca metodo, kiu aplikas al malsanuloj
+      malgrandegajn dozojn da medikamentoj, produktantaj &ccirc;e sana
+      individuo la simptomojn de malsano simila al tiu, kiun oni
+      volas kuraci:
+      <ekz>
+        <nom>Bazarov</nom> parolis pri la medicino, <tld/>o, botaniko
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>XV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la defendantoj de <tld/>o asertas ke la <ref cel="efik.placeb0o">placeba efiko</ref>
+        ne sufi&ccirc;as por ekspliki la bonajn rezultojn prezentitajn
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>&Ccirc;efartikolo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_m;&c_e;&c_a;&c_p;&c_a;&c_t;&c_y;&c_ja;</trd>
+  <trd lng="bg">&c_h;&c_o;&c_m;&c_je;&c_o;&c_p;&c_a;&c_t;&c_i;&c_ja;</trd>
+  <trd lng="br">homeopatiezh</trd>
+  <trd lng="de">Hom&ouml;opathie</trd>
+  <trd lng="el">&omikron;&my;&omikron;&jota;&omikron;&pi;&alfa;&theta;&eta;&tau;&jota;&kappa;&eta_ton;</trd>
+  <trd lng="en">homeopathy</trd>
+  <trd lng="es">homeopat&iacute;a</trd>
+  <trd lng="fa">&a_h;&a_damma;&a_m;&a_y_hamza;&a_w;&f_p;&a_A;&a_t;&f_y;</trd>
+  <trd lng="fr">hom&eacute;opathie</trd>
+  <trdgrp lng="hu">
+    <trd>homeop&aacute;tia</trd>,
+    <trd>hasonszenvi gy&oacute;gym&oacute;d</trd>
+  </trdgrp>
+  <trd lng="it">omeopatia</trd>
+  <trdgrp lng="ja">
+    <trd>&#21516;&#31278;&#30274;&#27861;  <pr>&#12393;&#12358;&#12375;&#12421;&#12426;&#12423;&#12358;&#12411;&#12358;</pr></trd>,
+    <trd>&#12507;&#12513;&#12458;&#12497;&#12471;&#12540;</trd>
+  </trdgrp>
+  <trd lng="nl">homeopathie</trd>
+  <trd lng="pt">homeopatia</trd>
+  <trd lng="ru">&c_g;&c_o;&c_m;&c_je;&c_o;&c_p;&c_a;&c_t;&c_i;&c_ja;</trd>
+  <trd lng="uk">&c_g;&c_o;&c_m;&c_je;&c_o;&c_p;&c_a;&c_t;&c_ib;&c_ja;</trd>
+  <trd lng="zh">&#38918;&#21218;&#30274;&#27861; <pr>sh&ugrave;nsh&igrave;li&aacute;of&#462;</pr></trd>
+</drv>
+
+<drv mrk="homeop.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="homeop.0a.MED">
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        <tld/>a metodo;
+      </ekz>
+      <ekz>
+        <tld/>a kuracilo
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>&Ccirc;efartikolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Nikolao <klr>[&#8230;]</klr> venigis malgrandan <tld/>an apotekon
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>VIII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="homeop.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Malgrandega:
+      <ekz>
+        la&ubreve; <tld/>aj dozoj
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>Intervjuo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_m;&c_e;&c_a;&c_p;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="bg">&c_h;&c_o;&c_m;&c_je;&c_o;&c_p;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_n;</trd>
+  <trd lng="br">homeopatek</trd>
+  <trd lng="de">hom&ouml;opathisch</trd>
+  <trd lng="el">&omikron;&my;&omikron;&jota;&omikron;&pi;&alfa;&theta;&eta;&tau;&jota;&kappa;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="en">homeopathic</trd>
+  <trd lng="es">homeop&aacute;tico</trd>
+  <trd lng="fr">hom&eacute;opathique</trd>
+  <trdgrp lng="hu">
+    <trd>homeopatikus</trd>,
+    <trd>hasonszenvi</trd>
+  </trdgrp>
+  <trd lng="it">omeopatico</trd>
+  <trdgrp lng="ja">
+    <trd>&#21516;&#31278;&#30274;&#27861;&#12398;  <pr>&#12393;&#12358;&#12375;&#12421;&#12426;&#12423;&#12358;&#12411;&#12358;&#12398;</pr></trd>,
+    <trd>&#12507;&#12513;&#12458;&#12497;&#12471;&#12540;&#12398;</trd>,
+    <trd>&#26997;&#24494;&#37327;&#12398;  <pr>&#12365;&#12423;&#12367;&#12403;&#12426;&#12423;&#12358;&#12398;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">homeopathisch</trd>
+  <trd lng="pt">homeop&aacute;tico</trd>
+  <trd lng="ru">&c_g;&c_o;&c_m;&c_je;&c_o;&c_p;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="uk">&c_g;&c_o;&c_m;&c_je;&c_o;&c_p;&c_a;&c_t;&c_i;&c_ch;&c_n;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="homeop.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="homeop.0isto.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Fakulo pri <tld/>o:
+      <ekz>
+        en mia lando mi ne povas imagi ke oni rigardu <tld/>iston kiel
+        &ccirc;arlatanon
+        <fnt>
+          <aut>M. Corobu</aut>,
+          <vrk>Homeopatia Revuo...</vrk>,
+          <lok><url ref="&SCE;">
+          soc.culture.esperanto</url>, 2003-05-22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        diluitaj en tia grado, ke apena&ubreve; estas &scirc;anco, ke la fina produkto enhavos e&ccirc; unu molekulon de la origina
+        substanco, <tld/>istoj mem agnoskas tion
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>&Ccirc;efartikolo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_m;&c_e;&c_a;&c_p;&c_a;&c_t;</trd>
+  <trd lng="de">Hom&ouml;opath</trd>
+  <trd lng="en">homeopath</trd>
+  <trd lng="fr">hom&eacute;opathe</trd>
+  <trd lng="hu">homeopata</trd>
+  <trd lng="it">omeopata</trd>
+  <trd lng="nl">homeopaat</trd>
+  <trd lng="pt">homeopata</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.30 2024/04/02 16:26:59
+Wolfram Diestel: +ekz-oj
+
+versio 1.28 2023/10/16 05:55:56
+revo: transskribo per <pr>
+
+versio 1.26 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.24 2020/11/05 12:11:11
+Dmitri Gabinski: +trd be
+
+Revision 1.22  2009/09/12 16:31:01  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.21  2009/07/07 16:31:12  revo
+Wieland Pusch: +trd bg
+
+Revision 1.20  2009/07/06 16:30:29  revo
+Russ Williams: +trd en
+
+Revision 1.19  2009/07/05 16:39:17  revo
+-->
+</vortaro>

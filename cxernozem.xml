@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: cxernozem.xml,v 1.10 2024/03/31 07:20:54 revo Exp $">
+<kap>
+  <rad>&ccirc;ernozem</rad>/o,
+  <var><kap><rad var="i">&ccirc;ernozi</rad>/o <fnt><bib>PIV2</bib></fnt></kap></var>
+</kap>
+<drv mrk="cxernozem.0o">
+  <kap><tld/>o,
+  <var><kap><tld var="i"/>o</kap></var>
+  </kap>
+  <snc mrk="cxernozem.0o.GRU">
+    <uzo tip="fak">MIN</uzo>
+    <dif>
+      Nigra, fruktodona
+      <ref tip="super" cel="grund.0o.KOMUNE">grundo</ref> grandparte
+      huma, trovebla en vasta nordazia areo, precipe en Ukrainujo, kaj
+      anka&ubreve; en Nordameriko kaj en Nordorienta &Ccirc;inujo:
+      <ekz>
+        la <tld/>a zono de Sovetio etendi&gcirc;as de Nigra
+        Maro &gcirc;is Man&ccirc;urio
+        <fnt>
+          <aut>W. F. Rolt</aut>,
+          <vrk>El la Polvo de la Tero</vrk>,
+          <lok>1967</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        &gcirc;i anka&ubreve; ta&ubreve;gas por labori sur malpezaj sablaj grundoj, <tld var="i"/>oj
+        <fnt>
+          <aut>-</aut>
+          <vrk><url
+          ref="https://proogorod.com/eo/selhoztekhnika/minitraktory/minitraktory-fajter-t22-obzor">
+          Superrigardo de la Fighter T22-minitraktoro</url></vrk>
+          <lok>[vidita en 2024]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ch;&c_a;&c_r;&c_n;&c_a;&c_z;&c_jo;&c_m;</trd>
+  <trd lng="de">Schwarzerde</trd>
+  <trd lng="en">chernozem</trd>
+  <trdgrp lng="fr">
+    <trd>tchernozem</trd>,
+    <trd>tchernoziom</trd>
+  </trdgrp>
+  <trd lng="pl">czarnoziem</trd>
+  <trd lng="zh">&#x9ED1;&#x571F; <pr>h&emacron;it&#x1D4;</pr></trd>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.10 2024/03/31 07:20:54
+Wolfram Diestel: sintakso
+
+versio 1.9 2024/03/14 17:24:25
+Damien Brucker: -eraro cxe drv
+
+versio 1.8 2024/03/14 15:27:42
+Damien Brucker: -eraro cxe kap en drv
+
+versio 1.7 2024/03/10 21:19:58
+Jeromo Vasxe: + var i
+
+versio 1.5 2020/03/08 11:10:17
+Wolfram Diestel: germ trd.
+
+Revision 1.4  2020/03/04 23:10:21  revo
+Robin van der Vliet: korekto laux AdE-rekomendo, +trd
+
+Revision 1.3  2013/04/03 10:10:19  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2013/03/27 15:10:15  revo
+-->
+</vortaro>

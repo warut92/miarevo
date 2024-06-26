@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: rovers.xml,v 1.4 2024/04/17 06:29:20 revo Exp $">
+<kap>
+  <rad>rovers</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="rovers.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="rovers.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      <ref tip="super" cel="fald.re0o.TEKS">Refaldo</ref> flanke de
+      jaka a&ubreve; alivesta kolumo:
+      <ekz>
+        <nom>Edward</nom> <klr>[&#8230;]</klr> fiere portis sur sia <tld/>o oran
+        insignon de krokodilo
+        <fnt>
+          <aut>-</aut>,
+          <vrk>&Ccirc;efa esperanta krokodilo...</vrk>,
+          <lok><url ref="http://www.literatura.bucek.name/starto/start299.html">
+          Starto 1999:2 (187)</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        svelta &ccirc;asisto pa&scirc;is malsupren sur la deklivo de la monteto, en
+        griza kamizolo kun verdaj <tld/>oj, en &gcirc;isgenuaj botoj, kun
+        sinjoreca &ccirc;asista ekipa&jcirc;o
+        <fnt>
+          <aut>K. Miksz&aacute;th, trad. J. Horvath</aut>,
+          <vrk><url
+          ref="http://i-espero.info/files/elibroj/eo%20-%20mikszath,%20kalman%20-%20makulo%20tre%20nigra.pdf">
+          Makulo tre nigra</url></vrk>,
+          <lok>Inko, 2002</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Revers</trd>
+  <trd lng="en">lapel</trd>
+  <trd lng="fr">revers de col</trd>
+  <trd lng="pl">klapa marynarki</trd>
+  <trd lng="ru">&c_l;&c_a;&c_c;&c_k;&c_a;&c_n;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_l;&c_a;&c_c;&c_k;&c_a;&c_n;</trd>,
+    <trd>&c_v;&c_i;&c_l;&c_o;&c_g;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_o;&c_t;</trd>,
+    <trd>&c_o;&c_d;&c_v;&c_o;&c_r;&c_o;&c_t; <klr>(&c_v; &c_o;&c_d;&c_ja;&c_z;&c_ib;)</klr></trd>,
+    <trd>&c_z;&c_a;&c_k;&c_o;&c_t;</trd>,
+    <trd>&c_o;&c_d;&c_v;&c_o;&c_r;&c_o;&c_t; <klr>(&c_u; &c_ch;&c_o;&c_b;&c_o;&c_t;&c_ja;&c_h;)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.4 2024/04/17 06:29:20
+Wolfram Diestel: +ekz, trd de, en, ru
+
+versio 1.3 2023/04/15 23:25:11
+Vito Redsky: +trd pl
+-->
+</vortaro>

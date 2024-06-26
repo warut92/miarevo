@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: trog.xml,v 1.22 2024/01/25 21:21:04 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>trog</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="trog.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="trog.0o.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Granda longforma kesto, en kiu oni donas man&gcirc;a&jcirc;ojn
+      a&ubreve; trinka&jcirc;on al bestoj:
+      <ekz>
+        ili venis kaj &ccirc;erpis akvon kaj plenigis la <tld/>ojn, por trinkigi la &scirc;afojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 2:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i &ccirc;irka&ubreve;vindis lin kaj ku&scirc;igis lin en stal<tld/>on, &ccirc;ar ne estis loko por ili
+        en la gastejo
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 2:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la rado turni&gcirc;is, la siteloj &ccirc;erpis la akvon el la lageto kaj ver&scirc;is &gcirc;in en
+        <tld/>on, metitan pli alte
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la farma mastrino bezonis knabinon por lavi la vi&scirc;ilojn, purigi
+        <klr>[&#8230;]</klr> la <tld/>on de l&#8217; porkoj
+        <fnt>
+          <aut>C. Perrault, trad. P. Sarpy</aut>,
+          <vrk>Felo de Azeno</vrk>,
+          <lok><url ref="http://eo.wikibooks.org/wiki/Rakontoj_pri_Feinoj">Rakontoj
+          pri feinoj</url>, Hachette, 1904</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="furagx.0ujo">fura&gcirc;ujo</ref>,
+       <ref cel="krip.0o.AGR">kripo<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_r;&c_y;&c_t;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_r;&c_m;&c_u;&c_sh;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">menjadora</trd>
+  <trdgrp lng="cs">
+    <trd>ledovcov&aacute; prol&aacute;klina</trd>,
+    <trd>ledovcov&eacute; koryto</trd>,
+    <trd>trog</trd>
+  </trdgrp>
+  <trd lng="de">Trog</trd>
+  <trd lng="en">trough</trd>
+  <trdgrp lng="es">
+    <trd>pesebre</trd>,
+    <trd>abrevadero</trd>
+  </trdgrp>
+  <trd lng="fr">auge</trd>
+  <trd lng="hu">v&aacute;ly&uacute;</trd>
+  <trd lng="it">trogolo</trd>
+  <trdgrp lng="ja">
+    <trd>&#x304B;&#12356;&#12400;&#26742;  <pr>&#x304B;&#12356;&#12400;&#x304A;&#12369;</pr></trd>,
+    <trd>&#x6C34;&#26742;  <pr>&#x307F;&#x305A;&#x304A;&#12369;</pr></trd>,
+    <trd>&#x6C34;&#x53D7;&#12369;  <pr>&#12377;&#12356;&#12358;&#12369;</pr></trd>,
+    <trd>&#x69FD;  <pr>&#12358;&#12369;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">trog</trd>
+  <trdgrp lng="pl">
+    <trd>czerpak</trd>,
+    <trd>fola</trd>,
+    <trd>koryto</trd>,
+    <trd>&zdot;&lstroke;&oacute;b</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>cocho</trd>,
+    <trd>gamela</trd>,
+    <trd>tina</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_r;&c_y;&c_t;&c_o;</trd>,
+    <trd>&c_k;&c_o;&c_r;&c_m;&c_u;&c_sh;&c_k;&c_a; <klr tip="amb">(&c_d;&c_l;&c_ja;
+&c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_y;&c_h;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>koryto</trd>,
+    <trd>n&aacute;doba na maltu</trd>,
+    <trd>v&aacute;lov</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43E;&c_r;&c_i;&c_t;&#x43E;</trd>,
+    <trd>&c_g;&#x43E;&c_d;&c_ib;&c_v;&#x43D;&c_i;&c_c;&#x44F;</trd>,
+    <trd>&c_zh;&#x43E;&#x43B;&#x43E;&c_b;</trd>,
+    <trd>&c_b;&c_u;&c_d;. &#x44F;&c_shch;&c_i;&#x43A; &c_d;&#x43B;&#x44F; &c_r;&#x43E;&c_z;&c_ch;&c_i;&#x43D;&c_u;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2024/01/25 21:21:04
+Vito Redsky: +trd pl
+
+versio 1.21 2023/10/21 14:37:42
+revo: transskribo per <pr>
+
+versio 1.18 2021/11/19 21:26:14
+Wolfram Diestel: +ekz-oj, ref-oj
+
+Revision 1.16  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2015/03/28 23:10:15  revo
+Carlos Garcia: +trd es -o
+
+Revision 1.14  2012/08/14 13:10:33  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2010/12/28 08:46:53  revo
+Antonio Codazzi: +trd it
+
+Revision 1.12  2008/08/23 16:31:13  revo
+-->
+</vortaro>

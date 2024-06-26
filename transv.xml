@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: transv.xml,v 1.19 2024/03/19 07:20:49 revo Exp $">
+<kap>
+  <rad>transvers</rad>/a
+  <fnt><bib>PFEV</bib></fnt>
+</kap>
+<drv mrk="transv.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <uzo tip="klr">(pp linio)</uzo>
+    <dif>
+      Tratran&ccirc;anta perpendikulare a&ubreve; oblikve tra la &ccirc;efa direkto de
+      ia linio a&ubreve; objekto:
+      <ekz>
+        ne malproksime de la <nom>Piazza del Granduca</nom>, trovi&gcirc;as malgranda <tld/>a strato
+        <klr>[&#8230;]</klr> nomata <nom>Porta Rossa</nom>
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Kupra porko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> frapetis la maldekstran, poste la dekstran brakojn de <nom>Je&scirc;ua</nom>,
+        disetenditajn kaj ligitajn al la <tld/>a trabo de la fosto
+        <fnt>
+          <bib>MkM</bib>
+          <lok>16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la trunko maldiki&gcirc;is kaj la <tld/>aj bran&ccirc;oj multi&gcirc;is
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Pramaljuna Morlino</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="largx">la&ubreve;lar&gcirc;a</ref>,
+      <ref cel="diagon">diagonala</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_p;&c_ja;&c_r;&c_o;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;&iacute;&ccaron;n&yacute;</trd>,
+    <trd>transverz&aacute;ln&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>transversal</trd>,
+    <trd>quer verlaufend</trd>
+  </trdgrp>
+  <trd lng="en">transverse</trd>
+  <trd lng="fr">transversal</trd>
+  <trdgrp lng="hu">
+    <trd>&aacute;tl&oacute;s</trd>,
+    <trd>har&aacute;nt-</trd>,
+    <trd>r&eacute;zsutos</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#27178;&#12398;  <pr>&#12424;&#12371;&#12398;</pr></trd>,
+    <trd>&#27178;&#32218;&#29366;&#12398;  <pr>&#12424;&#12371;&#12379;&#12435;&#12376;&#12423;&#12358;&#12398;</pr></trd>,
+    <trd>&#27178;&#26029;&#12398;  <pr>&#12362;&#12358;&#12384;&#12435;&#12398;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">dwars</trd>
+  <trd lng="pt">transversal</trd>
+  <trd lng="ru">&c_p;&c_o;&c_p;&c_je;&c_r;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>prie&ccaron;ny</trd>,
+    <trd>transverz&aacute;lny</trd>
+  </trdgrp>
+  <trd lng="uk">&c_p;&c_o;&c_p;&c_je;&c_r;&c_je;&c_ch;&c_n;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="transv.0e">
+  <kap><tld/>e</kap>
+  <snc>
+    <dif>
+      En <tld/>a direkto:
+      <ekz>
+        <klr>[ili havis]</klr> blankan rubandon <tld/>e sur la brusto
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>Fantaziujo en Dan&gcirc;ero</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la gepatroj ekhavis la ideon starigi la kestojn <tld/>e super la defluilo
+        tiamaniere, ke ili <klr>[&#8230;]</klr> aspektis kiel du florkovritaj remparoj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_p;&c_ja;&c_r;&c_o;&c_k;</trd>,
+    <trd>&c_u;&c_p;&c_o;&c_p;&c_je;&c_r;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nap&rcaron;&iacute;&ccaron;</trd>,
+    <trd>p&rcaron;es</trd>,
+    <trd>p&rcaron;&iacute;&ccaron;n&ecaron;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>quer</trd>,
+    <trd>schr&auml;g</trd>
+  </trdgrp>
+  <trd lng="en">transversely</trd>
+  <trdgrp lng="hu">
+    <trd>&aacute;tl&oacute;san</trd>,
+    <trd>har&aacute;nt</trd>,
+    <trd>r&eacute;zsutosan</trd>
+  </trdgrp>
+  <trd lng="ja">&#27178;&#20999;&#12387;&#12390;  <pr>&#12424;&#12371;&#12366;&#12387;&#12390;</pr></trd>
+  <trd lng="nl">dwars</trd>
+  <trd lng="ru">&c_p;&c_o;&c_p;&c_je;&c_r;&c_jo;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>naprie&ccaron;</trd>,
+    <trd>prie&ccaron;ne</trd>
+  </trdgrp>
+  <trd lng="uk">&c_p;&c_o;&c_p;&c_je;&c_r;&c_je;&c_k;</trd>
+</drv>
+
+<drv mrk="transv.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      <tld lit="T"/>a linio a&ubreve; peco (trabo ks):
+      <ekz>
+        la&ubreve; la <tld/>o;
+      </ekz>
+      <ekz>
+        &scirc;nurligiloj retenis liajn brakojn &ccirc;e la <tld/>o
+        <fnt>
+          <bib>MkM</bib>
+          <lok>16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_p;&c_ja;&c_r;&c_o;&c_ch;&c_y;&c_n;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_p;&c_ja;&c_r;&c_o;&c_ch;&c_k;&c_a;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_v;&c_e;&c_r;&c_s;&c_a;&c_l;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;&iacute;&ccaron;ka</trd>,
+    <trd>transverz&aacute;la</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Transversale</trd>,
+    <trd>Schnittgerade</trd>
+  </trdgrp>
+  <trd lng="en">transversal</trd>
+  <trd lng="fr">transversale</trd>
+  <trdgrp lng="hu">
+    <trd>&aacute;tl&oacute;</trd>,
+    <trd>har&aacute;ntvonal</trd>,
+  </trdgrp>
+  <trd lng="ja">&#27178;&#32218;  <pr>&#12362;&#12358;&#12379;&#12435;</pr></trd>
+  <trd lng="nl">dwarslijn</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_p;&c_je;&c_r;&c_je;&c_ch;&c_i;&c_n;&c_a;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_v;&c_je;&c_r;&c_s;&c_a;&c_l;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prie&ccaron;ka</trd>,
+    <trd>prie&ccaron;na &ccaron;iara</trd>,
+    <trd>transverz&aacute;la</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_p;&c_je;&c_r;&c_je;&c_ch;&c_n;&c_a; &c_l;&c_ib;&c_n;&c_ib;&c_ja;</trd>,
+    <trd>&c_p;&c_o;&c_p;&c_je;&c_r;&c_je;&c_ch;&c_n;&c_i;&c_j; &c_m;&#8217;&c_ja;&c_z;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="transv.0ajxo">
+  <kap>
+    <tld/>a&jcirc;o
+  </kap>
+  <snc mrk="transv.0ajxo.KON">
+    <uzo tip="fak">KON</uzo>
+    <dif>
+      <tld lit="T"/>a trabo:
+      <ekz>
+        <klr>[li]</klr> grimpis sur la malsupran <tld/>a&jcirc;on
+        <fnt>
+          <bib>MkM</bib>
+          <lok>16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sxpal.0o">&scirc;palo</ref>,
+      <ref cel="steg.0o">stego</ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">Querbalken</trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.19 2024/03/19 07:20:49
+Wolfram Diestel: +ekz-oj, +~aĵo
+
+versio 1.18 2023/10/21 14:37:42
+revo: transskribo per <pr>
+
+Revision 1.14  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2009/10/06 16:44:06  revo
+Russ Williams: +trd en
+
+Revision 1.12  2006/02/16 17:33:47  revo
+Tulio Flores: +trd pt
+
+Revision 1.11  2004/12/16 17:31:43  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2004/10/12 16:32:26  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2003/09/09 16:32:12  revo
+-->
+</vortaro>

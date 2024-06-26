@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: diocez.xml,v 1.23 2024/02/12 18:25:29 revo Exp $">
+ <kap>
+   <rad>diocez</rad>/o
+   <fnt><bib>PV</bib></fnt>
+ </kap>
+
+<drv mrk="diocez.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="diocez.0o.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      <ref tip="dif" cel="episko.0ujo">Episkopujo</ref>
+      <klr>(en la okcidentaj konfesioj)</klr>:
+      <ekz>
+        la <tld/>o de Trento
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Armando Zecchin</aut>
+          <vrk><url ref="&Monato;/2007/009198.php"
+              >&Ccirc;u vere okazis sang-oferaj paskoj?</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la papo <klr>[&#8230;]</klr> estas la lasta a&ubreve;tokrato kaj regas la eklezion, la
+        Sanktan <tld lit="D"/>on kaj Vatikanon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>W. H. Simcock</aut>diocezoj
+          <vrk><url ref="&Monato;/2007/009363.php"
+              >Kial pastroj ne edzi&gcirc;u?</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;i tien venis te&ubreve;tonoj kiuj konkerinte Prusujon konstruis fortan &scirc;taton, papo
+        Inocento la Kvara en 1243 dividis konkeritan terenon je kvar <tld/>oj
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2003, &#8470; 1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estis unu el la plej brilaj elementoj en sia afrika <tld/>o, kaj &ccirc;iuj
+        flustris pri ke li balda&ubreve; fari&gcirc;os episkopo
+        <fnt>
+          <bib>ChR</bib>
+          <lok>Ne nur tamtamado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;necesas pre&gcirc;i al Dio por ke la junuloj pli aktive decidi&gcirc;u sekvi Kriston&rightquot;,
+        konstatis la katolika <tld/>estraro en sia letero
+        <fnt>
+          <bib>Monato</bib>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2005/008641.php"
+              >Katolika eklezio ne havas pastrojn</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="eparki.0o">eparkio</ref>
+    <trdgrp lng="de">
+      <trd>Di&ouml;zese</trd>,
+      <trd>Bistum</trd>
+    </trdgrp>
+    <trd lng="fr">dioc&egrave;se<klr tip="ind"> (circonscription
+    eccl&eacute;siastique)</klr></trd>
+    <trd lng="hu">egyh&aacute;zmegye</trd>
+    <trd lng="pl">diecezja</trd>
+   </snc>
+   <snc mrk="diocez.0o.HIS">
+     <uzo tip="fak">HIS</uzo>
+     <dif>
+       En Romio, granda administra unuo konsistanta el pluraj
+       provincoj:
+       <ekz>
+         sub Diokleciano Romio konsistis el 50 provincoj
+         arigitaj en 12 <tld/>ojn.
+       </ekz>
+     </dif>
+     <trdgrp lng="de">
+       <trd>Dioecesis</trd>,
+       <trd>Dioikesis</trd>
+     </trdgrp>
+     <trd lng="grc">&delta;&jota;&omikron;&jota_acute;&kappa;&eta;&sigma;&jota;&sigma_fina;</trd>
+     <trd lng="fr">dioc&egrave;se<klr tip="ind">
+     (antiquit&eacute;)</klr></trd>
+     <trd lng="hu">ker&uuml;let<klr tip="ind">
+     (&oacute;kori)</klr></trd>
+     <trd lng="pl">diecezja</trd>
+     <trd lng="pt">diocese</trd>
+     <trd lng="ru">&c_d;&c_i;&c_o;&c_c;&c_je;&c_z;</trd>
+   </snc>
+  <trd lng="be">&c_d;&c_y;&c_ja;&c_c;&c_e;&c_z;&c_ib;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>biskupstv&iacute;</trd>,
+    <trd>diec&eacute;se</trd>
+  </trdgrp>
+  <trd lng="en">diocese</trd>
+  <trd lng="es">di&oacute;cesis</trd>
+  <trdgrp lng="ja">
+    <trd>&#21496;&#25945;&#21306;  <pr>&#12375;&#12365;&#12423;&#12358;&#12367;</pr></trd>,
+    <trd>&#20027;&#25945;&#21306;  <pr>&#12354;&#12427;&#12376;&#12365;&#12423;&#12358;&#12367;</pr></trd>,
+    <trd>&#30435;&#30563;&#31649;&#21306;  <pr>&#12363;&#12435;&#12392;&#12367;&#12363;&#12435;&#12367;</pr></trd>
+  </trdgrp>
+  <trd lng="pt">diocese</trd>
+  <trd lng="sk">diec&eacute;za</trd>
+  <trd lng="uk">&c_jeu;&c_p;&c_a;&c_r;&c_h;&c_ib;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd>&#25945;&#21306; <pr>ji&agrave;oq&umacron;</pr></trd>,
+    <trd>&#20027;&#25945;&#31649;&#21306; <pr>zh&#468;ji&agrave;ogu&#462;nq&umacron;</pr></trd>
+  </trdgrp>
+</drv>
+  </art>
+  <!--
+  $Log$
+versio 1.23 2024/02/12 18:25:29
+Wolfram Diestel: +ekz-oj, trd de, ref
+
+versio 1.21 2023/10/14 11:26:53
+revo: transskribo per <pr>
+
+  Revision 1.17  2015/06/29 16:29:37  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.16  2010/04/24 17:07:13  revo
+  Russ Williams: +trd en
+
+  Revision 1.15  2009/06/16 16:31:43  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.14  2007/08/05 16:31:06  revo
+  Tulio Flores: +tr pt
+
+  Revision 1.13  2003/12/13 17:33:54  revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.12  2003/05/05 16:32:32  revo
+-->
+</vortaro>

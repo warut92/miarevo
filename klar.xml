@@ -1,0 +1,1316 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: klar.xml,v 1.134 2024/04/10 07:25:30 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>klar</rad>/a <fnt><bib>UV</bib></fnt>
+</kap>
+
+<drv mrk="klar.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="klar.0a.malkonfuza">
+    <dif>
+      Tra kiu oni povas distinge vidi, malkonfuza, pura:
+      <ekz>
+        <tld/>a, fre&scirc;a akvo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a vetero
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Sub la saliko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a, kiel la plej pura vitro
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        farita el blanka <tld/>a marmoro
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li sidas sola en la <tld/>a lumo de la luno
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        glacia malvarmo iris tra la naturo, <klr>[&#8230;]</klr> sed &ccirc;irka&ubreve;e la montoj ricevis
+        belegan verdan tonon, tiel <tld/>an, tiel brilantan
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>aj <klr>(<ref cel="seren.0a">serena</ref>j)</klr> mallongaj someraj vesperoj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malnova strata lanterno</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li vidis inter la folietoj <klr>[&#8230;]</klr> malgrandan knabinon, rigardantan per
+        siaj <tld/>aj okuloj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Sambuka virineto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &scirc;i estis tiel delikata kaj <tld/>a, kiel lunlumo
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Monteto de elfoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>el <tld/>a &ccirc;ielo tondro ekbatis</ind>
+        <klr>(t.e. tute neatendite)</klr>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="de">ein Blitz aus heiterem Himmel</trd>
+        <trd lng="fr">un coup de <ind>tonnerre</ind> dans un ciel
+        serein</trd>
+        <trd lng="pl">jak grom z jasnego nieba</trd>
+        <trd lng="ru">&c_g;&c_r;&c_o;&c_m; &c_s;&c_r;&c_je;&c_d;&c_i; &c_ja;&c_s;&c_n;&c_o;&c_g;&c_o;
+        &c_n;&c_je;&c_b;&c_a;</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="diafan.0a">diafana</ref>,
+      <ref cel="hel.0a.lumplena">hela <sncref/></ref>,
+      <ref tip="super" cel="lum.0a.hela">luma</ref>,
+      <ref cel="net.0a">neta</ref>,
+      <ref cel="preciz.0a">preciza</ref>
+    </refgrp>
+    <trdgrp lng="ca">
+      <trd>n&iacute;tid</trd>,
+      <trd>di&agrave;fan</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>n&iacute;tido</trd>,
+      <trd>di&aacute;fano</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>tiszta</trd>,
+      <trd>vil&aacute;gos</trd>,
+      <trd>der&uuml;lt</trd>
+    </trdgrp>
+    <trd lng="id">bening</trd>
+    <trd lng="nl">klaar<klr tip="ind"> (helder)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>klarowny</trd>,
+      <trd>czysty</trd>,
+      <trd>wyra&zacute;ny</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="klar.0a.malrauxka">
+    <uzo tip="klr">(pri sono)</uzo>
+    <dif>
+      Ne obtuza, mal<ref tip="ant" cel="rauxk.0a.SON">ra&ubreve;ka</ref>;
+      sonanta distingeble por la orelo:
+      <ekz>
+        eksonis neforta, sed <tld/>a vo&ccirc;o
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vo&ccirc;o <tld/>a kaj forta
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li a&ubreve;dis la <tld/>an sonon de martelo kontra&ubreve; amboso
+        <fnt>
+          <bib>HsT</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Niko havis violonon <klr>[&#8230;]</klr> kaj <klr>[li]</klr> e&ccirc; sukcesis, kvankam iom
+        palpe, aperigi kelkajn sufi&ccirc;e <tld/>ajn tonojn
+        <fnt>
+          <bib>HsT</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sonorilo ar&gcirc;entosona, <tld/>a kaj la&ubreve;ta eksonis en la aero
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="hel.0a.sonora">hela<sncref/></ref>.
+    </refgrp>
+    <trdgrp lng="ca">
+      <trd>prec&iacute;s</trd>,
+      <trd>pur</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>preciso</trd>,
+      <trd>puro</trd>
+    </trdgrp>
+    <trd lng="hu">cseng&odblac;</trd>
+    <trd lng="id">jernih</trd>
+    <trd lng="nl">helder</trd>
+    <trdgrp lng="pl">
+      <trd>czysty</trd>,
+      <trd>wyra&zacute;ny</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="klar.0a.komprenebla">
+    <dif>
+      Facile <ref tip="super" cel="kompre.0ebla">komprenebla</ref>; distingebla
+      por la spirito:
+      <ekz>
+        &ccirc;iu penso en nia animo estis <tld/>a por ni amba&ubreve;
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Ligo de amikeco</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen estas mia <tld/>a volo, kiun mi ne forlasos
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne tute <tld/>aj instinktoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tio estis]</klr> <tld/>a <klr>(<ref cel="dub.sen0a">senduba</ref>)</klr> rifuzo
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne<tld/>a koncepto
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>ne<tld/>a</ind> demando
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+        <trdgrp lng="ca">
+          <trd>ambigu</trd>,
+          <trd>incert</trd>
+        </trdgrp>
+        <trdgrp lng="de">
+          <trd>Unklarheit</trd>,
+          <trd><ind>offen</ind>e Frage</trd>
+        </trdgrp>
+        <trdgrp lng="es">
+          <trd>ambiguo</trd>,
+          <trd>confuso</trd>
+        </trdgrp>
+        <trdgrp lng="fr">
+          <trd>pas <ind>clair</ind></trd>,
+          <trd>manquant de <ind>clart&eacute;</ind></trd>,
+          <trd>obscur</trd>
+          <trd>confus</trd>,
+          <trd>flou</trd>,
+          <trd>vague<klr tip="ind"> (adj.)</klr></trd>
+        </trdgrp>
+      </ekz><ekz>
+        <ind>konservu <tld/>econ de la kapo</ind>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 3:21</lok>
+        </fnt>;
+        <trd lng="de">einen <ind>k&uuml;hlen</ind> Kopf bewahren</trd>
+        <trdgrp lng="es">
+          <trd>conserva tu <ind>clarividencia</ind></trd>
+          <trd>guarda tu <ind>lucidez</ind></trd>
+        </trdgrp>
+        <trdgrp lng="fr">
+          <trd>conservez votre <ind>clairvoyance</ind></trd>
+          <trd>gardez votre <ind>lucidit&eacute;</ind></trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        pri <klr>[ties tago]</klr> graveco &scirc;i <klr>[&#8230;]</klr>
+        mem ne havis plenan <tld/>econ
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="eviden.0a">evidenta</ref>,
+      <ref cel="preciz.0a">preciza</ref>
+    </refgrp>
+    <rim>
+      PV asertas, ke
+      <ctl><em>klara</em> ne povas kvalifiki personon</ctl>.
+      Tio estas ne tute &gcirc;usta &dash; almena&ubreve; ja ekzistas la
+      esprimo
+      &leftquot;<tld/>a kapo&rightquot;, kiu karakterizas personon:
+      <ekz>
+        vi havos tian <tld/>an kapon, ke &ccirc;ion, kio en via &ccirc;eesto
+        estos rakontata a&ubreve; legata, vi &ccirc;ion vidos anta&ubreve; vi kiel
+        vivantan
+        <fnt><bib>Fab2</bib>, <lok>Malnova strata
+        lanterno</lok></fnt>;
+      </ekz><ekz>
+        Ivano konstatis, <klr>[&#8230;]</klr> ke <nom>Stravinskij</nom> estas
+        <tld/>a kapo kaj famulo
+        <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 11a</lok></fnt>.
+      </ekz>
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+    <trdgrp lng="ca">
+      <trd>senzill</trd>,
+      <trd>obvi</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>sencillo</trd>,
+      <trd>obvio</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>vil&aacute;gos</trd>,
+      <trd>szabatos</trd>,
+      <trd>&eacute;rthet&odblac;</trd>
+    </trdgrp>
+    <trd lng="id">jelas</trd>
+    <trd lng="nl">duidelijk</trd>
+    <trdgrp lng="pl">
+      <trd>jasny</trd>,
+      <trd>zrozumia&lstroke;y</trd>,
+      <trd>wyra&zacute;ny</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_ja;&c_s;&c_n;&c_y;</trd>
+  <trd lng="bo">&t_ga;&t_sa;&t_la;&t_tsheg;&t_pa;&t_naro;&t_tsheg;</trd>
+  <trd lng="ca">clar</trd>
+  <trdgrp lng="cs">
+    <trd>jasn&yacute;</trd>,
+    <trd>pr&uring;hledn&yacute;</trd>,
+    <trd>srozumiteln&yacute;</trd>,
+    <trd>z&rcaron;eteln&yacute;</trd>,
+    <trd>&ccaron;ir&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">klar</trd>
+  <trd lng="en">clear<klr> (adj)</klr></trd>
+  <trd lng="es">claro</trd>
+  <trdgrp lng="fr">
+    <trd>clair</trd>,
+    <trd>compr&eacute;hensible</trd>,
+    <trd>intelligible</trd>,
+    <trd>limpide</trd>,
+    <trd>net</trd>,
+  </trdgrp>
+  <trd lng="he">&bet;&resh;&vav;&resh;</trd>
+  <trdgrp lng="ja">
+    <trd>&#28548;&#12415;&#12365;&#12387;&#12383;  <pr>&#12377;&#12415;&#12365;&#12387;&#12383;</pr></trd>,
+    <trd>&#26126;&#12427;&#12356;  <pr>&#12354;&#12363;&#12427;&#12356;</pr></trd>,
+    <trd>&#26126;&#30637;&#12394;  <pr>&#12417;&#12356;&#12426;&#12423;&#12358;&#12394;</pr></trd>,
+    <trd>&#26126;&#30333;&#12394;  <pr>&#12417;&#12356;&#12399;&#12367;&#12394;</pr></trd>
+  </trdgrp>
+  <trd lng="ne">&#2360;&#2381;&#2346;&#2359;&#2381;&#2335;</trd>
+  <trd lng="oc">clar</trd>
+  <trdgrp lng="ro">
+    <trd>clar</trd>,
+    <trd>limpede</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_ja;&c_s;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_ch;&c_jo;&c_t;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_o;&c_t;&c_ch;&c_jo;&c_t;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>jasn&yacute;</trd>,
+    <trd>zrete&lcaron;n&yacute;</trd>,
+    <trd>&ccaron;&iacute;ry</trd>
+  </trdgrp>
+  <trd lng="sv">klar</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ja;&c_s;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_v;&c_ib;&c_t;&c_l;&c_i;&c_j;</trd>,
+    <trd>&c_ch;&c_i;&c_s;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_ch;&c_ib;&c_t;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_i;&c_r;&c_a;&c_z;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_z;&c_r;&c_o;&c_z;&c_u;&c_m;&c_ib;&c_l;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#28165;&#26224; <pr>q&imacron;ngx&imacron;</pr></trd>,
+    <trd>&#27983; <pr>li&uacute;</pr></trd>,
+    <trd>&#28386; <pr>y&iacute;ng</pr></trd>,
+    <trd>&#28165;&#26970; <pr>q&imacron;ngchu</pr></trd>,
+    <trd>&#39854;&#26126; <pr>xi&amacron;nm&iacute;ng</pr></trd>,
+    <trd>&#28548; <pr>ch&eacute;ng</pr></trd>,
+    <trd>&#20998;&#26126; <pr>f&emacron;nm&iacute;ng</pr></trd>,
+    <trd>&#28165;&#20142; <pr>q&imacron;ngli&agrave;ng</pr></trd>,
+    <trd>&#28165;&#28552; <pr>q&imacron;ngch&egrave;</pr></trd>,
+    <trd>&#26193; <pr>xi&#462;ng</pr></trd>,
+    <trd>&#27866; <pr>c&#464;</pr></trd>,
+    <trd>&#26391; <pr>l&#462;ng</pr></trd>,
+    <trd>&#24432; <pr>zh&amacron;ng</pr></trd>,
+    <trd>&#26126;&#30333; <pr>m&iacute;ngbai</pr></trd>,
+    <trd>&#26126;&#20102; <pr>m&iacute;ngli&#462;o</pr></trd>,
+    <trd>&#26228; <pr>q&iacute;ng</pr></trd>,
+    <trd>&#29628; <pr>c&#464;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="klar.0e">
+  <kap><tld/>e</kap>
+  <dif>
+    Distingeble:
+  </dif>
+  <snc mrk="klar.0e.malkonfuze">
+    <dif>
+      por la okulo a&ubreve; imago:
+      <ekz>
+        skribu tre <tld/>e sur la &scirc;tonoj &ccirc;iujn vortojn de &ccirc;i tiu instruo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Readmono 27:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la jura konsilisto ekvidis tute <tld/>e anta&ubreve; si brulantan lanternon
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[en la]</klr> lumo de la steloj <klr>[&#8230;]</klr> ni vidis <tld/>e la
+        konturojn de &ccirc;iuj montoj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Ligo de amikeco</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ankora&ubreve; unu aferon &scirc;i vidis <tld/>e kaj precize: la blankan viza&gcirc;eton de Janjo
+        kaj la grandajn nigrajn okulojn <klr>[&#8230;]</klr> kiel sen&ccirc;esa, trudi&gcirc;a rememoro
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi preska&ubreve; tute <tld/>e povas tion prezenti al mi
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malnova strata lanterno</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        mi memoras ankora&ubreve; <tld/>e lian viza&gcirc;on
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Dano Holger</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">clearly</trd>
+    <trdgrp lng="hu">
+      <trd>tiszt&aacute;n</trd>,
+      <trd>vil&aacute;gosan</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>klarownie</trd>,
+      <trd>czysto</trd>,
+      <trd>wyra&zacute;nie</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="klar.0e.SON">
+    <dif>
+      por la orelo:
+      <ekz>
+        oni <tld/>e a&ubreve;dis sonon de rompi&gcirc;o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili kantis kaj Johano rekonis tre <tld/>e &ccirc;iujn belajn melodiojn, kiujn li lernis
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;ion, kion &gcirc;i sentis silente, la malgranda ala&ubreve;do tiel <tld/>e kaj bele kantis
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Lekanto</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+    <trd lng="en">clearly</trd>
+    <trd lng="hu">tiszt&aacute;n</trd>
+    <trdgrp lng="pl">
+      <trd>czysto</trd>,
+      <trd>wyra&zacute;nie</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="klar.0e.kompreneble">
+    <dif>
+      por la spirito:
+      <ekz>
+        mi <tld/>e avertis viajn patrojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 11:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        hipokritulo, eligu unue la trabon el via okulo, kaj tiam vi <tld/>e vidos, por
+        eltiri la lignereton el la okulo de via frato
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 7:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li povoscias konservi la ideojn kaj sentojn, &gcirc;is ili <tld/>e kaj precize ricevas
+        la formon de vortoj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi povos <tld/>e kaj precize rememori <klr>[&ccirc;]</klr>ion,
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malnova strata lanterno</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la unua sento, kiu <tld/>e veki&gcirc;is en &scirc;i, estis &dash; envio
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="cert.0e">certe</ref>,
+      <ref cel="kompre.0eble.maniero">kompreneble</ref>,
+      <ref cel="eviden.0e">evidente</ref>,
+      <ref cel="preciz.0e">precize</ref>,
+      <ref cel="dub.sen0e">sendube</ref>
+    </refgrp>
+    <trdgrp lng="en">
+      <trd>clearly</trd>,
+      <trd>plainly</trd>,
+      <trd>with <ind>clarity</ind></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>&eacute;rthet&odblac;en</trd>,
+      <trd>szabatosan</trd>,
+      <trd>vil&aacute;gosan</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>jasno</trd>,
+      <trd>zrozumiale</trd>,
+      <trd>wyra&zacute;nie</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="af">duidelik</trd>
+  <trd lng="am">&#4877;&#4621;&#4933;</trd>
+  <trd lng="ar">&a_w;&a_A;&a_D;&a_H;</trd>
+  <trd lng="az">ayd&inodot;n</trd>
+  <trdgrp lng="be">
+    <trd>&c_ja;&c_s;&c_n;&c_a;</trd>,
+    <trd>&c_ch;&c_y;&c_s;&c_t;&c_a;</trd>,
+    <trd>&c_v;&c_y;&c_r;&c_a;&c_z;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bn">&#2488;&#2509;&#2474;&#2487;&#2509;&#2463;</trd>
+  <trd lng="bs">jasno</trd>
+  <trdgrp lng="ca">
+    <trd>clarament</trd>,
+    <trd>manifestament</trd>
+  </trdgrp>
+  <trd lng="co">chjaru</trd>
+  <trd lng="cy">glir</trd>
+  <trd lng="da">klar</trd>
+  <trdgrp lng="de">
+    <trd>klar</trd>,
+    <trd>eindeutig</trd>
+  </trdgrp>
+  <trd lng="es">claramente</trd>
+  <trd lng="et">selge</trd>
+  <trd lng="eu">argi</trd>
+  <trdgrp lng="fr">
+    <trd>clairement</trd>,
+    <trd>distinctement</trd>,
+    <trd>nettement</trd>
+  </trdgrp>
+  <trd lng="fy">opklearje</trd>
+  <trd lng="ga">soil&eacute;ir</trd>
+  <trd lng="gd">soilleir</trd>
+  <trd lng="gl">claro</trd>
+  <trd lng="gu">&#2730;&#2750;&#2736;&#2726;&#2736;&#2765;&#2742;&#2709;</trd>
+  <trd lng="he">&bet;&bet;&resh;&vav;&resh;</trd>
+  <trd lng="hi">&#2360;&#2381;&#2346;&#2359;&#2381;&#2335;</trd>
+  <trd lng="hmn">ntshiab</trd>
+  <trd lng="hr">jasno</trd>
+  <trd lng="ht">kl&egrave;</trd>
+  <trd lng="hy">&#1402;&#1377;&#1408;&#1382;</trd>
+  <trd lng="ig">doro anya</trd>
+  <trd lng="is">lj&oacute;st</trd>
+  <trd lng="ja">&#26126;&#30906;&#12394; <pr>&#12417;&#12356;&#12363;&#12367;&#12394;</pr></trd>
+  <trd lng="jv">cetha</trd>
+  <trd lng="ka">&#4316;&#4304;&#4311;&#4308;&#4314;&#4312;</trd>
+  <trd lng="kk">&c_a;&c_j;&#1179;&c_y;&c_n;</trd>
+  <trd lng="km">&#6021;&#6098;&#6036;&#6070;&#6047;&#6091;&#6043;&#6070;&#6047;&#6091;</trd>
+  <trd lng="kn">&#3256;&#3277;&#3242;&#3255;&#3277;&#3231;</trd>
+  <trd lng="ko">&#47749;&#54869;&#54620;</trd>
+  <trd lng="ku">zelal</trd>
+  <trd lng="ky">&c_a;&c_ch;&c_y;&c_k;</trd>
+  <trd lng="lat">patet</trd>
+  <trd lng="lo">&#3720;&#3760;&#3777;&#3720;&#3785;&#3719;</trd>
+  <trd lng="lt">ai&scaron;ku,</trd>
+  <trd lng="lv">skaidrs</trd>
+  <trd lng="mg">mazava</trd>
+  <trd lng="mi">m&#5585;rama</trd>
+  <trd lng="mk">&#1112;&c_a;&c_s;&c_n;&c_o;</trd>
+  <trd lng="ml">&#3364;&#3398;&#3379;&#3391;&#3358;&#3405;&#3358;</trd>
+  <trd lng="mn">&c_t;&c_o;&c_d;&c_o;&c_r;&c_h;&c_o;&c_j;</trd>
+  <trd lng="mr">&#2360;&#2381;&#2346;&#2359;&#2381;&#2335;</trd>
+  <trd lng="ms">jelas</trd>
+  <trd lng="mt">&#267;ara</trd>
+  <trd lng="my">&#4123;&#4158;&#4100;&#4154;&#4152;&#4124;&#4100;&#4154;&#4152;&#4126;&#4145;&#4140;</trd>
+  <trd lng="nl">duidelijk</trd>
+  <trd lng="ny">momveka</trd>
+  <trd lng="pa">&#2566;&#2616;&#2606;&#2622;&#2600; &#2616;&#2622;&#2603;</trd>
+  <trd lng="pl">jasno</trd>
+  <trd lng="ps">&a_r;&a_w;&#1690;&a_A;&a_n;&a_h;</trd>
+  <trd lng="ru">&c_ja;&c_s;&c_n;&c_o;</trd>
+  <trd lng="rw">bisobanutse</trd>
+  <trd lng="sd">&a_w;&a_A;&a_D;&a_H;</trd>
+  <trd lng="si">&#3508;&#3536;&#3524;&#3536;&#3503;&#3538;&#3517;&#3538;</trd>
+  <trd lng="sl">jasno</trd>
+  <trd lng="sm">manino</trd>
+  <trd lng="sn">pachena</trd>
+  <trd lng="so">cad</trd>
+  <trd lng="sq">qart&euml;</trd>
+  <trd lng="st">hlakileng</trd>
+  <trd lng="su">atra</trd>
+  <trd lng="sv">klart</trd>
+  <trd lng="sw">wazi</trd>
+  <trd lng="ta">&#2980;&#3014;&#2995;&#3007;&#2997;&#3006;&#2985;</trd>
+  <trd lng="te">&#3128;&#3149;&#3114;&#3127;&#3149;&#3103;&#3118;&#3144;&#3112;</trd>
+  <trd lng="tg">&c_r;&c_a;&c_v;&c_sh;&c_a;&c_n;</trd>
+  <trd lng="th">&#3607;&#3637;&#3656;&#3594;&#3633;&#3604;&#3648;&#3592;&#3609;</trd>
+  <trd lng="tl">malinaw</trd>
+  <trd lng="tt">&c_ch;&c_i;&c_s;&c_t;&c_a;</trd>
+  <trd lng="uk">&c_ja;&c_s;&c_n;&c_o;</trd>
+  <trd lng="ur">&a_w;&a_A;&a_D;&a_H;</trd>
+  <trd lng="uz">aniq</trd>
+  <trd lng="vi">trong</trd>
+  <trd lng="xh">ecacileyo</trd>
+  <trd lng="yi">&qof;&lamed;&alef;&#1464;&resh;</trd>
+  <trd lng="yo">ko o</trd>
+  <trd lng="zh">&#30524;&#35211;&#24471; <pr>y&#462;nji&agrave;nde</pr></trd>
+  <trd lng="zu">ecacile</trd>
+</drv>
+
+<drv mrk="klar.0igi">
+  <kap><tld/>igi</kap>
+  <dif>
+    Igi <tld/>a; malkonfuzi:
+  </dif>
+  <snc mrk="klar.0igi.malkonfuzi" ref="klar.0a.malkonfuza">
+    <ekz>
+      <nom>Marta</nom> vi&scirc;is per la mano siajn okulojn, kvaza&ubreve; &scirc;i volus <tld/>igi sian rigardon
+      <fnt>
+        <bib>Marta</bib>
+      </fnt>;
+    </ekz>
+    <ekz>
+      la azeno mal<tld/>igas &gcirc;in per siaj piedoj, tamen la akvo fluas pluen kaj
+      fari&gcirc;as denove <tld/>a
+      <fnt>
+        <bib>Fab1</bib>
+        <lok>Ligo de amikeco</lok>
+      </fnt>.
+    </ekz>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_a;&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_a;&c_ja;&c_s;&c_mol;&c_n;&c_ja;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="en">to clarify</trd>
+    <trd lng="de">kl&auml;ren</trd>
+    <trd lng="en">clarify</trd>
+    <trd lng="es">esclarecer</trd>
+    <trd lng="he">&lamed;&nun;&qof;&vav;&tav; \<ind>&nun;&qof;&he;</ind>\</trd>
+    <trdgrp lng="hu">
+      <trd>der&iacute;t</trd>,
+      <trd>&uuml;lep&iacute;t</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>rozja&sacute;nia&cacute;</trd>,
+      <trd>klarowa&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_r;&c_o;&c_ja;&c_s;&c_n;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_s;&c_v;&c_je;&c_t;&c_l;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_ch;&c_i;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="klar.0igi.SON" ref="klar.0a.malrauxka">
+    <ekz>
+      tusetante, por <tld/>igi la vo&ccirc;on, Kruko komencas
+      <fnt>
+        <bib>KrB</bib>
+      </fnt>;
+    </ekz>
+    <ekz>
+      li <tld/>igis sian vo&ccirc;on kaj jene rakontis <klr>[&#8230;]</klr>
+      <fnt>
+        <aut>J. Ribillard</aut>,
+        <vrk>Vagado sub palmoj</vrk>,
+        <lok>Rotterdam, 1956</lok>
+      </fnt>.
+    </ekz>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_ch;&c_y;&c_sh;&c_ch;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="de">kl&auml;ren</trd>
+    <trd lng="en">to clear from impediment</trd>
+    <trd lng="es">aclarar</trd>
+    <trdgrp lng="he">
+      <trd>&lamed;<ind>&kaf;&ayin;&kaf;&ayin;</ind></trd>,
+      <trd>&lamed;<ind>&kaf;&het;&kaf;&het;</ind></trd>,
+      <trd>&lamed;<ind>&het;&kaf;&fkaf;</ind></trd>
+    </trdgrp>
+    <trd lng="hu">k&ouml;sz&ouml;r&uuml;li <klr tip="ind">(a
+    tork&aacute;t)</klr></trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_ch;&c_i;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="klar.0igi.komprenebligi" ref="klar.0a.komprenebla">
+    <ekz>
+      <tld/>igi la uzadon de la vortaro
+      <fnt>
+        <bib>FK</bib>
+      </fnt>;
+    </ekz>
+    <ekz>
+      mi <tld/>igos tion &ccirc;i per ekzemplo
+      <fnt>
+        <bib>FK</bib>
+      </fnt>;
+    </ekz>
+    <ekz>
+      mi turnas la atenton <klr>[&#8230;]</klr> al la <tld/>igita punkto
+      <fnt>
+        <bib>FK</bib>
+      </fnt>;
+    </ekz>
+    <ekz>
+      li signifo<tld/>igis al ni niajn son&gcirc;ojn, al &ccirc;iu li <tld/>igis la&ubreve; lia son&gcirc;o
+      <fnt>
+        <bib>MT</bib>
+        <lok>Genezo 41:12</lok>
+      </fnt>;
+    </ekz>
+    <ekz>
+      ne<tld/>igebla malamikeco
+      <fnt>
+        <bib>FK</bib>
+      </fnt>;
+    </ekz>
+    <ekz>
+      ni reciproke nin konas, <tld/>igon ne bezonas
+      <fnt>
+        <bib>PrV</bib>
+      </fnt>.
+    </ekz>
+    <refgrp tip="vid">
+      <ref cel="ekspli.0i">ekspliki</ref>,
+      <ref cel="koment1.0i">komenti</ref>,
+      <ref cel="kompre.0igi">komprenigi</ref>,
+      <ref cel="volv.mal0i">malvolvi</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_y;&c_s;&c_mol;&c_v;&c_je;&c_t;&c_l;&c_ib;&c_c;&c_mol;</trd>,
+      <trd>&c_r;&c_a;&c_s;&c_t;&c_l;&c_u;&c_m;&c_a;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_a;&c_t;&c_l;&c_u;&c_m;&c_a;&c_ch;&c_y;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>erkl&auml;ren</trd>,
+      <trd>erl&auml;utern</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>explain</trd>,
+      <trd>clarify</trd>,
+      <trd>make <ind>evident</ind></trd>,
+      <trd>elucidate</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>explicar</trd>,
+      <trd>clarificar</trd>,
+      <trd>aclarar</trd>
+    </trdgrp>
+    <trdgrp lng="he">
+      <trd>&lamed;&he;&samekh;&bet;&yod;&resh; \<ind>&samekh;&bet;&resh;</ind>\</trd>,
+      <trd>&lamed;&he;&bet;&he;&yod;&resh; \<ind>&bet;&he;&resh;</ind>\</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>tiszt&aacute;z</trd>,
+      <trd>magyar&aacute;z</trd>,
+      <trd>felvil&aacute;gos&iacute;t</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>verduidelijken</trd>,
+      <trd>duidelijk maken</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>wyja&sacute;nia&cacute;</trd>,
+      <trd>obja&sacute;nia&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_b;&c_malmol;&c_ja;&c_s;&c_n;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_o;&c_ja;&c_s;&c_n;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_v;&c_y;&c_ja;&c_s;&c_n;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ca">aclarir</trd>
+  <trdgrp lng="cs">
+    <trd>klarifikovat</trd>,
+    <trd>objas&ncaron;ovat</trd>,
+    <trd>ujas&ncaron;ovat</trd>,
+    <trd>vykl&aacute;dat</trd>,
+    <trd>vysv&ecaron;tlovat</trd>
+  </trdgrp>
+  <trd lng="es">aclarar</trd>
+  <trdgrp lng="fr">
+    <trd>clarifier</trd>,
+    <trd>&eacute;claircir</trd>,
+    <trd>&eacute;clairer<klr tip="ind"> (expliquer)</klr></trd>,
+    <trd>expliquer</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>men<ind>jelas</ind>kan</trd>,
+    <trd>meng<ind>klarifikasi</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#35500;&#26126;&#12377;&#12427;  <pr>&#12379;&#12388;&#12417;&#12356;&#12377;&#12427;</pr></trd>,
+    <trd>&#26126;&#12425;&#12363;&#12395;&#12377;&#12427;  <pr>&#12354;&#12365;&#12425;&#12363;&#12395;&#12377;&#12427;</pr></trd>,
+    <trd>&#28548;&#12414;&#12379;&#12427;  <pr>&#12377;&#12414;&#12379;&#12427;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>objas&ncaron;ova&tcaron;</trd>,
+    <trd>vysvet&lcaron;ova&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">f&ouml;rklara</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&#8217;&c_ja;&c_s;&c_o;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_ja;&c_s;&c_n;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_o;&c_ja;&c_s;&c_n;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_t;&c_l;&c_u;&c_m;&c_a;&c_ch;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_o;&c_ch;&c_i;&c_shch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_o;&c_ch;&c_i;&c_shch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_o;&c_s;&c_v;&c_ib;&c_t;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#28548;&#28165; <pr>d&egrave;ngq&imacron;ng</pr></trd>,
+    <trd>&#26597;&#28165; <pr>ch&aacute;q&imacron;ng</pr></trd>,
+    <trd>&#28548;&#28165; <pr>ch&eacute;ngq&imacron;ng</pr></trd>,
+    <trd>&#20132;&#20195; <pr>ji&amacron;od&agrave;i</pr></trd>,
+    <trd>&#20132;&#24453; <pr>ji&amacron;od&agrave;i</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="klar.0igo">
+  <kap>
+    <tld/>igo
+  </kap>
+  <snc>
+    <dif>
+      Ago <tld/>igi; io kio helpas komprenon:
+      <ekz>
+        sur tri pa&gcirc;oj ku&scirc;as anta&ubreve;<tld/>igo
+        <klr>(kp <ref cel="parol.antaux0o">anta&ubreve;parolo</ref>,
+        <ref cel="konduk.en0o.antauparolo">enkonduko<sncref/></ref>)</klr>
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen estas &gcirc;ia signifo<tld/>igo: la tri bran&ccirc;oj estas tri tagoj <klr>[&#8230;]</klr>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 40:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Jozefo krom la <ind>signifo<tld/>igado de son&gcirc;oj</ind> estas utiligebla anka&ubreve; por aliaj,
+        pli gravaj aferoj
+        <fnt>
+          <bib>Skandal Jozef</bib>
+        </fnt>;
+        <trd lng="de">Traumdeutung</trd>
+      </ekz>
+      <ekz>
+        &ccirc;iu etikedo donu <ind>uz-<tld/>igo</ind>jn kaj listigu ingrediencojn
+        <fnt>
+          <aut>Marteno Ecott</aut>
+          <vrk><url ref="&Monato;/2001/007201.php">Invadas la angla</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/02, p. 15</lok>
+        </fnt>;
+        <trdgrp lng="de">
+          <trd>Gebrauchsanleitung</trd>,
+          <trd><ind>Hinweistext</ind> f&uuml;r die Benutzung</trd>
+        </trdgrp>
+        <trd lng="nl">gebruiksaanwijzing</trd>
+      </ekz>
+      <ekz>
+        se oni demandis, <klr>[&#8230;]</klr> &scirc;i diris: &leftquot;&ccirc;io estas <tld/>igita en la
+        <klr>[&#8230;]</klr> libro&rightquot;, kvankam la libro efektive ne ta&ubreve;gis, <klr>[&#8230;]</klr> se
+        kliento ne kontenti&gcirc;is per tiu <ind>evit<tld/>igo</ind>, &scirc;i <klr>[&#8230;]</klr> sendis la
+        klienton al mi por <tld/>igo
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>;
+        <trdgrp lng="de">
+          <trd>ausweichende <ind>Antwort</ind></trd>
+          <trd><ind>vorgeschoben</ind>e Erkl&auml;rung</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        mi <klr>[&#8230;]</klr> anka&ubreve; korektas la lingva&jcirc;on de la leteroj la&ubreve; vort<tld/>igoj
+        en PIV
+        <fnt>
+          <aut>Aimo Rantanen</aut>
+          <vrk><url ref="&Monato;/2001/007973.html">Monato sin prezentas</url></vrk>
+          <bib>Monato</bib>
+          <lok>2002/12, p. 6</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_l;&c_u;&c_m;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="de">Erkl&auml;rung</trd>
+  <trd lng="en">explanation</trd>
+  <trd lng="fr">explication</trd>
+  <trdgrp lng="id">
+    <trd>pen<ind>jelas</ind>an</trd>,
+    <trd>klarifikasi</trd>,
+    <trd>ke<ind>terang</ind>an</trd>
+  </trdgrp>
+  <trd lng="ja">&#35500;&#26126;  <pr>&#12379;&#12388;&#12417;&#12356;</pr></trd>
+  <trd lng="pl">wyja&sacute;nienie</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&#8217;&c_ja;&c_s;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_o;&c_ja;&c_s;&c_n;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_o;&c_ch;&c_i;&c_shch;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#35299;&#37322; <pr>ji&ecaron;sh&igrave;</pr></trd>,
+    <trd>&#32034;&#35299; <pr>su&#466;ji&ecaron;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="klar.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="klar.mal0a.konfuza">
+    <dif>
+      <ref cel="konfuz.0a">Konfuza</ref> por la okulo,
+      orelo a&ubreve; spirito:
+      <ekz>
+        mal<tld/>aj okuloj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 23:29</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> vidante lian palan viza&gcirc;on kaj mal<tld/>an rigardon, ekkriis kun
+        timo
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mal<tld/>a fonto
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 25:26</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ne volis trinki la vinon, &ccirc;ar &gcirc;i enhavis en si ian suspektan mal<tld/>a&jcirc;on
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 35</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anstata&ubreve; vino li enver&scirc;is en mian glason ian malagrablan acida&jcirc;on, kaj tiun &ccirc;i
+        mal<tld/>an fluida&jcirc;on li devigis min eltrinki
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        akvaj fluegoj <klr>[&#8230;]</klr> mal<tld/>aj pro glacio
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 6:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        iliaj oreloj a&ubreve;das mal<tld/>e
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 13:15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lingvo mal<tld/>a kaj nedistingebla
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 33:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la maljunulino <klr>[&#8230;]</klr> havis mal<tld/>an vidon
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ha&ccirc;jo kaj Grenjo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de la centro de la urbo flugis mal<tld/>a bruo, mutigata de la interspaco
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la vo&ccirc;oj en la komenco mal<tld/>aj, fari&gcirc;is pli kaj pli fortaj, kaj oni povis
+        jam a&ubreve;di &ccirc;iun vorton
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;agreno mal<tld/>igis la prudenton de la elpelitaj soldatoj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XXI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        leteroj <klr>[&#8230;]</klr> kun sufi&ccirc;e mal<tld/>aj adresoj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en akvo mal<tld/>a oni fi&scirc;kaptas facile
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <ind>mal<tld/>igi</ind> rivereton.
+        <trdgrp lng="ca">
+          <trd>atorrollar</trd>,
+          <trd>contorbar</trd>
+        </trdgrp>
+        <trdgrp lng="en">
+          <trd>to obscure</trd>,
+          <trd>confound</trd>
+        </trdgrp>
+        <trdgrp lng="es">
+          <trd>enturbiar</trd>,
+          <trd>oscurecer</trd>,
+          <trd>obscurecer</trd>,
+          <trd>enredar</trd>
+        </trdgrp>
+        <trdgrp lng="fr">
+          <trd>troubler<klr tip="ind"> (rendre trouble)</klr></trd>,
+          <trd>brouiller</trd>
+        </trdgrp>
+        <trdgrp lng="pl">
+          <trd>zaciemnia&cacute;</trd>,
+          <trd>za&cacute;miewa&cacute;</trd>,
+          <trd>zak&lstroke;&oacute;ca&cacute;</trd>,
+          <trd>m&aogonek;ci&cacute;</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="enigm.0a">enigma</ref>,
+      <ref cel="hierog.0o">hieroglifa</ref>,
+      <ref cel="mister.0a">mistera</ref>,
+      <ref cel="nebul.0a">nebula</ref>,
+      <ref cel="nub.0a">nuba</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_ja;&c_ja;&c_s;&c_n;&c_y;</trd>,
+    <trd>&c_c;&c_mol;&c_m;&c_ja;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_m;&c_u;&c_t;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>fosc</trd>,
+    <trd>brut</trd>,
+    <trd>dif&uacute;s</trd>,
+    <trd>misteri&oacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kaln&yacute;</trd>,
+    <trd>nejasn&yacute;</trd>,
+    <trd>nez&rcaron;eteln&yacute;</trd>,
+    <trd>temn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>unklar</trd>,
+    <trd>tr&uuml;be</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>obscure<klr> (adj)</klr></trd>,
+    <trd>unclear<klr> (adj)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>oscuro</trd>,
+    <trd>turbio</trd>,
+    <trd>confuso</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>trouble<klr tip="ind"> (adj.)</klr></trd>,
+    <trd>brumeux<klr tip="ind"> (embrouill&eacute;)</klr></trd>,
+    <trd>confus</trd>,
+    <trd>embrouill&eacute;</trd>,
+    <trd>flou<klr tip="ind"> (adj.)</klr></trd>,
+    <trd>vague<klr tip="ind"> (adj.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&mem;&ayin;&vav;&resh;&pe;&lamed;</trd>,
+    <trd>&ayin;&kaf;&vav;&resh;</trd>,
+    <trd>&samekh;&tav;&vav;&fmem;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>zavaros</trd>,
+    <trd>tiszt&aacute;zatlan</trd>,
+    <trd>&eacute;rthetetlen</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>kabur</trd>,
+    <trd>samar</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#28609;&#12387;&#12383;  <pr>&#12395;&#12372;&#12387;&#12383;</pr></trd>,
+    <trd>&#26311;&#12387;&#12383;  <pr>&#12367;&#12418;&#12387;&#12383;</pr></trd>,
+    <trd>&#19981;&#26126;&#30637;&#12394;  <pr>&#12405;&#12417;&#12356;&#12426;&#12423;&#12358;&#12394;</pr></trd>,
+    <trd>&#28448;&#28982;&#12392;&#12375;&#12383;  <pr>&#12400;&#12367;&#12380;&#12435;&#12392;&#12375;&#12383;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">onduidelijk</trd>
+  <trdgrp lng="pl">
+    <trd>niewyra&zacute;ny</trd>,
+    <trd>niejasny</trd>,
+    <trd>m&eogonek;tny</trd>,
+    <trd>nieczysty</trd>,
+    <trd>zagmatwany</trd>,
+    <trd>nieostry <klr>(fot.)</klr></trd>
+  </trdgrp>
+  <trd lng="ro">confuz</trd>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_je;&c_ja;&c_s;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_m;&c_u;&c_t;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_s;&c_m;&c_u;&c_t;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kaln&yacute;</trd>,
+    <trd>nejasn&yacute;</trd>,
+    <trd>neostr&yacute; <klr>(fot.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>oklar</trd>,
+    <trd>otydlig</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_je;&c_ja;&c_s;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_m;&c_u;&c_t;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_v;&c_i;&c_r;&c_a;&c_z;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_ch;&c_ib;&c_t;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_t;&c_u;&c_m;&c_a;&c_n;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_z;&c_r;&c_o;&c_z;&c_u;&c_m;&c_ib;&c_l;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#19981;&#28152;&#26970; <pr>b&ugrave;q&imacron;ngch&#468;</pr></trd>,
+    <trd>&#28127; <pr>ti&#462;n</pr></trd>,
+    <trd>&#27985;&#28982; <pr>h&uacute;nr&aacute;n</pr></trd>,
+    <trd>&#19981;&#26126;&#30830; <pr>b&ugrave;m&iacute;ngqu&egrave;</pr></trd>,
+    <trd>&#33579; <pr>m&aacute;ng</pr></trd>,
+    <trd>&#40686; <pr>t&aacute;n</pr></trd>,
+    <trd>&#27985;&#27978; <pr>h&uacute;nzhu&oacute;</pr></trd>,
+    <trd>&#24627; <pr>hu&#462;ng</pr></trd>,
+    <trd>&#26279; <pr>&agrave;i</pr></trd>,
+    <trd>&#26263;&#26151; <pr>&agrave;nm&egrave;i</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="klar.mem0a">
+  <kap>mem<tld/>a</kap>
+  <snc mrk="klar.mem0a.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="eviden.0a">Evidenta</ref>,
+      <ref tip="vid" cel="kompre.mem0ebla">memkomprenebla</ref>:
+      <ekz>
+        kelkaj el tiuj sintagmoj estas mem<tld/>aj,
+        aliaj estas iom idiotismaj
+        <fnt>
+          <aut>J. Henry</aut>,
+          <vrk><url ref="http://jimhenry.conlang.org/conlang/tokipona/lecionoj/lecion03.htm">
+          Baza Lecionaro de Tokipono</url></vrk>,
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se la sekso de persono estas mem<tld/>a, la in-sufikso superfluas
+        <fnt>
+          <aut>Vil&ccirc;jo Simcock</aut>
+          <vrk><url ref="&Monato;/2006/008876.php">Angie kaj Bush</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/03, p. 6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kial grandskale okazas tia seksa aberacio inter pastroj? la kialo estas
+        mem<tld/>a, kaj la problemon povas solvi la papo
+        <fnt>
+          <aut>W. H. Simcock</aut>
+          <vrk><url ref="&Monato;/2007/009363.php">Kial pastroj ne edzi&gcirc;u?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2007/12, p. 6</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>selbsterkl&auml;rend</trd>,
+      <trd>offensichtlich</trd>,
+      <trd>evident</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_ib;&c_d;&c_a;&c_v;&c_o;&c_ch;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_u;&c_m;&c_n;&c_je;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_ja;&c_w;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>manifest</trd>,
+    <trd>palmari</trd>
+  </trdgrp>
+  <trd lng="en">self-evident</trd>
+  <trdgrp lng="es">
+    <trd>evidente</trd>,
+    <trd>palmario</trd>,
+    <trd>patente</trd>,
+    <trd>manifiesto</trd>
+  </trdgrp>
+  <trd lng="fr">transparent<klr> (&eacute;vident)</klr></trd>
+  <trd lng="pl">oczywisty</trd>
+  <trd lng="zh">&#19981;&#35328;&#33258;&#26126; <pr>b&ugrave;y&aacute;nz&igrave;m&iacute;ng</pr></trd>
+</drv>
+
+<drv mrk="klar.map0igo">
+  <kap>
+    map<tld/>igo
+  </kap>
+  <snc mrk="klar.map0igo.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Parto de <ref tip="malprt" cel="map.0o">mapo</ref> kie estas <tld/>igitaj la uzitaj simboloj
+      kaj la skalo.
+    </dif>
+    <rim>
+      En malnovaj mapoj, tiuj klarigoj ofte estis enkadritaj de
+      <ref cel="kartus.0o">kartu&scirc;o</ref>.
+    </rim>
+    <trd lng="ca">llegenda</trd>
+    <trd lng="fr">l&eacute;gende</trd>
+    <trd lng="id"><ind>legenda</ind> (peta)</trd>
+    <trd lng="pl">legenda<klr> (mapy)</klr></trd>
+  </snc>
+<trd lng="be">&c_l;&c_je;&c_g;&c_je;&c_n;&c_d;&c_a; &c_m;&c_a;&c_p;&c_y;</trd>
+<trd lng="de">Kartenlegende</trd>
+</drv>
+
+<drv mrk="klar.signo0o">
+  <kap>
+    signo<tld/>igo
+  </kap>
+  <snc>
+    <dif>
+      Parto de grafika prezento (mapo, diagramo ks), kie la signifo de la grafikaj
+      elementoj estas klarigitaj:
+      <ekz>
+        la signo<tld/>igo en nia horaro
+        <fnt>
+          <vrk><url ref="http://ifef.free.fr/bultenoj/IF%201961-2.pdf"
+              >El la Sekcioj, Danio</url></vrk>
+          <lok>Internacia Fervojisto, n-ro 2, Aprilo 1961, p. 3</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_je;&c_g;&c_je;&c_n;&c_d;&c_a; <klr tip="amb">(&c_m;&c_a;&c_p;&c_y;, &c_d;&c_y;&c_ja;&c_g;&c_r;&c_a;&c_m;&c_y; &c_ib; &c_d;&c_a; &c_g;. &c_p;.)</klr></trd>
+  <trd lng="de">Legende</trd>
+  <trd lng="en">legend</trd>
+  <trdgrp lng="fr">
+    <trd>l&eacute;gende</trd>,
+    <trd>cartouche</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.134 2024/04/10 07:25:30
+Dmitri Gabinski: + trd be
+
+versio 1.133 2024/04/06 07:18:41
+Wolfram Diestel: +signo~igo
+
+versio 1.132 2024/03/03 01:26:07
+Vito Redsky: +trd pl
+
+versio 1.131 2023/12/21 06:31:51
+Wolfram Diestel: kor. ref-cel
+
+versio 1.129 2023/10/18 16:50:28
+revo: transskribo per <pr>
+
+versio 1.128 2023/09/13 06:30:22
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.126 2023/08/29 20:27:40
+Wolfram Diestel: ja: prononco
+
+versio 1.125 2023/05/16 08:30:10
+-->
+</vortaro>

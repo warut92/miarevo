@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: triumf.xml,v 1.21 2024/01/25 18:30:24 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>triumf</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="triumf.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="triumf.0o.MOR">
+    <dif>
+      Granda venko, granda sukceso montri&gcirc;anta per eksteraj signoj:
+      <ekz>
+        la lasta kongreso estis vera <tld/>o;
+      </ekz>
+      <ekz>
+        <ind><tld/>a</ind>j kantoj sonos<fnt>Z</fnt>.
+        <trd lng="be">&c_t;&c_r;&c_y;&c_ju;&c_m;&c_f;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+        <trdgrp lng="hu">
+          <trd>gy&odblac;zedelmi</trd>,
+          <trd>diadal-</trd>
+        </trdgrp>
+        <trdgrp lng="ru">
+          <trd>&c_t;&c_r;&c_i;&c_u;&c_m;&c_f;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
+          <trd>&c_t;&c_o;&c_r;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_u;&c_r;&c_a;&c_ch;&c_y;&c_s;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    <trdgrp lng="hu">
+      <trd>gy&odblac;zelem</trd>,
+      <trd>diadal</trd>
+    </trdgrp>
+    <trd lng="ru">&c_t;&c_o;&c_r;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+  </snc>
+  <snc mrk="triumf.0o.HIS">
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      &Ccirc;e la antikvaj Romanoj, pompa kaj solena eniro de militestro post
+      granda venko.
+    </dif>
+    <trd lng="hu">diadalmenet</trd>
+  </snc>
+  <trd lng="bo">&#xF62;&#xF92;&#xFB1;&#xF63;&#xF0B;&#xF41;&#xF0B;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x51F1;&#x65CB;  <pr>&#x304C;&#12356;&#x305B;&#12435;</pr></trd>,
+    <trd>&#22823;&#x52DD;&#21033;  <pr>&#12384;&#12356;&#12375;&#12423;&#12358;&#x308A;</pr></trd>,
+    <trd>&#22823;&#25104;&#x529F;  <pr>&#12384;&#12356;&#x305B;&#12356;&#12371;&#12358;</pr></trd>,
+    <trd>&#x52DD;&#21033;&#x611F;  <pr>&#12375;&#12423;&#12358;&#x308A;&#x304B;&#12435;</pr></trd>,
+    <trd>&#x52DD;&#21033;&#x306E;&#x559C;&#12403;  <pr>&#12375;&#12423;&#12358;&#x308A;&#x306E;&#12424;&#x308D;&#12371;&#12403;</pr></trd>
+  </trdgrp>
+  <trd lng="lat">triumphus, i</trd>
+  <trd lng="be">&c_t;&c_r;&c_y;&c_ju;&c_m;&c_f;</trd>
+  <trdgrp lng="cs">
+    <trd>oslava v&iacute;t&ecaron;zstv&iacute;</trd>,
+    <trd>triumf</trd>
+  </trdgrp>
+  <trd lng="de">Triumph</trd>
+  <trd lng="en">triumph</trd>
+  <trd lng="fr">triomphe</trd>
+  <trd lng="nl">triomf</trd>
+  <trd lng="pl">triumf</trd>
+  <trd lng="pt">tiunfo</trd>
+  <trd lng="ru">&c_t;&c_r;&c_i;&c_u;&c_m;&c_f;</trd>
+  <trd lng="sk">triumf</trd>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_r;&c_ib;&c_u;&#x43C;&c_f;</trd>,
+    <trd>&c_t;&#x43E;&c_r;&c_zh;&c_je;&c_s;&c_t;&c_v;&#x43E;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&#x43C;&#x43E;&c_g;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="triumf.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Plene venki, brile sukcesi:
+      <ekz>
+        <tld/>i super iu<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        super &ccirc;iuj malhelpoj.
+      </ekz>
+    </dif>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_d;&c_je;&c_r;&c_zh;&c_a;&c_t;&c_mol; &c_v;&c_je;&c_r;&c_h;</trd>,
+      <trd>&c_v;&c_o;&c_s;&c_t;&c_o;&c_r;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Fieri pro venko, pro sukceso
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fru">tro frue</ref>.
+    </refgrp>
+    <trdgrp lng="ru">
+      <trd>&c_t;&c_o;&c_r;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol; &c_p;&c_o;&c_b;&c_je;&c_d;&c_u;</trd>,
+      <trd>&c_l;&c_i;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_t;&c_r;&c_y;&c_ju;&c_m;&c_f;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="de">triumphieren</trd>
+  <trd lng="fr">triompher</trd>
+  <trdgrp lng="hu">
+    <trd>gy&odblac;zedelmeskedik</trd>,
+    <trd>diadalmaskodik</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x51F1;&#x65CB;&#12377;&#x308B;  <pr>&#x304C;&#12356;&#x305B;&#12435;&#12377;&#x308B;</pr></trd>,
+    <trd>&#22823;&#x52DD;&#21033;&#12377;&#x308B;  <pr>&#x305F;&#12356;&#12375;&#12423;&#12358;&#x308A;&#12377;&#x308B;</pr></trd>,
+    <trd>&#25171;&#12385;&#x8CA0;&#x304B;&#12377;  <pr>&#12358;&#12385;&#x307E;&#x304B;&#12377;</pr></trd>,
+    <trd>&#22823;&#25104;&#x529F;&#12434;&#x53CE;&#12417;&#x308B;  <pr>&#12384;&#12356;&#x305B;&#12356;&#12371;&#12358;&#12434;&#x304A;&#12373;&#12417;&#x308B;</pr></trd>,
+    <trd>&#x52DD;&#12385;&#x8A87;&#x308B;  <pr>&#x304B;&#12385;&#x307B;&#12371;&#x308B;</pr></trd>,
+    <trd>&#x5F97;&#x610F;&#x306B;&#x306A;&#x308B;  <pr>&#12392;&#x304F;&#12356;&#x306B;&#x306A;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">triomferen</trd>
+  <trd lng="pl">triumfowa&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>triunfar</trd>,
+    <trd>alcan&ccedil;ar vit&oacute;ria</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_r;&c_ib;&c_u;&#x43C;&c_f;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_v;&#x44F;&c_t;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i; &#x43F;&c_je;&c_r;&c_je;&#x43C;&#x43E;&c_g;&c_u;</trd>,
+    <trd>&c_r;&c_a;&c_d;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&c_b;&c_r;&c_a;&c_t;&c_i; &c_v;&c_je;&c_r;&c_h;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&#x43C;&c_a;&c_g;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.21 2024/01/25 18:30:24
+Vito Redsky: +trd pl
+
+versio 1.20 2023/10/21 14:37:42
+revo: transskribo per <pr>
+
+Revision 1.15  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2010/02/26 17:30:20  revo
+Jeromo Vasxe: + mrk, renversis ord. de snc
+
+Revision 1.12  2006/02/16 17:35:10  revo
+Tulio Flores: +trd pt
+
+Revision 1.11  2004/12/21 17:31:43  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2003/10/01 16:32:38  revo
+-->
+</vortaro>

@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: kapsik.xml,v 1.36 2024/02/15 21:20:02 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>kapsik</rad>/o
+  <fnt><bib>PVEF</bib></fnt>
+</kap>
+<drv mrk="kapsik.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kapsik.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="herb.0o" lst="voko:solanoparencoj">Herbo</ref>
+      &ccirc;e la bazo ofte ligneca, kun longaj ovalaj glatrandaj folioj
+      sur tigetoj,  kvinnombraj blankaj, violkoloraj a&ubreve; verdetaj
+      floroj kaj grandaj, diversformaj, ene kavaj beroj
+      (<ref tip="prt" cel="kapsik.0o.KUI"><tld/>o<sncref ref="kapsik.0o.KUI"/></ref>);
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:botanikaj_genroj">genro</ref> el familio <ref tip="malprt" cel="solana.0oj">solanacoj</ref>
+      (<trd lng="la">Capsicum</trd>):
+      <ekz>
+        oleo el <tld/>o-semoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2014/011254.php"
+              >Papriko protektata</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la baseno de tiu &ccirc;i rivero en la 18a jarcento oni komencis kultivi <tld/>ojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2014/011254.php"
+              >Papriko protektata</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ref cel="paprik.0o">papriko</ref> &jcirc;itava estas preparata el la sekigita kaj pulvorigita frukto de <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2014/011254.php"
+              >Papriko protektata</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld
+      lok="&WCU;/thumb/5/57/Illustration_Capsicum_annuum0.jpg/334px-Illustration_Capsicum_annuum0.jpg"
+      prm="PD"
+      >botanika tabulo de <tld/>o (Capsicum anuum)
+        <fnt>
+          <aut>Franz Eugen K&ouml;hler, el K&ouml;hler's Medizinal-Pflanzen in naturgetreuen Abbildungen (1887)</aut>
+          <lok><url ref="&WCW;/File:Illustration_Capsicum_annuum0.jpg"
+              >https://commons.wikimedia.org/wiki/File:Illustration_Capsicum_annuum0.jpg</url></lok>
+        </fnt>
+    </bld>
+    <trdgrp lng="ca">
+      <trd>pebrotera</trd>,
+      <trd>pebrer</trd>
+    </trdgrp>
+    <trd lng="de">Paprika <klr>(Pflanze)</klr></trd>
+    <trdgrp lng="es">
+      <trd>pimentera</trd>,
+      <trd>capsicum</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kapsik.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Verda, ru&gcirc;a a&ubreve; flava glob- a&ubreve; longforma frukto de <tld/>o<sncref ref="kapsik.0o.BOT"/>, kun
+      multaj semoj pendantaj interne,
+      uzata kiel <ref tip="super" cel="legom.0o.KUI">legomo</ref> kaj
+      kiel spico:
+      <ekz>
+        fritita <tld/>o kun koka&jcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Mu Binghua</aut>
+          <vrk><url ref="&Monato;/2005/008743.php"
+              >Konsumado sur trajnoj multekostas</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur telero delikate elektitaj kolornuancoj: kukumo apud rondaj tran&ccirc;oj de
+        <tld/>oj
+        <fnt>
+          <bib>OIP</bib>
+          <lok>Ombro sur interna pejza&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;erizforman <tld/>on ni plektas je &scirc;nuro, el tio fari&gcirc;as kapsikokrono
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>&Ccirc;efartikolo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>pebrot</trd>,
+      <trd>pebrera</trd>
+    </trdgrp>
+    <trd lng="de">Paprika <klr>(Frucht)</klr></trd>
+    <trdgrp lng="es">
+      <trd>pimiento</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_c; <klr>(&c_s;&c_t;&c_r;&c_u;&c_ch;&c_k;&c_o;&c_v;&c_y;)</klr></trd>
+  <trd lng="bo">&t_sa;&t_naro;&t_tsheg;&t_la;&t_naro;&t_tsheg;&t_sa;&t_ngata;&t_naro;&t_na;&t_tsheg;&t_pa;&t_naro;&t_tsheg;</trd>
+  <trd lng="cs">paprika ro&ccaron;n&iacute;</trd>
+  <trd lng="en">pepper</trd>
+  <trd lng="es">pimiento</trd>
+  <trd lng="fr">poivron</trd>
+  <trd lng="hu">paprika</trd>
+  <trd lng="ja">&#12488;&#12454;&#12460;&#12521;&#12471;</trd>
+  <trdgrp lng="nl">
+    <trd>peper<klr> (akra gusto)</klr><klr tip="ind"> (vrucht of
+    plant)</klr></trd>,
+    <trd>paprika<klr> (neakra gusto)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">papryka</trd>
+  <trd lng="ro">ardei</trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_u;&c_ch;&c_k;&c_o;&c_v;&c_y;&c_j; &c_p;&c_je;&c_r;&c_je;&c_c;</trd>
+  <trd lng="sk">paprika <klr>(rastlina)</klr></trd>
+  <trd lng="tr">dolmal&inodot;k biber</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_r;&c_u;&c_ch;&c_k;&c_o;&c_v;&c_i;&c_j; &c_p;&c_je;&c_r;&c_je;&c_c;&c_mol;</trd>,
+    <trd>&c_o;&c_v;&c_o;&c_ch;&c_je;&c_v;&c_i;&c_j; &c_p;&c_je;&c_r;&c_je;&c_c;&c_mol; (&c_r;&c_o;&c_s;&c_l;&c_i;&c_n;&c_a; &c_ib;
+    &c_p;&c_l;&c_ib;&c_d;)</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#38738;&#26898; <pr>q&imacron;ngji&amacron;o</pr></trd>,
+    <trd>&#36771;&#23376; <pr>l&agrave;zi</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kapsik.0eto">
+  <kap><ofc>9</ofc> <tld/>eto</kap>
+  <snc mrk="kapsik.0eto.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Malgranda ordinare tre akragusta <tld/>o<sncref ref="kapsik.0o.KUI"/>:
+      <ekz>
+        brezu la ru&gcirc;an kaj verdan neakrajn kapsikojn, la kukurbon kaj
+        la akrajn <tld/>etojn dum 5 minutoj
+        <fnt>
+        <aut>-</aut>,
+        <vrk>Fajreca kokida&jcirc;o kun legomoj</vrk>,
+        <lok><url ref="http://eo.wikibooks.org/wiki/Kuirlibro">
+        Vikimedia Kuirlibro</url>, 2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>vitet</trd>,
+      <trd>bitxo</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_je;&c_r;&c_ch;&c_y;&c_k; <klr>(&c_p;&c_ja;&c_k;&c_u;&c_ch;&c_y;)</klr></trd>
+  <trd lng="bo">&t_ba;&t_sa;&t_gigu;&t_la;&t_tsheg;&t_sa;&t_mata;&t_na;&t_tsheg;</trd>
+  <trd lng="de">Chili</trd>
+  <trdgrp lng="en">
+    <trd>chili</trd>,
+    <trd>chilli</trd>
+  </trdgrp>
+  <trd lng="es">chile</trd>
+  <trd lng="fr">piment</trd>
+  <trdgrp lng="nl">
+    <trd>lombok</trd>,
+    <trd>Spaanse peper</trd>
+  </trdgrp>
+  <trd lng="tr">biber</trd>
+  <trdgrp lng="zh">
+    <trd>&#36771;&#26898; <pr>l&agrave;ji&amacron;o</pr></trd>,
+    <trd>&#32005;&#36771;&#26898; <pr>h&oacute;ngl&agrave;ji&amacron;o</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.36 2024/02/15 21:20:02
+Wolfram Diestel: +ekz-oj, bld
+
+versio 1.33 2022/12/23 10:31:04
+Dmitri Gabinski: + trd be
+
+Revision 1.28  2018/01/18 23:10:15  revo
+Vito Redsky: +trd ro
+
+Revision 1.27  2016/08/31 10:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.26  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2013/11/02 18:10:14  revo
+Wolfram Diestel: prilaboris dif, ref al lst solanoparencoj
+
+Revision 1.23  2013/08/29 15:10:22  revo
+-->
+</vortaro>

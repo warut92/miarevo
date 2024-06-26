@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: mim.xml,v 1.8 2024/04/03 15:23:13 afido Exp $">
+    <kap>
+      <rad>mim</rad>/o
+    </kap>
+
+<drv mrk="mim.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">TEA</uzo>
+  <snc mrk="mim.0o.pantomimisto">
+    <dif>
+      <ref tip="dif" cel="pantom.0isto">Pantomimisto</ref>:
+      <ekz>
+        praktika edukado fare de aktoro, <tld/>o, magiisto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2004/008451.html">Ride resani&gcirc;i</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>-arto estas la esprimformo, kiu forte enradiki&gcirc;is en &Ccirc;e&hcirc;io kaj Slovakio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Brigitte Faverial</aut>
+          <vrk><url ref="&Monato;/2003/007994.html">Datreveno por ridi</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="mimik.0o">mimiko</ref>
+    <trd lng="de">Mime</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_ib;&c_m;</trd>,
+    <trd>&c_m;&c_ib;&c_m;&c_ib;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trd lng="en">mime</trd>
+  <trd lng="pl">mim</trd>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_ib;&c_m;</trd>,
+    <trd>&c_m;&c_ib;&c_m;&c_ib;&c_s;&c_t;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mim.0i">
+  <kap>
+    <tld/>i
+  </kap>
+  <uzo tip="fak">TEA</uzo>
+  <snc mrk="mim.0i.ludi">
+    <dif>
+      Ludi pantomimon;
+      geste <ref tip="super" cel="imit.0i.agi">imiti</ref>:
+      <ekz>
+        la roluloj nur pupece gestas kaj provas <tld/>i vivan kantadon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2013/010944.php">Kanto de la montoj</url></vrk>
+          <lok>2013</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estis perfekta komedianto, kiel parole, tiel anka&ubreve; <tld/>e
+        <fnt>
+          <aut>Joh&aacute;n Valano</aut>
+          <vrk><url ref="&Tekstaro;?nomo=chu-li-bremsis-sufiche">&Ccirc;u li bremsis
+          sufi&ccirc;e?</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sekvas muziko, &jcirc;onglado, <tld/>ado, dancado
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2004/008451.html">Ride resani&gcirc;i</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kelkaj signoj ja estas universalaj, &ccirc;ar ili <tld/>as agon, kiun &ccirc;iuj priskribas
+        sammaniere, a&ubreve; &ccirc;ar temas pri gestoj pruntitaj de unu signolingvo al la alia
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2014/011278.php">Vortaro intuicia, horizonto
+          internacia</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_r;&c_a;&c_c;&c_mol; <ind>&c_p;&c_a;&c_n;&c_t;&c_a;&c_m;&c_ib;&c_m;&c_u;</ind></trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_m;&c_ib;&c_m;&c_ib;&c_k;&c_a;&c_j;</ind></trd>
+  </trdgrp>
+  <trd lng="de">mimen</trd>
+  <trdgrp lng="en">
+    <trd>mime</trd>,
+    <trd>pantomime</trd>
+  </trdgrp>
+  <trd lng="pl">gra&cacute; gestami i <ind>mimik&aogonek;</ind></trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &c_m;&c_ib;&c_m;&c_ib;&c_k;&c_o;&c_ju;</trd>,
+    <trd>&c_zh;&c_je;&c_s;&c_t;&c_a;&c_m;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x9ED8;&#21095; <pr>m&#xF2;j&#xF9;</pr></trd>,
+    <trd>&#x9ED8;&#21127; <pr>m&#xF2;j&#xF9;</pr></trd>,
+    <trd>&#x54D1;&#21095; <pr>y&#x1CE;j&#xF9;</pr></trd>,
+    <trd>&#x555E;&#21127; <pr>y&#x1CE;j&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+
+  </art>
+
+<!--
+$Log$
+versio 1.8 2024/04/03 15:23:13
+Dmitri Gabinski: + trd be
+
+versio 1.7 2024/03/13 01:24:06
+Vito Redsky: +trd pl
+
+versio 1.5 2023/05/05 17:57:59
+revo: aktualigo URL-unuoj
+
+versio 1.4 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.3 2022/04/19 12:40:27
+Noam Mohr: +trd en mim-
+
+versio 1.1 2021/01/20 21:09:58
+Wolfram Diestel: nova artikolo
+-->
+</vortaro>

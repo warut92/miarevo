@@ -1,0 +1,866 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: pluv.xml,v 1.129 2024/03/04 21:19:27 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>pluv</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="pluv.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="pluv.0o.MET">
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      <ref tip="super" cel="akv.0o">Akvo</ref> gute falanta de nuboj:
+      <ekz>
+        <tld/>o faladis
+        <fnt><bib>FK</bib>, <lok>4, la nigra virino</lok></fnt>;
+      </ekz>
+      <ekz>
+        estis <tld/>o sur la tero dum kvardek tagoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 7:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiel la <tld/>o torentis
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Dio de dormo</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        la floroj kaj la greno staris en la trankvila, pura aero refre&scirc;igitaj de la
+        <tld/>o
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Poligono</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        forta <tld/>o
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o batanta
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 28:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        griza, <tld/>a, kota <klr>[&#8230;]</klr> tago
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        la raketoj <klr>[&#8230;]</klr> disvolvi&gcirc;is kvaza&ubreve; floroj kaj falis teren, kiel
+        <tld/>o de diverskoloraj steloj
+        <fnt>
+          <bib>IKr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        sur niajn kapojn &scirc;uti&gcirc;as <tld/>o de agitfolioj
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        en fumo de pulvo kaj en <tld/>o de kugloj
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Sterkskarabo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>li trafis el sub <tld/>o en riveron</ind>
+        <klr>(en ankora&ubreve; pli malbonan situacion)</klr>
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+        <trd lng="de">er kam vom <ind>Regen</ind> in die Traufe</trd>
+      </ekz>
+      <ekz>
+        granda nubo, eta <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="af">re&euml;n</trd>
+  <trd lng="am">&#4829;&#4755;&#4709;</trd>
+  <trd lng="ar">&a_m;&a_T;&a_r;</trd>
+  <trd lng="az">ya&gbreve;&inodot;&scedil;</trd>
+  <trd lng="be">&c_d;&c_o;&c_zh;&c_d;&c_zh;</trd>
+  <trd lng="bg">&c_d;&c_malmol;&c_zh;&c_d;</trd>
+  <trd lng="bn">&#2476;&#2499;&#2487;&#2509;&#2463;&#2495;</trd>
+  <trd lng="bo">&t_cha;&t_ra;&t_tsheg;&t_pa;&t_tsheg;</trd>
+  <trd lng="bs">ki&scaron;e</trd>
+  <trd lng="ca">pluja</trd>
+  <trd lng="co">arcusgi</trd>
+  <trd lng="cs">d&eacute;&scaron;&tcaron;</trd>
+  <trd lng="cy">glaw</trd>
+  <trd lng="da">regn</trd>
+  <trd lng="de">Regen</trd>
+  <trd lng="en">rain</trd>
+  <trd lng="es">lluvia</trd>
+  <trd lng="et">vihm</trd>
+  <trd lng="eu">euri</trd>
+  <trd lng="fa">&a_b;&a_A;&a_r;&a_A;&a_n;</trd>
+  <trd lng="fr">pluie</trd>
+  <trd lng="fy">rein</trd>
+  <trd lng="ga">b&aacute;isteach</trd>
+  <trd lng="gd">uisge</trd>
+  <trd lng="gl">choiva</trd>
+  <trd lng="gu">&#2741;&#2736;&#2744;&#2750;&#2726;</trd>
+  <trd lng="ha">ruwan sama</trd>
+  <trd lng="hi">&#2348;&#2366;&#2352;&#2367;&#2358;</trd>
+  <trd lng="hmn">los nag</trd>
+  <trd lng="hr">ki&scaron;a</trd>
+  <trd lng="ht">lapli</trd>
+  <trd lng="hu">es&odblac;</trd>
+  <trd lng="hy">&#1377;&#1398;&#1393;&#1408;&#1381;&#1410;</trd>
+  <trd lng="id">hujan</trd>
+  <trd lng="ig">mmiri ozuzo</trd>
+  <trd lng="is">rigning</trd>
+  <trd lng="ja">&#38632; <pr>&#12354;&#12417;</pr></trd>
+  <trd lng="jv">udan</trd>
+  <trd lng="ka">&#4332;&#4309;&#4312;&#4315;&#4304;</trd>
+  <trd lng="kk">&c_zh;&c_a;&#1187;&c_b;&c_y;&c_r;</trd>
+  <trd lng="km">&#6039;&#6098;&#6043;&#6080;&#6020;</trd>
+  <trd lng="kn">&#3246;&#3251;&#3270;</trd>
+  <trd lng="ko">&#48708;</trd>
+  <trd lng="ku">baran</trd>
+  <trd lng="ky">&c_zh;&c_a;&c_a;&c_n;</trd>
+  <trd lng="lat">pluviae</trd>
+  <trd lng="lo">&#3741;&#3771;&#3737;&#3733;&#3771;&#3713;&#3755;&#3737;&#3761;&#3713;</trd>
+  <trd lng="lt">lietus</trd>
+  <trd lng="lv">lietus</trd>
+  <trd lng="mg">orana</trd>
+  <trd lng="mi">ua</trd>
+  <trd lng="mk">&c_d;&c_o;&c_zh;&c_d;</trd>
+  <trd lng="ml">&#3374;&#3380;</trd>
+  <trd lng="mn">&c_b;&c_o;&c_r;&c_o;&c_o;</trd>
+  <trd lng="mr">&#2346;&#2366;&#2314;&#2360;</trd>
+  <trd lng="ms">hujan</trd>
+  <trd lng="mt">xita</trd>
+  <trd lng="my">&#4121;&#4141;&#4143;&#4152;&#4123;&#4145;</trd>
+  <trd lng="ne">&#2357;&#2352;&#2381;&#2359;&#2366;</trd>
+  <trd lng="nl">regen</trd>
+  <trd lng="ny">mvula</trd>
+  <trdgrp lng="pa">
+    <trd/>,
+    <trd>&#2606;&#2632;&#2616;&#2623;&#2593;&#2635;&#2600;&#2623;&#2566;</trd>
+  </trdgrp>
+  <trd lng="pl">deszcz</trd>
+  <trd lng="ps">&a_b;&a_A;&a_r;&a_A;&a_n;</trd>
+  <trd lng="pt">chuva</trd>
+  <trd lng="ru">&c_d;&c_o;&c_zh;&c_d;&c_mol;</trd>
+  <trd lng="rw">imvura</trd>
+  <trd lng="sd">&a_m;&a_y;&a_n;&a_h;&a_n;</trd>
+  <trd lng="si">&#3520;&#3536;&#3523;&#3538;</trd>
+  <trd lng="sk">d&aacute;&zcaron;&dcaron;</trd>
+  <trd lng="sl">de&zcaron;</trd>
+  <trd lng="sm">timu</trd>
+  <trd lng="sn">mvura</trd>
+  <trd lng="so">roob</trd>
+  <trd lng="sq">shi</trd>
+  <trd lng="st">pula</trd>
+  <trd lng="su">hujan</trd>
+  <trd lng="sv">regn</trd>
+  <trd lng="sw">mvua</trd>
+  <trd lng="ta">&#2990;&#2996;&#3016;</trd>
+  <trd lng="te">&#3125;&#3120;&#3149;&#3127;&#3074;</trd>
+  <trd lng="tg">&c_b;&c_o;&c_r;&c_o;&c_n;</trd>
+  <trd lng="th">&#3613;&#3609;</trd>
+  <trd lng="tl">ulan</trd>
+  <trd lng="tt">&c_ja;&#1187;&c_g;&c_y;&c_r;</trd>
+  <trd lng="uk">&c_d;&c_o;&c_shch;</trd>
+  <trd lng="ur">&a_b;&a_A;&a_r;&a_sh;</trd>
+  <trd lng="uz">yomg&#8217;ir</trd>
+  <trd lng="vi">m&#432;a</trd>
+  <trd lng="vo">rein</trd>
+  <trd lng="xh">imvula</trd>
+  <trd lng="yi">&resh;&ayin;&gimel;&fnun;</trd>
+  <trd lng="yo">ojo</trd>
+  <trdgrp lng="zh">
+    <trd>&#28350; <pr>w&emacron;i</pr></trd>,
+    <trd>&#38632; <pr>y&#468;</pr></trd>,
+    <trd>&#38453;&#38632; <pr>zh&egrave;ny&#468;</pr></trd>,
+    <trd>&#38499;&#38632; <pr>zh&egrave;ny&#468;</pr></trd>
+  </trdgrp>
+  <trd lng="zu">nemvula</trd>
+</drv>
+
+<drv mrk="pluv.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="pluv.0i.MET">
+    <dif>
+      Fali kiel <tld/>o:
+      <ekz>
+        ek<tld/>is sur ilin el la &ccirc;ielo
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 21:10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>as kaj <tld/>as kaj <tld/>as kaj <tld/>as sen&ccirc;ese, senfine, senhalte, el
+        &ccirc;iel' al la ter' <klr>[&#8230;]</klr> are gutoj frapi&gcirc;as resalte
+        <fnt>
+          <aut>L. L. Zamenhof</aut>
+          <vrk>Pluvo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lando ne purigata, ne pri<tld/>ata
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 22:24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>is regula monotona <tld/>o jam plurajn horojn
+        <fnt>
+          <bib>ChB</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam mi alvenis en Glasgovo, ne&gcirc;<tld/>is, kaj estis ka&ccirc;e kaj malagrable
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="pluv.0i.FIG">
+    <dif>
+      Faladi are kvaza&ubreve; <tld/>o:
+      <ekz>
+        &ccirc;io mallumi&gcirc;is, de la sudo ek<tld/>is varmega sablo
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tiu]</klr> soldato <klr>[&#8230;]</klr> estis &ccirc;iam unua, kie <tld/>is la kugloj
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ursa Felo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ripro&ccirc;oj, batoj, pu&scirc;egoj <tld/>is hajle
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_s;&c_mol;&c_c;&c_ib; <klr>(&c_p;&c_r;&c_a;
+    &c_d;&c_o;&c_zh;&c_d;&c_zh;)</klr></trd>,
+    <trd>&c_l;&c_ib;&c_c;&c_mol; <klr>(&c_p;&c_r;&c_a;
+    &c_d;&c_o;&c_zh;&c_d;&c_zh;)</klr></trd>,
+    <trd>&c_l;&c_ib;&c_c;&c_c;&c_a; <klr>(&c_p;&c_r;&c_a;
+    &c_d;&c_o;&c_zh;&c_d;&c_zh;)</klr></trd>
+  </trdgrp>
+  <trd lng="bg">&c_v;&c_a;&c_l;&c_i; &c_d;&c_malmol;&c_zh;&c_d;</trd>
+  <trd lng="bo">&t_cha;&t_ra;&t_tsheg;&t_pa;&t_tsheg;&t_ga;&t_ta;&t_naro;&t_nga;&t_tsheg;</trd>
+  <trd lng="ca">ploure</trd>
+  <trd lng="cs">pr&scaron;et</trd>
+  <trd lng="de">regnen</trd>
+  <trd lng="en">rain</trd>
+  <trd lng="es">llover</trd>
+  <trd lng="fr">pleuvoir</trd>
+  <trd lng="hu">esik<klr tip="ind"> (az es&odblac;)</klr></trd>
+  <trdgrp lng="id">
+    <trd>hujan <klr>(v)</klr></trd>,
+    <trd><ind>turun</ind> hujan</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#38632;&#12364;&#38477;&#12427;  <pr>&#12354;&#12417;&#12364;&#12405;&#12427;</pr></trd>,
+    <trd>&#38477;&#12426;&#27880;&#12368;  <pr>&#12405;&#12426;&#12381;&#12381;&#12368;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">regenen</trd>
+  <trd lng="pl">pada&cacute;<klr> (o deszczu)</klr></trd>
+  <trd lng="pt">chover</trd>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_i;&c_t;&c_mol;<klr tip="ind">
+    (&c_b;&c_je;&c_z;&c_l;. &c_o;
+    &c_d;&c_o;&c_zh;&c_d;&c_je;)</klr></trd>,
+    <trd>&c_l;&c_i;&c_t;&c_mol;&c_s;&c_ja;<klr tip="amb">
+    (&c_b;&c_je;&c_z;&c_l;. &c_o;
+    &c_d;&c_o;&c_zh;&c_d;&c_je;)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">pr&scaron;a&tcaron;</trd>
+  <trd lng="sv">regna</trd>
+  <trd lng="th">&#3613;&#3609;&#3605;&#3585;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_a;&c_d;&c_a;&c_t;&c_i; (&c_p;&c_r;&c_o; &c_d;&c_o;&c_shch;)</trd>
+  </trdgrp>
+  <trd lng="vo">rein&ouml;n</trd>
+  <trdgrp lng="zh">
+    <trd>&#19979;&#38632; <pr>xi&agrave;y&#468;</pr></trd>,
+    <trd>&#38661; <pr>zh&aacute;</pr></trd>,
+    <trd>&#38632; <pr>y&ugrave;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pluv.0egi">
+  <kap><tld/>egi</kap>
+  <snc mrk="pluv.0egi.MET">
+    <dif>
+      Forte, dense <tld/>i:
+      <ekz>
+        unu vesperon fari&gcirc;is granda uragano: fulmis kaj tondris, forte <tld/>egis
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Re&gcirc;idino sur pizo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>egis, sed la poeto sidis varme kaj komforte &ccirc;e
+        sia kahela forno
+        <fnt><bib>Fab1</bib>, <lok>malbonkonduta knabo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_ib;&c_c;&c_mol; <klr>(&c_m;&c_o;&c_c;&c_n;&c_a;, &c_p;&c_r;&c_a; &c_d;&c_o;&c_zh;&c_d;&c_zh;)</klr></trd>,
+    <trd>&c_l;&c_ib;&c_c;&c_c;&c_a; <klr>(&c_m;&c_o;&c_c;&c_n;&c_a;, &c_p;&c_r;&c_a; &c_d;&c_o;&c_zh;&c_d;&c_zh;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>l&iacute;t <klr>(d&eacute;&scaron;&tcaron;)</klr></trd>,
+    <trd>siln&ecaron; pr&scaron;et</trd>
+  </trdgrp>
+  <trd lng="de">stark <ind>regnen</ind></trd>
+  <trd lng="en">downpour</trd>
+  <trd lng="es">diluviar</trd>
+  <trd lng="fr">pleuvoir &agrave; verse</trd>
+  <trdgrp lng="id">
+    <trd><ind>hujan</ind> deras <klr>(v)</klr></trd>,
+    <trd><ind>turun</ind> hujan deras</trd>,
+    <trd><ind>hujan</ind> lebat <klr>(v)</klr></trd>,
+    <trd><ind>turun</ind> hujan lebat</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>stortregenen</trd>,
+    <trd>pijpenstelen regenen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>la&cacute;<klr> (o deszczu, ulewie)</klr></trd>,
+    <trd>la&cacute;<klr> jak z cebra</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>cair um <ind>tor&oacute;</ind></trd>,
+    <trd>chover a c&acirc;ntaros</trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_i;&c_t;&c_mol; &c_k;&c_a;&c_k; &c_i;&c_z;
+  &c_v;&c_je;&c_d;&c_r;&c_a;<klr tip="ind">
+  (&c_b;&c_je;&c_z;&c_l;. &c_o; &c_d;&c_o;&c_zh;&c_d;&c_je;)</klr></trd>
+  <trd lng="sk">silno pr&scaron;a&tcaron;</trd>
+  <trdgrp lng="zh">
+    <trd>&#38632;&#24149; <pr>y&#468;m&ugrave;</pr></trd>,
+    <trd>&#20542;&#30406; <pr>q&imacron;ngp&eacute;n</pr></trd>,
+    <trd>&#20670;&#30406; <pr>q&imacron;ngp&eacute;n</pr></trd>,
+    <trd>&#22868;&#27899; <pr>b&emacron;nxi&egrave;</pr></trd>,
+    <trd>&#22868;&#28681; <pr>b&emacron;nxi&egrave;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pluv.0ego">
+  <kap><tld/>ego</kap>
+  <snc mrk="pluv.0ego.MET">
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      Forta, densa <tld/>o:
+      <ekz>
+        rifu&gcirc;ejo kontra&ubreve; <tld/>ego
+        <fnt><bib>MT</bib>, <lok>&Jes; 25:4</lok></fnt>;
+      </ekz>
+      <ekz>
+        la hajlo pasis <klr>[&#8230;]</klr> tuj poste komencis mu&gcirc;i <tld/>ego
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>ego tamburegis sur la tero
+        <fnt>
+          <bib>LGA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        tiu kis<tld/>ego estis iom kvietigita
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la varmaj vortoj <klr>[&#8230;]</klr> estis granda, liberiga donaco kaj malfermis en
+        mi la <tld/>egon de la vortoj
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_ib;&c_v;&c_je;&c_n;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_l;&c_je;&c_v;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_l;&c_ib;&c_w;&c_n;&c_y; &c_d;&c_o;&c_zh;&c_d;&c_zh;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>lijavec</trd>,
+    <trd>lij&aacute;k</trd>,
+    <trd>p&rcaron;&iacute;val de&scaron;t&ecaron;</trd>
+  </trdgrp>
+  <trd lng="de">Wolkenbruch</trd>
+  <trd lng="en">downpour</trd>
+  <trdgrp lng="es">
+    <trd>aguacero</trd>,
+    <trd>chubasco</trd>,
+    <trd>chaparr&oacute;n</trd>
+  </trdgrp>
+  <trd lng="fr">pluie battante</trd>
+  <trdgrp lng="id">
+    <trd><ind>hujan</ind> deras</trd>,
+    <trd><ind>hujan</ind> lebat</trd>
+  </trdgrp>
+  <trd lng="ja">&#22823;&#38632;
+  <pr>&#12362;&#12362;&#12354;&#12417;</pr></trd>
+  <trd lng="nl">stortregen</trd>
+  <trdgrp lng="pl">
+    <trd>ulewa</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>chuvarada</trd>,
+    <trd>aguaceiro</trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_i;&c_v;&c_je;&c_n;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>lejak</trd>,
+    <trd>pr&iacute;val da&zcaron;&dcaron;a</trd>
+  </trdgrp>
+  <trd lng="uk">&c_z;&c_l;&c_i;&c_v;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd>&#38632;&#24149; <pr>y&#468;m&ugrave;</pr></trd>,
+    <trd>&#20542;&#30406; <pr>q&imacron;ngp&eacute;n</pr></trd>,
+    <trd>&#20670;&#30406; <pr>q&imacron;ngp&eacute;n</pr></trd>,
+    <trd>&#29922;&#27900;&#22823;&#38632; <pr>pi&aacute;op&omacron;d&agrave;y&#468;</pr></trd>,
+    <trd>&#29922;&#28497;&#22823;&#38632; <pr>pi&aacute;op&omacron;d&agrave;y&#468;</pr></trd>,
+    <trd>&#26292;&#38632; <pr>b&agrave;oy&#468;</pr></trd>,
+    <trd>&#22823;&#26292;&#38632; <pr>d&agrave;b&agrave;oy&#468;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pluv.0ero">
+  <kap>
+    <tld/>ero
+  </kap>
+  <snc>
+    <dif>
+      Unuopa <ref tip="super" cel="gut.0o.fluero">guto</ref> de <tld/>o:
+      <ekz>
+        kiam la unuaj <tld/>eroj falas sur sekan teron, en la aero oni rekonas
+        nekonfuzeblan odoron: tiun de la <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2015/011480.php">Pluveraj veroj</url></vrk>
+          <lok>2015</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pensojn malakrigas varmo sen <tld/>ero
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2002, &#8470;6</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_r;&c_o;&c_p;&c_l;&c_ja; <klr>(&c_d;&c_a;&c_zh;&c_d;&c_zh;&c_a;&c_v;&c_a;&c_ja;)</klr></trd>
+  <trd lng="de">Regentropfen</trd>
+  <trd lng="en">raindrop</trd>
+  <trd lng="id"><ind>tetes</ind> air hujan</trd>
+  <trdgrp lng="ja">
+    <trd>&#38632;&#28404;  <pr>&#12358;&#12390;&#12365;</pr></trd>,
+    <trd>&#38632;&#31890;  <pr>&#12354;&#12414;&#12388;&#12406;</pr></trd>
+  </trdgrp>
+  <trd lng="uk">&c_k;&c_r;&c_a;&c_p;&c_l;&c_ja; &c_d;&c_o;&c_shch;&c_u;</trd>
+  <trdgrp lng="zh">
+    <trd>&#38685; <pr>l&iacute;ng</pr></trd>,
+    <trd>&#38632;&#28404; <pr>y&#468;d&imacron;</pr></trd>,
+    <trd>&#38632;&#28857; <pr>y&#468;di&#462;n</pr></trd>,
+    <trd>&#38632;&#40670; <pr>y&#468;di&#462;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pluv.0eti">
+  <kap><tld/>eti</kap>
+  <snc mrk="pluv.0eti.MET">
+    <dif>
+      Malforte, maldense <tld/>i:
+      <ekz>
+        <tld/>etis dum tagoj kaj semajnoj
+        <fnt><bib>InfanTorent2</bib>,
+        <lok>dua parto, &ccirc;apitro 2a</lok></fnt>;
+      </ekz>
+      <ekz>
+        komencis <tld/>eti kaj la tuta societo <klr>[&#8230;]</klr> revenis en la salonon
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_r;&c_a;&c_p;&c_a;&c_c;&c_mol; <klr>(&c_a;&c_b; &c_d;&c_a;&c_zh;&c_d;&c_zh;&c_y;)</klr></trd>,
+    <trd>&c_n;&c_a;&c_k;&c_r;&c_a;&c_p;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_a;&c_b; &c_d;&c_a;&c_zh;&c_d;&c_zh;&c_y;)</klr></trd>,
+    <trd>&c_c;&c_je;&c_r;&c_u;&c_sh;&c_y;&c_c;&c_mol; <klr>(&c_a;&c_b; &c_d;&c_a;&c_zh;&c_d;&c_zh;&c_y;)</klr></trd>,
+    <trd>&c_c;&c_je;&c_r;&c_u;&c_sh;&c_y;&c_c;&c_c;&c_a; <klr>(&c_a;&c_b; &c_d;&c_a;&c_zh;&c_d;&c_zh;&c_y;)</klr></trd>,
+    <trd>&c_ib;&c_m;&c_zh;&c_y;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kr&aacute;pat</trd>,
+    <trd>mrholit</trd>,
+    <trd>poprch&aacute;vat</trd>
+  </trdgrp>
+  <trd lng="de">nieseln</trd>
+  <trd lng="en">drizzle</trd>
+  <trdgrp lng="es">
+    <trd>lloviznar</trd>,
+    <trd>chispear</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bruiner</trd>,
+    <trd>pleuviner</trd>,
+    <trd>pleuvioter</trd>
+  </trdgrp>
+  <trd lng="hu">szit&aacute;l<klr tip="ind"> (az es&odblac;)</klr></trd>
+  <trdgrp lng="id">
+    <trd><ind>turun</ind> hujan rintik-rintik</trd>,
+    <trd><ind>hujan</ind> rintik-rintik <klr>(v)</klr></trd>,
+    <trd><ind>turun</ind> gerimis</trd>,
+    <trd><ind>gerimis</ind> <klr>(v)</klr></trd>,
+    <trd><ind>turun</ind> hujan gerimis</trd>,
+    <trd><ind>hujan</ind> gerimis <klr>(v)</klr></trd>,
+    <trd><ind>turun</ind> hujan renyai</trd>,
+    <trd><ind>hujan</ind> renyai <klr>(v)</klr></trd>,
+    <trd><ind>turun</ind> hujan ringan</trd>,
+    <trd><ind>hujan</ind> ringan <klr>(v)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">motregenen</trd>
+  <trdgrp lng="pl">
+    <trd>si&aogonek;pi&cacute;</trd>,
+    <trd>kapa&cacute;<klr> (o deszczu)</klr></trd>,
+    <trd>m&zdot;y&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>chuviscar</trd>,
+    <trd>garoar</trd>
+  </trdgrp>
+  <trd lng="ru">
+  &c_n;&c_a;&c_k;&c_r;&c_a;&c_p;&c_y;&c_v;&c_a;&c_t;&c_mol;
+  <klr tip="ind">
+  (&c_o; &c_d;&c_o;&c_zh;&c_d;&c_je;)</klr></trd>
+  <trd lng="sk">pop&racute;cha</trd>
+  <trdgrp lng="zh">
+    <trd>&#38658; <pr>m&ugrave;</pr></trd>,
+    <trd>&#28635; <pr>m&eacute;ng</pr></trd>,
+    <trd>&#33945; <pr>m&eacute;ng</pr></trd>,
+    <trd>&#28635; <pr>m&eacute;ng</pr></trd>,
+    <trd>&#28319; <pr>m&iacute;ng</pr></trd>,
+    <trd>&#27611;&#27611;&#38632; <pr>m&aacute;omaoy&#468;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pluv.0eto">
+  <kap><tld/>eto</kap>
+  <snc mrk="pluv.0eto.MET">
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      Malforta, maldensa <tld/>o:
+      <ekz>
+        kiam vi vidas nubon levi&gcirc;antan en la okcidento, vi tuj
+        diras: venos <tld/>eto; kaj tiel fari&gcirc;as
+        <fnt><bib>NT</bib>, <lok>&Luk; 12:54</lok></fnt>;
+      </ekz>
+      <ekz>
+        la frapado de la jam estingi&gcirc;anta <tld/>eto
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ek<tld/>is, unue delikata <tld/>eto, kiun ni apena&ubreve; rimarkis, sed subite &gcirc;i
+        transformi&gcirc;is en <tld/>egon
+        <fnt>
+          <bib>Kiso</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        sekvis <tld/>eto da dankaj leteroj, kiuj instigis min rekomenci
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_o;&c_zh;&c_d;&c_zh;&c_y;&c_k;</trd>,
+    <trd>&c_ib;&c_m;&c_zh;&c_a;</trd>
+  </trdgrp>
+  <trd lng="cs">d&eacute;&scaron;&tcaron; drobn&yacute;</trd>
+  <trdgrp lng="de">
+    <trd>Spr&uuml;hregen</trd>,
+    <trd>Nieselregen</trd>
+  </trdgrp>
+  <trd lng="en">drizzle</trd>
+  <trd lng="es">llovizna</trd>
+  <trdgrp lng="fa">
+    <trd>&a_b;&a_A;&a_r;&a_A;&a_n;&zwnj;&a_r;&f_y;&a_z;&a_h;</trd>,
+    <trd>&a_n;&a_m;&zwnj;&a_n;&a_m; &a_b;&a_A;&a_r;&a_A;&a_n;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bruine</trd>,
+    <trd>crachin</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>gerimis</trd>,
+    <trd><ind>hujan</ind> gerimis</trd>,
+    <trd><ind>hujan</ind> rintik-rintik</trd>,
+    <trd><ind>hujan</ind> ringan</trd>,
+    <trd><ind>hujan</ind> renyai</trd>
+  </trdgrp>
+  <trd lng="ja">&#23567;&#38632; [<ind>&#12371;&#12373;&#12417;</ind>]
+  </trd>
+  <trd lng="nl">motregen</trd>
+  <trdgrp lng="pl">
+    <trd>deszczyk</trd>,
+    <trd>m&zdot;awka</trd>,
+    <trd>kapu&sacute;niak<klr> (deszcz)</klr></trd>
+    <trd>si&aogonek;pawica</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>chuvisco</trd>,
+    <trd>garoa</trd>
+  </trdgrp>
+  <trd lng="ru">&c_d;&c_o;&c_zh;&c_d;&c_i;&c_ch;&c_je;&c_k;</trd>
+  <trd lng="sk">drobn&yacute; d&aacute;&zcaron;&dcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_o;&c_shch;&c_i;&c_k;</trd>,
+    <trd>&c_d;&c_r;&c_ib;&c_b;&c_n;&c_i;&c_j; &c_d;&c_o;&c_shch;</trd>,
+    <trd>&c_m;&c_zh;&c_i;&c_ch;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#32048;&#38632; <pr>x&igrave;y&#468;</pr></trd>,
+    <trd>&#32454;&#38632; <pr>x&igrave;y&#468;</pr></trd>,
+    <trd>&#38690; <pr>m&agrave;i</pr></trd>,
+    <trd>&#23567;&#38632; <pr>xi&#462;oy&#468;</pr></trd>,
+    <trd>&#28326; <pr>w&emacron;i</pr></trd>,
+    <trd>&#28295; <pr>l&#468;:</pr></trd>,
+    <trd>&#28426; <pr>l&#468;:</pr></trd>,
+    <trd>&#28895;&#38632; <pr>y&amacron;ny&#468;</pr></trd>,
+    <trd>&#29017;&#38632; <pr>y&amacron;ny&#468;</pr></trd>,
+    <trd>&#30663;&#26494;&#38632; <pr>m&emacron;ngs&omacron;ngy&#468;</pr></trd>,
+    <trd>&#33945;&#26494;&#38632; <pr>m&emacron;ngs&omacron;ngy&#468;</pr></trd>,
+    <trd>&#19997;&#38632; <pr>s&imacron;y&#468;</pr></trd>,
+    <trd>&#32114;&#38632; <pr>s&imacron;y&#468;</pr></trd>,
+    <trd>&#38632;&#19997; <pr>y&#468;s&imacron;</pr></trd>,
+    <trd>&#38632;&#32114; <pr>y&#468;s&imacron;</pr></trd>,
+    <trd>&#38658; <pr>m&ugrave;</pr></trd>,
+    <trd>&#27611;&#27611;&#38632; <pr>m&aacute;omaoy&#468;</pr></trd>,
+    <trd>&#28029;&#28326; <pr>su&imacron;w&emacron;i</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pluv.sen0eco">
+  <kap>sen<tld/>eco</kap>
+  <snc mrk="pluv.sen0eco.MET">
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      Da&ubreve;ra manko de <tld/>o en iu loko:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la Eternulo kondukos vin &ccirc;iam kaj satigos vian animon en tempo de sen<tld/>eco
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 58:11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi kulturis grenon <klr>[sed]</klr> &gcirc;i difekti&gcirc;is pro la sen<tld/>eco
+        <fnt>
+          <bib>Rob</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la sen<tld/>eco plimalbonigis la situacion kaj
+        man&gcirc;a&jcirc;oprezoj altegi&gcirc;is 330 procentojn
+        <fnt>
+          <aut>-</aut>,
+          <vrk>Manko de nutra&jcirc;o minacas Etiopion</vrk>,
+          <lok><url ref="http://www.eventeo.net/web/">eventeo</url>,
+          2008-09-03</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_je;&c_z;&c_d;&c_a;&c_zh;&c_d;&c_zh;&c_o;&c_v;&c_ib;&c_c;&c_a;</trd>,
+    <trd>&c_s;&c_u;&c_sh;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>D&uuml;rre</trd>
+    <trd>Trockenheit</trd>
+  </trdgrp>
+  <trd lng="en">drought</trd>
+  <trd lng="fa">&a_kh;&a_sh;&f_k;&a_s;&a_A;&a_l;&f_y;</trd>
+  <trd lng="fr">s&eacute;cheresse<klr> (absence de pluie)</klr></trd>
+  <trd lng="id"><baz>kering</baz>kekeringan</trd>
+  <trdgrp lng="ja">
+    <trd>&#26097;&#39747;  <pr>&#12363;&#12435;&#12400;&#12388;</pr></trd>,
+    <trd>&#26085;&#29031;&#12426;  <pr>&#12402;&#12391;&#12426;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">langdurige <ind>droogte</ind></trd>
+  <trd lng="pl">susza</trd>
+  <trd lng="th">&#3613;&#3609;&#3649;&#3621;&#3657;&#3591;</trd>
+  <trdgrp lng="zh">
+    <trd>&#20094;&#26097; <pr>g&amacron;nh&agrave;n</pr></trd>,
+    <trd>&#24178;&#26097; <pr>g&amacron;nh&agrave;n</pr></trd>,
+    <trd>&#26097; <pr>h&agrave;n</pr></trd>,
+    <trd>&#26097;&#28797; <pr>h&agrave;nz&amacron;i</pr></trd>,
+    <trd>&#26097;&#28798; <pr>h&agrave;nz&amacron;i</pr></trd>,
+    <trd>&#20094;&#26097; <pr>g&amacron;nh&agrave;n</pr></trd>,
+    <trd>&#40860; <pr>j&umacron;n</pr></trd>,
+    <trd>&#40863; <pr>j&umacron;n</pr></trd>,
+    <trd>&#26097;&#24773; <pr>h&agrave;nq&iacute;ng</pr></trd>,
+    <trd>&#36007;&#20047; <pr>p&iacute;nf&aacute;</pr></trd>,
+    <trd>&#36139;&#20047; <pr>p&iacute;nf&aacute;</pr></trd>,
+    <trd>&#26097;&#23395; <pr>h&agrave;nj&igrave;</pr></trd>,
+    <trd>&#22825;&#26097; <pr>ti&amacron;nh&agrave;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pluv.0oversxo">
+  <kap><tld/>over&scirc;o
+  <fnt><bib>KrDE</bib></fnt></kap>
+  <snc mrk="pluv.0oversxo.MET">
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      Forta, densa <tld/>o:
+      <ekz>
+        dum <tld/>over&scirc;o tri viroj <klr>[&#8230;]</klr> renkonti&gcirc;as &ccirc;e la
+        ruinoj de <nom>Ra&scirc;omon</nom>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="&Vikio;Rash%C5%8Dmon_(filmo)&amp;oldid=3885320#Sinoptiko">Rash&omacron;mon
+          (filmo), Sinoptiko</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la grupo da lesboj <klr>[&#8230;]</klr> dum tiu tre fre&scirc;a novembrotago malgra&ubreve; kelkaj
+        <tld/>over&scirc;oj kura&gcirc;is manifestacii nudotorse
+        <fnt>
+          <bib>MD02</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_l;&c_ib;&c_w;&c_n;&c_y; &c_d;&c_o;&c_zh;&c_d;&c_zh;</trd>
+  <trd lng="de">Schauer</trd>
+  <trd lng="en">rain shower</trd>
+  <trd lng="fr">forte <ind>averse</ind> de pluie</trd>
+  <trdgrp lng="ja">
+    <trd>&#12395;&#12431;&#12363;&#38632;  <pr>&#12395;&#12431;&#12363;&#12354;&#12417;</pr></trd>,
+    <trd>&#39519;&#38632;  <pr>&#12375;&#12421;&#12358;&#12358;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">regenbui</trd>
+  <trdgrp lng="zh">
+    <trd>&#38453;&#38632; <pr>zh&egrave;ny&#468;</pr></trd>,
+    <trd>&#38499;&#38632; <pr>zh&egrave;ny&#468;</pr></trd>,
+    <trd>&#22823;&#38632; <pr>d&agrave;y&#468;</pr></trd>,
+    <trd>&#28087; <pr>d&omacron;ng</pr></trd>,
+    <trd>&#28689; <pr>b&agrave;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pluv.acida0o">
+  <kap>acida <tld/>o</kap>
+  <snc mrk="pluv.acida0o.MET">
+    <uzo tip="fak">EKOL</uzo>
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      <tld lit="P"/>o a&ubreve; alia atmosfera precipita&jcirc;o pli acida
+      ol normale pro enhavo de sulfuroksido, azotoksido,
+      kiu havas detruan efikon al kalka&jcirc;oj kaj vegeta&jcirc;oj:
+      <ekz>
+        la sulfuraj kombina&jcirc;oj <klr>[&#8230;]</klr>
+        estigis la acidajn <tld/>ojn
+        <fnt>
+          <aut>C. Bertin</aut>,
+          <vrk><url ref="www.bertin.biz/index.php?titre=allegre-sciencaDubo.htm">
+          La rajto pri scienca dubo</url></vrk>,
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tegmentoj rusti&gcirc;intaj pro acidaj <tld/>oj
+        <fnt>
+          <bib>MD08</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_ib;&c_s;&c_l;&c_o;&c_t;&c_n;&c_y; &c_d;&c_o;&c_zh;&c_d;&c_zh;</trd>
+  <trd lng="cs">kysel&yacute; d&eacute;&scaron;&tcaron;</trd>
+  <trd lng="de">saurer <ind>Regen</ind></trd>
+  <trd lng="en">acid rain</trd>
+  <trd lng="fr">pluie acide</trd>
+  <trd lng="id"><ind>hujan</ind> asam</trd>
+  <trd lng="ja">&#37240;&#24615;&#38632;  <pr>&#12373;&#12435;&#12379;&#12356;&#12358;</pr></trd>
+  <trd lng="sk">kysl&yacute; d&aacute;&zcaron;&dcaron;</trd>
+  <trd lng="th">&#3613;&#3609;&#3585;&#3619;&#3604;</trd>
+  <trd lng="zh">&#37240;&#38632; <pr>su&amacron;ny&#468;</pr></trd>
+</drv></art>
+<!--
+$Log$
+versio 1.129 2024/03/04 21:19:27
+David Dichelle: + trd en
+
+versio 1.127 2024/02/14 09:23:35
+Dmitri Gabinski: + trd be
+
+versio 1.126 2024/01/02 01:35:44
+Eko Nur Syah Hidayat: +trd id 2
+
+versio 1.125 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.123 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.121 2022/01/03 16:50:00
+Wolfram Diestel: ekz-oj
+
+versio 1.120 2022/01/03 10:33:10
+Wolfram Diestel: +~ero
+
+versio 1.119 2021/09/28 07:28:54
+-->
+</vortaro>

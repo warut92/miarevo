@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: pram.xml,v 1.30 2024/02/17 07:52:35 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>pram</rad>/o <fnt><bib>UV</bib></fnt>
+</kap>
+<drv mrk="pram.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="pram.0o.KOMUNE">
+    <dif>
+      Boato a&ubreve; &scirc;ipo por transveturigi homojn, bestojn a&ubreve;
+      veturilojn:
+      <ekz>
+        la <tld/>o transiradis, por transveturigi la familion de la re&gcirc;o
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 19:18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Hagaj</nom> dungis posedanton de <tld/>o sur la rivero kune kun seso da viroj
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o veturas preska&ubreve; du horojn
+        <fnt>
+        <aut>W. Schad</aut>
+        <vrk>Tra la Andoj boate</vrk>
+        <bib>Monato</bib>
+        <lok>2001:12a, p. 16a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la flosoj fari&gcirc;is simplaj <tld/>oj de a&ubreve;toj, kaj oni veturigis ilin per ligitaj
+        &scirc;nuroj &ccirc;e la du bordoj de la rivero
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Alice Liu</aut>
+          <vrk><url ref="&Monato;/2011/010328.php">Fragmentoj de la dua mondmilito</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="sxip.pram0o">pram&scirc;ipo</ref>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_o;&c_m;</trd>
+  <trd lng="bg">&c_f;&c_je;&c_r;&c_i;&c_b;&c_o;&c_t;</trd>
+  <trd lng="bo">&t_ga;&t_rata;&t_shabchu;&t_tsheg;&t_na;&t_nga;&t_tsheg;&t_-a;&t_ga;&t_rata;&t_naro;&t_tsheg;&t_ba;&t_tsheg;</trd>
+  <trd lng="ca">transbordador</trd>
+  <trdgrp lng="cs">
+    <trd>pramice</trd>,
+    <trd>pr&aacute;m</trd>
+  </trdgrp>
+  <trd lng="de">F&auml;hre</trd>
+  <trdgrp lng="en">
+    <trd>ferry</trd>,
+    <trd>pontoon</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>ferry</trd>,
+    <trd>transbordador</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bac<klr> (bateau)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">komp</trd>
+  <trdgrp lng="it">
+    <trd>traghetto</trd>,
+    <trd>ferryboat</trd>
+  </trdgrp>
+  <trd lng="ja">&#x6E21;&#x3057;&#x8239;  <pr>&#x308F;&#x305F;&#x3057;&#x3076;&#x306D;</pr></trd>
+  <trd lng="nl">veerpont</trd>
+  <trd lng="pl">prom</trd>
+  <trdgrp lng="pt">
+    <trd>barca</trd>,
+    <trd>ferryboat</trd>
+  </trdgrp>
+  <trd lng="ro">bac</trd>
+  <trd lng="ru">&c_p;&c_a;&c_r;&c_o;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>kompa</trd>,
+    <trd>prievoz</trd>
+  </trdgrp>
+  <trd lng="sv">f&auml;rja</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_r;&c_o;&c_m;</trd>,
+    <trd>&c_p;&c_a;&c_r;&c_o;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8F2A;&#x6E21; <pr>l&#xFA;nd&#xF9;</pr></trd>,
+    <trd>&#x8F6E;&#x6E21; <pr>l&#xFA;nd&#xF9;</pr></trd>,
+    <trd>&#x6E21;&#x8F2A; <pr>d&#xF9;l&#xFA;n</pr></trd>,
+    <trd>&#x6E21;&#x8F6E; <pr>d&#xF9;l&#xFA;n</pr></trd>,
+    <trd>&#x6E21;&#x8239; <pr>d&#xF9;chu&#xE1;n</pr></trd>,
+    <trd>&#x6446;&#x6E21;&#x8239; <pr>b&#x1CE;id&#xF9;chu&#xE1;n</pr></trd>,
+    <trd>&#x64FA;&#x6E21;&#x8239; <pr>b&#x1CE;id&#xF9;chu&#xE1;n</pr></trd>,
+    <trd>&#x676D; <pr>h&#xE1;ng</pr></trd>,
+    <trd>&#x6E21;&#x8F2A;&#x8239; <pr>d&#xF9;l&#xFA;nchu&#xE1;n</pr></trd>,
+    <trd>&#x6E21;&#x8F6E;&#x8239; <pr>d&#xF9;l&#xFA;nchu&#xE1;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pram.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="pram.0isto.KOMUNE">
+    <dif>
+      Tiu, kiu veturigas <tld/>on:
+      <ekz>
+        la <tld/>istoj alvenis, ili plen&scirc;ar&gcirc;is la <tld/>ojn kaj Floriso prenis lokon en
+        la <tld/>o de l&#x2019; <tld/>estro
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Tria Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i estis nigra, malnovmoda <tld/>o, kaj sur &gcirc;i <klr>[estis]</klr> malbonhumora,
+        malvigla <tld/>isto
+        <fnt>
+          <aut>I. Andri&cacute;, trad. A. Sekelj</aut>
+          <vrk>La ponto super Drino</vrk>
+          <lok>2018</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="hauxl.0isto">ha&ubreve;listo</ref>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_o;&c_m;&c_sh;&c_ch;&c_y;&c_k;</trd>
+  <trd lng="de">F&auml;hrmann</trd>
+  <trd lng="fr">nocher</trd>
+  <trd lng="ja">&#x8239;&#x982D;  <pr>&#x305B;&#x3093;&#x3069;&#x3046;</pr></trd>
+  <trd lng="pl">sternik</trd>
+  <trd lng="ro">timonier</trd>
+  <trd lng="uk">&c_p;&c_o;&c_r;&c_o;&c_m;&c_n;&c_i;&c_k;</trd>
+</drv>
+
+<drv mrk="pram.kosmo0o">
+  <kap>kosmo<tld/>o</kap>
+  <snc mrk="pram.kosmo0o.AVI">
+    <uzo tip="fak">AVI</uzo>
+    <dif>
+      <ref tip="super" cel="sxip.kosmo0o.AVI">Kosmo&scirc;ipo</ref> povanta
+      elflugi el planedo kaj reveni al &gcirc;i:
+      <ekz>
+        la katastrofo de la kosmo<tld/>o Kolombio en 2003, en kiu mortis
+        sep kosmona&ubreve;toj kaj kiu ka&ubreve;zis 29-monatan pa&ubreve;zon de
+        kosmo<tld/>aj flugoj, ka&ubreve;zis gravan rekonsideron de la
+        prioritatoj
+        <fnt><bib>Viki</bib> <lok>artikolo &leftquot;Nasa&rightquot;,
+        2008-04-17</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_sh;&c_a;&c_t;&c_l; <klr>(&c_k;&c_a;&c_s;&c_mol;&c_m;&c_ib;&c_ch;&c_n;&c_y; &c_k;&c_a;&c_r;&c_a;&c_b;&c_je;&c_l;&c_mol;)</klr></trd>
+  <trd lng="ca">transbordador espacial</trd>
+  <trd lng="de">Raumf&auml;hre</trd>
+  <trdgrp lng="es">
+    <trd>nave <ind>espacial</ind></trd>,
+    <trd>transbordador <ind>espacial</ind></trd>
+  </trdgrp>
+  <trd lng="fr">navette spatiale</trd>
+  <trdgrp lng="it">
+    <trd>navetta <ind>spaziale</ind></trd>,
+    <trd>shuttle</trd>,
+    <trd>spaceshuttle</trd>
+  </trdgrp>
+  <trd lng="ja">&#x30B9;&#x30DA;&#x30FC;&#x30B9;&#x30B7;&#x30E3;&#x30C8;&#x30EB;</trd>
+  <trdgrp lng="nl">
+    <trd>ruimteveer</trd>,
+    <trd>ruimtependel</trd>,
+    <trd>shuttle</trd>,
+    <trd>spaceshuttle</trd>
+  </trdgrp>
+  <trd lng="pl">prom kosmiczny</trd>
+  <trd lng="ro">nava spa&tcomma;ial&abreve;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x822A;&#x5929;&#x98DB;&#x6A5F; <pr>h&#xE1;ngti&#x101;nf&#x113;ij&#x12B;</pr></trd>,
+    <trd>&#x822A;&#x5929;&#x98DE;&#x673A; <pr>h&#xE1;ngti&#x101;nf&#x113;ij&#x12B;</pr></trd>,
+    <trd>&#x592A;&#x7A7A;&#x7A7F;&#x68AD;&#x673A; <pr>t&#xE0;ik&#x14D;ngchu&#x101;nsu&#x14D;j&#x12B;</pr></trd>,
+    <trd>&#x592A;&#x7A7A;&#x7A7F;&#x68AD;&#x6A5F; <pr>t&#xE0;ik&#x14D;ngchu&#x101;nsu&#x14D;j&#x12B;</pr></trd>,
+    <trd>&#x592A;&#x7A7A;&#x98DB;&#x6A5F; <pr>t&#xE0;ik&#x14D;ngf&#x113;ij&#x12B;</pr></trd>,
+    <trd>&#x592A;&#x7A7A;&#x98DE;&#x673A; <pr>t&#xE0;ik&#x14D;ngf&#x113;ij&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.29 2024/02/12 21:18:39
+Wolfram Diestel: +ekz-oj, trd de
+
+versio 1.28 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.26 2023/08/14 12:43:31
+Dmitri Gabinski: + trd be
+
+versio 1.25 2023/01/23 22:28:29
+Vito Redsky: + trd pl + trd ro
+
+Revision 1.21  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2015/04/07 09:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.18  2011/12/05 23:10:14  revo
+-->
+</vortaro>

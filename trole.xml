@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: trole.xml,v 1.11 2024/01/25 21:21:05 revo Exp $">
+<kap>
+  <rad>trole</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="trole.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="trole.0o.AUT">
+    <uzo tip="fak">AUT</uzo>
+    <dif>
+      Elektropera aparato el radeto ruli&gcirc;anta sur
+      elektra kablo kaj stangoj, kiuj kondukas la
+      kurenton &gcirc;is la suba veturilo:
+      <ekz>
+        <tld/>busoj uzas ordinarajn vojojn sed havas <tld/>ojn supre
+        <fnt>
+          <aut>E. Tikhonov</aut>,
+          <vrk><url ref="http://sxakludanto.narod.ru/transportiloj.htm">
+          Pri publika transportiloj en Novosibirsko</url></vrk>,
+          <lok>[2010]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_r;&c_a;&c_l;&c_je;&c_j;</trd>
+  <trd lng="ca">tr&ograve;lei</trd>
+  <trdgrp lng="cs">
+    <trd>sb&ecaron;ra&ccaron;</trd>,
+    <trd>trolej</trd>
+  </trdgrp>
+  <trd lng="de">Stromabnehmer</trd>
+  <trdgrp lng="en">
+     <trd>trolley pole</trd>
+     <trd>trolley</trd>
+  </trdgrp>
+  <trd lng="fr">trolley</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30C8;&#x30ED;&#x30EA;&#x30FC;</trd>,
+    <trd>&#x89E6;&#x8F2A;  <pr>&#12373;&#x308F;&#x308A;&#12435;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>odbierak pr&aogonek;du</trd>,
+    <trd>trolej</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>trolej</trd>,
+    <trd>zbern&aacute; ty&ccaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_r;&#x43E;&#x43B;&c_je;&c_j;</trd>,
+    <trd>&#x43A;&#x43E;&#x43D;&c_t;&c_a;&#x43A;&c_t;&#x43D;&c_i;&c_j; &c_r;&#x43E;&#x43B;&c_i;&#x43A;</trd>,
+    <trd>&c_s;&c_t;&c_r;&c_u;&#x43C;&#x43E;&#x43F;&c_r;&c_i;&c_j;&#x43C;&c_a;&c_ch;</trd>,
+    <trd>&c_r;&#x43E;&#x43B;&c_i;&#x43A;&#x43E;&c_v;&c_i;&c_j; &c_s;&c_t;&c_r;&c_u;&#x43C;&#x43E;&c_z;&#x43D;&c_ib;&#x43C;&c_a;&c_ch;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.11 2024/01/25 21:21:05
+Vito Redsky: +trd pl
+
+versio 1.10 2023/10/21 14:37:42
+revo: transskribo per <pr>
+
+versio 1.7 2021/06/24 12:41:58
+Dmitri Gabinski: + trd be
+
+Revision 1.5  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2013/12/01 20:10:18  revo
+Jessica Grasso: +tr en
+
+Revision 1.3  2012/08/14 14:10:16  revo
+Marc Rausell: + trd ca
+
+Revision 1.2  2011/04/29 19:10:41  revo
+Wieland Pusch: +trd de
+
+Revision 1.1  2011/04/18 08:10:10  revo
+-->
+</vortaro>

@@ -1,0 +1,848 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sat.xml,v 1.46 2024/03/24 20:00:00 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sat</rad>/a <fnt><bib>UV</bib></fnt>
+</kap>
+<drv mrk="sat.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="sat.0a.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Kies man&gcirc;obezono estas plene kvietigita:
+      <ekz>
+        en mia gastejo la homo povas esti <tld/>a kaj pia por tre malmulte da mono
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la popolo, <klr>[&#x2026;]</klr> <tld/>a post la festeno kaj &gcirc;oja, eniradis la cirkon
+        kun ekkrioj
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li estis]</klr> man&gcirc;egema, oni povus pensi, ke li neniam estis <tld/>a
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Anneto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi povis pagi la laboristojn, <klr>[&#x2026;]</klr> sed malofte ni estis <tld/>aj
+        <fnt>
+          <bib>KKr</bib>
+          <lok>I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi man&gcirc;as, sed ne &gcirc;is<tld/>e, vi trinkas, sed ne &gcirc;isebrie
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Hcirc;agaj 1:6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiu prilaboras sian teron, tiu havos <tld/>e <klr>(sufi&ccirc;e)</klr>
+        da pano
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 12:11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a mal<tld/>an ne povas kompreni
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">j&oacute;llakott</trd>
+  <trd lng="id">kenyang</trd>
+  </snc>
+  <snc mrk="sat.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Kies deziro estas plene kontentigita:
+      <ekz>
+        <nom>Abraham</nom> <klr>[&#x2026;]</klr> mortis en bona maljuneco, profunda&gcirc;a kaj <tld/>a de vivo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 25:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a de favoro
+        <fnt>
+          <bib>MT</bib>
+          <lok>Readmono 33:23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi estas tiom <tld/>a je tiu grandega amaso da mal&scirc;atindaj libroj, kiuj
+        super&scirc;utas min
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro XXII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili estis jam <tld/>aj de tiuj amuzoj
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LXXIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la roma popolo neniam estis <tld/>a je tiu &ccirc;i spektaklo
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XXXVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la radianta ru&gcirc;vanga viza&gcirc;o rakontas pri la <tld/>a vivo, sed rapidkurantaj
+        okuloj elmontras maltrankvilecon
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u vi <ind><tld/>dormi</ind>s
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>?
+        <trd lng="de">ausschlafen</trd>
+        <trd lng="hu">kialussza mag&aacute;t</trd>
+        <trd lng="nl">uitslapen</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="abund.0a">abunda</ref>,
+      <ref cel="ted.0igxi">tedi&gcirc;i</ref>
+    </refgrp>
+    <trd lng="hu">elege <ind>van vmib&odblac;l</ind></trd>
+  <trdgrp lng="id">
+    <trd>marem</trd>,
+    <trd>puas</trd>
+  </trdgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_y;&c_t;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>nasycen&yacute;</trd>,
+    <trd>syt&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">satt</trd>
+  <trd lng="en">satisfied</trd>
+  <trd lng="es">satisfecho</trd>
+  <trdgrp lng="fr">
+    <trd>combl&eacute;<klr> (satisfait)</klr></trd>,
+    <trd>repus</trd>,
+    <trd>satisfait</trd>
+  </trdgrp>
+  <trd lng="it">sazio</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6E80;&#x8179;&#x3057;&#x305F;  <pr>&#x307E;&#x3093;&#x3077;&#x304F;&#x3057;&#x305F;</pr></trd>,
+    <trd>&#x98DF;&#x3044;&#x8DB3;&#x308A;&#x305F;  <pr>&#x304F;&#x3044;&#x305F;&#x308A;&#x305F;</pr></trd>,
+    <trd>&#x6E80;&#x3061;&#x8DB3;&#x308A;&#x305F;  <pr>&#x307F;&#x3061;&#x305F;&#x308A;&#x305F;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>verzadigd</trd>,
+    <trd>voldaan</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>syty</trd>,
+    <trd>najedzony</trd>,
+    <trd>nasycony</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_y;&c_t;&c_y;&c_j;</trd>
+  <trd lng="sk">nas&yacute;ten&yacute;</trd>
+  <trd lng="sv">m&auml;tt</trd>
+  <trd lng="uk">&c_s;&c_i;&c_t;&c_i;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x98FD; <pr>b&#x1CE;o</pr></trd>,
+    <trd>&#x9971; <pr>b&#x1CE;o</pr></trd>,
+    <trd>&#x6EE1;&#x8DB3; <pr>m&#x1CE;nz&#xFA;</pr></trd>,
+    <trd>&#x6EFF;&#x8DB3; <pr>m&#x1CE;nz&#xFA;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sat.0">
+  <kap><tld/>-</kap>
+  <snc mrk="sat.0.prefikso">
+    <dif>
+      Prefikso de verboj, indikanta plenumon de la ago &gcirc;is plena
+      kontento, satureco ktp:
+      <ekz>
+        <refgrp>
+          <ref cel="dorm.sat0i"><tld/>dormi</ref>,
+          <ref cel="mangx.sat0i"><tld/>man&gcirc;i</ref>,
+          <ref cel="parol.sat0i"><tld/>paroli</ref>,
+          <ref cel="plor.sat0i"><tld/>plori</ref>,
+          <ref cel="trink.sat0i"><tld/>trinki</ref>
+        </refgrp>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="el.0.prefikso_tuta">el<sncref/></ref>,
+      <ref cel="fin.gxis0e">fin-, &gcirc;isfine</ref>,
+      <ref cel="tut.0e">tut-, tute</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>auf-<klr>(essen usw.)</klr></trd>,
+    <trd>aus-<klr>(trinken, schlafen usw.)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">... son content
+  <klr> (jusqu'&agrave; pleine satisfaction)</klr></trd>
+  <trdgrp lng="id">
+    <trd>... hingga <ind>puas</ind></trd>,
+    <trd>... sampai <ind>puas</ind></trd>
+  </trdgrp>
+  <trd lng="pl">na-</trd>
+  <trd lng="ru">&c_n;&c_a;...&c_s;&c_ja;</trd>
+</drv>
+
+<drv mrk="sat.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sat.0igi.KUI">
+    <dif>
+      Kontentigi la man&gcirc;obezonon sufi&ccirc;e <ref tip="vid" cel="nutr.0i.BIO">nutrante</ref>:
+      <ekz>
+        lasu unue <tld/>igi la infanojn
+        <fnt>
+          <bib>NT</bib>
+          <lok>Marko 7:27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kuiriston vaporo <tld/>igas
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        promeso ne <tld/>igas
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">j&oacute;llakat</trd>
+  <trd lng="id"><baz>kenyang</baz>mengenyangkan</trd>
+  </snc>
+  <snc mrk="sat.0igi.FIG">
+    <dif>
+      <ref tip="super" cel="konten.0igi">Kontentigi</ref> la deziron:
+      <ekz>
+        Dio <tld/>igos &ccirc;ian vian bezonon
+        <fnt>
+          <bib>NT</bib>
+          <lok>Filipianoj 4:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia animo ne estas <tld/>igebla
+        <fnt>
+          <bib>MT</bib>
+          <lok>Predikanto 6:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la milito <klr>[&#x2026;]</klr> povis <tld/>igi lian bezonon de la gloro
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro VII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por <tld/>igi la avidecon de miaj helpantoj, la dioj devus krei dek Egiptojn
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi deziras nur <klr>[&#x2026;]</klr> la <tld/>igon de egoisma amo
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Oka</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu kontra&ubreve;staro ekscitegis &gcirc;is la frenezeco volupteman pasion &gcirc;is nun neniam
+        <tld/>igitan
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Deksesa</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="plen.0igi.FIG">plenigi<sncref/></ref>,
+      <ref cel="satur.0i.FIG">saturi<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>erf&uuml;llen</trd>,
+      <trd>befriedigen</trd>
+    </trdgrp>
+    <trd lng="hu">kiel&eacute;g&iacute;t</trd>
+  <trd lng="id"><baz>puas</baz>memuaskan</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_s;&c_y;&c_ch;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_y;&c_c;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>d&aacute;t dosyta naj&iacute;st</trd>,
+    <trd>nasytit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>s&auml;ttigen</trd>,
+    <trd>satt machen</trd>
+  </trdgrp>
+  <trd lng="fr">satisfaire</trd>
+  <trd lng="it">saziare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6E80;&#x8179;&#x3055;&#x305B;&#x308B;  <pr>&#x307E;&#x3093;&#x3077;&#x304F;&#x3055;&#x305B;&#x308B;</pr></trd>,
+    <trd>&#x5341;&#x5206;&#x6E80;&#x8DB3;&#x3055;&#x305B;&#x308B;  <pr>&#x3058;&#x3085;&#x3046;&#x3076;&#x3093;&#x307E;&#x3093;&#x305E;&#x304F;&#x3055;&#x305B;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>verzadigen</trd>,
+    <trd>bevredigen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wykarmi&cacute;</trd>,
+    <trd>zaspokaja&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_a;&c_s;&c_y;&c_t;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>da&tcaron; dos&yacute;ta najes&tcaron;</trd>,
+    <trd>nas&yacute;ti&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">m&auml;tta</trd>
+  <trd lng="uk">&c_n;&c_a;&c_s;&c_i;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x6EE1;&#x610F; <pr>m&#x1CE;ny&#xEC;</pr></trd>,
+    <trd>&#x6EFF;&#x610F; <pr>m&#x1CE;ny&#xEC;</pr></trd>,
+    <trd>&#x6EE1;&#x8DB3; <pr>m&#x1CE;nz&#xFA;</pr></trd>,
+    <trd>&#x6EFF;&#x8DB3; <pr>m&#x1CE;nz&#xFA;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sat.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="sat.0igxi.KUI">
+    <dif>
+      Preni sufi&ccirc;an man&gcirc;on, ne plu senti mal<tld/>on:
+      <ekz>
+        matene vi <tld/>i&gcirc;os per pano
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 16:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &scirc;ipestro celas &scirc;pari tiom je la &scirc;ipanara man&gcirc;o, ke la maristoj neniam
+        <tld/>i&gcirc;as
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj man&gcirc;is kaj <tld/>i&gcirc;is
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 15:37</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        muso <tld/>i&gcirc;is, faruno malboni&gcirc;is
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trd lng="id"><baz>kenyang</baz>mengenyang</trd>
+  </snc>
+  <snc mrk="sat.0igxi.FIG">
+    <dif>
+      <ref tip="super" cel="konten.0igxi">Kontenti&gcirc;i</ref>, plenumi sian deziron:
+      <ekz>
+        mirinde bela <klr>[&#x2026;]</klr> panoramo <klr>[&#x2026;]</klr>, miaj okuloj ne povis
+        <tld/>i&gcirc;i admirante &gcirc;in
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Kvina Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Mi &gcirc;ojis kaj mi &gcirc;uis, mi ne povis &#x2AFD; <tld lit="S"/>i&gcirc;i de l&#x2019; feli&ccirc;o mia propra
+        <fnt>
+          <bib>Ifigenio</bib>
+          <lok>Ifigenio en Ta&ubreve;rido</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la etulo balda&ubreve; <tld/>i&gcirc;is de la ludo
+        <fnt>
+          <bib>OIP</bib>
+          <lok>Ombro sur interna pejza&gcirc;o</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trd lng="id"><baz>puas</baz>memuas</trd>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_s;&c_y;&c_ch;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd><ind>ges&auml;ttigt</ind> werden</trd>,
+    <trd>sich <ind>s&auml;ttigen</ind></trd>
+  </trdgrp>
+  <trd lng="fr">se <ind>rassasier</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x6E80;&#x8179;&#x3059;&#x308B;  <pr>&#x307E;&#x3093;&#x3077;&#x304F;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x6E80;&#x3061;&#x8DB3;&#x308A;&#x308B;  <pr>&#x307F;&#x3061;&#x305F;&#x308A;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">usatysfakcjonowa&cacute; si&eogonek;</trd>
+  <trd lng="uk">&c_n;&c_a;&c_s;&c_i;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5403;&#x98FD; <pr>ch&#x12B;b&#x1CE;o</pr></trd>,
+    <trd>&#x5403;&#x9971; <pr>ch&#x12B;b&#x1CE;o</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sat.gxis0e">
+  <kap>&gcirc;is<tld/>e</kap>
+  <snc mrk="sat.gxis0e.KOMUNE">
+    <dif>
+      &Gcirc;is atingo de <tld/>eco, la&ubreve;dezire,
+      <ref tip="vid" cel="vol.laux0e">la&ubreve;vole</ref>:
+      <ekz>
+        vi povas man&gcirc;i vinberojn kiom vi volos, &gcirc;is<tld/>e
+        <fnt><bib>MT</bib>, <lok>&Rea; 23:24</lok></fnt>;
+      </ekz>;
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        vi kaj mi &gcirc;is<tld/>e konversacios
+        <fnt>
+          <aut>I. Efremov, trad. J. Finkel</aut>,
+          <vrk><url ref="http://www.esperanto.mv.ru/Efremov/tais.html">
+          Tais el Ateno</url></vrk>,
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_s;&c_y;&c_t;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd>mehr als <ind>genug</ind></trd>,
+    <trd>bis zum <ind>Abwinken</ind></trd>,
+    <trd>in <ind>F&uuml;lle</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&agrave; sati&eacute;t&eacute;</trd>,
+    <trd>jusqu'&agrave; plus soif</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>hingga <ind>puas</ind></trd>,
+    <trd>sampai <ind>puas</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6E80;&#x8179;&#x3059;&#x308B;&#x307E;&#x3067;  <pr>&#x307E;&#x3093;&#x306F;&#x3089;&#x3059;&#x308B;&#x307E;&#x3067;</pr></trd>,
+    <trd>&#x3042;&#x304D;&#x308B;&#x307B;&#x3069;</trd>
+  </trdgrp>
+  <trd lng="pl">do <ind>syta</ind></trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_o;&c_s;&c_i;&c_t;&c_a;</trd>,
+    <trd>&c_d;&c_o;&c_s;&c_h;&c_o;&c_ch;&c_u;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5C3D;&#x60C5; <pr>j&#xEC;nq&#xED;ng</pr></trd>,
+    <trd>&#x76E1;&#x60C5; <pr>j&#xEC;nq&#xED;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sat.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="sat.mal0a.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Sentanta man&gcirc;obezonon:
+      <ekz>
+        li estis mal<tld/>a kaj soifa, neniu donis al li speson
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Kupra porko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        venos sep jaroj de mal<tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 41:30</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nur tio estas fasto <klr>[&#x2026;]</klr> se vi derompos vian panon por mal<tld/>ulo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 58:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni estas mal<tld/>aj kiel lupoj
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>IV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        morti de mal<tld/>o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Elinjo-fingreto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e stomako mal<tld/>a ne kapricas palato
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        en mal<tld/>a familio mankas harmonio
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_l;&c_o;&c_d;&c_n;&c_y;</trd>
+  <trd lng="bo">&t_ga;&t_rata;&t_naro;&t_da;&t_tsheg;&t_kha;&t_naro;&t_ga;&t_tsheg;&t_la;&t_tata;&t_naro;&t_ga;&t_tsheg;&t_pa;&t_tsheg;</trd>
+  <trdgrp lng="cs">
+    <trd>hladov&yacute;</trd>,
+    <trd>la&ccaron;n&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">hungrig</trd>
+  <trd lng="en">hungry</trd>
+  <trd lng="es">hambriento</trd>
+  <trd lng="fr">affam&eacute;</trd>
+  <trd lng="hu">&eacute;hes</trd>
+  <trd lng="id">lapar</trd>
+  <trd lng="it">affamato</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7A7A;&#x8179;&#x306E;  <pr>&#x304F;&#x3046;&#x3075;&#x304F;&#x306E;</pr></trd>,
+    <trd>&#x8179;&#x306E;&#x3059;&#x3044;&#x305F;  <pr>&#x306F;&#x3089;&#x306E;&#x3059;&#x3044;&#x305F;</pr></trd>,
+    <trd>&#x98E2;&#x3048;&#x305F;  <pr>&#x3046;&#x3048;&#x305F;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">hongerig</trd>
+  <trd lng="pl">g&lstroke;odny</trd>
+  <trd lng="ru">&c_g;&c_o;&c_l;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>hladn&yacute;</trd>,
+    <trd>la&ccaron;n&yacute;</trd>
+  </trdgrp>
+  <trd lng="sv">hungrig</trd>
+  <trd lng="uk">&c_g;&c_o;&c_l;&c_o;&c_d;&c_n;&c_i;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x98E2;&#x9913; <pr>j&#x12B;&#xE8;</pr></trd>,
+    <trd>&#x9965;&#x997F; <pr>j&#x12B;&#xE8;</pr></trd>,
+    <trd>&#x98E2; <pr>j&#x12B;</pr></trd>,
+    <trd>&#x9965; <pr>j&#x12B;</pr></trd>,
+    <trd>&#x9912; <pr>n&#x11B;i</pr></trd>,
+    <trd>&#x9981; <pr>n&#x11B;i</pr></trd>,
+    <trd>&#x6E34;&#x671B; <pr>k&#x11B;w&#xE0;ng</pr></trd>,
+    <trd>&#x9951; <pr>j&#x12B;</pr></trd>,
+    <trd>&#x9965; <pr>j&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sat.mal0i">
+  <kap>mal<tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="sat.mal0i.KUI">
+    <dif>
+      Senti la bezonon man&gcirc;i:
+      <ekz>
+        la elpelito mal<tld/>as jam la trian tagon
+        <fnt>
+          <bib>DL</bib>
+          <lok>Dua Libro de l' Lingvo Internacia</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li &scirc;telas por sin <tld/>igi, kiam li mal<tld/>as
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 6:30</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen prenu ankora&ubreve; du panojn kaj unu &scirc;inkon, por ke vi ne bezonu mal<tld/>i
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        estro ne mal<tld/>as
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tuta jam <tld/>a, sed okulo mal<tld/>as
+        <klr>(avidas)</klr>
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fast.0i">fasti</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_l;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_g;&c_a;&c_l;&c_a;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_g;&c_a;&c_l;&c_o;&c_d;&c_n;&c_y;&c_m;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hladov&ecaron;t</trd>,
+    <trd>m&iacute;t hlad</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>hungern</trd>,
+    <trd><ind>Hunger</ind> leiden</trd>,
+    <trd><ind>Knast</ind> haben</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>tener hambre</trd>,
+    <trd>estar hambriento</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre <ind>affam&eacute;</ind></trd>,
+    <trd>avoir <ind>faim</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&eacute;hes</trd>,
+    <trd>&eacute;hezik</trd>
+  </trdgrp>
+  <trd lng="id">lapar</trd>
+  <trd lng="it">essere <ind>affamato</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x98E2;&#x3048;&#x3066;&#x3044;&#x308B;  <pr>&#x3046;&#x3048;&#x3066;&#x3044;&#x308B;</pr></trd>,
+    <trd>&#x8179;&#x3092;&#x3059;&#x304B;&#x305B;&#x3066;&#x3044;&#x308B;  <pr>&#x306F;&#x3089;&#x3092;&#x3059;&#x304B;&#x305B;&#x3066;&#x3044;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">honger hebben</trd>
+  <trdgrp lng="pl">
+    <trd>g&lstroke;odowa&cacute;</trd>,
+    <trd>by&cacute;  <ind>g&lstroke;odnym</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_o;&c_l;&c_o;&c_d;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_b;&c_y;&c_t;&c_mol; <ind>&c_g;&c_o;&c_l;&c_o;&c_d;&c_n;&c_y;&c_m;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hladova&tcaron;</trd>,
+    <trd>ma&tcaron; hlad</trd>
+  </trdgrp>
+  <trd lng="sv">hungra</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_u;&c_t;&c_i; &c_g;&c_o;&c_l;&c_o;&c_d;&c_n;&c_i;&c_m;</trd>,
+    <trd>&c_g;&c_o;&c_l;&c_o;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_h;&c_o;&c_t;&c_ib;&c_t;&c_i; &c_ji;&c_s;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x997F; <pr>&egrave;</pr></trd>
+</drv>
+
+<drv mrk="sat.ne0igebla">
+  <kap>ne<tld/>igebla</kap>
+  <snc mrk="sat.ne0igebla.KUI">
+    <dif>
+      Kiun nenio <tld/>igas, nenio sufi&ccirc;e nutras:
+      <ekz>
+        nesatigebla soifo &scirc;in konsumis
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Na&ubreve;a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ne<tld/>igebla Maltano ensorbis, &ccirc;iutage post la vesperman&gcirc;o, grandegan
+        pladon da aveloj
+        <fnt>
+          <aut>E. About, trad. G. Moch</aut>
+          <vrk><url ref="&Gutenberg;files/65835/65835-0.txt">La Re&gcirc;o de la
+          Montoj</url></vrk>
+          <lok>1909</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trd lng="id">tidak pernah kenyang</trd>
+  </snc>
+  <snc mrk="sat.ne0igebla.FIG">
+    <dif>
+      Kiun nenio kontentigas:
+      <ekz>
+        ne<tld/>igebla ambicio
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ekkonis ilian ne<tld/>igeblan fieron kaj deziron regni
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne<tld/>igeblaj sendankuloj
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XLIX</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        ne<tld/>igebla estas mia deziro &ccirc;ion ekvidi, &ccirc;ion trapalpi, nenion preterlasi
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        indignigis nin la ne<tld/>igebla postulemo de la edzino
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Anta&ubreve;parolo de la tradukinto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trdgrp lng="id">
+    <trd><baz>puas</baz>tak terpuaskan</trd>,
+    <trd>tak pernah <ind>puas</ind></trd>
+  </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_n;&c_a;&c_je;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_n;&c_a;&c_s;&c_y;&c_t;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_ja;&c_w;&c_t;&c_o;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="cs">nenasytn&yacute;</trd>
+  <trd lng="de">uners&auml;ttlich</trd>
+  <trdgrp lng="fr">
+    <trd>inassouvissable</trd>,
+    <trd>insatiable</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6E80;&#x305F;&#x3059;&#x3053;&#x3068;&#x306E;&#x3067;&#x304D;&#x306A;&#x3044;  <pr>&#x307F;&#x305F;&#x3059;&#x3053;&#x3068;&#x306E;&#x3067;&#x304D;&#x306A;&#x3044;</pr></trd>,
+    <trd>&#x969B;&#x9650;&#x306E;&#x306A;&#x3044;  <pr>&#x3055;&#x3044;&#x3052;&#x3093;&#x306E;&#x306A;&#x3044;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>nienasycony</trd>,
+    <trd>nieugaszony</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nen&aacute;sytn&yacute;</trd>,
+    <trd>pa&zcaron;rav&yacute;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_n;&c_je;&c_n;&c_a;&c_s;&c_i;&c_t;&c_n;&c_i;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x8CAA;&#x995E; <pr>t&#x101;nch&#xE1;n</pr></trd>,
+    <trd>&#x8D2A;&#x998B; <pr>t&#x101;nch&#xE1;n</pr></trd>,
+    <trd>&#x4E0D;&#x77E5;&#x8DB3; <pr>b&#xF9;zh&#x12B;z&#xFA;</pr></trd>,
+    <trd>&#x5165;&#x8FF7; <pr>r&#xF9;m&#xED;</pr></trd>,
+    <trd>&#x8CAA;&#x5403; <pr>t&#x101;nch&#x12B;</pr></trd>,
+    <trd>&#x8D2A;&#x5403; <pr>t&#x101;nch&#x12B;</pr></trd>,
+    <trd>&#x8CAA;&#x5FC3; <pr>t&#x101;nx&#x12B;n</pr></trd>,
+    <trd>&#x8D2A;&#x5FC3; <pr>t&#x101;nx&#x12B;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sat.super0eco">
+  <kap>super<tld/>eco, <var><kap>tro<tld/>i&gcirc;o</kap></var></kap>
+  <snc mrk="sat.super0eco.KUI">
+    <dif>
+      Stato de tiu, kiu estas pli ol <tld/>a:
+      <ekz>
+        tro<tld/>i&gcirc;o per man&gcirc;ado
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 16:49</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni diras ke per <klr>[mal<tld/>o]</klr> la spirito
+        lerti&gcirc;as kaj male per la tro<tld/>i&gcirc;o
+        <fnt>
+          <aut>E. de Bonaero</aut>,
+          <vrk>La Friponeto de Tormes</vrk>,
+          <lok>1973</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        da&ubreve;rigi <klr>[&#x2026;]</klr> &gcirc;is la super<tld/>igo
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 4 (66)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_s;&c_y;&c_ch;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="de">&Uuml;bers&auml;ttigung</trd>
+  <trdgrp lng="fr">
+    <trd>repl&eacute;tion</trd>,
+    <trd>sati&eacute;t&eacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x98FD;&#x98DF;  <pr>&#x307B;&#x3046;&#x3057;&#x3087;&#x304F;</pr></trd>,
+    <trd>&#x98FD;&#x6E80;  <pr>&#x307B;&#x3046;&#x307E;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">oververzadigdheid</trd>
+  <trdgrp lng="hu">
+    <trd>eltelt</trd>,
+    <trd>t&uacute;llakott</trd>
+  </trdgrp>
+  <trd lng="id"><baz>kenyang</baz>kekenyangan</trd>
+  <trdgrp lng="it">
+    <trd>satollo</trd>,
+    <trd>rimpinzato</trd>
+  </trdgrp>
+  <trd lng="pl">przesyt</trd>
+  <trd lng="ru">&c_p;&c_r;&c_je;&c_s;&c_y;&c_shch;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="sv">
+    <trd>&ouml;verm&auml;tt</trd>,
+    <trd>d&auml;st</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8FC7;&#x9971;&#x548C; <pr>gu&#xF2;b&#x1CE;oh&#xE9;</pr></trd>,
+    <trd>&#x904E;&#x98FD;&#x548C; <pr>gu&#xF2;b&#x1CE;oh&#xE9;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.45 2024/02/03 18:26:33
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.44 2023/10/21 06:31:28
+revo: transskribo per <pr>
+
+versio 1.43 2023/09/30 13:22:09
+Wolfram Diestel: &gcirc;is~e..tro~i&gcirc;o: +ekz-oj, ref, trd de
+
+versio 1.42 2023/09/29 20:23:15
+Wolfram Diestel: ~igi, ~i&gcirc;i: +ekz-oj
+
+versio 1.41 2023/09/28 19:17:56
+Wolfram Diestel: ~a, ~-: ekz, ref, trd de
+
+versio 1.39 2023/07/28 20:26:08
+Vito Redsky: +trd pl
+
+versio 1.38 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.37 2022/04/07 07:29:11
+-->
+</vortaro>

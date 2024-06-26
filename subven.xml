@@ -1,0 +1,272 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: subven.xml,v 1.28 2024/03/25 07:28:37 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>subvenci</rad>/o <fnt><bib>PVEF</bib></fnt>
+</kap>
+
+<drv mrk="subven.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="subven.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Oficiala <ref tip="super" cel="help.mon0o.KOMUNE">monhelpo</ref>:
+      <ekz>
+        mi petis a&ubreve;diencon de la re&gcirc;o pri <tld/>o por la nova templo
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro XV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        delegitoj ne povis kalkuli pri <tld/>oj de lokaj grupoj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj estis ofte uzataj por kura&gcirc;igi investadon en specifaj
+        industrioj
+        <fnt>
+          <aut>D. Rogers</aut>,
+          <vrk>Ekonomia miraklo a&ubreve; malsano?</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 1997a, numero 2a, p. 14a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kvest1.0ajxo">kvesta&jcirc;o</ref>,
+      <ref cel="donac.mon0o">mondonaco</ref>,
+      <ref cel="ten.sub0o">subteno</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_u;&c_b;&c_v;&c_e;&c_n;&c_c;&c_y;&c_ja;</trd>,
+    <trd>&c_s;&c_u;&c_b;&c_s;&c_y;&c_d;&c_y;&c_ja;</trd>,
+    <trd>&c_d;&c_a;&c_t;&c_a;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_s;&c_u;&c_b;&c_s;&c_i;&c_d;&c_i;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>fin. podpora z ve&rcaron;ejn&yacute;ch prost&rcaron;edk&uring;</trd>,
+    <trd>subvence</trd>
+  </trdgrp>
+  <trd lng="de">Subvention</trd>
+  <trdgrp lng="en"><trd>subsidy</trd>, <trd>grant</trd></trdgrp>
+  <trd lng="fa">&f_y;&a_A;&a_r;&a_A;&a_n;&a_h;</trd>
+  <trd lng="fr">subvention</trd>
+  <trdgrp lng="hu">
+    <trd>seg&eacute;ly</trd>,
+    <trd>t&aacute;mogat&aacute;s <klr tip="ind">(p&eacute;nz&uuml;gyi)</klr></trd>,
+    <trd>szubvenci&oacute;</trd>
+  </trdgrp>
+  <trd lng="it">sovvenzione</trd>
+  <trdgrp lng="ja">
+    <trd>&#x88DC;&#x52A9;&#x91D1;  <pr>&#x307B;&#x3058;&#x3087;&#x304D;&#x3093;</pr></trd>,
+    <trd>&#x52A9;&#x6210;&#x91D1;  <pr>&#x3058;&#x3087;&#x305B;&#x3044;&#x304D;&#x3093;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">subsidie</trd>
+  <trdgrp lng="pl">
+    <trd>subwencja</trd>,
+    <trd>zapomoga</trd>,
+    <trd>zasi&lstroke;ek</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_u;&c_b;&c_s;&c_i;&c_d;&c_i;&c_ja;</trd>,
+    <trd>&c_d;&c_o;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>,
+    <trd>&c_d;&c_je;&c_n;&c_je;&c_zh;&c_n;&c_o;&c_je; <ind>&c_p;&c_o;&c_s;&c_o;&c_b;&c_i;&c_je;</ind></trd>
+  </trdgrp>
+  <trd lng="sk">subvencia</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_u;&c_b;&c_v;&c_je;&c_n;&c_c;&c_ib;&c_ja;</trd>,
+    <trd>&c_s;&c_u;&c_b;&c_s;&c_i;&c_d;&c_ib;&c_ja;</trd>,
+    <trd>&c_d;&c_o;&c_t;&c_a;&c_c;&c_ib;&c_ja;</trd>,
+    <trd>&c_g;&c_r;&c_o;&c_sh;&c_o;&c_v;&c_a; &c_d;&c_o;&c_p;&c_o;&c_m;&c_o;&c_g;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8865;&#x52A9; <pr>b&#x1D4;zh&#xF9;</pr></trd>,
+    <trd>&#x88DC;&#x52A9; <pr>b&#x1D4;zh&#xF9;</pr></trd>,
+    <trd>&#x8865;&#x8D34; <pr>b&#x1D4;ti&#x113;</pr></trd>,
+    <trd>&#x88DC;&#x8CBC; <pr>b&#x1D4;ti&#x113;</pr></trd>,
+    <trd>&#x8CC7;&#x52A9; <pr>z&#x12B;zh&#xF9;</pr></trd>,
+    <trd>&#x8D44;&#x52A9; <pr>z&#x12B;zh&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="subven.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="subven.0i.POL">
+    <dif>
+      <ref tip="super" cel="proviz.0i.havigi">Provizi</ref> oficialan monhelpon:
+      <ekz>
+        Japana Unesko-Komisiono <tld/>as la partoprenon de la du delegitoj de <nom>JEI</nom> en
+        Universalaj Kongresoj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per la unuecaj prezoj la furoraj libroj <tld/>as la deficitajn, sed altkvalitajn
+        librojn, kies eldonkvanto estas malgranda
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk>Liberaj prezoj por libroj</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Usono plendas &ccirc;ar EU da&ubreve;re <tld/>as sian
+        agrikulturon
+        <fnt>
+          <aut>R. Rotsaert</aut>,
+          <vrk>Jarmila konferenco &hcirc;aose malsukcesis</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2000a, numero 2a, p. 10a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="mecena.0i">mecenati</ref>,
+      <ref cel="ten.sub0i.FIG">subteni<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_u;&c_b;&c_s;&c_y;&c_d;&c_y;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_s;&c_u;&c_b;&c_v;&c_e;&c_n;&c_c;&c_y;&c_ju;</ind></trd>,
+    <trd>&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_d;&c_a;&c_t;&c_a;&c_c;&c_y;&c_ju;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dotovat</trd>,
+    <trd>podporovat</trd>,
+    <trd>subvencovat</trd>
+  </trdgrp>
+  <trd lng="de">subventionieren</trd>
+  <trd lng="en">subsidize</trd>
+  <trd lng="fa">&f_y;&a_A;&a_r;&a_A;&a_n;&a_h; &a_d;&a_A;&a_d;&a_n;<klr> (&a_b;&a_h;)</klr></trd>
+  <trd lng="fr">subventionne</trd>
+  <trdgrp lng="hu">
+    <trd>seg&eacute;lyez</trd>,
+    <trd>t&aacute;mogat <klr tip="ind">(p&eacute;nz&uuml;gyileg)</klr></trd>,
+    <trd>dot&aacute;l</trd>
+  </trdgrp>
+  <trd lng="it">sovvenzionare</trd>
+  <trd lng="ja">&#xFF5E;&#x306B;&#x88DC;&#x52A9;&#x91D1;&#x3092;&#x4E0E;&#x3048;&#x308B;  [&#xFF5E;<ind>&#x306B;&#x307B;&#x3058;&#x3087;&#x304B;&#x306D;&#x3092;&#x3042;&#x305F;&#x3048;&#x308B;</ind>]</trd>
+  <trd lng="nl">subsidi&euml;ren</trd>
+  <trdgrp lng="pl">
+    <trd>subwencjowa&cacute;</trd>,
+    <trd>&lstroke;o&zdot;y&cacute;  <klr>(na kogo&sacute;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_u;&c_b;&c_s;&c_i;&c_d;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_d;&c_o;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol; <ind>&c_d;&c_o;&c_t;&c_a;&c_c;&c_i;&c_ju;</ind></trd>,
+    <trd>&c_o;&c_k;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol; <ind>&c_d;&c_je;&c_n;&c_je;&c_zh;&c_n;&c_u;&c_ju;
+    &c_p;&c_o;&c_m;&c_o;&c_shch;&c_mol;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dotova&tcaron;</trd>,
+    <trd>podporova&tcaron;</trd>,
+    <trd>subvencova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_u;&c_b;&c_s;&c_i;&c_d;&c_ib;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_n;&c_a;&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &c_g;&c_r;&c_o;&c_sh;&c_o;&c_v;&c_u; &c_d;&c_o;&c_p;&c_o;&c_m;&c_o;&c_g;&c_u;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8865;&#x52A9; <pr>b&#x1D4;zh&#xF9;</pr></trd>,
+    <trd>&#x88DC;&#x52A9; <pr>b&#x1D4;zh&#xF9;</pr></trd>,
+    <trd>&#x8865;&#x8D34; <pr>b&#x1D4;ti&#x113;</pr></trd>,
+    <trd>&#x88DC;&#x8CBC; <pr>b&#x1D4;ti&#x113;</pr></trd>,
+    <trd>&#x8CC7;&#x52A9; <pr>z&#x12B;zh&#xF9;</pr></trd>,
+    <trd>&#x8D44;&#x52A9; <pr>z&#x12B;zh&#xF9;</pr></trd>,
+    <trd>&#x642D;&#x8865; <pr>d&#x101;b&#x1D4;</pr></trd>,
+    <trd>&#x642D;&#x88DC; <pr>d&#x101;b&#x1D4;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="subven.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="subven.0ado.POL">
+    <dif>
+      Da&ubreve;ra helpo per mondonacoj:
+      <ekz>
+        <tld/>ado al internaciaj kunordigitaj esploroj
+        <fnt>
+          <bib>CKv</bib>
+          <lok>4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum la intertraktado pri la &Gcirc;enerala Konvencio pri Dogano kaj
+        Komerco, Usono kritikis la <tld/>adon de film-produktado
+        <fnt>
+          <aut>R. F&ouml;&szlig;meier</aut>:
+          <vrk>La merkato de lingvoj</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 1997a, numero 11a, p. 22a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_u;&c_b;&c_s;&c_y;&c_d;&c_y;&c_ja;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="de">Subvention</trd>
+  <trdgrp lng="fr">
+    <trd>subvention<klr> (r&eacute;guli&egrave;re)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>seg&eacute;lyez&eacute;s</trd>,
+    <trd>t&aacute;mogat&aacute;s <klr tip="ind">(p&eacute;nz&uuml;gyi)</klr></trd>,
+    <trd>dot&aacute;l&aacute;s</trd>
+  </trdgrp>
+  <trd lng="it">sovvenzione</trd>
+  <trd lng="nl">subsidi&euml;ren<klr tip="ind"> (zn.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>subwencjonowanie</trd>,
+    <trd>wspomaganie</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_u;&c_b;&c_s;&c_i;&c_d;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_ja;</trd>,
+    <trd>&c_d;&c_o;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x8865;&#x8D34; <pr>b&#x1D4;ti&#x113;</pr></trd>,
+    <trd>&#x88DC;&#x8CBC; <pr>b&#x1D4;ti&#x113;</pr></trd>,
+    <trd>&#x62E8;&#x6B3E; <pr>b&#x14D;ku&#x1CE;n</pr></trd>,
+    <trd>&#x64A5;&#x6B3E; <pr>b&#x14D;ku&#x1CE;n</pr></trd>,
+    <trd>&#x8865;&#x52A9; <pr>b&#x1D4;zh&#xF9;</pr></trd>,
+    <trd>&#x88DC;&#x52A9; <pr>b&#x1D4;zh&#xF9;</pr></trd>,
+    <trd>&#x8CC7;&#x52A9; <pr>z&#x12B;zh&#xF9;</pr></trd>,
+    <trd>&#x8D44;&#x52A9; <pr>z&#x12B;zh&#xF9;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2024/03/02 09:21:06
+Dmitri Gabinski: + trd be
+
+versio 1.26 2023/11/10 01:32:12
+Vito Redsky: +trd pl
+
+versio 1.25 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.24 2023/09/08 14:26:45
+Wolfram Diestel: kor. ja ind.
+
+versio 1.23 2023/09/05 21:20:19
+Wolfram Diestel: +ekz-oj, ref-oj
+
+Revision 1.19  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/05/17 14:10:11  revo
+Jeromo Vasxe: + ref sup, + kk mrk
+
+Revision 1.17  2009/10/16 16:31:18  revo
+-->
+</vortaro>

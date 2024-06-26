@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: pacxul.xml,v 1.25 2024/03/31 07:20:55 revo Exp $">
+<kap>
+  <ofc>1</ofc> <rad>pa&ccirc;ul</rad>/o,
+  <var><kap><rad var="o">pa&ccirc;ol</rad>/o <fnt><bib>PVEF</bib></fnt></kap></var>
+</kap>
+<drv mrk="pacxul.0o">
+  <kap><tld/>o,
+  <var><kap><tld var="o"/>o</kap></var>
+  </kap>
+  <snc mrk="pacxul.0o.BOT">
+  <uzo tip="fak">BOT</uzo>
+    <dif>
+      Hinda vegeta&jcirc;o
+      el kiu oni faras <ref tip="vid" cel="incens.0o">incenson</ref>
+      kaj pastelojn por bonodorigi la bu&scirc;on;
+      <ref tip="lst" lst="voko:botanikaj_specioj" cel="speci.0o.BIO">specio</ref>
+      (<trd lng="la">Pogostemon cablin</trd>)
+      el <ref tip="malprt" cel="lamiac.0oj">lamiacoj</ref>:
+      <ekz>
+        preferataj odoroj? &dash; <tld/>o kaj olibano
+        <fnt>
+          <aut>Nissa Annakindt</aut>
+          <vrk><url
+          ref="http://kajlahundo.blogspot.com/2008/01/la-memeo-por-nov-jaronew-years-meme.html">La
+          Memeo por Nov-Jaro</url></vrk>
+          <lok>2008-01-08</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi povis neniam pardoni al &scirc;i &scirc;iajn robojn, kiuj en&scirc;ovas sin obstine sub la piedoj
+        de mia se&gcirc;o, la odoron de <tld var="o"/>o, kiun &scirc;i dis&jcirc;etas apud mi
+        <fnt>
+          <aut>E. About, trad. G. Moch</aut>
+          <vrk><url ref="https://www.gutenberg.org/files/65835/65835-0.txt">
+          La Re&gcirc;o de la Montoj</url></vrk>
+          <lok>1909</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+    <bld lok="&WCU;/thumb/1/17/Pogostemon_cablin_001.jpg/640px-Pogostemon_cablin_001.jpg"
+    prm="CC-BY-SA-3.0"><tld/>o, botanika &gcirc;ardeno de G&ouml;ttingen
+        <fnt>
+          <aut>Val&eacute;rie75</aut>
+          <lok><url
+          ref="&WCW;/File:Pogostemon_cablin_001.jpg">&WCW;/File:Pogostemon_cablin_001.jpg</url></lok>
+        </fnt>
+    </bld>
+  <trd lng="be">&c_p;&c_a;&c_ch;&c_u;&c_l;&c_ib;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_ch;&c_u;&c_l;&c_i;</trd>
+  <trd lng="de">Patschuli</trd>
+  <trd lng="en">patchouli</trd>
+  <trd lng="es">pachul&iacute;</trd>
+  <trd lng="fr">patchouli</trd>
+  <trd lng="hu">pacsuli<klr tip="ind"> (n&ouml;v&eacute;ny)</klr></trd>
+  <trdgrp lng="it">
+   <trd>patchouli</trd>,
+   <trd>pascul&igrave;</trd>
+  </trdgrp>
+  <trd lng="ja">&#x30D1;&#x30C1;&#x30E7;&#x30EA;</trd>
+  <trd lng="nl">patchouli</trd>
+  <trdgrp lng="pl">
+    <trd>paczulka wonna</trd>,
+    <trd>brodziec paczulka</trd>
+  </trdgrp>
+  <trd lng="pt">patchuli</trd>
+  <trd lng="ro">paciuli</trd>
+  <trd lng="ru">&c_p;&c_a;&c_ch;&c_u;&c_l;&c_i;</trd>
+  <trd lng="uk">&#x43F;&c_a;&c_ch;&c_u;&#x43B;&c_ib;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x5E7F;&#x85FF;&#39321; <pr>gu&#x1CE;nghu&#xF2;xi&amacron;ng</pr></trd>,
+    <trd>&#x5EE3;&#x85FF;&#39321; <pr>gu&#x1CE;nghu&#xF2;xi&amacron;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2024/03/31 07:20:55
+Wolfram Diestel: sintakso
+
+versio 1.24 2024/03/14 17:24:24
+Damien Brucker: -eraro cxe drv
+
+versio 1.23 2024/03/14 15:27:41
+Damien Brucker: -eraro cxe kap en drv
+
+versio 1.22 2024/03/12 21:22:01
+Jeromo Vasxe: + var o
+
+versio 1.19 2022/05/01 17:51:18
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.17 2021/11/27 22:40:57
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.15  2015/07/29 16:10:17  revo
+Joop Eggen: +trd bg
+
+Revision 1.14  2009/02/28 17:31:20  revo
+-->
+</vortaro>

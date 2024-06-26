@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: gubern1.xml,v 1.24 2024/02/17 18:24:15 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>guberni</rad>/o <fnt><bib>JED</bib></fnt>
+</kap>
+<drv mrk="gubern1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="gubern1.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Administra <ref tip="super" cel="terito.0o.POL">teritorio</ref>
+      de regno, malpli vasta ol <ref tip="malprt" cel="provin.0o.POL">provinco</ref>
+      kaj pli vasta ol <ref tip="prt" cel="kanton.0o.POL">kantono</ref>:
+      <ekz>
+        alveturis oficisto kun la ordono revizi la tutan <tld/>on kaj precipe nian
+        distrikton
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de malproksime minacis &hcirc;olero, sed la lo&gcirc;antoj de la <tld/>o N jam kutimis al
+        &scirc;iaj vizitoj
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>X</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Vermlando estas <tld/>o kun nord-klimata karaktero, kun densaj, profundaj,
+        altrokaj arbaroj, idiliaj lagoj, kiujn vintre ne&gcirc;o kaj glacio kovras
+        <fnt>
+          <bib>KKr</bib>
+          <lok>II</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Tula</nom> estas la &ccirc;efurbo de la samnoma bonfarta <tld/>o
+        <fnt>
+          <bib>Voja&gcirc;Imp</bib>
+          <lok>&Ccirc;e Lev Tolstoj en Jasnaja Poljana</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la <tld/>o Nagasako e&ubreve;ropaj &scirc;ipoj komencis enhaveni&gcirc;i kaj ekde 1580
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Yasuo</aut>
+          <vrk><url ref="&Monato;/2008/009358.php"
+              >Nagasako</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Polujo konsistis el vojevodlandoj (kvaza&ubreve; provincoj, posteaj <tld/>oj), kiuj
+        dividi&gcirc;is en distriktojn
+        <fnt>
+          <bib>SrT</bib>
+          <lok>Libro I.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        1818 la bienularo de la Vilna <tld/>o decidis dum sejmeto projekton, liberigi
+        &ccirc;iujn servutulojn kaj tiu-cele elektis delegitaron al la caro
+        <fnt>
+          <bib>SrT</bib>
+          <lok>Libro XII.</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_u;&c_b;&c_e;&c_r;&c_n;&c_ib;&c_ja;</trd>,
+    <trd>&c_sh;&c_t;&c_a;&c_t; <klr>(&c_n;&c_a;&c_p;&c_r;. &c_u; &c_Ib;&c_n;&c_d;&c_y;&c_ib;)</klr></trd>
+  </trdgrp>
+  <trd lng="ca">governaci&oacute;</trd>
+  <trd lng="cs">gubernie</trd>
+  <trdgrp lng="de">
+    <trd>Gouvernement</trd>,
+    <trd>Regierungsbezirk</trd>,
+    <trd>Verwaltungsbezirk</trd>
+  </trdgrp>
+  <trd lng="en">administrative province</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;partement<klr> (territoire)</klr></trd>,
+    <trd>gouvernement<klr tip="ind"> (division territoriale)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">tartom&aacute;ny<klr tip="ind"> (k&ouml;zigazgat&aacute;si
+  egys&eacute;g)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#30476;  <pr>&#12354;&#12364;&#12383;</pr></trd>,
+    <trd>&#37117;&#36947;&#24220;&#30476;  <pr>&#12392;&#12393;&#12358;&#12405;&#12369;&#12435;</pr></trd>,
+    <trd>&#24030;  <pr>&#12377;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>gouvernement</trd>,
+    <trd>provincie</trd>
+  </trdgrp>
+  <trd lng="pt">prov&iacute;ncia</trd>
+  <trd lng="ru">&c_g;&c_u;&c_b;&c_je;&c_r;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="sk">gubernia</trd>
+  <trd lng="uk">&c_g;&c_u;&c_b;&c_je;&c_r;&c_n;&c_ib;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd>&#34892;&#25919;&#21306; <pr>x&iacute;ngzh&egrave;ngq&umacron;</pr></trd>,
+    <trd>&#30465; <pr>sh&ecaron;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="gubern1.0estro">
+  <kap><tld/>estro</kap>
+  <snc mrk="gubern1.0estro.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Administranto de <tld/>o:
+      <ekz>
+        dudek Turkoj, armitaj per sabroj kaj pafiloj, eskortis ilin, &ccirc;ar ili estis
+        amikoj de la <tld/>estro
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Ligo de amikeco</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pesto <klr>[mortigis]</klr> la <tld/>estron kaj preska&ubreve; la tutan hareman
+        virinaron
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        postmorga&ubreve; la <tld/>estro donos grandan balon
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>XII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="prefek.0o.POL">prefekto<sncref/></ref>
+  </snc>
+  <trd lng="be">&c_g;&c_u;&c_b;&c_e;&c_r;&c_n;&c_a;&c_t;&c_a;&c_r;</trd>
+  <trd lng="ca">governador</trd>
+  <trdgrp lng="cs">
+    <trd>gubern&aacute;tor</trd>,
+    <trd>guvern&eacute;r</trd>,
+    <trd>m&iacute;stodr&zcaron;itel</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Gouverneur</trd>,
+    <trd>Statthalter</trd>
+  </trdgrp>
+  <trd lng="en">governor</trd>
+  <trdgrp lng="fr">
+    <trd>gouverneur</trd>,
+    <trd>pr&eacute;fet</trd>
+  </trdgrp>
+  <trd lng="hu">korm&aacute;nyz&oacute;</trd>
+  <trd lng="ja">&#30693;&#20107;  <pr>&#12385;&#12376;</pr></trd>
+  <trd lng="nl">gouverneur</trd>
+  <trd lng="pt">governador</trd>
+  <trd lng="ru">&c_g;&c_u;&c_b;&c_je;&c_r;&c_n;&c_a;&c_t;&c_o;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>gubern&aacute;tor</trd>,
+    <trd>miestodr&zcaron;ite&lcaron;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_g;&c_u;&c_b;&c_je;&c_r;&c_n;&c_a;&c_t;&c_o;&c_r;</trd>
+  <trdgrp lng="zh">
+    <trd>&#30693;&#20107; <pr>zh&imacron;sh&igrave;</pr></trd>,
+    <trd>&#22826;&#23432; <pr>t&agrave;ish&#466;u</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.24 2024/02/17 18:24:15
+Wolfram Diestel: fnt JED, ekz-oj
+
+versio 1.22 2023/10/15 18:38:19
+revo: transskribo per <pr>
+
+versio 1.20 2022/06/13 20:34:40
+Dmitri Gabinski: + trd be
+
+Revision 1.17  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2012/08/19 09:10:26  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2010/06/26 05:45:34  revo
+Jeromo Vasxe: + ref
+
+Revision 1.14  2009/02/23 17:30:49  revo
+Russ Williams: +trd en
+
+Revision 1.13  2007/07/09 16:30:29  revo
+-->
+</vortaro>

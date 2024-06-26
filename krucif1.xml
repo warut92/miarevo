@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: krucif1.xml,v 1.22 2024/04/15 07:18:53 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>krucifiks</rad>/o
+</kap>
+<drv mrk="krucif1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">KRI</uzo>
+  <snc>
+    <dif>
+      Ligna ebura a&ubreve; metala kruco, sur kiu estas figurata Jesuo
+      krucumita:
+      <ekz>
+        montrante lian portreton sub sia <tld/>o
+        <fnt><bib>VivZam</bib> <lok>&ccirc;apitro 12a, p. 129a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_k;&c_r;&c_y;&c_zh;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="ca">crucifix</trd>
+  <trd lng="cs">obraz uk&rcaron;i&zcaron;ovan&eacute;ho</trd>
+  <trd lng="de">Kruzifix</trd>
+  <trd lng="en">crucifix</trd>
+  <trd lng="es">crucifijo</trd>
+  <trdgrp lng="fr">
+    <trd>croix<klr tip="ind"> (crucifix)</klr></trd>,
+    <trd>crucifix</trd>
+  </trdgrp>
+  <trd lng="hu">fesz&uuml;let</trd>
+  <trd lng="ja">&#21313;&#x5B57;&#x67B6;&#x50CF;  <pr>&#12376;&#12421;&#12358;&#12376;&#x304B;&#x305E;&#12358;</pr></trd>
+  <trd lng="nl">kruisbeeld</trd>
+  <trd lng="pl">krucyfiks</trd>
+  <trd lng="pt">crucifixo</trd>
+  <trd lng="ro">crucifix</trd>
+  <trd lng="ru">&c_r;&c_a;&c_s;&c_p;&c_ja;&c_t;&c_i;&c_je; <klr>(&c_i;&c_z;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  <trd lng="sk">kr&iacute;&zcaron; s&nbsp;podobou ukri&zcaron;ovan&eacute;ho Krista</trd>
+  <trd lng="sv">krucifix</trd>
+  <trd lng="uk">&c_r;&#x43E;&c_z;&#x43F;&#8217;&#x44F;&c_t;&c_t;&#x44F; (&c_f;&c_ib;&c_gu;&c_u;&c_r;&#x43D;&c_je;
+  &c_z;&#x43E;&c_b;&c_r;&c_a;&c_zh;&c_je;&#x43D;&#x43D;&#x44F;)</trd>
+  <trd lng="zh">&#21313;&#x5B57;&#x67B6; <pr>sh&#xED;z&#xEC;ji&#xE0;</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2024/04/15 07:18:53
+Dmitri Gabinski: + trd be
+
+versio 1.20 2023/10/18 17:23:25
+revo: transskribo per <pr>
+
+Revision 1.16  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2006/10/27 16:31:07  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2005/04/11 16:33:38  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.12  2005/01/23 17:32:07  revo
+Paul Peeraerts: kor en fr
+
+Revision 1.11  2005/01/21 17:31:48  revo
+-->
+</vortaro>

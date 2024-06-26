@@ -1,0 +1,298 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: stumbl.xml,v 1.26 2024/03/25 07:28:37 revo Exp $">
+<kap>
+  <rad>stumbl</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="stumbl.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="stumbl.0i.faleti">
+    <dif>
+      <ref tip="dif" cel="fal.0eti">Faleti, duonfali</ref>:
+      <ekz>
+        li <tld/>is anta&ubreve; la eniro en man&gcirc;o&ccirc;ambron kaj klarigis &ccirc;i tiun malagrabla&jcirc;on
+        per la elirinta renkonten kato
+        <fnt><bib>Metrop</bib></fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;ismorte laca, en pezaj malsekaj botoj mi vagis <klr>[&#x2026;]</klr> <tld/>ante sur
+        telefonfadenon
+        <fnt><bib>Metrop</bib></fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>adis sur la kel&scirc;tupoj
+        <fnt>
+          <bib>LGA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li subite <tld/>is kaj falis en kavon
+        <fnt>
+          <bib>LGA</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_p;&c_a;&c_t;&c_y;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>,
+      <trd>&c_s;&c_p;&c_a;&c_t;&c_y;&c_k;&c_n;&c_u;&c_c;&c_c;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>stumble</trd>,
+      <trd>trip</trd>,
+      <trd>misstep</trd>,
+      <trd>miss one's step</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>broncher<klr tip="ind"> (tr&eacute;bucher)</klr></trd>,
+    </trdgrp>
+    <trd lng="hu">megbotlik</trd>
+    <trd lng="nl">struikelen</trd>
+    <trd lng="pl">potkn&aogonek;&cacute; si&eogonek;</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_p;&c_o;&c_t;&c_y;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+      <trd>&c_s;&c_p;&c_o;&c_t;&c_k;&c_n;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+      <trd>&c_o;&c_s;&c_t;&c_u;&c_p;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+      <trd>&c_z;&c_a;&c_p;&c_n;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="stumbl.0i.figure">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Senkonscie fari malgrandajn erarojn:
+      <ekz>
+        mi &ccirc;iam <tld/>as &ccirc;e tiu silabo
+        (<ref tip="vid" cel="balbut.0i.MED">balbuti<sncref/></ref>);
+      </ekz>
+      <ekz>
+        ni <tld/>as refoje &ccirc;e la sama demando
+        <fnt>
+          <bib>CKv</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        problemo, &ccirc;e kiu jam plurajn semajnojn la polico <tld/>is sen espero progresi
+        <fnt>
+          <bib>ChC</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam <nom>Aleks Jendrik</nom> ekdiktatoris en la urba estraro, unuafoje li
+        <tld/>is: tiu projekto signis la finon de lia politika kariero
+        <fnt>
+          <bib>ChB</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ja <tld/>is anta&ubreve; la akuzativo
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>Blogo de inventisto de nova skribsistemo por Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post multaj provoj kaj <tld/>oj li fine publikigis la &Gcirc;eneralan Teorion de
+        Relativeco
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="erar.0i">erari</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_z;&c_a;&c_p;&c_ib;&c_n;&c_a;&c_c;&c_c;&c_a;</trd>,
+      <trd>&c_m;&c_ib;&c_k;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>stolpern</trd>,
+    <trd><ind>h&auml;ngen</ind> bleiben</trd>,
+    <trd>straucheln</trd>
+  </trdgrp><trd lng="fr">tr&eacute;bucher</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x307E;&#x305A;&#x304F;</trd>,
+    <trd>&#x3088;&#x308D;&#x3081;&#x304F;</trd>,
+    <trd>&#x3068;&#x3061;&#x308B;</trd>,
+    <trd>&#x8A00;&#x3044;&#x9593;&#x9055;&#x3048;&#x308B;  <pr>&#x3044;&#x3044;&#x307E;&#x3061;&#x304C;&#x3048;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43F;&#x43E;&c_t;&c_i;&#x43A;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&#x43E;&c_s;&c_t;&c_u;&#x43F;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x7D46; <pr>b&#xE0;n</pr></trd>,
+    <trd>&#x7ECA; <pr>b&#xE0;n</pr></trd>,
+    <trd>&#x7D46;&#x5012; <pr>b&#xE0;nd&#x1CE;o</pr></trd>,
+    <trd>&#x7ECA;&#x5012; <pr>b&#xE0;nd&#x1CE;o</pr></trd>,
+    <trd>&#x8DCE; <pr>tu&#xF3;</pr></trd>,
+    <trd>&#x8E1C; <pr>l&#xE8;ng</pr></trd>,
+    <trd>&#x8E76; <pr>ju&#xE9;</pr></trd>,
+    <trd>&#x8E2C; <pr>zh&#xEC;</pr></trd>,
+    <trd>&#x8E93; <pr>zh&#xEC;</pr></trd>,
+    <trd>&#x6253;&#x8D94;&#x8D84; <pr>d&#x1CE;li&#xE8;qie</pr></trd>,
+    <trd>&#x8DCC; <pr>di&#x113;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="stumbl.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="stumbl.0o.KOMUNE">
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        &leftquot;trenu pramon&rightquot; anstata&ubreve; &leftquot;prenu tramon&rightquot; estas nur seninteresa lango<tld/>o
+        <fnt>
+          <bib>KrB</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        ni kore dankas pro la pluraj bonegaj reagoj, <klr>[&#x2026;]</klr> kaj anka&ubreve;
+        pardonpetas pro la etaj <tld/>oj
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="pasx.mis0o">mispa&scirc;o</ref>
+    </refgrp>
+    <trd lng="be">&c_s;&c_p;&c_a;&c_t;&c_y;&c_k;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trdgrp lng="de">
+      <trd>Stolpern</trd>,
+      <trd>Straucheln</trd>,
+      <trd>Gestolper</trd>,
+      <trd>Aussetzer</trd>
+    </trdgrp><trd lng="hu">botl&aacute;s</trd>
+    <trd lng="pl">potkni&eogonek;cie</trd>
+    <trd lng="ru">&c_z;&c_a;&c_p;&c_i;&c_n;&c_k;&c_a;</trd>
+  </snc>
+  <snc mrk="stumbl.0o.licenco">
+    <uzo tip="fak">POE</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      Metrika <ref tip="super" cel="licenc1.0o">licenco</ref>, pro kiu
+      oni toleras anstata&ubreve;igon de tri <ref cel="jamb.0o">jamboj</ref>
+      per du <ref cel="anapes.0o">anapestoj</ref>, a&ubreve; de tri
+      <ref cel="troke.0o">trokeoj</ref> per du <ref cel="amfibr.0o">amfibra&hcirc;oj</ref>:
+      <ekz>
+        &leftquot;<esc>&iacute;ru, &eacute;ble h&eacute;jmon pli t&aacute;&ubreve;gan
+        vi tr&oacute;vos</esc>&rightquot; <fnt>K</fnt>
+        <klr>(en <ref cel="troke.n0o">kvintrokeo</ref>)</klr>;
+      </ekz>
+      <ekz>
+        &ccirc;u ne &scirc;ajnus pli natura skandi <klr>[tiun
+        verson]</klr> per <tld/>o
+        <fnt><bib>PGl</bib>, <lok>p. 24</lok></fnt>?
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">klop&yacute;t&aacute;n&iacute;</trd>
+  <trdgrp lng="fr">
+    <trd>faux-pas</trd>,
+    <trd>tr&eacute;buchement</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x307E;&#x305A;&#x304D;</trd>,
+    <trd>&#x3088;&#x308D;&#x3081;&#x304D;</trd>,
+    <trd>&#x3068;&#x3061;&#x308A;</trd>,
+    <trd>&#x7834;&#x8ABF;  <pr>&#x306F;&#x3061;&#x3087;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">potk&yacute;nanie</trd>
+  <trdgrp lng="zh">
+    <trd>&#x8D70;&#x932F; <pr>z&#x1D2;ucu&#xF2;</pr></trd>,
+    <trd>&#x8D70;&#x9519; <pr>z&#x1D2;ucu&#xF2;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="stumbl.0ilo">
+  <kap><tld/>ilo, <var><kap><tld/>igilo</kap></var></kap>
+  <snc mrk="stumbl.0ilo.KOMUNE">
+    <dif>
+      Ka&ubreve;zo de malsukceso por multaj; <ref tip="sin" cel="fal.sxtonode0pusxigxo">&scirc;tono de
+      falpu&scirc;i&gcirc;o</ref>:
+      <ekz>
+        ortografio estas <tld/>ilo <klr>[&#x2026;]</klr> en multegaj lingvoj
+        <fnt>
+          <aut>M. van Oostendorp, trad. H. Huppertz</aut>,
+          <vrk><url ref="http://www.vanoostendorp.nl/interlinguistiek/neighbour/propri.htm">
+          La Projekto Neighbour</url></vrk>,
+          <lok>[vidita en 2013]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        homoj bonvolemaj, pretaj konsili kaj helpi &ccirc;e &ccirc;iu survoja <tld/>igilo
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>E-Kulturo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        unua <tld/>igilo: elturni&gcirc;i en la labirinto de kopirajto, eldonado kaj presado!
+        <klr>[&#x2026;]</klr>, dua <tld/>igilo: la kontrola relegado <klr>[&#x2026;]</klr>, tria
+        <tld/>igilo: la disvendado
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>E-Kulturo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_m;&c_je;&c_n;&c_mol; &c_s;&c_p;&c_a;&c_t;&c_y;&c_k;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_a;&c_d;&c_v;&c_o;&c_d;&c_n;&c_y; &c_k;&c_a;&c_m;&c_je;&c_n;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Stolperstein</trd>,
+    <trd>Fallstrick</trd>
+  </trdgrp><trdgrp lng="fr">
+    <trd>&eacute;cueil<klr> (cause d'erreur)</klr></trd>,
+    <trd>pierre d'<ind>achoppement</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>potykacz</trd>,
+    <trd>przeszkoda</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4EE5;&#x9677;&#x9631;&#x6355;&#x7372; <pr>y&#x1D0;xi&#xE0;nj&#x1D0;ngb&#x1D4;hu&#xF2;</pr></trd>,
+    <trd>&#x4EE5;&#x9677;&#x9631;&#x6355;&#x83B7; <pr>y&#x1D0;xi&#xE0;nj&#x1D0;ngb&#x1D4;hu&#xF2;</pr></trd>,
+    <trd>&#x8A98;&#x60D1; <pr>y&#xF2;uhu&#xF2;</pr></trd>,
+    <trd>&#x8BF1;&#x60D1; <pr>y&#xF2;uhu&#xF2;</pr></trd>,
+    <trd>&#x8A98;&#x9677; <pr>y&#xF2;uxi&#xE0;n</pr></trd>,
+    <trd>&#x8BF1;&#x9677; <pr>y&#xF2;uxi&#xE0;n</pr></trd>,
+    <trd>&#x54CD;&#x5F26; <pr>xi&#x1CE;ngxi&#xE1;n</pr></trd>,
+    <trd>&#x97FF;&#x5F26; <pr>xi&#x1CE;ngxi&#xE1;n</pr></trd>,
+    <trd>&#x675C;&#x677E;&#x5B50;&#x9152; <pr>d&#xF9;s&#x14D;ngz&#x1D0;ji&#x1D4;</pr></trd>,
+    <trd>&#x9677;&#x9631; <pr>xi&#xE0;nj&#x1D0;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.25 2023/12/27 01:32:03
+Vito Redsky: +trd pl 
+
+versio 1.24 2023/11/04 01:27:38
+Jeromo Vasxe: + 1 ref
+
+versio 1.23 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.20 2021/12/14 07:27:30
+Wolfram Diestel: ekz-oj, ref-oj, trd de
+
+versio 1.19 2021/11/15 08:36:03
+Dmitri Gabinski: + trd be
+
+Revision 1.17  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/10/09 20:10:30  revo
+Jeromo Vasxe: + ~ilo
+
+Revision 1.15  2010/06/17 16:31:08  revo
+-->
+</vortaro>

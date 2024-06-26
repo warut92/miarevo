@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: strid.xml,v 1.11 2024/03/25 09:23:31 revo Exp $">
+<kap>
+  <rad>strid</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="strid.0i">
+  <kap><tld/>i</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="strid.0i.SON">
+    <dif>
+      <ref tip="super" cel="bru.0i.soni">Bruadi</ref> la&ubreve;te kaj
+      akre, malagrable:
+      <ekz>
+        malanta&ubreve; &scirc;ia dorso en la dormo&ccirc;ambro ek<tld/>is la telefono
+        <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 20a, p. 202a</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="sxrik.0i">&scirc;riki</ref>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>je&ccaron;et</trd>,
+    <trd>v&rcaron;e&scaron;t&ecaron;t</trd>
+  </trdgrp>
+  <trd lng="de">schrillen</trd>
+  <trd lng="en">shrill</trd>
+  <trd lng="fr">crever les tympans</trd>
+  <trdgrp lng="hu">
+    <trd>siv&iacute;t</trd>,
+    <trd>s&uuml;v&iacute;t</trd>,
+    <trd>sip&iacute;t</trd>
+  </trdgrp>
+  <trd lng="nl">huilen</trd>
+  <trdgrp lng="pl">
+    <trd>przenika&cacute;</trd>,
+    <trd>d&zacute;wi&eogonek;cze&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_i;&c_z;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol; &c_r;&c_je;&c_z;&c_k;&c_i;&c_je; &c_z;&c_v;&c_u;&c_k;&c_i;</trd>
+  <trdgrp lng="sk">
+    <trd>hvi&zcaron;&dcaron;a&tcaron;</trd>,
+    <trd>ja&ccaron;a&tcaron;</trd>,
+    <trd>vre&scaron;&tcaron;a&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_ib;&c_z;&c_a;&c_t;&c_i; &c_s;&c_l;&c_u;&c_h;</trd>,
+    <trd>&c_p;&c_i;&c_shch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_k;&c_r;&c_i;&c_p;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_k;&c_r;&c_je;&c_k;&c_o;&c_t;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &c_g;&c_o;&c_s;&c_t;&c_r;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_ib;&c_z;&c_k;&c_i;&c_j; &c_z;&c_v;&c_u;&c_k;/&c_g;&c_o;&c_l;&c_o;&c_s;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="strid.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="strid.0a.SON">
+    <dif>
+      Akra kaj la&ubreve;ta:
+      <ekz>
+        <nom>Margarita</nom> <tld/>e ekfajfis
+        <fnt>
+          <bib>MkM</bib>
+          <lok>21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i jelpe kaj <tld/>e ploras
+        <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 82a, volumo 3a, p.
+        25a</lok></fnt>;
+      </ekz>
+      <ekz>
+        li elvokis <tld/>an triumfantan krion, kiu sonis kiel tiu de rabbirdo
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>Goabo, la dezerto de la Koloroj</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">schrill</trd>
+  <trdgrp lng="en">
+    <trd>strident</trd>,
+    <trd>shrilly</trd>
+  </trdgrp>
+  <trd lng="fr">strident</trd>
+  <trdgrp lng="hu">
+    <trd>siv&iacute;t&oacute;</trd>,
+    <trd>f&uuml;lsiket&iacute;t&odblac;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>oorverscheurend</trd>,
+    <trd>snijdend</trd>,
+    <trd>schel</trd>,
+    <trd>door <ind>merg</ind> en been gaand</trd>
+  </trdgrp>
+  <trd lng="pl">ostry  <klr>(d&zacute;wi&eogonek;k)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_je;&c_z;&c_k;&c_i;&c_j;<klr tip="amb"> (&c_o; &c_z;&c_v;&c_u;&c_k;&c_je;)</klr></trd>,
+    <trd>&c_p;&c_r;&c_o;&c_n;&c_z;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_i;&c_s;&c_k;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_n;&c_i;&c_z;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_k;&c_r;&c_i;&c_p;&c_u;&c_ch;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_k;&c_r;&c_i;&c_p;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_ib;&c_z;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_g;&c_o;&c_s;&c_t;&c_r;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#21050;&#32819; <pr>c&igrave;&ecaron;r</pr></trd>,
+    <trd>&#23574;&#37555; <pr>ji&amacron;nru&igrave;</pr></trd>,
+    <trd>&#23574;&#38160; <pr>ji&amacron;nru&igrave;</pr></trd>,
+    <trd>&#23574;&#22768; <pr>ji&amacron;nsh&emacron;ng</pr></trd>,
+    <trd>&#23574;&#32882; <pr>ji&amacron;nsh&emacron;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.11 2024/03/25 09:23:31
+Wolfram Diestel: +ekz-oj, trd de, en
+
+versio 1.9 2023/11/23 21:23:56
+Vito Redsky: +trd pl
+
+Revision 1.6  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2009/08/12 16:30:21  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.4  2005/03/17 17:31:46  revo
+Yury Finkel: +trd ru
+
+Revision 1.3  2005/03/16 18:16:49  revo
+Yury Finkel: +trd ru
+
+Revision 1.2  2004/11/03 17:31:08  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.1  2004/07/27 16:31:22  revo
+-->
+</vortaro>

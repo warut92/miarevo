@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: cxevro.xml,v 1.22 2024/03/21 07:20:05 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>&ccirc;evron</rad>/o <fnt><bib>JED</bib></fnt>
+</kap>
+
+<drv mrk="cxevro.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="cxevro.0o.KON">
+    <uzo tip="fak">KON</uzo>
+    <dif>
+      &Ccirc;iu el la <ref tip="super" cel="trab.0o">trabo</ref>j, oblikve fiksitaj amba&ubreve;flanke de la
+      tegmenta &ccirc;eftrabo por subteni tegmenton:
+      <ekz>
+        La traboj de nia domo estas cedraj, &parsl; Niaj &ccirc;evronoj estas abiaj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Alta kanto 1:17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malalta kandele lumigita &ccirc;ambro kun fortikaj nekovritaj <tld/>oj kaj disaj
+        rigidaj brunaj mebloj de la 17-a jarcento
+        <fnt>
+          <bib>Sol</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kolonoj estas dikaj, kolorigitaj <tld/>oj estas
+        brilegaj, &scirc;tonaj &scirc;tuparoj estas alte metitaj
+        unu sur aliaj
+        <fnt>
+          <aut>Basyoo, trad. Sasaki T.</aut>,
+          <vrk><url ref="http://members.jcom.home.ne.jp/verda/sasaki%20okunohosomiti.pdf">
+          Streta vojo al fora interno</url></vrk>,
+          <lok>[vidita en 2011]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_r;&c_o;&c_k;&c_v;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd>Sparren</trd>,
+      <trd>Dachsparren</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>rafter</trd>,
+      <trd>support beam</trd>
+    </trdgrp>
+    <trd lng="fr">chevron</trd>
+    <trd lng="hu">szarufa</trd>
+    <trdgrp lng="it">
+      <trd>capriata<klr> (italiana o francese)</klr></trd>,
+      <trd>puntone<klr> (di capriata)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">spant</trd>
+    <trd lng="pl">krokiew</trd>
+    <trd lng="pt">caibro</trd>
+    <trd lng="ru">&c_s;&c_t;&c_r;&c_o;&c_p;&c_i;&c_l;&c_o;</trd>
+    <trdgrp lng="zh">
+    <trd>&#29965; <pr>m&eacute;ng</pr></trd>,
+    <trd>&#26941;&#23376; <pr>chu&aacute;nzi</pr></trd>
+  </trdgrp>
+</snc>
+  <trd lng="he">&qof;&vav;&resh;&vav;&tav; &he;&ayin;&ftsadi; &bet;&gimel;&gimel;
+  &he;&tav;&vav;&mem;&kaf;&vav;&tav; &alef;&tav;
+  &he;&resh;&ayin;&pe;&yod;&fmem;</trd>
+  <trd lng="ja">&#22402;&#26408;  <pr>&#12383;&#12427;&#12365;</pr></trd>
+  <trd lng="uk">&c_k;&c_r;&c_o;&c_k;&c_v;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2024/03/21 07:20:05
+Wolfram Diestel: +ekz
+
+versio 1.20 2023/10/22 09:21:45
+Paul Peeraerts: + trd nl
+
+versio 1.19 2023/10/14 11:10:02
+revo: transskribo per <pr>
+
+Revision 1.14  2010/05/14 16:30:58  revo
+Russ Williams: +trd en
+
+Revision 1.13  2009/04/27 16:31:24  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2009/04/17 19:49:29  revo
+Antonio Codazzi: +trd it
+
+Revision 1.11  2003/12/08 17:31:37  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2002/12/21 17:32:09  revo
+-->
+</vortaro>

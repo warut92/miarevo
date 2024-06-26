@@ -1,0 +1,607 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: suficx.xml,v 1.115 2024/03/28 14:24:05 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sufi&ccirc;</rad>/a <fnt><bib>UV</bib></fnt>
+</kap>
+<drv mrk="suficx.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="suficx.0a.KOMUNE">
+    <dif>
+      Estanta en tia kvanto, kia estas bezona:
+      <ekz>
+        unu fajrero estas <tld/>a, por eksplodigi pulvon
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 41</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam vi maljuni&gcirc;as, vi ricevas <tld/>an emeritan salajron
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu respondo estis tute <tld/>a
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>David</nom> maljuni&gcirc;is kaj atingis <tld/>an a&gcirc;on
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Kroniko 23:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kion li scias, ne estas <tld/>a
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la salato ricevis <tld/>an porcion da <klr>[&#8230;]</klr> oleo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne <tld/>a prepariteco
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi estas kolera, kaj mi havas <tld/>an ka&ubreve;zon por tio
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio de la jaro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i]</klr> timas, ke &scirc;i ne havos tempon <tld/>an por fini
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Na&ubreve;a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_s;&c_t;&c_a;&c_t;&c_k;&c_o;&c_v;&c_y;</trd>
+  <trdgrp lng="ca">
+    <trd>suficient</trd>,
+    <trd>adequat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ausreichend</trd>,
+    <trd>gen&uuml;gend</trd>,
+    <trd>hinreichend</trd>,
+    <trd>hinl&auml;nglich</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>enough</trd>,
+    <trd>sufficient</trd>,
+    <trd>adequate</trd>
+  </trdgrp>
+  <trd lng="es">suficiente</trd>
+  <trd lng="fr">suffisant</trd>
+  <trd lng="he">&mem;&samekh;&pe;&yod;&qof;</trd>
+  <trdgrp lng="hu">
+    <trd>el&eacute;g</trd>,
+    <trd>el&eacute;gs&eacute;ges</trd>,
+    <trd>elegend&odblac;</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>adekuat</trd>,
+    <trd>cukup</trd>,
+    <trd><baz>pada</baz>memadai</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#21313;&#20998;&#12394;  <pr>&#12376;&#12421;&#12358;&#12406;&#12435;&#12394;</pr></trd>,
+    <trd>&#12363;&#12394;&#12426;&#12398;</trd>,
+    <trd>&#30456;&#24403;&#12394;  <pr>&#12381;&#12358;&#12392;&#12358;&#12394;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>genoeg</trd>,
+    <trd>voldoende</trd>
+  </trdgrp>
+  <trd lng="no">nok</trd>
+  <trdgrp lng="pl">
+    <trd>dostateczny</trd>,
+    <trd>wystarczaj&aogonek;cy</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>suficiente</trd>
+  </trdgrp>
+  <trd lng="ru">&c_d;&c_o;&c_s;&c_t;&c_a;&c_t;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trd lng="uk">&c_d;&c_o;&c_s;&c_t;&c_a;&c_t;&c_n;&c_ib;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd>&#22815;&#29992; <pr>g&ograve;uy&ograve;ng</pr></trd>,
+    <trd>&#22816;&#29992; <pr>g&ograve;uy&ograve;ng</pr></trd>,
+    <trd>&#20805;&#36275; <pr>ch&omacron;ngz&uacute;</pr></trd>,
+    <trd>&#36275;&#22815; <pr>z&uacute;g&ograve;u</pr></trd>,
+    <trd>&#36275;&#22816; <pr>z&uacute;g&ograve;u</pr></trd>,
+    <trd>&#22815; <pr>g&ograve;u</pr></trd>,
+    <trd>&#22816; <pr>g&ograve;u</pr></trd>,
+    <trd>&#20805;&#20998; <pr>ch&omacron;ngf&egrave;n</pr></trd>,
+    <trd>&#36275;&#38989; <pr>z&uacute;&eacute;</pr></trd>,
+    <trd>&#36275;&#39069; <pr>z&uacute;&eacute;</pr></trd>,
+    <trd>&#25975; <pr>f&umacron;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="suficx.0e">
+  <kap><tld/>e</kap>
+  <snc mrk="suficx.0e.KOMUNE">
+    <dif>
+      Tiom, kiom estas bezone:
+      <ekz>
+        estas <tld/>e da kaprina lakto, por nutri vin
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 27:27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi pensas, ke estos <tld/>e &ccirc;irka&ubreve; dek metroj
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        nia urbo havas bonajn policanojn, sed ne <tld/>e energian policestron
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 37</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>e pri tio
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>XXI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estos <tld/>e, se ni diros al vi la jenon <klr>[&#8230;]</klr>
+        <fnt>
+          <bib>EE</bib>
+          <lok>VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i ne havis ankora&ubreve; <tld/>e da tempo por kutimi al la novaj impresoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XV</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sat.gxis0e">&gcirc;issate</ref>
+    </refgrp>
+    <rim>
+      Ne uzu <em>sufi&ccirc;e</em> kun la senco
+      de <em>iom, ete, meze</em>.
+    </rim>
+  </snc>
+  <trd lng="af">genoeg</trd>
+  <trd lng="am">&#4845;&#4704;&#4675;&#4621;</trd>
+  <trd lng="ar">&a_b;&a_m;&a_A; &a_f;&a_y;&a_h; &a_A;&a_l;&a_k;&a_f;&a_A;&a_y;&a_t_marbuta;</trd>
+  <trd lng="az">kifay&#601;t q&#601;d&#601;r</trd>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_s;&c_t;&c_a;&c_t;&c_k;&c_o;&c_v;&c_a;</trd>,
+    <trd>&c_d;&c_a;&c_v;&c_o;&c_l;&c_ib;</trd>,
+    <trd>&c_d;&c_o;&c_s;&c_y;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bn">&#2479;&#2469;&#2503;&#2487;&#2509;&#2463;</trd>
+  <trd lng="bo">&t_-a;&t_ga;&t_rata;&t_gigu;&t_ga;&t_sa;&t_tsheg;&t_pa;&t_tsheg;</trd>
+  <trd lng="bs">dovoljno</trd>
+  <trdgrp lng="ca">
+    <trd>suficientment</trd>,
+    <trd>prou</trd>
+  </trdgrp>
+  <trd lng="co">bastassi</trd>
+  <trd lng="cs">dost</trd>
+  <trd lng="cy">ddigon</trd>
+  <trd lng="da">nok</trd>
+  <trdgrp lng="de">
+    <trd>genug</trd>,
+    <trd>gen&uuml;gend</trd>,
+    <trd>zur <ind>Gen&uuml;ge</ind></trd>,
+    <trd>ausreichend</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>enough</trd>,
+    <trd>sufficiently</trd>
+  </trdgrp>
+  <trd lng="es">suficientemente</trd>
+  <trd lng="et">piisavalt</trd>
+  <trd lng="eu">nahikoa</trd>
+  <trdgrp lng="fr">
+    <trd>suffisamment</trd>,
+    <trd>assez</trd>
+  </trdgrp>
+  <trd lng="fy">gen&ocirc;ch</trd>
+  <trd lng="ga">leor</trd>
+  <trd lng="gd">gu le&ograve;r</trd>
+  <trd lng="gl">suficiente</trd>
+  <trd lng="gu">&#2730;&#2736;&#2765;&#2735;&#2750;&#2730;&#2765;&#2724;</trd>
+  <trd lng="ha">isa</trd>
+  <trd lng="he">&mem;&samekh;&pe;&yod;&qof;</trd>
+  <trd lng="hi">&#2346;&#2352;&#2381;&#2351;&#2366;&#2346;&#2381;&#2340;</trd>
+  <trd lng="hmn">txaus</trd>
+  <trd lng="hr">dovoljno</trd>
+  <trd lng="ht">ase</trd>
+  <trd lng="hy">&#1378;&#1377;&#1406;&#1377;&#1391;&#1377;&#1398;</trd>
+  <trd lng="ig">ezuru</trd>
+  <trd lng="is">n&oacute;g</trd>
+  <trd lng="ja">&#21313;&#20998;&#12394; <pr>&#12376;&#12421;&#12358;&#12406;&#12435;&#12394;</pr></trd>
+  <trd lng="jv">cukup</trd>
+  <trd lng="ka">&#4321;&#4304;&#4313;&#4315;&#4304;&#4320;&#4312;&#4321;&#4312;</trd>
+  <trd lng="kk">&c_zh;&c_je;&c_t;&c_k;&c_ib;&c_l;&c_ib;&c_k;&c_t;&c_ib;</trd>
+  <trd lng="km">&#6018;&#6098;&#6042;&#6036;&#6091;&#6018;&#6098;&#6042;&#6070;&#6035;&#6091;</trd>
+  <trd lng="kn">&#3256;&#3262;&#3221;&#3255;&#3277;&#3231;&#3265;</trd>
+  <trd lng="ko">&#52649;&#48516;&#55176;</trd>
+  <trd lng="ku">bes</trd>
+  <trd lng="ky">&c_zh;&c_je;&c_t;&c_i;&c_sh;&c_je;&c_t;</trd>
+  <trd lng="lat">sufficit</trd>
+  <trd lng="lo">&#3742;&#3773;&#3719;&#3742;&#3789;</trd>
+  <trd lng="lt">pakankamai</trd>
+  <trd lng="lv">pietiekami</trd>
+  <trd lng="mg">ampy</trd>
+  <trd lng="mi">nui</trd>
+  <trd lng="mk">&c_d;&c_o;&c_v;&c_o;&c_l;&c_n;&c_o;</trd>
+  <trd lng="ml">&#3374;&#3364;&#3391;</trd>
+  <trd lng="mn">&c_h;&c_a;&c_n;&c_g;&c_a;&c_l;&c_t;&c_t;&c_a;&c_j;</trd>
+  <trd lng="mr">&#2346;&#2369;&#2352;&#2375;&#2358;&#2368;</trd>
+  <trd lng="ms">cukup</trd>
+  <trd lng="mt">bi&zdot;&zdot;ejjed</trd>
+  <trd lng="my">&#4124;&#4143;&#4150;&#4124;&#4145;&#4140;&#4096;&#4154;&#4126;&#4145;&#4140;</trd>
+  <trd lng="ne">&#2346;&#2352;&#2381;&#2351;&#2366;&#2346;&#2381;&#2340;</trd>
+  <trdgrp lng="nl">
+    <trd>voldoende</trd>,
+    <trd>genoeg</trd>
+  </trdgrp>
+  <trd lng="no">nok</trd>
+  <trdgrp lng="hu">
+    <trd>el&eacute;g</trd>,
+    <trd>eleget</trd>,
+    <trd>el&eacute;gg&eacute;</trd>
+  </trdgrp>
+  <trd lng="id">cukup</trd>
+  <trd lng="ny">zokwanira</trd>
+  <trd lng="pa">&#2581;&#2622;&#2603;&#2620;&#2624;</trd>
+  <trdgrp lng="pl">
+    <trd>dostatecznie</trd>,
+    <trd>wystarczaj&aogonek;co</trd>,
+    <trd>do&sacute;&cacute;</trd>,
+    <trd>dosy&cacute;</trd>
+  </trdgrp>
+  <trd lng="ps">&f_k;&a_A;&a_f;&a_y;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_o;&c_s;&c_t;&c_a;&c_t;&c_o;&c_ch;&c_n;&c_o;</trd>,
+    <trd>&c_d;&c_o;&c_v;&c_o;&c_l;&c_mol;&c_n;&c_o;</trd>,
+    <trd>&c_h;&c_v;&c_a;&c_t;&c_i;&c_t;</trd>
+  </trdgrp>
+  <trd lng="rw">bihagije</trd>
+  <trd lng="sd">&#1706;&a_A;&a_f;&a_y;</trd>
+  <trd lng="si">&#3463;&#3501;&#3538;</trd>
+  <trd lng="sl">dovolj</trd>
+  <trd lng="sm">lava</trd>
+  <trd lng="sn">zvakakwana</trd>
+  <trd lng="so">ku filan</trd>
+  <trd lng="sq">mjaft</trd>
+  <trd lng="st">ho lekane</trd>
+  <trd lng="su">cekap</trd>
+  <trd lng="sw">kutosha</trd>
+  <trd lng="ta">&#2986;&#3019;&#2980;&#3009;&#2990;&#3006;&#2985;</trd>
+  <trd lng="te">&#3108;&#3095;&#3135;&#3112;&#3074;&#3108;</trd>
+  <trd lng="tg">&c_k;&c_o;&c_f;&#1251;</trd>
+  <trd lng="th">&#3614;&#3629;</trd>
+  <trd lng="tl">sapat</trd>
+  <trd lng="tt">&#1175;&c_i;&c_t;&c_t;&c_je;</trd>
+  <trd lng="uk">&c_d;&c_o;&c_s;&c_t;&c_a;&c_t;&c_n;&c_mol;&c_o;</trd>
+  <trd lng="ur">&f_k;&a_A;&a_f;&f_y;</trd>
+  <trd lng="uz">yetarli</trd>
+  <trd lng="vi">&#273;&#7911;</trd>
+  <trd lng="xh">konele</trd>
+  <trd lng="yi">&gimel;&ayin;&nun;&vav;&gimel;</trd>
+  <trd lng="yo">to</trd>
+  <trdgrp lng="zh">
+    <trd>&#22815; <pr>g&ograve;u</pr></trd>,
+    <trd>&#22816; <pr>g&ograve;u</pr></trd>,
+    <trd>&#36275; <pr>z&uacute;</pr></trd>,
+    <trd>&#36275;&#20197; <pr>z&uacute;y&#464;</pr></trd>
+  </trdgrp>
+  <trd lng="zu">ngokwanele</trd>
+</drv>
+
+<drv mrk="suficx.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="suficx.0i.KOMUNE">
+    <dif>
+      Esti <tld/>a:
+      <ekz>
+        unu atestanto ne <tld/>as, por kondamni homon al morto
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 35:30</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por pagi tian &scirc;uldon <tld/>os malgranda parto da miaj enspezoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro VII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        plue miaj fortoj ne <tld/>is
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Io</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        duono de tio, kion &scirc;i rakontas, estas mensogo, sed la dua duono jam <tld/>as
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Turgardisto Ole</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li decidis ke la atendo <tld/>as kaj ke li nun foriros
+        <fnt>
+          <bib>ChB</bib>
+          <lok>9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por sa&gcirc;ulo <tld/>as aludo
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_d;&c_a;&c_s;&c_t;&c_a;&c_t;&c_k;&c_o;&c_v;&c_y;&c_m;</ind></trd>,
+    <trd>&c_h;&c_a;&c_p;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">bastar</trd>
+  <trd lng="cs">sta&ccaron;it</trd>
+  <trdgrp lng="de">
+    <trd>ausreichen</trd>,
+    <trd>gen&uuml;gen</trd>,
+    <trd>langen</trd>
+  </trdgrp>
+  <trd lng="en">suffice</trd>
+  <trd lng="es">ser <ind>suficiente</ind></trd>
+  <trd lng="fr">suffire</trd>
+  <trd lng="he">&lamed;<ind>&he;&samekh;&pe;&yod;&qof;</ind></trd>
+  <trdgrp lng="hu">
+    <trd>elegend&odblac;</trd>,
+    <trd>el&eacute;gs&eacute;ges</trd>
+  </trdgrp>
+  <trd lng="id">cukup</trd>
+  <trdgrp lng="ja">
+    <trd>&#21313;&#20998;&#12391;&#12354;&#12427;  <pr>&#12376;&#12421;&#12358;&#12406;&#12435;&#12391;&#12354;&#12427;</pr></trd>,
+    <trd>&#36275;&#12426;&#12390;&#12356;&#12427;  <pr>&#12383;&#12426;&#12390;&#12356;&#12427;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>voldoende zijn</trd>,
+    <trd>genoeg zijn</trd>
+  </trdgrp>
+  <trd lng="pl">wystarcza&cacute;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_h;&c_v;&c_a;&c_t;&c_a;&c_t;&c_mol;<klr tip="ind">(&c_b;&c_y;&c_t;&c_mol; &c_d;&c_o;&c_s;&c_t;&c_a;&c_t;&c_o;&c_ch;&c_n;&c_y;&c_m;)</klr></trd>,
+    <trd>&c_b;&c_y;&c_t;&c_mol; &c_d;&c_o;&c_s;&c_t;&c_a;&c_t;&c_o;&c_ch;&c_n;&c_y;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_u;&c_t;&c_i; &c_d;&c_o;&c_s;&c_t;&c_a;&c_t;&c_n;&c_ib;&c_m;</trd>,
+    <trd>&c_v;&c_i;&c_s;&c_t;&c_a;&c_ch;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trd lng="zh">&#36275; <pr>z&uacute;</pr></trd>
+</drv>
+
+<drv mrk="suficx.0ega">
+  <kap><tld/>ega</kap>
+  <snc mrk="suficx.0ega.KOMUNE">
+    <dif>
+      <ref cel="abund.0a">Abunda</ref>, pli ol <tld/>a:
+      <ekz>
+        mi ricevis <tld/>egan dankon, dol&ccirc;an kison kaj &ccirc;irka&ubreve;brakon
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi hejtis <tld/>ege, vidu mem
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Sesope oni trairas la tutan mondon</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_o;&c_l;&c_mol;&c_sh; &c_ch;&c_y;&c_m; <ind>&c_d;&c_a;&c_s;&c_t;&c_a;&c_t;&c_k;&c_o;&c_v;&c_y;</ind></trd>
+  <trd lng="ca"><ind>m&eacute;s que</ind> suficient</trd>
+  <trdgrp lng="de">
+    <trd>mehr als <ind>genug</ind></trd>,
+    <trd>reichlich</trd>
+  </trdgrp>
+  <trd lng="en">ample</trd>
+  <trd lng="fr">grandement <ind>suffisant</ind></trd>
+  <trdgrp lng="hu">
+    <trd>b&odblac;ven elegend&odblac;</trd>,
+    <trd>kiad&oacute;s</trd>
+  </trdgrp>
+  <trd lng="id">lebih dari <ind>cukup</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#12383;&#12387;&#12407;&#12426;&#12398;</trd>,
+    <trd>&#21313;&#20998;&#12377;&#12366;&#12427;&#12411;&#12393;&#12398;
+    <pr>&#12376;&#12421;&#12358;&#12406;&#12435;&#12377;&#12366;&#12427;&#12411;&#12393;&#12398;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>rijkelijk</trd>,
+    <trd>overvloedig</trd>
+  </trdgrp>
+  <trd lng="no">rikelig</trd>
+  <trdgrp lng="pl">
+    <trd>obfity</trd>,
+    <trd>pod  <ind>dostatkiem</ind></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#20805;&#35029; <pr>ch&omacron;ngy&ugrave;</pr></trd>,
+    <trd>&#23485;&#35029; <pr>ku&amacron;ny&ugrave;</pr></trd>,
+    <trd>&#23532;&#35029; <pr>ku&amacron;ny&ugrave;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="suficx.mem0o">
+  <kap>mem<tld/>o</kap>
+  <snc mrk="suficx.mem0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Kontentigo de siaj bezonoj per propra agado,
+      ebliganta
+      <ref tip="vid" cel="pend.sende0a.KOMUNE">sendependecon</ref>;
+      <ref tip="sin" cel="auxtarci.0o.EKON">a&ubreve;tarcio</ref>:
+      <ekz>
+        tiu agrikultura aktiveco <klr>[&#8230;]</klr> preska&ubreve; garantias
+        mem<tld/>on por &ccirc;irka&ubreve; 50 lo&gcirc;antoj
+        <fnt>
+          <aut>Esperanto.be</aut>,
+          <vrk><url ref="&UEA;vikio/Bona_Espero">
+          Bona Espero</url></vrk>,
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_s;&c_a;&c_m;&c_a;&c_d;&c_a;&c_s;&c_t;&c_a;&c_t;&c_k;&c_o;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    <trdgrp lng="fr">
+      <trd>autarcie</trd>,
+      <trd>autosuffisance</trd>
+    </trdgrp>
+    <trd lng="nl">zelfvoorzienend</trd>
+    <trd lng="no">selvforsynt</trd>
+    <trd lng="pl">samowystarczalno&sacute;&cacute;</trd>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Selbstgen&uuml;gsamkeit</trd>,
+    <trd>Autarkie</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>autarki</trd>,
+    <trd>swasembada</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#33258;&#32102;&#33258;&#36275;  <pr>&#12376;&#12365;&#12421;&#12358;&#12376;&#12381;&#12367;</pr></trd>,
+    <trd>&#33258;&#31435;  <pr>&#12376;&#12426;&#12388;</pr></trd>,
+    <trd>&#12358;&#12396;&#12412;&#12428;</trd>,
+    <trd>&#33258;&#24049;&#28288;&#36275;  <pr>&#12376;&#12371;&#12414;&#12435;&#12382;&#12367;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="suficx.ne0e">
+  <kap>ne <tld/>e,
+  <var><kap>ne<tld/>e</kap></var>,
+  <var><kap>mal<tld/>e</kap></var></kap>
+  <snc mrk="suficx.ne0e.KOMUNE">
+    <dif>
+      Tro malmulte, tro malabunde, tro malintense,
+      <ref tip="vid" cel="tro.mal0.KOMUNE">maltro</ref>:
+      <ekz>
+        ilia avino ne <tld/>e ankora&ubreve; rakontis al ili
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        aliajn lingvojn mi studadis &gcirc;is nun ne<tld/>e
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Kvina Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la lanternoj en la tute nelumigita urbo mal<tld/>e
+        heligis la vojon
+        <fnt><aut>H. Sienkewicz, trad. L. Zamenhof</aut>, <vrk>Quo
+        vadis?</vrk>, <lok>1933</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_je;&c_d;&c_a;&c_s;&c_t;&c_a;&c_t;&c_k;&c_o;&c_v;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>insuficientment</trd>,
+    <trd>exiguament</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>nicht <ind>genug</ind></trd>,
+    <trd>ungen&uuml;gend</trd>,
+    <trd>zu <ind>wenig</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>insuffisamment</trd>,
+    <trd>pas assez</trd>
+  </trdgrp>
+  <trd lng="ja">&#19981;&#20805;&#20998;&#12395;  <pr>&#12405;&#12376;&#12421;&#12358;&#12406;&#12435;&#12395;</pr></trd>
+  <trdgrp lng="ms">
+    <trd>cukup</trd>,
+    <trd>mencukupi</trd>
+  </trdgrp>
+  <trd lng="nl">onvoldoende</trd>
+  <trdgrp lng="pl">
+    <trd>niewystarczaj&aogonek;co</trd>,
+    <trd>niedostatecznie</trd>,
+    <trd>za ma&lstroke;o</trd>,
+    <trd>nie do&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#19981;&#22815; <pr>b&ugrave;g&ograve;u</pr></trd>,
+    <trd>&#19981;&#22816; <pr>b&ugrave;g&ograve;u</pr></trd>,
+    <trd>&#19981;&#36275; <pr>b&ugrave;z&uacute;</pr></trd>,
+    <trd>&#27424;&#20339; <pr>qi&agrave;nji&amacron;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.115 2024/03/28 14:24:05
+Wolfram Diestel: ~i..ne~e: +ekz-oj
+
+versio 1.114 2024/03/28 09:21:14
+Wolfram Diestel: ~a, ~e: ekz-oj
+
+versio 1.112 2024/03/24 11:20:02
+Wolfram Diestel: +trd de
+
+versio 1.111 2024/02/03 18:26:34
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.110 2023/11/21 18:33:14
+Vito Redsky: +trd pl
+
+versio 1.109 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+versio 1.107 2023/08/29 16:34:22
+Wolfram Diestel: ja: prononco
+
+versio 1.106 2023/05/06 14:26:05
+-->
+</vortaro>

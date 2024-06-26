@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: stiv.xml,v 1.17 2024/03/25 07:28:36 revo Exp $">
+<kap>
+  <rad>stiv</rad>/i
+  <fnt><bib>PVEF</bib></fnt>
+</kap>
+<drv mrk="stiv.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="fak">MAR</uzo>
+  <snc mrk="stiv.0i.enholdigi">
+    <dif>
+      Enholdigi, t.e. fiks<ref tip="super" cel="arangx.0i">aran&gcirc;i</ref> la &scirc;ar&gcirc;ojn de
+      la &scirc;ipo en la holdo, por ke ili ne movi&gcirc;u dum la osciloj de la &scirc;ipo:
+      <ekz>
+        marokanoj kun lertaj manoj rapide laboris, <tld/>ante la kestojn sub la kargojn
+        de fi&scirc;oj kaj fruktoj
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 33</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili &jcirc;us <tld/>is novajn karbojn, la &scirc;aktoj kaj kaldronejaj holdoj estas tiom
+        &scirc;topitaj, ke la venonta veturo devus esti pura plezuro
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 46</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_m;&c_a;&c_c;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;
+    &c_g;&c_r;&c_u;&c_z; <klr>(&c_n;&c_a; &c_s;&c_u;&c_d;&c_n;&c_je;)</klr>
+  </trd>
+  <trdgrp lng="cs">
+    <trd>rovnat lodn&iacute; n&aacute;klad</trd>,
+    <trd>upev&ncaron;ovat lodn&iacute; n&aacute;klad</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>verstauen</trd>,
+    <trd>stauen</trd>
+  </trdgrp>
+  <trd lng="fr">arrimer</trd>
+  <trdgrp lng="hu">
+    <trd>rakom&aacute;nyt r&ouml;gz&iacute;t <klr tip="amb">(haj&oacute;n </klr>)</trd>,
+    <trd>rakom&aacute;nyt elrendez <klr tip="amb">(haj&oacute;n </klr>)</trd>
+  </trdgrp>
+  <trd lng="ja">&#x304D;&#x3061;&#x3093;&#x3068;&#x7A4D;&#x307F;&#x8FBC;&#x3080;  <pr>&#x304D;&#x3061;&#x3093;&#x3068;&#x3064;&#x307F;&#x3053;&#x3080;</pr></trd>
+  <trd lng="nl">stuwen<klr tip="ind"> (v.scheepslading)</klr></trd>
+  <trd lng="pl">sztauowa&cacute;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_k;&c_r;&c_je;&c_p;&c_l;&c_ja;&c_t;&c_mol; &c_g;&c_r;&c_u;&c_z; <klr tip="amb">(&c_n;&c_a; &c_s;&c_u;&c_d;&c_n;&c_je;)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">upevni&tcaron; lodn&yacute; n&aacute;klad</trd>
+  <trd lng="uk">&c_r;&c_o;&c_z;&c_m;&c_ib;&c_shch;&c_a;&c_t;&c_i; &c_ib; &c_k;&c_r;&c_ib;&c_p;&c_i;&c_t;&c_i; &c_v;&c_a;&c_n;&c_t;&c_a;&c_zh; (&c_n;&c_a;
+  &c_s;&c_u;&c_d;&c_n;&c_ib;)</trd>
+  <trdgrp lng="zh">
+    <trd>&#x88C5;&#x8F7D; <pr>zhu&#x101;ngz&#xE0;i</pr></trd>,
+    <trd>&#x88DD;&#x8F09; <pr>zhu&#x101;ngz&#xE0;i</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.16 2024/03/19 07:20:49
+Wolfram Diestel: fnt PVEF, ekz-oj
+
+versio 1.15 2023/10/29 21:23:41
+Vito Redsky: +trd pl
+
+versio 1.14 2023/10/21 07:46:48
+revo: transskribo per <pr>
+
+Revision 1.10  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2014/10/10 11:10:24  revo
+Alain Gerard: +trd fr
+
+Revision 1.8  2004/10/29 16:32:58  revo
+Jozefo Horvath: +trd hu
+
+Revision 1..7  2003/03/03 17:31:32  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.6  2002/02/23 19:51:03  revo
+-->
+</vortaro>

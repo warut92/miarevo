@@ -1,0 +1,420 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: hero.xml,v 1.46 2024/02/14 09:21:28 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>hero</rad>/o
+  <fnt><bib>UV</bib></fnt>
+</kap>
+<drv mrk="hero.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <dif>
+    Malordinara, eminenta, admirinda persono.
+  </dif>
+  <snc mrk="hero.0o.kuragxulo">
+    <dif>
+      Homo nobla pro sia rango, kura&gcirc;o a&ubreve; talento:
+      <ekz>
+        <nom>Saul</nom> kaj <nom>Jonatan</nom> <klr>[&#8230;]</klr> e&ccirc; &ccirc;e sia morto ne disi&gcirc;is <klr>[&#8230;]</klr>, falis
+        <tld/>oj meze de la batalo
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 1:25</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> amas la romanon pri <klr>[&#8230;]</klr> la re&gcirc;o Arturo kaj pri la
+        <tld/>oj de lia ronda tablo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li povosciis multe rakonti <klr>[&#8230;]</klr> pri re&gcirc;oj kaj <tld/>oj, kiuj iam regis
+        en Grekujo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Ligo de amikeco</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Michel Angelo</nom> <klr>[&#8230;]</klr>, <nom>Dante</nom> <klr>[&#8230;]</klr>,
+        <nom>Alfieri</nom>, <nom>Machiavelli</nom> &ndash; flanko &ccirc;e flanko tie ripozas
+        tiuj <tld/>oj de la spirito, la fiero de Italujo
+        <fnt><bib>Fab1</bib>, <lok>Kupra porko</lok></fnt>.
+      </ekz>
+      <ekz>
+        <ind><tld/>a</ind> konduto.
+        <trd lng="br">harozel</trd>
+        <trd lng="ca">heroic</trd>
+        <trd lng="fr">h&eacute;ro&iuml;que</trd>
+        <trdgrp lng="hu">
+          <trd>h&odblac;sies</trd>,
+          <trd>heroikus</trd>
+        </trdgrp>
+        <trd lng="nl">heldhaftig</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="brav.0ulo">bravulo</ref>,
+      <ref cel="prod.0o">prodo</ref>
+    </refgrp>
+    <trdgrp lng="ca">
+      <trd>prohom</trd>,
+      <trd>pr&ograve;cer</trd>
+    </trdgrp>
+    <trd lng="nl">held</trd>
+  </snc>
+  <snc mrk="hero.0o.BELE">
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      <ref tip="dif" cel="rol.cxef0ulo">&Ccirc;efrolulo</ref> en historio, aventuro, rakonto a&ubreve;
+      teatra&jcirc;o:
+      <ekz>
+        dank' al siaj naiva kredo kaj impresi&gcirc;emo la infanoj ne sole legas la rakontojn,
+        sed vivas kun la <tld/>oj de la fabeloj
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Anta&ubreve;parolo de la tradukinto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        diino! li ripetis, kaj kun &gcirc;emo la&ubreve; la maniero de <tld/>oj de komedio li
+        mallevis la kapon kaj la manojn
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ser&ccirc;is, sed nenie en la proksimo mi trovis ian romanan <tld/>on
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        maldika, malforta, mallerta, Rocinanto estas la deca, inda rajdbesto de la
+        <tld/>o
+        <fnt>
+          <bib>DKM</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;efa <tld/>o de la romano <klr>[&#8230;]</klr> anka&ubreve;
+        estas &leftquot;Arturo&rightquot;
+        <fnt><bib>FK</bib>, <lok>4, rakontoj, Arturo, 2</lok></fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o de <ctl>la Revizoro</ctl> estas nur fripono.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="protag.0o">protagonisto</ref>
+    <trdgrp lng="ca">
+      <trd>protagonista</trd>,
+      <trd>estrella</trd>
+    </trdgrp>
+    <trd lng="de">Protagonist</trd>
+    <trd lng="nl">held</trd>
+  </snc>
+  <snc mrk="hero.0o.MIT">
+    <uzo tip="fak">MIT</uzo>
+    <dif>
+      Duondio, infano de dio kaj homo:
+      <ekz>
+        Heraklo estis <tld/>o;
+      </ekz>
+      <ekz>
+        ni nek konvinki&gcirc;os nek permesos diri ke Tezeo, filo de Pozidono, kaj Pirituso,
+        filo de Ze&ubreve;so, entreprenis tiel terurajn perfortojn, nek ke iu alia diido kaj
+        <tld/>o faris terurajn, malpiajn agojn
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Tri</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">semid&eacute;u</trd>
+    <trd lng="de">Heros</trd>
+    <trd lng="hu">h&eacute;rosz</trd>
+    <trd lng="nl">halfgod</trd>
+    <trdgrp lng="pl">
+      <trd>heros</trd>,
+      <trd>p&oacute;&lstroke;b&oacute;g</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_je;&c_r;&c_o;&c_j;</trd>
+  <trd lng="bo">&t_da;&t_pa;&t_-a;&t_tsheg;&t_ba;&t_tsheg;</trd>
+  <trd lng="br">haroz</trd>
+  <trd lng="ca">heroi</trd>
+  <trdgrp lng="cs">
+    <trd>bohat&yacute;r</trd>,
+    <trd>heroj</trd>,
+    <trd>hrdina</trd>,
+    <trd>h&eacute;ros</trd>,
+    <trd>rek</trd>
+  </trdgrp>
+  <trd lng="de">Held</trd>
+  <trd lng="el">&eta_ton;&rho;&omega;&alfa;&sigma_fina;</trd>
+  <trd lng="en">hero</trd>
+  <trd lng="es">h&eacute;roe</trd>
+  <trdgrp lng="fr">
+    <trd>h&eacute;ros</trd>,
+    <trd>demi-dieu</trd>,
+    <trd>personnage principal</trd>,
+    <trd>protagoniste</trd>
+  </trdgrp>
+  <trd lng="hu">h&odblac;s</trd>
+  <trd lng="it">eroe</trd>
+  <trdgrp lng="ja">
+    <trd>&#33521;&#38596;  <pr>&#12360;&#12356;&#12422;&#12358;</pr></trd>,
+    <trd>&#21191;&#22763;  <pr>&#12422;&#12358;&#12375;</pr></trd>,
+    <trd>&#20027;&#20154;&#20844;  <pr>&#12375;&#12421;&#12376;&#12435;&#12371;&#12358;</pr></trd>,
+    <trd>&#21322;&#31070;  <pr>&#12399;&#12435;&#12375;&#12435;</pr></trd>,
+    <trd>&#31070;&#20154;  <pr>&#12363;&#12415;&#12435;&#12385;&#12421;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">bohater</trd>
+  <trd lng="pt">her&oacute;i</trd>
+  <trd lng="ru">&c_g;&c_je;&c_r;&c_o;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>bohatier</trd>,
+    <trd>hrdina</trd>
+  </trdgrp>
+  <trd lng="sv">hj&auml;lte</trd>
+  <trd lng="uk">&c_g;&c_je;&c_r;&c_o;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd>&#33521;&#38596; <pr>y&imacron;ngxi&oacute;ng</pr></trd>,
+    <trd>&#35946;&#20625; <pr>h&aacute;oji&eacute;</pr></trd>,
+    <trd>&#22766;&#22763; <pr>zhu&agrave;ngsh&igrave;</pr></trd>,
+    <trd>&#20027;&#20154;&#20844; <pr>zh&#468;r&eacute;ng&omacron;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hero.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="hero.0ajxo.KOMUNE">
+    <dif>
+      Ago inda de <tld/>o:
+      <ekz>
+        <tld/>a&jcirc;oj <klr>[&#8230;]</klr> de la nacia heroo kaj duondio
+        <nom>Gilgame&scirc;</nom>
+        <fnt><bib>I&scirc;tar</bib>,
+        <lok>&ccirc;apitro 10a, Babel</lok></fnt>.
+      </ekz>
+      <ekz>
+        li akiris la plej altajn ordenojn en la habsburga armeo: ar&gcirc;entan medalon pro <tld/>a&jcirc;o
+        kaj kanonan krucon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2013/011118.php">Hejmeniras la eterna soldato
+</url></vrk>
+          <lok>2013</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_o;&c_d;&c_z;&c_mol;&c_v;&c_ib;&c_g;</trd>,
+    <trd>
+    &c_g;&c_je;&c_r;&c_a;&c_ib;&c_ch;&c_n;&c_y;
+    &c_w;&c_ch;&c_y;&c_n;&c_a;&c_k;
+    </trd>
+  </trdgrp>
+  <trd lng="de">Heldentat</trd>
+  <trdgrp lng="br">
+    <trd>kur</trd>,
+    <trd>taol-kaer</trd>
+  </trdgrp>
+  <trd lng="ca">hero&iuml;citat</trd>
+  <trd lng="es">heroicidad</trd>
+  <trdgrp lng="en">
+    <trd>act of heroism</trd>,
+    <trd>heroic deed</trd>
+  </trdgrp>
+  <trd lng="fr">acte <ind>h&eacute;ro&iuml;que</ind></trd>
+  <trd lng="hu">h&odblac;stett</trd>
+  <trdgrp lng="it">
+    <trd>atto <ind>eroico</ind></trd>,
+    <trd>impresa<klr> (prodezza)</klr></trd>
+  </trdgrp>
+  <trd lng="ja">&#33521;&#38596;&#30340;&#34892;&#28858;  <pr>&#12360;&#12356;&#12422;&#12358;&#12390;&#12365;&#12371;&#12358;&#12356;</pr></trd>
+  <trd lng="nl">heldendaad</trd>
+  <trd lng="pl">czyn <ind>bohaterski</ind></trd>
+  <trd lng="pt">hero&iacute;smo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_v;&c_i;&c_g;</trd>,
+    <trd>
+    &c_g;&c_je;&c_r;&c_o;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;
+    &c_p;&c_o;&c_s;&c_t;&c_u;&c_p;&c_o;&c_k;
+    </trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_je;&c_r;&c_o;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>,
+    <trd>&c_g;&c_je;&c_r;&c_o;&c_ji;&c_ch;&c_n;&c_i;&c_j; &c_v;&c_ch;&c_i;&c_n;&c_o;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#33521;&#28872; <pr>y&imacron;ngli&egrave;</pr></trd>,
+    <trd>&#22766;&#20030; <pr>zhu&agrave;ngj&#468;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hero.0eco">
+  <kap><ofc>*</ofc><tld/>eco</kap>
+  <snc mrk="hero.0eco.KOMUNE">
+    <dif>
+      Virto de <tld/>o, precipe granda <ref tip="super" cel="kuragx.0o">kura&gcirc;o</ref>:
+      <ekz>
+        lia <tld/>eco tre pla&ccirc;is al mi
+        <fnt><bib>F</bib>, <lok>&FE; 35</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_je;&c_r;&c_a;&c_ib;&c_z;&c_m;</trd>
+  <trdgrp lng="br">
+    <trd>harozegezh</trd>,
+    <trd>kadarnded</trd>
+  </trdgrp>
+  <trd lng="ca">heroisme</trd>
+  <trdgrp lng="cs">
+    <trd>hrdinskost <klr>(vlastnost)</klr></trd>,
+    <trd>hrdinstv&iacute;</trd>,
+    <trd>jun&aacute;ctv&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Heldentum</trd>
+  <trd lng="en">heroism</trd>
+  <trd lng="es">heroicidad</trd>
+  <trd lng="fr">h&eacute;ro&iuml;sme</trd>
+  <trdgrp lng="hu">
+    <trd>h&odblac;siess&eacute;g</trd>,
+    <trd>herozimus</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+  <trd>eroismo</trd>,
+  <trd>eroicit&agrave;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#21191;&#25954;&#12373;  <pr>&#12422;&#12358;&#12363;&#12435;&#12373;</pr></trd>,
+    <trd>&#38596;&#38596;&#12375;&#12373;  <pr>&#12362;&#12362;&#12375;&#12373;</pr></trd>,
+    <trd>&#33521;&#38596;&#30340;&#36039;&#36074;  <pr>&#12360;&#12356;&#12422;&#12358;&#12390;&#12365;&#12375;&#12375;&#12388;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">heldhaftigheid</trd>
+  <trdgrp lng="pl">
+    <trd>heroizm</trd>,
+    <trd>bohaterstwo</trd>
+  </trdgrp>
+  <trd lng="pt">hero&iacute;smo</trd>
+  <trd lng="ru">&c_g;&c_je;&c_r;&c_o;&c_i;&c_z;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>heroizmus</trd>,
+    <trd>hrdinskos&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">hj&auml;ltemod</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_je;&c_r;&c_o;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>,
+    <trd>&c_g;&c_je;&c_r;&c_o;&c_ji;&c_z;&c_m;</trd>,
+    <trd>&c_d;&c_o;&c_b;&c_l;&c_je;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#35946;&#27668; <pr>h&aacute;oq&igrave;</pr></trd>,
+    <trd>&#33521;&#21191; <pr>y&imacron;ngy&#466;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hero.0ino">
+  <kap><ofc>*</ofc><tld/>ino</kap>
+  <snc mrk="hero.0ino.KOMUNE">
+    <dif>
+      Ina <tld/>o:
+      <ekz>
+        orhara <tld/>ino de nordaj legendoj
+        <fnt><bib>Metrop</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="hom" cel="heroin.0o">heroino (drogo)</ref>
+  <trd lng="be">&c_g;&c_je;&c_r;&c_a;&c_ib;&c_n;&c_ja;</trd>
+  <trd lng="ca">hero&iuml;na</trd>
+  <trdgrp lng="cs">
+    <trd>heroina</trd>,
+    <trd>hrdinka</trd>
+  </trdgrp>
+  <trd lng="de">Heldin</trd>
+  <trd lng="en">heroine</trd>
+  <trd lng="fr">h&eacute;ro&iuml;ne<klr tip="amb"> (h&eacute;ros f&eacute;minin)</klr></trd>
+  <trd lng="hu">h&odblac;sn&odblac;</trd>
+  <trd lng="it">eroina<klr tip="amb"> (eroe femminile)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#33521;&#38596;  <pr>&#12360;&#12356;&#12422;&#12358;</pr></trd>,
+    <trd>&#22899;&#20027;&#20154;&#20844;  <pr>&#12362;&#12435;&#12394;&#12375;&#12421;&#12376;&#12435;&#12371;&#12358;</pr></trd>,
+    <trd>&#12498;&#12525;&#12452;&#12531;  <pr>&#12402;&#12429;&#12356;&#12435;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">heldin</trd>
+  <trdgrp lng="pl">
+    <trd>bohaterka</trd>
+  </trdgrp>
+  <trd lng="ro">eroin&abreve;</trd>
+  <trd lng="sk">hero&iacute;n</trd>
+  <trd lng="uk">&c_g;&c_je;&c_r;&c_o;&c_ji;&c_n; (&c_n;&c_a;&c_r;&c_k;&c_o;&c_t;&c_i;&c_k;)</trd>
+  <trdgrp lng="zh">
+    <trd>&#20625; <pr>ji&eacute;</pr></trd>,
+    <trd>&#22899;&#20013;&#35946;&#20625; <pr>n&#474;zh&omacron;ngh&aacute;oji&eacute;</pr></trd>,
+    <trd>&#22899;&#33521;&#38596; <pr>n&#474;y&imacron;ngxi&oacute;ng</pr></trd>,
+    <trd>&#24062;&#24124;&#33521;&#38596; <pr>j&imacron;ngu&oacute;y&imacron;ngxi&oacute;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hero.super0o">
+  <kap>super<tld/>o</kap>
+  <snc mrk="hero.super0o.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <uzo tip="fak">KIN</uzo>
+    <dif>
+      Homo kun kvaza&ubreve; magiaj forto kaj kapabloj,
+      bildstria figuro vasti&gcirc;inta al animacio, kino...:
+      <ekz>
+        <nom>Superman</nom> posedas &ccirc;iujn tipajn ecojn de super<tld/>o: 1.
+        superhomajn kapablojn, 2. ha&ubreve;tstriktan koloran trikota&jcirc;on,
+        kaj 3. ka&scirc;itan duoblan vivon
+        <fnt>
+          <aut>M. Weichert</aut>,
+          <vrk><url ref="http://www.esperanto.net/martin.weichert/bildlit.html">Cent
+          jaroj Yellow Kid...</url></vrk>,
+          <lok>Literatura Foiro, 1996-11 &gcirc;is 12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_u;&c_p;&c_e;&c_r;&c_g;&c_je;&c_r;&c_o;&c_j;</trd>
+  <trd lng="ca">superhome</trd>
+  <trd lng="fr">superh&eacute;ros</trd>
+  <trd lng="nl">superheld</trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.46 2024/02/14 09:21:28
+Wolfram Diestel: ~o: +ekz-oj, ref, trd de
+
+versio 1.44 2023/10/16 05:12:01
+revo: transskribo per <pr>
+
+versio 1.42 2023/04/11 14:37:23
+aktualigo Monato-URL
+
+versio 1.41 2023/03/20 09:29:25
+Paul Peeraerts: + trd ro
+
+versio 1.40 2023/03/20 08:34:30
+Paul Peeraerts: korekto de fusxo mia!
+
+versio 1.39 2023/03/20 07:26:25
+Paul Peeraerts: + dua ekz + trd ru
+
+versio 1.37 2021/11/15 08:36:05
+Dmitri Gabinski: + trd be
+
+versio 1.35 2021/05/23 13:17:25
+-->
+</vortaro>

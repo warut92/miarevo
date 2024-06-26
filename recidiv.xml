@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: recidiv.xml,v 1.11 2024/04/13 20:15:52 revo Exp $">
+<kap>
+  <rad>recidiv</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="recidiv.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="recidiv.0i.MED">
+    <dif>
+      Ree suferi pro malsano &scirc;ajne &ccirc;esinta:
+      <ekz>
+        mia kronika ftizo <tld/>is
+        <fnt>
+          <aut>Kurisu Kei</aut>,
+          <vrk>Nova vivo en maljunulejo</vrk>,
+          <lok>en: Vivprotokoloj, 2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_w;&c_t;&c_a;&c_r;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_v;&c_ja;&c_r;&c_t;&c_a;&c_c;&c_c;&c_a; <klr>(&c_a;&c_b; &c_h;&c_v;&c_a;&c_r;&c_o;&c_b;&c_je;)</klr></trd>
+  </trdgrp>
+  <trd lng="cs">op&#x11B;tovn&#x11B; p&#xE1;chat trestn&#xFD; &#x10D;in</trd>
+  <trd lng="de">rezidivieren</trd>
+  <trd lng="es">recidivar</trd>
+  <trd lng="fr">rechuter<klr> (m&eacute;d.)</klr></trd>
+  <trd lng="nl">recidiveren</trd>
+  <trd lng="pl">pope&lstroke;ni&cacute;  <ind>recydyw&eogonek;</ind></trd>
+  <trd lng="ro">comite o recidiv&abreve;</trd>
+  <trd lng="sk">op&#xE4;tovne p&#xE1;cha&tcaron; trestn&#xFD; &#x10D;in</trd>
+  <trdgrp lng="zh">
+    <trd>&#x590D;&#x53D1; <pr>f&#xF9;f&#x101;</pr></trd>,
+    <trd>&#x5FA9;&#x767C; <pr>f&#xF9;f&#x101;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="recidiv.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="recidiv.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Reapero &ccirc;e sama ulo de dumtempe &ccirc;esinta malsano:
+      <ekz>
+        &scirc;i jam informi&gcirc;is pri la <tld/>o de Jado
+        <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 100a, volumo 3a, p.
+        301a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_e;&c_c;&c_y;&c_d;&c_y;&c_w;</trd>,
+    <trd>&c_p;&c_a;&c_w;&c_t;&c_o;&c_r; <klr>(&c_h;&c_v;&c_a;&c_r;&c_o;&c_b;&c_y;)</klr></trd>
+  </trdgrp>
+  <trd lng="cs">recidiva</trd>
+  <trdgrp lng="de">
+    <trd>Rezidiv<klr> (med.)</klr></trd>,
+    <trd>R&uuml;ckfall</trd>
+  </trdgrp>
+  <trd lng="es">recidiva</trd>
+  <trdgrp lng="fr">
+    <trd>rechute<klr tip="amb"> (m&eacute;d.)</klr></trd>,
+    <trd>r&eacute;cidive<klr> (m&eacute;d.)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">recidive</trd>
+  <trdgrp lng="pl">
+    <trd>recydywa</trd>,
+    <trd>nawr&oacute;t choroby</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>recidiv&abreve;</trd>,
+    <trd>reapari&#x21B;ia bolii</trd>
+  </trdgrp>
+  <trd lng="sk">recid&#xED;va</trd>
+  <trd lng="uk">&c_r;&c_je;&c_c;&c_i;&c_d;&c_i;&c_v;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x53CD;&#x590D; <pr>f&#x1CE;nf&#xF9;</pr></trd>,
+    <trd>&#x53CD;&#x5FA9; <pr>f&#x1CE;nf&#xF9;</pr></trd>,
+    <trd>&#x5012;&#x9000; <pr>d&#x1CE;otu&#xEC;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.10 2024/02/19 09:24:02
+Dmitri Gabinski: + trd be
+
+versio 1.9 2022/08/20 22:30:35
+Vito Redsky:  +trd pl  + trd ro
+
+Revision 1.6  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2015/02/10 23:10:16  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.4  2012/09/16 15:10:14  revo
+Joop Eggen: +trd de
+
+Revision 1.3  2009/11/19 17:31:07  revo
+Paul Peeraerts: +nl
+
+Revision 1.2  2005/04/04 16:37:28  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.1  2005/02/14 18:20:15  revo
+-->
+</vortaro>

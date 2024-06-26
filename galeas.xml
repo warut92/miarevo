@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: galeas.xml,v 1.13 2024/04/10 07:25:28 revo Exp $">
+<kap>
+  <rad>galeas</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="galeas.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="galeas.0o.SHI">
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">SHI</uzo>
+    <dif>
+      E&ubreve;ropa granda <ref tip="super" cel="sxip.vel0o.SHI">vel&scirc;ipo</ref>
+      trimasta kun remiloj, uzata milite kaj transporte en la 16a kaj
+      17a jarcentoj:
+      <ekz>
+        la &scirc;ipestro rapidis trans la remistajn benkojn en la mezo
+        de la <tld/>o al la alta konstrua&jcirc;o en la pruo, kie dormis
+        liaj viroj
+        <fnt>
+          <aut>S. Lagerl&ouml;f, trad. S. Engholm</aut>
+          <vrk><url ref="http://esperantujo.org/eLibrejo/pdf/053-8">
+          La mono de sinjoro Arne</url></vrk>
+          <lok>1933</lok>
+        </fnt>
+      </ekz>
+      <ekz>
+        &ccirc;e la fino de aliaj kvar ir-tagoj, li atingis la maron je
+        dek du kilometroj de la <tld/>o
+        <fnt>
+        <aut>G. Garc&iacute;a M&aacute;rquez, trad. F. de Diego</aut>
+        <vrk>Cent Jaroj da Soleco</vrk> <lok>1992</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_l;&c_je;&c_a;&c_s;</trd>,
+    <trd>&c_g;&c_a;&c_l;&c_mol;&c_je;&c_s;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>galeje</trd>,
+    <trd>gal&eacute;ra</trd>,
+    <trd>veslice</trd>
+  </trdgrp>
+  <trd lng="de">Galeasse</trd>
+  <trdgrp lng="en">
+    <trd>galleass</trd>,
+    <trd>galliass</trd>
+  </trdgrp>
+  <trd lng="es">galeaza</trd>
+  <trdgrp lng="fr">
+    <trd>gal&eacute;ace</trd>,
+    <trd>gal&eacute;asse</trd>
+  </trdgrp>
+  <trd lng="hu">galeasz</trd>
+  <trd lng="it">galeazza</trd>
+  <trd lng="nl">galjas</trd>
+  <trd lng="pl">galeasa</trd>
+  <trd lng="pt">galea&ccedil;a</trd>
+  <trd lng="sk">galeasa</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_a;&#x43B;&c_je;&c_a;&c_s;</trd>,
+    <trd>&c_g;&c_a;&#x43B;&#x44C;&c_jeu;&c_s;&#xA0;(&c_v;&c_je;&#x43B;&c_i;&#x43A;&c_a; &c_gu;&c_a;&#x43B;&c_je;&c_r;&c_a;)</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.13 2024/04/10 07:25:28
+Dmitri Gabinski: + trd be
+
+versio 1.11 2020/08/04 22:10:31
+Jeromo Vasxe: kor. ref.
+
+Revision 1.9  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2013/07/31 01:10:10  revo
+Jeromo Vasxe: kor. 1 misklavajxon
+
+Revision 1.7  2010/06/25 17:26:14  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.6  2009/07/11 16:30:40  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.5  2008/10/09 16:30:43  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.4  2008/09/26 16:30:37  revo
+-->
+</vortaro>

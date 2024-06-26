@@ -1,0 +1,639 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: fresx.xml,v 1.108 2024/03/03 09:20:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>fre&scirc;</rad>/a
+</kap>
+
+<drv mrk="fresx.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="fresx.0a.KOMUNE">
+    <dif>
+      Ne malnova, &jcirc;usa:
+      <ekz>
+        <tld/>a modo;
+      </ekz>
+      <ekz>
+        <tld/>data informo;
+      </ekz>
+      <ekz>
+        plej <tld/>aj nova&jcirc;oj de gazeto;
+      </ekz>
+      <ekz>
+        ili fosis en la <tld/>ajn tombojn kaj
+        elprenis la viandon de la mortintoj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Sova&gcirc;aj cignoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[kaptita]</klr> <ind>&ccirc;e l' <tld/>a faro</ind>
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+        <trdgrp lng="ca">
+          <trd>in fraganti</trd>,
+          <trd>en flagrant delicte</trd>
+        </trdgrp>
+        <trd lng="de">auf frischer Tat</trd>
+        <trd lng="fr">la main dans le sac</trd>
+      </ekz>
+      <ekz>
+        &ccirc;u vi ricevis <tld/>a&jcirc;ojn <klr>(<tld/>ajn sciigojn)</klr> pri
+        li?
+      </ekz>
+    </dif>
+    <subsnc mrk="fresx.0a.bonkvalita">
+      <dif>
+        Pro &jcirc;useco bonkvalita, bonstata, vigla:
+        <ekz>
+          mi havas pli <tld/>an panon, ol vi
+          <fnt><bib>F</bib>, <lok>&FE; 10</lok></fnt>;
+        </ekz>
+        <ekz>
+          <tld/>a viando, ovo;
+        </ekz>
+        <ekz>
+          &ccirc;iujn pordojn malfermadis <klr>[ili&#8230;]</klr> por enlasadi fre&scirc;an aeron en la
+          &ccirc;ambron
+          <fnt>
+            <bib>Fab1</bib>
+            <lok>Vojkamarado</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la aero estis trankvila kaj <tld/>a kaj nenia venteto movis la maron
+          <fnt>
+            <bib>Fab1</bib>
+            <lok>La virineto de maro</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          grajna&jcirc;o el <tld/>aj grajnoj
+          <fnt>
+            <bib>MT</bib>
+            <lok>Levidoj 2:14</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          puto kun <tld/>a akvo
+          <fnt>
+            <bib>MT</bib>
+            <lok>Genezo 26:19</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <tld/>a mielo
+          <fnt>
+            <bib>MT</bib>
+            <lok>Sentencoj 16:24</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <tld/>a verda&jcirc;o
+          <fnt>
+            <bib>MT</bib>
+            <lok>Jesaja 66:14</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          mi estas oleita per <tld/>a oleo
+          <fnt>
+            <bib>MT</bib>
+            <lok>Psalmaro 92:10</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          lia korpo fari&gcirc;as denove <tld/>a, kiel en la juneco
+          <fnt>
+            <bib>MT</bib>
+            <lok>Ijob 33:25</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          vespero lacigas, mateno <tld/>igas
+          <fnt>
+            <bib>PrV</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          &jcirc;us mi vidis la sunon, tiel <tld/>ru&gcirc;an, tiel
+          belegan, kian mi neniam vidis anta&ubreve;e
+          <fnt>
+            <aut>&Ccirc;en Hongjing, trad. Miaohui</aut>,
+            <vrk><url ref="http://gxangalo.com/modules/weblog/index.php?user_id=1995">Bloga&jcirc;oj
+            de Miaohui</url></vrk>,
+            <lok>2005-06-07</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="fresx.0a.nedifektita">
+      <dif>
+        Nedifektita de mal&jcirc;useco, de eluziteco:
+        <ekz>
+          rostitaj grajnoj kaj <tld/>aj
+          <klr>(<ref cel="krud.0a.neprilaborita">kruda</ref>j)</klr> grajnoj
+          <fnt>
+            <bib>MT</bib>
+            <lok>Levidoj 23:14</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          vinberojn <tld/>ajn a&ubreve; sekigitajn li ne devas man&gcirc;i
+          <fnt>
+            <bib>MT</bib>
+            <lok>Nombroj 6:3</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          homo ankora&ubreve; <tld/>a malgra&ubreve; longa voja&gcirc;o;
+        </ekz>
+        <ekz>
+          ili floras ankora&ubreve; en la maljuneco, estas sukplenaj kaj
+          <tld/>aj
+          <fnt><bib>MT</bib>, <lok>&Psa; 92:14</lok></fnt>;
+        </ekz>
+        <ekz>
+          oni ligos min per sep <tld/>aj ne seki&gcirc;intaj &scirc;nuroj
+          <fnt>
+            <bib>MT</bib>
+            <lok>Ju&gcirc;istoj 16:7</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <tld/>a vesto;
+        </ekz>
+        <ekz>
+          &ccirc;iam <tld/>a estas la memoro pri lia morto;
+        </ekz>
+        <ekz>
+          <tld/>a entuziasmo.
+        </ekz>
+      </dif>
+    </subsnc>
+  </snc>
+  <trd lng="af">vars</trd>
+  <trd lng="am">&#4725;&#4777;&#4661;</trd>
+  <trd lng="ar">&a_j;&a_d;&a_y;&a_d;&a_t_marbuta;</trd>
+  <trd lng="az">t&#601;z&#601;</trd>
+  <trd lng="be">&c_s;&c_mol;&c_v;&c_je;&c_zh;&c_y;</trd>
+  <trd lng="bg">&c_p;&c_r;&c_je;&c_s;&c_je;&c_n;</trd>
+  <trd lng="bn">&#2468;&#2494;&#2460;&#2494;</trd>
+  <trd lng="bo">&t_sa;&t_naro;&t_sa;&t_tsheg;&t_pa;&t_tsheg;</trd>
+  <trd lng="bs">svje&zcaron;e</trd>
+  <trd lng="ca">fresc</trd>
+  <trd lng="co">freschi</trd>
+  <trd lng="cs">&ccaron;erstv&yacute;</trd>
+  <trd lng="cy">ffres</trd>
+  <trd lng="da">frisk</trd>
+  <trdgrp lng="de">
+    <trd>aktuell</trd>,
+    <trd>frisch</trd>,
+    <trd>neu</trd>
+  </trdgrp>
+  <trd lng="en">fresh</trd>
+  <trd lng="es">fresco</trd>
+  <trd lng="et">v&auml;rske</trd>
+  <trd lng="eu">freskoa</trd>
+  <trdgrp lng="fr">
+    <trd>frais<klr tip="ind"> (adj.)</klr></trd>,
+    <trd>r&eacute;cent</trd>
+  </trdgrp>
+  <trd lng="fy">farsk</trd>
+  <trd lng="ga">&uacute;r</trd>
+  <trd lng="gd">&ugrave;r</trd>
+  <trd lng="gl">fresco</trd>
+  <trd lng="gu">&#2724;&#2750;&#2716;&#2750;</trd>
+  <trd lng="ha">sabo</trd>
+  <trd lng="hi">&#2340;&#2366;&#2332;&#2366;</trd>
+  <trd lng="hmn">tshiab</trd>
+  <trd lng="hr">svje&zcaron;i</trd>
+  <trd lng="ht">fre</trd>
+  <trd lng="hy">&#1385;&#1377;&#1408;&#1396;</trd>
+  <trd lng="ig">&#7885;h&#7909;r&#7909;</trd>
+  <trd lng="is">ferskur</trd>
+  <trd lng="ja">&#26032;&#39854;&#12394; <pr>&#12375;&#12435;&#12379;&#12435;&#12394;</pr></trd>
+  <trd lng="jv">seger</trd>
+  <trd lng="ka">&#4304;&#4334;&#4304;&#4314;&#4312;</trd>
+  <trd lng="kk">&c_zh;&c_a;&#1187;&c_a;</trd>
+  <trd lng="km">&#6047;&#6098;&#6042;&#6047;&#6091;</trd>
+  <trd lng="kn">&#3236;&#3262;&#3228;&#3262;</trd>
+  <trd lng="ko">&#49888;&#49440;&#54620;</trd>
+  <trd lng="ku">teze</trd>
+  <trd lng="ky">&c_zh;&c_a;&#1187;&c_y;</trd>
+  <trd lng="lat">recentes</trd>
+  <trd lng="lo">&#3754;&#3771;&#3732;</trd>
+  <trd lng="lt">&scaron;vie&zcaron;i</trd>
+  <trd lng="lv">svaigs</trd>
+  <trd lng="mg">vaovao</trd>
+  <trd lng="mi">hou</trd>
+  <trd lng="mk">&c_s;&c_v;&c_je;&c_zh;&c_o;</trd>
+  <trd lng="ml">&#3370;&#3393;&#3364;&#3391;&#3375;</trd>
+  <trd lng="mn">&c_sh;&c_i;&c_n;&c_e;</trd>
+  <trd lng="mr">&#2340;&#2366;&#2332;&#2381;&#2351;&#2366;</trd>
+  <trd lng="ms">segar</trd>
+  <trd lng="mt">frisk</trd>
+  <trd lng="my">&#4124;&#4112;&#4154;&#4102;&#4112;&#4154;&#4126;&#4145;&#4140;</trd>
+  <trd lng="ne">&#2340;&#2366;&#2332;&#2366;</trd>
+  <trdgrp lng="nl">
+    <trd>actueel</trd>,
+    <trd>fris</trd>,
+    <trd>nieuw</trd>,
+    <trd>recent</trd>,
+    <trd>vers</trd>
+  </trdgrp>
+  <trd lng="ny">mwatsopano</trd>
+  <trd lng="pa">&#2596;&#2622;&#2588;&#2620;&#2622;</trd>
+  <trd lng="pl">&sacute;wie&zdot;y</trd>
+  <trd lng="ps">&a_t;&a_A;&a_z;&a_h;</trd>
+  <trdgrp lng="pt">
+    <trd>fresco</trd>,
+    <trd>recente</trd>,
+    <trd>novo</trd>
+  </trdgrp>
+  <trd lng="ro">proasp&abreve;t</trd>
+  <trd lng="ru">&c_s;&c_v;&c_je;&c_zh;&c_i;&c_j;</trd>
+  <trd lng="rw">gishya</trd>
+  <trd lng="sd">&a_t;&a_A;&a_z;&a_w;</trd>
+  <trd lng="si">&#3505;&#3536;&#3520;&#3540;&#3512;&#3530;</trd>
+  <trd lng="sk">&ccaron;erstv&yacute;</trd>
+  <trd lng="sl">sve&zcaron;a</trd>
+  <trd lng="sm">fou</trd>
+  <trd lng="sn">tawanda</trd>
+  <trd lng="so">cusub</trd>
+  <trd lng="sq">fresk&euml;t</trd>
+  <trd lng="st">a hloekileng</trd>
+  <trd lng="su">seger</trd>
+  <trd lng="sw">safi</trd>
+  <trd lng="ta">&#2986;&#3009;&#2980;&#3007;&#2991;</trd>
+  <trd lng="te">&#3108;&#3134;&#3100;&#3134;</trd>
+  <trd lng="tg">&c_t;&c_a;&c_r;&c_u; &c_t;&c_o;&c_z;&c_a;</trd>
+  <trd lng="th">&#3626;&#3604;</trd>
+  <trd lng="tl">sariwa</trd>
+  <trd lng="tt">&c_ja;&#1187;&c_a;</trd>
+  <trd lng="uk">&c_s;&c_v;&c_ib;&c_zh;&c_i;&c_j;</trd>
+  <trd lng="ur">&a_t;&a_A;&a_z;&#1729;</trd>
+  <trd lng="uz">yangi</trd>
+  <trd lng="vi">t&#432;&#417;i</trd>
+  <trd lng="yi">&pe;&resh;&yod;&shin;</trd>
+  <trd lng="yo">alabapade</trd>
+  <trd lng="zh">&#26368;&#26032; <pr>zu&igrave;x&imacron;n</pr></trd>
+  <trd lng="zu">opholile</trd>
+</drv>
+
+<drv mrk="fresx.0e">
+  <kap>
+    <tld/>e
+  </kap>
+  <snc mrk="fresx.0e.jxuse">
+    <dif>
+      &Jcirc;use:
+      <ekz>
+        <tld/>e falinta ne&gcirc;o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">r&eacute;cemment</trd>
+  </snc>
+  <snc mrk="fresx.0e.stato">
+    <dif>
+      En fre&scirc;a stato:
+      <ekz>
+        &ccirc;iuj floroj staris <tld/>e kaj bele en la varma lumo de la suno
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_v;&c_je;&c_zh;&c_a;</trd>
+  <trd lng="de">frisch</trd>
+  <trd lng="uk">&c_s;&c_v;&c_ib;&c_zh;&c_o;</trd>
+  <trdgrp lng="zh">
+    <trd>&#26032;&#39854;&#30340; <pr>x&imacron;nxi&amacron;nde</pr></trd>,
+    <trd>&#40059; <pr>xian</pr></trd>,
+    <trd>&#28152;&#29245; <pr>q&imacron;ngshu&#462;ng</pr></trd>,
+    <trd>&#28732; <pr>r&aacute;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fresx.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="fresx.0eco.KOMUNE">
+    <dif>
+      Stato de io a&ubreve; iu <tld/>a:
+      <ekz>
+        Moseo havis la a&gcirc;on de cent dudek jaroj <klr>[&#8230;]</klr> kaj ne malaperis lia
+        <tld/>eco
+        <fnt>
+          <bib>MT</bib>
+          <lok>Readmono 34:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i estis plena de <tld/>eco kaj &ccirc;armo
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> rigardis la tutan floran belecon kaj <tld/>econ en la &gcirc;ardeno
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Abio</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_v;&c_je;&c_zh;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="ca">frescor</trd>
+  <trd lng="de">Frische</trd>
+  <trd lng="fr">fraicheur</trd>
+  <trd lng="es">frescura</trd>
+  <trdgrp lng="ja">
+    <trd>&#29983;&#27671;  <pr>&#12379;&#12356;&#12365;</pr></trd>,
+    <trd>&#26032;&#39854;&#12373;  <pr>&#12375;&#12435;&#12379;&#12435;&#12373;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">frisheid</trd>
+  <trd lng="pl">&sacute;wie&zdot;o&sacute;&cacute;</trd>
+  <trd lng="ru">&c_s;&c_v;&c_je;&c_zh;&c_je;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="uk">&c_s;&c_v;&c_ib;&c_zh;&c_ib;&c_s;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="fresx.re0igi">
+  <kap>re<tld/>igi</kap>
+  <snc mrk="fresx.re0igi.KOMUNE">
+    <dif>
+      Fari ion denove <tld/>a:
+      <ekz>
+        fliki kaj re<tld/>igi vestojn<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        re<tld/>igu min per pomsuko
+        <fnt>
+          <bib>MT</bib>
+          <lok>Alta kanto 2:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili re<tld/>igis mian spiriton
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Korintanoj 16:18</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        re<tld/>igi la kolorojn de pentra&jcirc;o, la aeron en la &ccirc;ambro,
+        la memoron pri farita promeso;
+      </ekz>
+      <ekz>
+        <ind>sin re<tld/>igi</ind>
+        <klr>(sin meti en bonan, <tld/>an staton)</klr>;
+        <trd lng="be">&c_a;&c_s;&c_mol;&c_v;&c_ja;&c_zh;&c_y;&c_c;&c_c;&c_a;</trd>
+        <trd lng="ca">refrescar-se</trd>
+        <trd lng="fr">se <ind>rafraichir</ind></trd>
+        <trd lng="nl">zich <ind>verfrissen</ind></trd>
+      </ekz>
+      <ekz>
+        <ind>re<tld/>iga</ind> spirita bano.
+        <trd lng="be">&c_a;&c_s;&c_mol;&c_v;&c_ja;&c_zh;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+        <trd lng="ca">refrescant</trd>
+        <trd lng="fr">rafraichissant</trd>
+        <trd lng="nl">verfrissend</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_mol;&c_v;&c_ja;&c_zh;&c_y;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>refrescar</trd>,
+    <trd>renovar</trd>
+  </trdgrp>
+  <trd lng="de">auffrischen</trd>
+  <trd lng="es">refrescar</trd>
+  <trd lng="fr">rafraichir</trd>
+  <trdgrp lng="ja">
+    <trd>&#26032;&#39854;&#12373;&#12434;&#34311;&#12425;&#12379;&#12427;  <pr>&#12375;&#12435;&#12379;&#12435;&#12373;&#12434;&#12424;&#12415;&#12364;&#12360;&#12425;&#12379;&#12427;</pr></trd>,
+    <trd>&#20803;&#27671;&#12434;&#22238;&#24489;&#12373;&#12379;&#12427;  <pr>&#12370;&#12435;&#12365;&#12434;&#12363;&#12356;&#12405;&#12367;&#12373;&#12379;&#12427;</pr></trd>,
+    <trd>&#12522;&#12501;&#12524;&#12483;&#12471;&#12517;&#12373;&#12379;&#12427;</trd>
+  </trdgrp>
+  <trd lng="nl">verfrissen</trd>
+  <trd lng="pl">od&sacute;wie&zdot;y&cacute;</trd>
+  <trd lng="ru">&c_o;&c_s;&c_v;&c_je;&c_zh;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="uk">&c_o;&c_s;&c_v;&c_ib;&c_zh;&c_a;&c_t;&c_i;</trd>
+  <trdgrp lng="zh">
+    <trd>&#20351;&#28152;&#29245; <pr>sh&#464;q&imacron;ngshu&#462;ng</pr></trd>,
+    <trd>&#29245;&#24555; <pr>shu&#462;ngku&agrave;i</pr></trd>,
+    <trd>&#26377;&#31934;&#31070; <pr>y&#466;uj&imacron;ngsh&eacute;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fresx.re0igajxo">
+  <kap>re<tld/>iga&jcirc;o</kap>
+  <snc mrk="fresx.re0igajxo.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Re<tld/>iga trinka&jcirc;o:
+      <ekz>
+        sur la ondanta akvo ni prenos iom da re<tld/>iga&jcirc;o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>&Gcirc;ardeno de la paradizo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post la unua re<tld/>iga&jcirc;o ni pretigos nin
+        <fnt>
+          <vrk><url ref="https://esperanto.si/eo/rikoltado-de-olivoj-en-izolaisola">Rikoltado de
+          olivoj en Izola/Isola</url></vrk>
+          <lok>Slovenia Esperanto-Ligo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Erfrischungstrunk</trd>
+    <trd lng="fr">rafraichissement<klr tip="ind"> (boisson)</klr></trd>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_mol;&c_v;&c_ja;&c_zh;&c_a;&c_l;&c_mol;&c_n;&c_y; &c_n;&c_a;&c_p;&c_ib;&c_t;&c_a;&c_k;</trd>
+  <trd lng="ca">refresc</trd>
+  <trd lng="de">Erfrischung</trd>
+  <trd lng="es">refresco</trd>
+  <trd lng="ja">&#39154;&#12415;&#29289;  <pr>&#12398;&#12415;&#12418;&#12398;</pr></trd>
+  <trd lng="nl">frisdrank</trd>
+  <trd lng="pl">nap&oacute;j orze&zacute;wiaj&aogonek;cy</trd>
+  <trd lng="uk">&c_o;&c_s;&c_v;&c_ib;&c_zh;&c_a;&c_ju;&c_ch;&c_i;&c_j; &c_n;&c_a;&c_p;&c_ib;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd>&#25552;&#31070;&#29992;&#21697; <pr>t&iacute;sh&eacute;ny&ograve;ngp&#464;n</pr></trd>,
+    <trd>&#28040;&#38500;&#30130;&#21171; <pr>xi&amacron;och&uacute;p&iacute;l&aacute;o</pr></trd>,
+    <trd>&#37325;&#25391;&#38596;&#39080; <pr>ch&oacute;ngzh&egrave;nxi&oacute;ngf&emacron;ng</pr></trd>,
+    <trd>&#20415;&#39184; <pr>bi&agrave;nc&amacron;n</pr></trd>,
+    <trd>&#36523;&#24515;&#29245;&#24555; <pr>sh&emacron;nx&imacron;nshu&#462;ngku&agrave;i</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fresx.re0igxi">
+  <kap>re<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="fresx.re0igxi.KOMUNE">
+    <dif>
+      I&gcirc;i denove <tld/>a, bonstata:
+      <ekz>
+        re<tld/>i&gcirc;o de la viza&gcirc;o
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 3:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Julio <klr>[&#8230;]</klr> permesis al li iri al siaj amikoj kaj
+        re<tld/>i&gcirc;i
+        <fnt><bib>NT</bib>, <lok>&Ago; 27:3</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_mol;&c_v;&c_ja;&c_zh;&c_y;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>refrescar-se</trd>,
+    <trd>revitalitzar-se</trd>
+  </trdgrp>
+  <trd lng="de">sich <ind>erfrischen</ind></trd>
+  <trd lng="fr">se <ind>rafraichir</ind></trd>
+  <trd lng="nl">zich <ind>verfrissen</ind></trd>
+  <trd lng="pl">od&sacute;wie&zdot;y&cacute; si&eogonek;</trd>
+  <trd lng="uk">&c_o;&c_s;&c_v;&c_ib;&c_zh;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd>&#25552;&#31070; <pr>t&iacute;sh&eacute;n</pr></trd>,
+    <trd>&#20937;&#24555; <pr>li&aacute;ngkuai</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fresx.mal0a">
+  <kap><ofc>*</ofc>mal<tld/>a</kap>
+  <snc mrk="fresx.mal0a.KOMUNE">
+    <dif>
+      Tute ne <tld/>a:
+      <ekz>
+        tiu &ccirc;i mal<tld/>a pano estas malmola, kiel &scirc;tono
+        <fnt><bib>F</bib>, <lok>&FE; 33</lok></fnt>;
+      </ekz>
+      <ekz>
+        ilia tuta pano estis mal<tld/>a kaj &scirc;imi&gcirc;inta
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Jos; 9:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mal<tld/>a akvo
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        gasto kiel fi&scirc;o balda&ubreve; fari&gcirc;as mal<tld/>a
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="arhxaik.0a">arkaika</ref>,
+      <ref cel="kaduk.0a">kaduka</ref>,
+      <ref cel="nov.mal0a">malnova</ref>,
+      <ref cel="mucid.0a.odora">mucida<sncref/></ref>,
+      <ref cel="putr.0a">putra</ref>,
+      <ref cel="velk.0a">velka</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="fresx.mal0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Tro konata, eksmoda, <ref tip="vid" cel="mucid.0a.FIG">mucida<sncref/></ref>:
+      <ekz>
+        mal<tld/>a &scirc;erco!
+        <fnt>
+          <aut>J. R. R. Tolkien, trad. C. Gledhill</aut>
+          <vrk>La Hobito</vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_ja;&c_s;&c_mol;&c_v;&c_je;&c_zh;&c_y;</trd>,
+    <trd>&c_ch;&c_e;&c_r;&c_s;&c_t;&c_v;&c_y; <klr tip="amb">(&c_p;&c_r;&c_a; &c_h;&c_l;&c_je;&c_b;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>marcit</trd>,
+    <trd>ranci</trd>,
+    <trd>m&uacute;stic</trd>,
+    <trd>utilitzat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>alt</trd>,
+    <trd>abgestanden</trd>,
+    <trd>schal</trd>,
+    <trd>welk</trd>,
+    <trd>verdorben</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;fraichi</trd>,
+    <trd>fatigu&eacute;<klr> (pas frais)</klr></trd>,
+    <trd>pas <ind>frais</ind></trd>,
+    <trd>rance</trd>,
+    <trd>rassis<klr tip="ind"> (pas frais)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12375;&#12394;&#12403;&#12383;</trd>,
+    <trd>&#21476;&#12403;&#12383;  <pr>&#12405;&#12427;&#12403;&#12383;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>oudbakken</trd>,
+    <trd>muf</trd>,
+    <trd>rans</trd>,
+    <trd>ranzig</trd>,
+    <trd>vermoeid</trd>
+  </trdgrp>
+  <trd lng="pl">nie&sacute;wie&zdot;y</trd>
+  <trd lng="ru">&c_n;&c_je;&c_s;&c_v;&c_je;&c_zh;&c_i;&c_j;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ch;&c_je;&c_r;&c_s;&c_t;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_v;&c_ib;&c_zh;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trd lng="zh">&#38472; <pr>ch&eacute;n</pr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.108 2024/03/03 09:20:43
+Alain Gerard: + trd fr
+
+versio 1.106 2023/10/14 19:15:46
+revo: transskribo per <pr>
+
+versio 1.104 2023/08/29 16:34:59
+Wolfram Diestel: ja: prononco
+
+versio 1.103 2022/06/20 08:41:14
+Dmitri Gabinski: + trd be
+
+versio 1.102 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.98 2022/02/13 18:33:06
+Wolfram Diestel: +trd de
+
+versio 1.97 2021/07/19 22:28:11
+Jeromo Vasxe: mal~a + snc fig
+
+Revision 1.20  2011/12/07 19:10:09  revo
+-->
+</vortaro>

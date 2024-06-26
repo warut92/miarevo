@@ -1,0 +1,482 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: polur.xml,v 1.29 2024/02/17 07:52:34 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>polur</rad>/o <fnt><bib>UV</bib></fnt>
+</kap>
+
+<drv mrk="polur.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="polur.0o.KOMUNE">
+    <dif>
+      Surfaca <ref tip="super" cel="bril.0o">brilo</ref>, ricevita per frotado:
+      <ekz>
+        ni nur a&ccirc;etos diamantojn kiuj ricevis sian <tld/>on
+        <fnt>
+          <bib>KKl</bib>
+          <lok>&Ccirc;apitro 7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <klr>[li]</klr> kritikis, postulante korektojn a&ubreve; <tld/>on de kelkaj versoj
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kia plebo abomena, sen gusto kaj <tld/>o
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LI</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        kion signifas tuta la &gcirc;entileco, socia <tld/>o de monduloj
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>?
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="apretu.0o">apreturo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_l;&c_ja;&c_n;&c_je;&c_c;</trd>,
+    <trd>&c_b;&c_l;&c_ja;&c_s;&c_k;</trd>
+  </trdgrp>
+  <trd lng="cs">le&scaron;t&ecaron;n&iacute;</trd>
+  <trdgrp lng="de">
+    <trd>Glanz</trd>,
+    <trd>Politur <klr>(Glanz)</klr></trd>,
+    <trd>Gl&auml;tte</trd>,
+    <trd>Schliff<klr> (metaf)</klr></trd>
+  </trdgrp>
+  <trd lng="es">pulido</trd>
+  <trd lng="fr">poli<klr> (subst.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x5149;&#x6CA2;  <pr>&#x3053;&#x3046;&#x305F;&#x304F;</pr></trd>,
+    <trd>&#x3064;&#x3084;</trd>
+  </trdgrp>
+  <trd lng="sk">le&scaron;tenie</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_l;&c_ib;&c_r;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_l;&c_o;&c_shch;&c_ib;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_n;&c_a;&c_v;&c_je;&c_d;&c_je;&c_n;&c_n;&c_ja; &c_g;&c_l;&c_ja;&c_n;&c_c;&c_ju;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x5149;&#x6ED1; <pr>gu&#x101;nghu&#xE1;</pr></trd>,
+    <trd>&#x4E00;&#x77A5; <pr>y&#x12B;pi&#x113;</pr></trd>,
+    <trd>&#x5149;&#x534E; <pr>gu&#x101;nghu&#xE1;</pr></trd>,
+    <trd>&#x5149;&#x83EF; <pr>gu&#x101;nghu&#xE1;</pr></trd>,
+    <trd>&#x6804; <pr>r&#xF3;ng</pr></trd>,
+    <trd>&#x69AE;&#x5149; <pr>r&#xF3;nggu&#x101;ng</pr></trd>,
+    <trd>&#x8363;&#x5149; <pr>r&#xF3;nggu&#x101;ng</pr></trd>,
+    <trd>&#x77A5; <pr>pi&#x113;</pr></trd>,
+    <trd>&#x78E8;&#x5C51; <pr>m&#xF3;xi&#xE8;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="polur.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="polur.0ado.KOMUNE">
+    <dif>
+      Ago <ref tip="dif" cel="polur.0i">poluri</ref>:
+      <ekz>
+        ili estis <klr>[...]</klr> interesitaj pri la <tld/>ado de la gemoj
+        <fnt>
+          <bib>KKl</bib>
+          <lok>&Ccirc;apitro 7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        ke &leftquot;genio estas longa pacienco&rightquot; <klr>[&#x2026;]</klr> tion montris la ses jaroj de
+        sen&ccirc;esa <tld/>ado per provado
+        <fnt>
+          <bib>VivZam</bib>
+          <lok>Vivo de Zamenhof</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        pacienca laboro de fajlado kaj da&ubreve;ra verso<tld/>ado
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_l;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_g;&c_l;&c_ja;&c_n;&c_c;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_v;&c_y;&c_g;&c_l;&c_ja;&c_n;&c_c;&c_o;&c_w;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_l;&c_a;&c_s;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="cs">le&scaron;t&ecaron;n&iacute;</trd>
+  <trd lng="de">Polieren</trd>
+  <trd lng="es">pulido</trd>
+  <trd lng="fr">polissage</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x3084;&#x51FA;&#x3057;  <pr>&#x3064;&#x3084;&#x3060;&#x3057;</pr></trd>,
+    <trd>&#x78E8;&#x304D;&#x4E0A;&#x3052;  <pr>&#x307F;&#x304C;&#x304D;&#x3042;&#x3052;</pr></trd>,
+    <trd>&#x7814;&#x78E8;  <pr>&#x3051;&#x3093;&#x307E;</pr></trd>,
+    <trd>&#x6D17;&#x7DF4;  <pr>&#x305B;&#x3093;&#x308C;&#x3093;</pr></trd>,
+    <trd>&#x63A8;&#x6572;  <pr>&#x3059;&#x3044;&#x3053;&#x3046;</pr></trd>
+  </trdgrp>
+  <trd lng="sk">le&scaron;tenie</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_l;&c_ib;&c_r;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_l;&c_o;&c_shch;&c_ib;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_n;&c_a;&c_v;&c_je;&c_d;&c_je;&c_n;&c_n;&c_ja; &c_g;&c_l;&c_ja;&c_n;&c_c;&c_ju;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="polur.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="polur.0i.KOMUNE">
+    <dif>
+      <ref cel="glat.0igi">Glatigi</ref> kaj <ref tip="super" cel="bril.0igi">briligi</ref>
+      ion per frotado:
+      <ekz>
+        <tld/>i lignon, vitron, marmoron;
+      </ekz>
+      <ekz>
+        ili facetis kaj <tld/>is multekostajn &scirc;tonojn
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili drinkas e&ccirc; <klr>[&#x2026;]</klr> e&ccirc; <ind><tld/>kremo</ind><klr>[n]</klr>, enhavanta alkoholon
+        kaj uzata por <tld/>i latunon ktp
+        <fnt>
+          <bib>KrM</bib>
+          <lok>31. Ricevis Bandito La&ubreve; Sia Merito.</lok>
+        </fnt>;
+        <trd lng="de">Politur</trd>
+      </ekz>
+      <ekz>
+        la maljuna re&gcirc;o lasis <tld/>i sian oran kronon
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Monteto de elfoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        granitaj platrokoj, kiujn <klr>[&#x2026;]</klr> rabotis kaj <tld/>is la giganta glacio
+        <fnt>
+          <bib>ViV</bib>
+          <lok>IV.</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="facet.0i">faceti</ref>,
+      <ref cel="glace.0igi">glaceigi</ref>,
+      <ref cel="sxlif.0i">&scirc;lifi</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>polieren</trd>,
+      <trd>glatt und <ind>gl&auml;nzend</ind> machen</trd>,
+      <trd>zum <ind>Gl&auml;nzen</ind> bringen</trd>,
+      <trd>wichsen<klr> (Stiefel)</klr></trd>
+    </trdgrp>
+    <trd lng="fr">polir</trd>
+    <trdgrp lng="it">
+      <trd>lisciare</trd>,
+      <trd>lucidare</trd>,
+      <trd>levigare</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>wrijven</trd>,
+      <trd>oppoetsen</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="polur.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Perfekte <ref cel="labor.el0i">ellabori</ref>, pli delikatigi,
+      pli <ref cel="rafin.0i.FIG">rafini</ref>;
+      <ref cel="fajl.0i.FIG">fajli</ref>:
+      <ekz>
+        mi preferas <klr>[&#x2026;]</klr> <tld/>i tiun malbenitan verson de la tria strofo
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LVII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili <tld/>as sian stilon
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nun li fin<tld/>as sian tradukon de 1001 noktoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Nina Kor&jcirc;enevskaja</aut>
+          <vrk><url ref="&Monato;/2010/010063.php">Intervjue pri la grafo de Monte-Kristo</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lasu lin en mian domon, mi lin <tld/>os
+        <klr>(severege edukos)</klr>
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Fabelo pri iu, kiu migris por ekkoni timon</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        re<tld/>i siajn batallertojn
+        <fnt>
+          <bib>StU</bib>
+          <lok>Britujo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>polieren</trd>,
+      <trd>verfeinern</trd>,
+      <trd>ausfeilen</trd>,
+      <trd>den letzten <ind>Schliff</ind> geben</trd>
+    </trdgrp>
+    <trd lng="fr">affiner</trd>
+    <trdgrp lng="it">
+      <trd>affinare</trd>,
+      <trd>raffinare</trd>,
+      <trd>limare</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_l;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_sh;&c_l;&c_ib;&c_f;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">polir</trd>
+  <trd lng="cs">le&scaron;tit</trd>
+  <trd lng="en">polish</trd>
+  <trdgrp lng="es">
+    <trd>pulimentar</trd>,
+    <trd>pulir</trd>,
+    <trd>bru&ntilde;ir</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x78E8;&#x304F;  <pr>&#x307F;&#x304C;&#x304F;</pr></trd>,
+    <trd>&#x7814;&#x78E8;&#x3059;&#x308B;  <pr>&#x3051;&#x3093;&#x307E;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x3064;&#x3084;&#x3092;&#x51FA;&#x3059;  <pr>&#x3064;&#x3084;&#x3092;&#x3060;&#x3059;</pr></trd>,
+    <trd>&#x6D17;&#x7DF4;&#x3059;&#x308B;  <pr>&#x305B;&#x3093;&#x308C;&#x3093;&#x3059;&#x308B;</pr></trd>,
+    <trd>&#x63A8;&#x6572;&#x3059;&#x308B;  <pr>&#x3059;&#x3044;&#x3053;&#x3046;&#x3059;&#x308B;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">oppoetsen</trd>
+  <trdgrp lng="no">
+    <trd>polere</trd>,
+    <trd>finpusse</trd>
+  </trdgrp>
+  <trd lng="pt">polir</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_sh;&c_l;&c_i;&c_f;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>cibri&tcaron;</trd>,
+    <trd>le&scaron;ti&tcaron;</trd>,
+    <trd>vybr&uacute;si&tcaron;</trd>,
+    <trd>vyle&scaron;ti&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>polera</trd>,
+    <trd>putsa</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_l;&c_ib;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_sh;&c_l;&c_ib;&c_f;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_l;&c_o;&c_shch;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_g;&c_l;&c_ja;&c_n;&c_c;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_n;&c_a;&c_v;&c_o;&c_d;&c_i;&c_t;&c_i; &c_g;&c_l;&c_ja;&c_n;&c_je;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x92E5; <pr>z&#xE8;ng</pr></trd>,
+    <trd>&#x9503; <pr>z&#xE8;ng</pr></trd>,
+    <trd>&#x64E6;&#x4EAE; <pr>c&#x101;li&#xE0;ng</pr></trd>,
+    <trd>&#x78CB; <pr>cu&#x14D;</pr></trd>,
+    <trd>&#x78E8;&#x5149; <pr>m&#xF3;gu&#x101;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="polur.0ita">
+  <kap><tld/>ita</kap>
+  <snc mrk="polur.0ita.TEK">
+    <dif>
+      Kiun oni <tld/>is &gcirc;is glateco:
+      <ekz>
+        la malglataj partoj de la plato tenos inkon, ne la <tld/>itaj
+        <fnt>
+          <aut>J. De Cooman</aut>,
+          <vrk><url ref="http://de-cooman.be/jan/eo/etstechniek.htm">
+          Gravurteknikoj</url></vrk>,
+          <lok>1999-12-12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">poliert</trd>
+    <trd lng="fr">poli<klr> (physiquement)</klr></trd>
+    <trdgrp lng="zh">
+    <trd>&#x64E6;&#x4EAE; <pr>c&#x101;li&#xE0;ng</pr></trd>,
+    <trd>&#x92E5; <pr>z&#xE8;ng</pr></trd>,
+    <trd>&#x9503; <pr>z&#xE8;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="polur.0ita.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Prilaborita &gcirc;is kontentiga aspekto, rafinita,
+      delikata:
+      <ekz>
+        li estas frotita kaj <tld/>ita
+        <klr>(multe spertinta)</klr>
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        oni ne disvastigu tekstojn kolbasigitajn en la gugla
+        tradukma&scirc;ino sen esti <tld/>itaj
+        <fnt>
+          <aut>[A. K&uuml;nzli]</aut>,
+          <vrk>en: <url ref="http://www.liberafolio.org/2012/forpasis-josi-semer">
+          Forpasis Josi &Scirc;emer</url></vrk>,
+          <lok>libera folio, 2012-04-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>ausgefeilt</trd>,
+      <trd>gegl&auml;ttet</trd>,
+      <trd>aalglatt</trd>,
+      <trd>mit allen <ind>Wasser</ind>n gewaschen</trd>
+    </trdgrp>
+    <trd lng="fr">raffin&eacute;</trd>
+    <trdgrp lng="zh">
+    <trd>&#x7CBE;&#x5236; <pr>j&#x12B;ngzh&#xEC;</pr></trd>,
+    <trd>&#x7CBE;&#x88FD; <pr>j&#x12B;ngzh&#xEC;</pr></trd>,
+    <trd>&#x7CBE;&#x70BC; <pr>j&#x12B;ngli&#xE0;n</pr></trd>,
+    <trd>&#x7CBE;&#x7149; <pr>j&#x12B;ngli&#xE0;n</pr></trd>,
+    <trd>&#x505B; <pr>ch&#x101;</pr></trd>,
+    <trd>&#x516B;&#x9762;&#x5149; <pr>b&#x101;mi&#xE0;ngu&#x101;ng</pr></trd>,
+    <trd>&#x5178;&#x96C5; <pr>di&#x1CE;ny&#x1CE;</pr></trd>,
+    <trd>&#x5706;&#x6ED1; <pr>yu&#xE1;nhu&#xE1;</pr></trd>,
+    <trd>&#x5713;&#x6ED1; <pr>yu&#xE1;nhu&#xE1;</pr></trd>,
+    <trd>&#x5F6C;&#x5F6C; <pr>b&#x12B;nb&#x12B;n</pr></trd>,
+    <trd>&#x72E1;&#x733E;&#x5730; <pr>ji&#x1CE;ohu&#xE1;de</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_p;&c_a;&c_l;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>,
+    <trd>&c_a;&c_d;&c_g;&c_l;&c_ja;&c_n;&c_c;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x78E8;&#x304D;&#x306E;&#x304B;&#x304B;&#x3063;&#x305F;  <pr>&#x307F;&#x304C;&#x304D;&#x306E;&#x304B;&#x304B;&#x3063;&#x305F;</pr></trd>,
+    <trd>&#x3064;&#x3084;&#x306E;&#x3042;&#x308B;</trd>,
+    <trd>&#x6D17;&#x7DF4;&#x3055;&#x308C;&#x305F;  <pr>&#x305B;&#x3093;&#x308C;&#x3093;&#x3055;&#x308C;&#x305F;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="polur.ne0ita">
+  <kap>ne<tld/>ita</kap>
+  <snc mrk="polur.ne0ita.TEK">
+    <dif>
+      Kiun oni ne <tld/>is, kiu restas kruda,
+      raspa, malglata:
+      <ekz>
+        ofte li estis portanta <klr>[&#x2026;]</klr> ne<tld/>itajn botojn kaj falantan
+        &ccirc;apon
+        <fnt>
+          <aut>A. Protti de Andrade, M. Costa Nocera</aut>,
+          <vrk><url ref="http://lamasson.com.br/biblioteca/biblioteca/pesquisahomeopatica/artikolo00n2nilocairo.htm">
+          D-ro Nilo Cairo: vivo kaj verko de de iu homeopato kaj
+          edukisto</url></vrk>,
+          <lok>[2000]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>unpoliert</trd>,
+      <trd>rau</trd>,
+      <trd>matt</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>raboteux</trd>,
+      <trd>r&ecirc;che</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+    <trd>&#x5E7D;&#x5E7D; <pr>y&#x14D;uy&#x14D;u</pr></trd>,
+    <trd>&#x7C97;&#x7CD9; <pr>c&#x16B;c&#x101;o</pr></trd>,
+    <trd>&#x8052; <pr>gu&#x14D;</pr></trd>,
+    <trd>&#x4E0D;&#x4EAE; <pr>b&#xF9;li&#xE0;ng</pr></trd>,
+    <trd>&#x672A;&#x629B;&#x5149; <pr>w&#xE8;ip&#x101;ogu&#x101;ng</pr></trd>,
+    <trd>&#x672A;&#x62CB;&#x5149; <pr>w&#xE8;ip&#x101;ogu&#x101;ng</pr></trd>
+  </trdgrp>
+</snc>
+  <snc mrk="polur.ne0ita.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Senkultura, en natura stato, kruda:
+      <ekz>
+        <ind>ne<tld/>ita homo</ind>.
+        <trd lng="fr">ours mal l&ecirc;ch&eacute;</trd>
+        <trd lng="nl">ongelikte <ind>beer</ind></trd>
+      </ekz>
+    </dif>
+    <trd lng="de">ungehobelt</trd>
+    <trd lng="fr">brut</trd>
+    <trdgrp lng="zh">
+    <trd>&#x7C97;&#x83BD; <pr>c&#x16B;m&#x1CE;ng</pr></trd>,
+    <trd>&#x7C97; <pr>c&#x16B;</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_p;&c_a;&c_l;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_g;&c_l;&c_ja;&c_n;&c_c;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x78E8;&#x304B;&#x308C;&#x3066;&#x3044;&#x306A;&#x3044;  <pr>&#x307F;&#x304C;&#x304B;&#x308C;&#x3066;&#x3044;&#x306A;&#x3044;</pr></trd>,
+    <trd>&#x6D17;&#x7DF4;&#x3055;&#x308C;&#x3066;&#x3044;&#x306A;&#x3044;  <pr>&#x305B;&#x3093;&#x308C;&#x3093;&#x3055;&#x308C;&#x3066;&#x3044;&#x306A;&#x3044;</pr></trd>,
+    <trd>&#x7C97;&#x91CE;&#x306A;  <pr>&#x305D;&#x3084;&#x306A;</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2024/02/15 12:37:41
+Dmitri Gabinski: + trd be
+
+versio 1.27 2024/01/21 12:37:17
+Wolfram Diestel: +ekz-oj, ref-oj, trd de
+
+versio 1.26 2023/10/20 16:38:17
+revo: transskribo per <pr>
+
+versio 1.24 2023/02/11 21:24:55
+Ulrich Fellmann: poluro: +4 pliaj DE trdj; poluri: +6 pliaj DE trdj
+
+Revision 1.21  2016/03/19 00:10:12  revo
+Jeromo Vasxe: + ~ita ne~ita
+
+Revision 1.20  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/08/20 09:10:09  revo
+-->
+</vortaro>

@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: mantil.xml,v 1.22 2024/02/11 12:33:47 revo Exp $">
+<kap>
+  <rad>mantil</rad>/o <fnt><bib>JED</bib></fnt>
+</kap>
+<drv mrk="mantil.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="mantil.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Punta <ref tip="super" cel="tuk.kovro0o">kovrotuko</ref>
+      kovranta kapon kaj &scirc;ultrojn, populara &ccirc;e hispaninoj &gcirc;is en la 19a jarcento:
+      <ekz>
+        la butikisto prenis siajn valorajn paperojn kaj la servistino sian silkan
+        <tld/>on, kiun &scirc;iaj rimedoj permesis al &scirc;i a&ccirc;eti
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Koboldo &ccirc;e la butikisto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Mario envenas <klr>[&#8230;]</klr> Ludovikino demetas
+        al &scirc;i la <tld/>on
+        <fnt>
+          <aut>J. Benavente, trad. V. Inglada Ors</aut>,
+          <vrk>La Nesia Hejmo</vrk>,
+          <lok><url ref="http://www.gazetejo.org/eo/lasunohispana">
+          La Suno Hispana</url>, 1909-01 (61)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="tuk.kap0o">kaptuko</ref>,
+      <ref cel="sxal.0o">&scirc;alo</ref>,
+      <ref cel="skarp.0o.virina">skarpo<sncref/></ref>
+    </refgrp>
+    <rim>
+      En unu verko aperas la formo &leftquot;mantilio&rightquot;:
+      <ekz>
+        &jcirc;etinte rapide <tld/>ion sur sian kapon, la markizino malsupreniris en la parkon
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Dekkvara</lok>
+        </fnt>.
+      </ekz>
+    </rim>
+    <bld
+      lok="&WCU;/thumb/e/e6/Anders_Zorn_-_Spanish_Lady_in_Black_Mantilla_1882.jpg/375px-Anders_Zorn_-_Spanish_Lady_in_Black_Mantilla_1882.jpg"
+      prm="PD"
+      >Hispanino kun nigra <tld/>o, 1882
+        <fnt>
+          <aut>Anders Zorn, Uppsala Auktionskammare</aut>
+          <lok><url ref="&WCW;/File:Anders_Zorn_-_Spanish_Lady_in_Black_Mantilla_1882.jpg"
+              >https://commons.wikimedia.org/wiki/File:Anders_Zorn_-_Spanish_Lady_in_Black_Mantilla_1882.jpg</url></lok>
+        </fnt>
+    </bld>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_n;&c_t;&c_y;&c_l;&c_mol;&c_ja;</trd>
+  <trd lng="ca">mantellina</trd>
+  <trd lng="cs">pl&aacute;&scaron;t&ecaron;nka</trd>
+  <trdgrp lng="de">
+    <trd>Mantilla</trd>,
+    <trd>Mantille</trd>
+  </trdgrp>
+  <trd lng="en">mantilla</trd>
+  <trd lng="es">mantilla</trd>
+  <trdgrp lng="fr">
+    <trd>mantille</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>mantilla</trd>,
+    <trd>csipkekend&odblac;</trd>
+  </trdgrp>
+  <trd lng="ja">&#12510;&#12531;&#12486;&#12451;&#12540;&#12521;</trd>
+  <trd lng="nl">mantilla</trd>
+  <trd lng="pl">mantyla</trd>
+  <trd lng="pt">mantilha</trd>
+  <trd lng="ro">&scomma;al</trd>
+  <trd lng="ru">&c_m;&c_a;&c_n;&c_t;&c_i;&c_l;&c_mol;&c_ja;</trd>
+  <trd lng="sk">z&aacute;vojov&yacute; &scaron;&aacute;l</trd>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_a;&c_n;&c_t;&c_i;&c_l;&c_mol;&c_ja;</trd>,
+    <trd>&c_g;&c_o;&c_l;&c_o;&c_v;&c_n;&c_i;&c_j; &c_m;&c_je;&c_r;&c_je;&c_zh;&c_i;&c_v;&c_n;&c_i;&c_j; &c_sh;&c_a;&c_r;&c_f;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.22 2024/02/11 12:33:47
+Wolfram Diestel: kovrotuko, ref
+
+versio 1.21 2024/02/11 09:19:18
+Wolfram Diestel: fnt JED, prilaboro dif, +ekz, rim, bld
+
+versio 1.18 2020/06/24 21:10:49
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.16  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2012/08/19 12:10:17  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2010/04/16 16:31:41  revo
+Russ Williams: +trd en, es
+
+Revision 1.13  2009/08/28 16:31:18  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.12  2006/07/29 16:33:10  revo
+-->
+</vortaro>

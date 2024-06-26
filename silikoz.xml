@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: silikoz.xml,v 1.12 2024/03/24 20:21:57 revo Exp $">
+<kap>
+  <rad>silikoz</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="silikoz.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="silikoz.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+     <ref tip="lst" cel="san.mal0o" lst="voko:malsanoj">Malsano</ref>
+      ka&ubreve;zita de enspiro de silica, karba a&ubreve; alia &scirc;tona polvo,
+      rezultanta plejofte en kronika pulm-inflamo:
+      <ekz>
+        ili fari&gcirc;is &gcirc;ibuloj kaj <tld/>uloj
+        <fnt><aut>Robert Roze</aut>,
+        <vrk><url ref="&Monato;/2000/006945.php">Flagrantaj koloroj</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/06, p. 17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu suferas de la malsano <tld/>o kiel multaj 
+        ministoj en suda kimrio kiuj dum la tuta kariero enspiris 
+        karban polvon
+        <fnt>
+          <aut>Eriketo</aut>,
+          <vrk>Kimrangla...</vrk>,
+          <lok><url ref="http://eriketo.blogspot.com">[blogo]</url>, 
+          2008-06-30</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_y;&c_l;&c_ib;&c_k;&c_o;&c_z;</trd>
+  <trdgrp lng="de">
+    <trd>Quarzstaublunge</trd>,
+    <trd>Silikose</trd>
+  </trdgrp>
+  <trd lng="en">silicosis</trd>
+  <trd lng="fr">silicose</trd>
+  <trd lng="id">silikosis</trd>
+  <trd lng="ja">&#x73EA;&#x80BA;  <pr>&#x3051;&#x3044;&#x306F;&#x3044;</pr></trd>
+  <trdgrp lng="pl">
+    <trd>pylica krzemowa</trd>,
+    <trd>krzemica</trd>
+  </trdgrp>
+  <trd lng="uk">&c_s;&c_i;&#x43B;&c_ib;&#x43A;&#x43E;&c_z;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x77F3;&#x672B;&#x80BA; <pr>sh&#xED;m&#xF2;f&#xE8;i</pr></trd>,
+    <trd>&#x78E8;&#x5DE5;&#x75C5; <pr>m&#xF2;g&#x14D;ngb&#xEC;ng</pr></trd>,
+    <trd>&#x77F3;&#x5320;&#x75E8; <pr>sh&#xED;ji&#xE0;ngl&#xE1;o</pr></trd>,
+    <trd>&#x77F3;&#x5320;&#x7646; <pr>sh&#xED;ji&#xE0;ngl&#xE1;o</pr></trd>,
+    <trd>&#x77F3;&#x672B;&#x6C89;&#x7740;&#x75C5; <pr>sh&#xED;m&#xF2;ch&#xE9;nzhu&#xF3;b&#xEC;ng</pr></trd>,
+    <trd>&#x77F3;&#x672B;&#x6C89;&#x8457;&#x75C5; <pr>sh&#xED;m&#xF2;ch&#xE9;nzhu&#xF3;b&#xEC;ng</pr></trd>,
+    <trd>&#x77FD;&#x672B;&#x75C5; <pr>x&#x12B;m&#xF2;b&#xEC;ng</pr></trd>,
+    <trd>&#x77FD;&#x80BA; <pr>x&#x12B;f&#xE8;i</pr></trd>,
+    <trd>&#x77FD;&#x80BA;&#x75C5; <pr>x&#x12B;f&#xE8;ib&#xEC;ng</pr></trd>,
+    <trd>&#x7845;&#x80BA;&#x75C5; <pr>gu&#x12B;f&#xE8;ib&#xEC;ng</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.11 2023/10/21 07:46:47
+revo: transskribo per <pr>
+
+versio 1.9 2023/06/15 09:26:48
+Dmitri Gabinski: + trd be
+
+versio 1.8 2023/04/27 10:31:15
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.7 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.5 2020/10/13 06:36:35
+Wolfram Diestel: +ekz, +germ trd
+
+Revision 1.3  2015/10/27 11:10:24  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2014/11/19 08:10:30  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.1  2013/11/23 10:10:23  revo
+-->
+</vortaro>

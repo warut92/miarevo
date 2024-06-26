@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sxlemil.xml,v 1.6 2024/03/25 07:28:39 revo Exp $">
+<kap>
+  <rad>&scirc;lemil</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="sxlemil.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="sxlemil.0o.KOMUNE">
+    <dif>
+      <ref tip="super" cel="sort.malbon0ulo">Malbonsortulo</ref>, malprosperulo:
+      <ekz>
+        li nur tenis sin <tld/>o, havanta nenian pretendon pri ri&ccirc;a&jcirc;o
+        <fnt>
+          <aut>Pu Songling, trad. Guozhu</aut>,
+          <vrk><url ref="http://www.everk.it/index.php?id=19,81,0,0,1,0">
+          A&ubreve;guro per moneroj</url></vrk>,
+          <lok>[vidita en 2011]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Tim Burton</nom> <klr>[&#x2026;]</klr> helpis lin disvolvi&gcirc;i kiel respektata aktoro
+        <klr>[anstata&ubreve;]</klr> pario, <tld/>o, alia peco de holivuda inter&scirc;an&gcirc;ebla
+        viando
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=38784">Johnny Depp</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="kapr.propeka0o">propeka kapro</ref>,
+       <ref tip="vid" cel="pari.0o">pario</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_ib;&c_k;&c_ch;&c_e;&c_m;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_n;&c_ja;&c_w;&c_d;&c_a;&c_h;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Schlemihl</trd>,
+    <trd>Ungl&uuml;cksrabe</trd>,
+    <trd>Pechvogel</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;veinard</trd>,
+    <trd>rat&eacute;<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">przeci&eogonek;tniak</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_je;&c_z;&c_v;&#x43E;&#x43B;&#x44C;&#x43D;&c_a;</trd>,
+    <trd>&c_b;&c_je;&c_z;&#x43F;&#x43E;&c_r;&c_a;&c_d;&#x43D;&c_a; &#x43B;&#x44E;&c_d;&c_i;&#x43D;&c_a;</trd>,
+    <trd>&c_j;&#x43E;&#x43B;&#x43E;&#x43F;</trd>,
+    <trd>&c_b;&c_je;&c_v;&c_z;&c_je;&#x43D;&#x44C;</trd>,
+    <trd>&c_t;&c_je;&#x43B;&c_je;&#x43F;&c_je;&#x43D;&#x44C;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x4E0D;&#x5E78;&#x7684;&#x8C61;&#x5F81; <pr>b&#xFA;x&#xEC;ngdexi&#xE0;ngzh&#x113;ng</pr></trd>,
+    <trd>&#x5012;&#x9709;&#x9B3C; <pr>d&#x1CE;om&#xE9;igu&#x1D0;</pr></trd>,
+    <trd>&#x5E26;&#x6765;&#x574F;&#x8FD0;&#x6C14;&#x7684;&#x4EBA; <pr>d&#xE0;il&#xE1;ihu&#xE0;iy&#xF9;nq&#xEC;der&#xE9;n</pr></trd>,
+    <trd>&#x5E36;&#x4F86;&#x58DE;&#x904B;&#x6C23;&#x7684;&#x4EBA; <pr>d&#xE0;il&#xE1;ihu&#xE0;iy&#xF9;nq&#xEC;der&#xE9;n</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.5 2023/12/01 01:43:13
+Vito Redsky: +trd pl 
+
+versio 1.4 2023/03/24 08:30:55
+Dmitri Gabinski: + trd be
+
+versio 1.2 2020/11/29 14:32:36
+Wolfram Diestel: +ekz, trd de, ref-oj
+-->
+</vortaro>

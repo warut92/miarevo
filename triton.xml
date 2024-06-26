@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: triton.xml,v 1.6 2024/04/08 07:23:59 revo Exp $">
+    <kap>
+      <rad>triton</rad>/o
+    </kap>
+
+<drv mrk="triton.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Intervalo de tri grandaj sekundoj, t.e. troa kvarto:
+      <ekz>
+        akra dissonanta&jcirc;o estas la <tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=260153">Dissona&jcirc;o</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la efiko de strebotonoj bazi&gcirc;as origine en la malstabileco de la
+        <tld/>o konata ekde la mezepoko
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=397464">Strebotono</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Ne konfuzu kun <ref cel="trit.0o">trito</ref>.
+    </rim>
+    <trd lng="de">Tritonus</trd>
+    <trd lng="fr">triton</trd>
+  </snc>
+  <trd lng="be">&c_t;&c_r;&c_y;&c_t;&c_o;&c_n; <klr tip="amb">(&c_m;&c_u;&c_z;&c_y;&c_ch;&c_n;&c_y; &c_ib;&c_n;&c_t;&c_e;&c_r;&c_v;&c_a;&c_l;)</klr></trd>
+  <trd lng="ja">&#x30C8;&#x30EA;&#x30C8;&#x30F3;</trd>
+  <trdgrp lng="pl">
+    <trd>tryt  <klr>(izotop wodoru)</klr></trd>,
+    <trd>tryton</trd>
+  </trdgrp>
+  <trd lng="uk">&c_t;&c_r;&c_i;&c_t;&#x43E;&#x43D;</trd>
+</drv>
+  </art>
+
+<!--
+$Log$
+versio 1.6 2024/04/08 07:23:59
+Dmitri Gabinski: + trd be
+
+versio 1.5 2024/01/25 18:30:23
+Vito Redsky: +trd pl
+
+versio 1.2 2020/05/15 13:11:10
+Damien Brucker: +trd fr
+-->
+</vortaro>

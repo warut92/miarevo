@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: volum.xml,v 1.28 2024/02/20 09:21:06 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>volum</rad>/o
+  <fnt><bib>UV</bib></fnt>
+</kap>
+
+<drv mrk="volum.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="volum.0o.ghen">
+    <dif>
+      Aro da kelkaj manskribitaj a&ubreve; presitaj <ref tip="prt" cel="kajer.0o.de_libro">kajero</ref>j, kune binditaj a&ubreve;
+      bro&scirc;uritaj:
+      <ekz>
+        okdek <tld/>oj el verka&jcirc;oj de scienca akademio
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro XXV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kia &ccirc;ambro, tia biblioteko, kelke da bretoj, ducent <tld/>oj en grizaj, malnovaj
+        binda&jcirc;oj
+        <fnt>
+          <bib>IK</bib>
+          <lok>&Ccirc;aptiro III</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malnovaj gazetoj <klr>[en]</klr> dikaj volumoj en ru&gcirc;aj kaj uzitaj kovriloj
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Feli&ccirc;a homo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld
+      lok="&WCU;/thumb/4/47/Herbier_Picot_de_Lapeyrouse.jpg/407px-Herbier_Picot_de_Lapeyrouse.jpg"
+      prm="CC BY-SA 4.0"
+      ><tld/>o de herbario de Philippe Picot de Lapeyrouse
+        <fnt>
+          <aut>Didier Descouens, propra verko</aut>
+          <lok><url ref="&WCW;/File:Herbier_Picot_de_Lapeyrouse.jpg"
+              >https://commons.wikimedia.org/wiki/File:Herbier_Picot_de_Lapeyrouse.jpg</url></lok>
+        </fnt>
+    </bld>
+    <trd lng="be">&c_t;&c_o;&c_m;</trd>
+  </snc>
+  <snc mrk="volum.0o.seri">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Elemento de <ref tip="super" cel="seri.0o.aroTIP">serio</ref>:
+      <ekz>
+        la muzika&jcirc;isto verkis dudek-kvin dikajn <tld/>ojn pri la artefarita birdo
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>La najtingalo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        alportu al li el la biblioteko la 9-an <tld/>on de la vortaro de <nom>Larousse</nom>
+        (kun la literoj I, J, K)
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_t;&c_o;&c_m;</trd>,
+      <trd>&c_v;&c_y;&c_p;&c_u;&c_s;&c_k;</trd>,
+      <trd>&c_n;&c_u;&c_m;&c_a;&c_r;</trd>
+    </trdgrp>
+    <trd lng="ru">&c_v;&c_y;&c_p;&c_u;&c_s;&c_k;</trd>
+  </snc>
+  <rim>
+    Ne konfuzu kun <ref tip="hom" cel="volume.0o">volumeno</ref>.
+  </rim>
+  <trd lng="ca">volum <klr>(tom)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>d&iacute;l</trd>,
+    <trd>ro&ccaron;n&iacute;k</trd>,
+    <trd>svazek knihy</trd>,
+    <trd>volumen</trd>
+  </trdgrp>
+  <trd lng="de">Band <klr>(Buch)</klr></trd>
+  <trd lng="el">&tau;&omikron_ton;&my;&omikron;&sigma_fina;</trd>
+  <trd lng="en">volume</trd>
+  <trd lng="es">volumen</trd>
+  <trdgrp lng="fr">
+    <trd>volume<klr> (livre)</klr></trd>,
+    <trd>tome</trd>
+  </trdgrp>
+  <trd lng="hu">k&ouml;tet</trd>
+  <trdgrp lng="ja">
+    <trd>&#24059;  <pr>&#12363;&#12435;</pr></trd>,
+    <trd>&#20874;  <pr>&#12373;&#12367;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>volume<klr tip="ind"> (boek)</klr></trd>,
+    <trd>deel<klr tip="ind"> (v.boek)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">volume</trd>
+  <trd lng="ru">&c_t;&c_o;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>diel</trd>,
+    <trd>zv&auml;zok</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_o;&c_m;</trd>,
+    <trd>&c_v;&c_i;&c_p;&c_u;&c_s;&c_k;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="volum.jar0o">
+  <kap>jar<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Tuto de la dum unu jaro aperintaj numeroj de perioda&jcirc;o, kune
+      binditaj:
+      <ekz>
+        la nomon de la perioda&jcirc;o kutime sekvas la numero de la
+        jar-<tld/>o
+        <fnt><bib>Dan&gcirc;Lng</bib>, <lok>Atentigo de la 2a
+        eldono</lok></fnt>;
+      </ekz>
+      <ekz>
+        la revuo maturi&gcirc;is sufi&ccirc;e por transiri, ekde la jar<tld/>o 21, al ses numeroj
+        jare minimume po 32 pa&gcirc;oj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="almana.0o">almana&hcirc;o</ref>,
+      <ref cel="kolekt.jar0o">jarkolekto</ref>,
+      <ref cel="libr.jar0o">jarlibro</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_d;&c_a;&c_v;&c_a;&c_ja;
+    <ind>&c_p;&c_a;&c_d;&c_sh;&c_y;&c_w;&c_k;&c_a;</ind></trd>
+  <trd lng="ca">edici&oacute; anual</trd>
+  <trd lng="cs">ro&ccaron;n&iacute;k <klr>(&ccaron;asopisu| z&aacute;kon&uring;)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Jahrgang</trd>,
+    <trd>Jahresausgabe</trd>
+  </trdgrp>
+  <trd lng="hu">&eacute;vfolyam</trd>
+  <trd lng="nl">jaargang</trd>
+  <trd lng="pt">cole&ccedil;&atilde;o anual <klr tip="amb">(de uma revista
+etc.)</klr></trd>
+  <trd lng="ru">&c_g;&c_o;&c_d;&c_o;&c_v;&c_a;&c_ja; &c_p;&c_o;&c_d;&c_sh;&c_i;&c_v;&c_k;&c_a;</trd>
+  <trd lng="sk">ro&ccaron;n&iacute;k <klr>(&ccaron;asopisu)</klr></trd>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.28 2024/02/20 09:21:06
+Wolfram Diestel: +ekz, bld
+
+versio 1.27 2023/10/21 16:50:36
+revo: transskribo per <pr>
+
+versio 1.24 2021/05/10 19:06:41
+Wolfram Diestel: +ref-oj, missxovita trd, kor. drv@mrk
+
+Revision 1.22  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2015/02/20 16:10:15  revo
+Alain Gerard: +trd (fr)
+
+Revision 1.20  2011/12/04 16:10:11  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.19  2007/11/07 17:30:14  revo
+Tulio Flores: +tr pt
+
+Revision 1.18  2007/01/04 17:30:23  revo
+-->
+</vortaro>

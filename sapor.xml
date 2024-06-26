@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: sapor.xml,v 1.12 2024/04/04 08:28:06 revo Exp $">
+<kap>
+  <rad>sapor</rad>/o
+  <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="sapor.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sapor.0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      &Ccirc;iu el kvin (a&ubreve; ses) &ccirc;efaj manieroj (dol&ccirc;a, sala, acida, amara, umama, disputata: grasa),
+      kiel gusta&jcirc;o povas influi la diverslokajn papilojn de la lango:
+      <ekz>
+        sala a&ubreve; dol&ccirc;a (pinte), acida (flanke), amara
+        (malanta&ubreve;e) <tld/>o.
+      </ekz>
+    </dif>
+    <rim>
+      Ne uzu tiun fiziologian fakvorton anstata&ubreve;
+      flarinkluda <ref cel="gust.0o.eco">gusto</ref> a&ubreve; <ref cel="arom.0o">aromo</ref>:
+      <ekz>
+        Panjo, &ccirc;u &ccirc;i tiu a&jcirc;o ekzistas je
+        <mis>&ccirc;okolada <tld/>o</mis>
+        <fnt>
+          <aut>Nubja Ribeiro Letsen</aut>,
+          <vrk>Cecilia
+            <url
+            ref="http://ceciljakajesperanto.vip-blog.com/vip/article/4743001,CXOKOLADA-SAPORO.html">
+            &Ccirc;okolada saporo</url>
+          </vrk>
+       </fnt>?
+      </ekz>
+      <ekz>
+        karobopulvoro, kiu tre bone anstata&ubreve;as kakaon <klr>[&ccirc;ar]</klr> <mis>ties <tld/>o
+        treege similas al tiu de &ccirc;okolado</mis>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2011/010535.php"
+              >Sanige ... kaj sensukere</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </rim>
+    <trd lng="ca">sabor</trd>
+    <trd lng="fr">saveur</trd>
+    <trd lng="it">sapore<klr> (elemento sensoriale)</klr></trd>
+    <trd lng="nl">smaak</trd>
+    <trd lng="pl">smak</trd>
+    <trd lng="ro">gust</trd>
+  </snc>
+  <trd lng="be">&c_s;&c_m;&c_a;&c_k;</trd>
+  <trdgrp lng="cs">
+    <trd>chu&tcaron;</trd>,
+    <trd>p&rcaron;&iacute;chu&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Geschmacksqualit&auml;t</trd>,
+    <trd><ind>gustatorisch</ind>e Wahrnehmung</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>chu&tcaron;</trd>,
+    <trd>pr&iacute;chu&tcaron;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_p;&c_r;&c_i;&c_s;&c_m;&c_a;&c_k;</trd>
+</drv>
+
+<drv mrk="sapor.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="sapor.0i.gusti">
+      <ref tip="dif" cel="gust.0i.perLango">gusti</ref>
+  </snc>
+  <trd lng="be">&c_m;&c_je;&c_c;&c_mol; <ind>&c_s;&c_m;&c_a;&c_k;</ind></trd>
+  <trdgrp lng="ca">
+      <trd>saber</trd>,
+      <trd>fer gust a</trd>
+    </trdgrp>
+  <trdgrp lng="cs">
+    <trd>chutnat</trd>,
+    <trd>m&iacute;t chu&tcaron;</trd>
+  </trdgrp>
+  <trd lng="fr">savourer</trd>
+  <trd lng="it">degustare</trd>
+  <trd lng="nl">smaken naar</trd>
+  <trd lng="pl">smakowa&cacute;</trd>
+  <trd lng="ro">pl&abreve;cea</trd>
+  <trdgrp lng="sk">
+    <trd>chutna&tcaron;</trd>,
+    <trd>ma&tcaron; chu&tcaron;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log$
+versio 1.12 2024/04/04 08:28:06
+Dmitri Gabinski: + trd be
+
+versio 1.11 2024/03/04 07:15:19
+Wolfram Diestel: aktualigo, +mis-ekz, rim, trd de
+
+versio 1.10 2022/08/24 22:32:26
+Vito Redsky:  +trd pl  + kor trd ro
+
+Revision 1.7  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2015/01/10 11:10:18  revo
+Damien Brucker: +trd fr
+
+Revision 1.5  2013/09/29 20:10:12  revo
+Vito Redsky: +trd ro
+
+Revision 1.4  2012/07/23 14:10:31  revo
+Marc Rausell: + trd ca
+
+Revision 1.3  2009/09/29 16:30:40  revo
+-->
+</vortaro>

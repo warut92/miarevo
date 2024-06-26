@@ -1,0 +1,630 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ricev.xml,v 1.119 2024/04/14 05:46:54 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>ricev</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="ricev.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="ricev.0i.ajxon">
+    <dif>
+      Vole a&ubreve; nevole fari&gcirc;i posedanto, profitanto,
+      spertanto, &gcirc;uanto a&ubreve; suferanto de io:
+      <ekz>
+        <tld/>i donacon, leteron, profiton, rabaton, saluton,
+        la&ubreve;don,
+        bonan akcepton, sian &gcirc;ustan lokon;
+      </ekz>
+      <ekz>
+        ci <tld/>os (kiel edzinon) nian filinon
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Fluganta kofro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i sciigon, komision, ordonon, helpon;
+      </ekz>
+      <ekz>
+        <tld/>i fortan impreson, la influon de iu;
+      </ekz>
+      <ekz>
+        <tld/>i fortan premon;
+      </ekz>
+      <ekz>
+        <tld/>i viziton, vizitanton;
+      </ekz>
+      <ekz>
+        <tld/>i baton, punon, suferojn, atakon de frenezo;
+      </ekz>
+      <ekz>
+        el &ccirc;iu milo da semoj, kiujn ni <klr>[&#x2026;]</klr> pacience &jcirc;etadis en la teron,
+        apena&ubreve; unu <tld/>is radikojn
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krakow en la 11a de a&ubreve;gusto 1912</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>os
+        <klr>(estos punita. <ref tip="sin" cel="pag.0i">pagi</ref>)</klr>
+        vulpo por sia kulpo
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>is <klr>(estis punita)</klr> bandito la&ubreve;
+        sia merito
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akir.0i">akiri</ref>,
+      <ref cel="ating.0i">atingi</ref>,
+      <ref cel="hav.ek0i">ekhavi</ref>,
+      <ref cel="gajn.0i">gajni</ref>,
+      <ref cel="kolekt.0i">kolekti</ref>,
+      <ref cel="rikolt.0i">rikolti</ref>
+    </refgrp>
+    <trdgrp lng="fr">
+      <trd>recevoir</trd>,
+      <trd>accueillir</trd>,
+      <trd>obtenir</trd>
+      <trd>accepter</trd>,
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>kap</trd>,
+      <trd>fogad</trd>
+    </trdgrp>
+    <trdgrp lng="id">
+      <trd>men<ind>dapat</ind></trd>,
+      <trd>memper<ind>oleh</ind></trd>,
+      <trd><baz>terima</baz>menerima</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>bekommen</trd>,
+      <trd>erhalten</trd>,
+      <trd>kriegen</trd>
+    </trdgrp>
+    <trd lng="nl">ontvangen</trd>
+  </snc>
+  <snc mrk="ricev.0i.econ">
+    <dif>
+      Fari&gcirc;i havanta ian abstraktan econ:
+      <ekz>
+        la argilo <tld/>is formon de telero;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> denove <tld/>is la konscion
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        liaj pensoj <tld/>is alian direkton;
+      </ekz>
+      <ekz>
+        liaj ludoj nun <tld/>is tute alian karakteron
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la arbaro <tld/>is la plej belajn kolorojn
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Sambuka virineto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tiam]</klr> nia ideo <tld/>is sian unuan disvolvi&gcirc;on
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto
+          1908</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la propagando <tld/>is de la kongreso fortan
+        anta&ubreve;enpu&scirc;on;
+      </ekz>
+      <ekz>
+        <klr>[tio estas]</klr> grandega faciligo, kiun la lingvo <tld/>as de tia
+        gramatiko
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pro tio nia progresado <tld/>is grandan prokraston;
+      </ekz>
+      <ekz>
+        ni balda&ubreve; <tld/>os &scirc;an&gcirc;on de la vetero.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akcept.0i">akcepti</ref>,
+      <ref cel="akir.0i">akiri</ref>,
+      <ref cel="okup.0i">okupi</ref>,
+      <ref cel="pren.0i">preni</ref>
+    </refgrp>
+    <trd lng="fr">prendre<klr> (passivement, une
+    propri&eacute;t&eacute;)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>&ouml;lt</trd>,
+      <trd>nyer</trd>,
+      <trd>kap</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>bekommen</trd>,
+      <trd>annehmen</trd>
+    </trdgrp>
+    <trd lng="nl">krijgen</trd>
+  </snc>
+  <snc mrk="ricev.0i.TEL">
+    <uzo tip="fak">RAD</uzo><uzo tip="fak">TEL</uzo>
+    <dif>
+      Detekti elsenditan signalon kaj retransformi &gcirc;in al la enhavata informo
+      (mesa&gcirc;o, sono, televidprogramo ktp):
+      <ekz>
+        mi uzas la duan reflektilon por kapti elsendojn sur la satelitoj <nom>Astra 2</nom> kaj
+        <nom>Eurobird</nom>, &ccirc;ar tie senpage <tld/>eblas <nom>BBC</nom>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jean Pierre Vanden Daele</aut>
+          <vrk><url ref="&Monato;/2010/009970.php">Ricevi persatelite</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ciferecaj elsendoj kostas malpli por la elsendantoj, sed iom pli por la
+        <tld/>antoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jean Pierre Vanden Daele</aut>
+          <vrk><url ref="&Monato;/2010/009970.php">Ricevi persatelite</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la komenco de <tld/>ado kaj elsendado de telegrafaj mesa&gcirc;oj estas ligita al la
+        nomoj de la italo <nom>Guglielmo Marconi</nom> kaj de la ruso <nom>Aleksander Popov</nom>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2014/011269.php">Pioniro de sendrata te&hcirc;nologio</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la apuda tabelo vi trovos &ccirc;iujn senpage <tld/>eblajn programojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jean Pierre Vanden Daele</aut>
+          <vrk><url ref="&Monato;/2010/009970.php">Ricevi persatelite</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="send.0i.FIG">sendi<sncref/></ref>
+    <trd lng="de">empfangen<klr> [Signal, Sendung]</klr></trd>
+  </snc>
+  <trd lng="af">ontvang</trd>
+  <trd lng="am">&#x1270;&#x1240;&#x1260;&#x120D;</trd>
+  <trd lng="ar">&a_t;&a_l;&a_q;&a_y;</trd>
+  <trd lng="az">almaq</trd>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_p;&c_o;&c_l;&c_u;&c_ch;&c_a;&c_v;&c_a;&c_m;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_u;&c_ch;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x9AA;&#x9BE;&#x9AC;&#x9C7;&#x9A8;</trd>
+  <trd lng="bo">&t_ba;&t_lata;&t_nga;&t_tsheg;</trd>
+  <trd lng="bs">primaju</trd>
+  <trd lng="co">ric&igrave;viri</trd>
+  <trdgrp lng="cs">
+    <trd>dostat</trd>,
+    <trd>nab&yacute;t</trd>,
+    <trd>obdr&zcaron;et</trd>,
+    <trd>p&rcaron;ijmout</trd>,
+    <trd>z&iacute;skat</trd>
+  </trdgrp>
+  <trd lng="cy">derbyn</trd>
+  <trd lng="da">modtage</trd>
+  <trd lng="en">receive</trd>
+  <trd lng="es">recibir</trd>
+  <trd lng="et">saada</trd>
+  <trd lng="eu">jasotzeko</trd>
+  <trd lng="fy">&ucirc;ntfange</trd>
+  <trd lng="ga">fh&aacute;il</trd>
+  <trd lng="gd">a &#x2018;faighinn</trd>
+  <trd lng="gl">recibir</trd>
+  <trd lng="gu">&#xAAA;&#xACD;&#xAB0;&#xABE;&#xAAA;&#xACD;&#xAA4;</trd>
+  <trd lng="ha">sama</trd>
+  <trd lng="hi">&#x92A;&#x94D;&#x930;&#x93E;&#x92A;&#x94D;&#x924; &#x915;&#x930;&#x928;&#x93E;</trd>
+  <trd lng="hmn">tau txais</trd>
+  <trd lng="hr">dobiti</trd>
+  <trd lng="ht">resevwa</trd>
+  <trd lng="hy">&#x57D;&#x57F;&#x561;&#x576;&#x561;&#x56C;</trd>
+  <trdgrp lng="id">
+    <trd>[<ind>terima</ind>] menerima</trd>,
+    <trd>men<ind>dapat</ind></trd>
+  </trdgrp>
+  <trd lng="ig">enweta</trd>
+  <trd lng="is">f&aacute;</trd>
+  <trd lng="ja">&#x53D7;&#x3051;&#x53D6;&#x308B; <pr>&#x3046;&#x3051;&#x3068;&#x308B;</pr></trd>
+  <trd lng="jv">nampa</trd>
+  <trd lng="ka">&#x10DB;&#x10D8;&#x10D8;&#x10E6;&#x10D4;&#x10D7;</trd>
+  <trd lng="kk">&c_a;&c_l;&c_u;</trd>
+  <trd lng="km">&#x1791;&#x1791;&#x17BD;&#x179B;&#x1794;&#x17B6;&#x1793;</trd>
+  <trd lng="kn">&#xCB8;&#xCCD;&#xCB5;&#xCC0;&#xC95;&#xCB0;&#xCBF;&#xCB8;&#xCB2;&#xCC1;</trd>
+  <trd lng="ko">&#xC218;&#xC2E0;</trd>
+  <trd lng="ku">wergirtin</trd>
+  <trd lng="ky">&c_k;&c_a;&c_b;&c_y;&c_l; &c_a;&c_l;&c_u;&c_u;</trd>
+  <trd lng="lat">accipiet</trd>
+  <trd lng="lo">&#xEC4;&#xE94;&#xEC9;&#xEAE;&#xEB1;&#xE9A;</trd>
+  <trd lng="lt">gauti</trd>
+  <trd lng="lv">sa&#x146;em</trd>
+  <trd lng="mg">mandray</trd>
+  <trd lng="mi">ia farii i</trd>
+  <trd lng="mk">&c_d;&c_o;&c_b;&c_i;&#x458;&c_a;&c_t;</trd>
+  <trd lng="ml">&#xD32;&#xD2D;&#xD3F;&#xD15;&#xD4D;&#xD15;&#xD41;&#xD02;</trd>
+  <trd lng="mn">&c_h;&#x4AF;&c_l;&c_e;&c_e;&c_n; &c_a;&c_v;&c_a;&c_h;</trd>
+  <trd lng="mr">&#x92A;&#x94D;&#x930;&#x93E;&#x92A;&#x94D;&#x924;</trd>
+  <trd lng="ms">menerima</trd>
+  <trd lng="mt">jir&#x10B;ievu</trd>
+  <trd lng="my">&#x1001;&#x1036;&#x101A;&#x1030;</trd>
+  <trd lng="ne">&#x92A;&#x94D;&#x930;&#x93E;&#x92A;&#x94D;&#x924;</trd>
+  <trd lng="ny">alandire</trd>
+  <trd lng="pa">&#xA2A;&#xA4D;&#xA30;&#xA3E;&#xA2A;&#xA24;</trd>
+  <trdgrp lng="pl">
+    <trd>otrzymywa&cacute;</trd>,
+    <trd>odbiera&cacute;</trd>,
+    <trd>dosta&cacute;</trd>
+  </trdgrp>
+  <trd lng="ps">&a_t;&a_r; &a_l;&a_A;&a_s;&a_h;</trd>
+  <trd lng="pt">receber</trd>
+  <trdgrp lng="ro">
+    <trd>primi</trd>,
+    <trd>captura</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_l;&c_u;&c_ch;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_u;&c_ch;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="rw">yakira</trd>
+  <trd lng="sd">&a_m;&a_l;&a_y;</trd>
+  <trd lng="si">&#xDC4;&#xDD2;&#xDB8;&#xDD2;</trd>
+  <trdgrp lng="sk">
+    <trd>dosta&tcaron;</trd>,
+    <trd>nadobudn&uacute;&tcaron;</trd>,
+    <trd>obdr&zcaron;a&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sl">prejemanje</trd>
+  <trd lng="sm">maua</trd>
+  <trd lng="sn">kugamuchira</trd>
+  <trd lng="so">heli</trd>
+  <trd lng="sq">marr&euml;</trd>
+  <trd lng="st">fumana</trd>
+  <trd lng="su">narima</trd>
+  <trd lng="sw">kupokea</trd>
+  <trd lng="ta">&#xBAA;&#xBC6;&#xBB1;</trd>
+  <trd lng="te">&#xC05;&#xC02;&#xC26;&#xC41;&#xC15;&#xC41;&#xC02;&#xC1F;&#xC3E;&#xC30;&#xC41;</trd>
+  <trd lng="tg">&c_g;&c_i;&c_r;&c_i;&c_f;&c_t;&c_a;&c_n;</trd>
+  <trdgrp lng="th">
+    <trd>&#xE44;&#xE14;&#xE49;&#xE23;&#xE31;&#xE1A;</trd>,
+    <trd>&#xE23;&#xE31;&#xE1A;</trd>
+  </trdgrp>
+  <trd lng="tl">tumanggap</trd>
+  <trd lng="tok">kama <ind>jo</ind></trd>
+  <trd lng="tt">&c_a;&c_l;&c_u;</trd>
+  <trd lng="uk">&c_o;&c_t;&c_r;&c_i;&c_m;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_H;&a_A;&a_S;&a_l;</trd>
+  <trd lng="uz">qabul</trd>
+  <trd lng="vi">nh&#x1EAD;n</trd>
+  <trd lng="vo">get&ouml;n</trd>
+  <trd lng="xh">kufumana</trd>
+  <trd lng="yi">&bet;&alef;&#x5B7;&qof;&vav;&mem;&ayin;&fnun;</trd>
+  <trd lng="yo">gba</trd>
+  <trdgrp lng="zh">
+    <trd>&#x81BA; <pr>y&#x12B;ng</pr></trd>,
+    <trd>&#x53D7;&#x53D6; <pr>sh&#xF2;uq&#x1D4;</pr></trd>,
+    <trd>&#x6271; <pr>x&#x12B;</pr></trd>,
+    <trd>&#x6536;&#x4E0B; <pr>sh&#x14D;uxi&#xE0;</pr></trd>,
+    <trd>&#x6536;&#x5230; <pr>sh&#x14D;ud&#xE0;o</pr></trd>,
+    <trd>&#x6536;&#x53D6; <pr>sh&#x14D;uq&#x1D4;</pr></trd>,
+    <trd>&#x6536;&#x53D7; <pr>sh&#x14D;ush&#xF2;u</pr></trd>,
+    <trd>&#x9818;&#x5230; <pr>l&#x1D0;ngd&#xE0;o</pr></trd>,
+    <trd>&#x9886;&#x5230; <pr>l&#x1D0;ngd&#xE0;o</pr></trd>,
+    <trd>&#x9818;&#x53D7; <pr>l&#x1D0;ngsh&#xF2;u</pr></trd>,
+    <trd>&#x9886;&#x53D7; <pr>l&#x1D0;ngsh&#xF2;u</pr></trd>,
+    <trd>&#x9818;&#x6536; <pr>l&#x1D0;ngsh&#x14D;u</pr></trd>,
+    <trd>&#x9886;&#x6536; <pr>l&#x1D0;ngsh&#x14D;u</pr></trd>
+  </trdgrp>
+  <trd lng="zu">thola</trd>
+</drv>
+
+<drv mrk="ricev.0onto">
+  <kap>
+    <tld/>onto,
+    <var><kap><tld/>anto</kap></var>,
+    <var><kap><tld/>into</kap></var>
+  </kap>
+  <snc>
+    <dif>
+      Kiu ion <tld/>u, <tld/>as, <tld/>is:
+      <ekz>
+        <tld/>into de granda akiro
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 119:162</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>anto de dekona&jcirc;oj
+        <fnt>
+          <bib>NT</bib>
+          <lok>Hebreoj 7:9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la adreso de la <tld/>onto estis skribita sur la letero mem
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Tria Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas nur necese, ke la skribanto kaj la <tld/>anto havu sub la mano francan
+        vortaron
+        <fnt>
+          <bib>DL</bib>
+          <lok>Dua Libro de l' Lingvo Internacia</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_t;&c_r;&c_y;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_r;&c_e;&c_c;&c_y;&c_p;&c_ib;&c_je;&c_n;&c_t;</trd>
+  </trdgrp>
+  <trd lng="de">Empf&auml;nger</trd>
+  <trd lng="id"><baz>terima</baz>penerima</trd>
+  <trdgrp lng="ja">
+    <trd>&#x53D7;&#x53D6;&#x4EBA;  <pr>&#x3046;&#x3051;&#x3068;&#x308A;&#x306B;&#x3093;</pr></trd>,
+    <trd>&#x53D7;&#x9818;&#x8005;  <pr>&#x3058;&#x3085;&#x308A;&#x3087;&#x3046;&#x3057;&#x3083;</pr></trd>,
+    <trd>&#x53D7;&#x4FE1;&#x8005;  <pr>&#x3058;&#x3085;&#x3057;&#x3093;&#x3057;&#x3083;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#x9996;&#x4FE1;&#x4EFB; <pr>sh&#x1D2;ux&#xEC;nr&#xE8;n</pr></trd>,
+    <trd>&#x6536;&#x4EF6;&#x8005; <pr>sh&#x14D;uji&#xE0;nzh&#x11B;</pr></trd>,
+    <trd>&#x63A5;&#x6536;&#x4EBA; <pr>ji&#x113;sh&#x14D;ur&#xE9;n</pr></trd>,
+    <trd>&#x63A5;&#x6536;&#x5355;&#x4F4D; <pr>ji&#x113;sh&#x14D;ud&#x101;nw&#xE8;i</pr></trd>,
+    <trd>&#x63A5;&#x6536;&#x55AE;&#x4F4D; <pr>ji&#x113;sh&#x14D;ud&#x101;nw&#xE8;i</pr></trd>,
+    <trd>&#x6536;&#x8CA8;&#x4EBA; <pr>sh&#x14D;uhu&#xF2;r&#xE9;n</pr></trd>,
+    <trd>&#x6536;&#x8D27;&#x4EBA; <pr>sh&#x14D;uhu&#xF2;r&#xE9;n</pr></trd>,
+    <trd>&#x6536;&#x4EF6;&#x4EBA; <pr>sh&#x14D;uji&#xE0;nr&#xE9;n</pr></trd>,
+    <trd>&#x53D7;&#x4E8B; <pr>sh&#xF2;ush&#xEC;</pr></trd>,
+    <trd>&#x63A5;&#x53D7;&#x8005; <pr>ji&#x113;sh&#xF2;uzh&#x11B;</pr></trd>,
+    <trd>&#x6536;&#x4FE1;&#x4EBA; <pr>sh&#x14D;ux&#xEC;nr&#xE9;n</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ricev.0igxi">
+  <kap>
+    <tld/>i&gcirc;i
+  </kap>
+  <snc>
+    <dif>
+      Transiri en posedon de iu:
+      <ekz>
+        pri tio <tld/>i&gcirc;is pluraj konfirmaj atestoj
+        <fnt>
+          <bib>CKv</bib>
+          <lok>13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nenio valora <tld/>i&gcirc;as senkoste
+        <fnt>
+          <bib>BonaLingvo</bib>
+          <lok>4. Emo Difini, Emo Elvoki</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la priparolata verso, plej agrabla poezia efiko <tld/>i&gcirc;as pro la neordinara
+        <klr>[&#x2026;]</klr> vortordo
+        <fnt>
+          <bib>BonaLingvo</bib>
+          <lok>7. Bona Lingvo Literatura</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="rezult.0i">rezulti</ref>,
+      <ref cel="ven.0i">veni</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_m;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="de">eingehen <klr>(Ware, Information)</klr></trd>
+  <trd lng="zh">&#x4FE1;&#x4EF6;&#x6536;&#x5230; <pr>x&#xEC;nji&#xE0;nsh&#x14D;ud&#xE0;o</pr></trd>
+</drv>
+
+<drv mrk="ricev.re0i">
+  <kap>
+    re<tld/>i
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="R"/>i ion, kion anta&ubreve;e oni donis a&ubreve; perdis:
+      <ekz>
+        certe li ne re<tld/>os la monon
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Sia propra mastro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi re<tld/>is mian ekvilibron
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Oka &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la konsciencon &scirc;i re<tld/>is ankora&ubreve; en la sama nokto
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LXVII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi redonas ka&scirc;e la a&ccirc;eta&jcirc;on kaj re<tld/>as la monon
+        <fnt>
+          <bib>KrM</bib>
+          <lok>18. Gaja Duopo.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per vi mi re<tld/>us &ccirc;iun esperon
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>Fantomurbo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        virinoj re<tld/>is siajn mortintojn per revivigo
+        <fnt>
+          <bib>NT</bib>
+          <lok>Hebreoj 11:35</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol; &c_n;&c_a;&c_z;&c_a;&c_d;</trd>
+  <trd lng="de">zur&uuml;ckbekommen</trd>
+  <trd lng="en">get back</trd>
+  <trdgrp lng="id">
+      <trd>men<ind>dapat</ind> kembali</trd>,
+      <trd>memper<ind>oleh</ind> kembali</trd>,
+      <trd><baz>terima</baz>menerima kembali</trd>
+    </trdgrp>
+  <trd lng="ja">&#x518D;&#x3073;&#x53D7;&#x53D6;&#x308B;  <pr>&#x3075;&#x305F;&#x305F;&#x3073;&#x3046;&#x3051;&#x3068;&#x308B;</pr></trd>
+  <trdgrp lng="zh">
+    <trd>&#x53D6;&#x56DE; <pr>q&#x1D4;hu&#xED;</pr></trd>,
+    <trd>&#x6536;&#x56DE; <pr>sh&#x14D;uhu&#xED;</pr></trd>,
+    <trd>&#x627E;&#x56DE; <pr>zh&#x1CE;ohu&#xED;</pr></trd>,
+    <trd>&#x8FFD;&#x56DE; <pr>zhu&#x12B;hu&#xED;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ricev.radi0ilo">
+  <kap>radi<tld/>ilo, <var><kap>radio<tld/>ilo</kap></var></kap>
+  <snc mrk="ricev.radi0ilo.RAD">
+    <uzo tip="fak">RAD</uzo>
+    <dif>
+      Rimedo, aparato por <tld/>o kaj a&ubreve;skulto de radielsendoj:
+      <ekz>
+        la plej proksima koncerto, kiun eblos a&ubreve;skulti en la 2-a
+        programo de Pola Radio per tradicia radio<tld/>ilo
+        <klr>[&#x2026;]</klr>, estas titolita <ctl>Muziko de la germana
+        baroko</ctl>
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://www2.polskieradio.pl/zagranica/il/news/print.aspx?id=125861">
+          Karesma muziko</url></vrk>,
+          <lok>Pola Radio, 2010-02-17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_d;&c_y;&c_jo; <klr tip="amb">(&c_a;&c_p;&c_a;&c_r;&c_a;&c_t;)</klr></trd>,
+    <trd>&c_r;&c_a;&c_d;&c_y;&c_jo;&c_p;&c_r;&c_y;&c_jo;&c_m;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>radio<klr> (poste radio)</klr></trd>,
+    <trd>r&eacute;cepteur radio</trd>
+  </trdgrp>
+  <trd lng="id"><baz>terima</baz>penerima radio</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30E9;&#x30B8;&#x30AA;&#x53D7;&#x4FE1;&#x6A5F; 
+    <pr>&#x3089;&#x3058;&#x304A;&#x3058;&#x3085;&#x3057;&#x3093;&#x304D;</pr></trd>,
+    <trd>&#x7121;&#x7DDA;&#x53D7;&#x4FE1;&#x6A5F;  <pr>&#x3080;&#x305B;&#x3093;&#x3058;&#x3085;&#x3057;&#x3093;&#x304D;</pr></trd>
+  </trdgrp>
+  <trd lng="pl">radioodbiornik</trd>
+  <trd lng="ro">radioreceptor</trd>
+  <trdgrp lng="zh">
+    <trd>&#x63A5;&#x6536;&#x673A; <pr>ji&#x113;sh&#x14D;uj&#x12B;</pr></trd>,
+    <trd>&#x63A5;&#x6536;&#x6A5F; <pr>ji&#x113;sh&#x14D;uj&#x12B;</pr></trd>,
+    <trd>&#x6536;&#x97F3;&#x673A; <pr>sh&#x14D;uy&#x12B;nj&#x12B;</pr></trd>,
+    <trd>&#x6536;&#x97F3;&#x6A5F; <pr>sh&#x14D;uy&#x12B;nj&#x12B;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ricev.satelit0ilo">
+  <kap>
+    satelit<tld/>ilo
+  </kap>
+  <snc>
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      Rimedo por ricevi signalojn (televidan, interretan) de <tld/>o:
+      <ekz>
+        la pelvo konekti&gcirc;u al la satelit<tld/>ilo kaj la <tld/>ilo al la hejma televidilo
+        <fnt>
+          <aut>PEJNO Simono</aut>
+          <vrk><url ref="&Monato;/1995/004358.html">Poloj per pelvo</url></vrk>
+          <bib>Monato</bib>
+          <lok>1995/04, p. 17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_a;&c_d;&c_a;&c_r;&c_o;&c_zh;&c_n;&c_ib;&c_k;&c_a;&c_v;&c_y; <ind>&c_p;&c_r;&c_y;&c_jo;&c_m;&c_n;&c_ib;&c_k;</ind></trd>
+  <trd lng="de">Satellitenempf&auml;nger</trd>
+  <trd lng="en">satellite receiver</trd>
+  <trd lng="id"><baz>terima</baz>penerima satelit</trd>
+  <trd lng="nl">satellietontvanger</trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.118 2023/12/12 20:10:27
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.117 2023/10/21 05:38:06
+revo: transskribo per <pr>
+
+versio 1.116 2023/09/27 08:29:31
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.114 2023/08/29 16:34:18
+Wolfram Diestel: ja: prononco
+
+versio 1.113 2023/07/11 06:35:16
+Dmitri Gabinski: + trd be
+
+versio 1.112 2023/04/11 18:56:01
+aktualigo Monato-URL
+
+versio 1.111 2023/04/11 12:45:32
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.110 2023/03/09 21:28:34
+-->
+</vortaro>

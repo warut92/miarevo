@@ -1,0 +1,1598 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: las.xml,v 1.122 2024/04/13 10:20:32 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>las</rad>/i <fnt><bib>UV</bib></fnt>
+</kap>
+<drv mrk="las.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="las.0i.apartigxi">
+    <dif>
+      Libervole aparti&gcirc;i de io a&ubreve; iu.
+    </dif>
+    <subsnc mrk="las.0i.restigi">
+      <dif>
+        Ne preni kun si; <ref tip="sin" cel="rest.0igi">restigi</ref>
+        sur iu loko a&ubreve; en iu stato:
+        <ekz>
+          ili foriris de li, <tld/>inte lin en grava malsano
+          <fnt>
+            <bib>MT</bib>
+            <lok>II. Kroniko 24:25</lok>
+          </fnt>;
+        </ekz><ekz>
+          struto levi&gcirc;as <klr>[kaj]</klr> <tld/>as sur la tero siajn ovojn
+          <fnt>
+            <bib>MT</bib>
+            <lok>Ijob 39:14</lok>
+          </fnt>;
+        </ekz><ekz>
+          ili <tld/>is la vivon al la <klr>[&#8230;]</klr> infanoj
+          <fnt>
+            <bib>MT</bib>
+            <lok>Eliro 1:17</lok>
+          </fnt>;
+        </ekz><ekz>
+          sub kies zorgado vi <tld/>is tiun malgrandan &scirc;afaron en la dezerto
+          <fnt>
+            <bib>MT</bib>
+            <lok>I. Samuel 17:28</lok>
+          </fnt>?
+        </ekz><ekz>
+          se viro havas cent &scirc;afojn, kaj unu el ili erarvagis, &ccirc;u li ne <tld/>as la na&ubreve;dek
+          na&ubreve;, kaj <klr>[&#8230;]</klr> ser&ccirc;as tiun, kiu erarvagis
+          <fnt>
+            <bib>NT</bib>
+            <lok>Mateo 18:12</lok>
+          </fnt>?
+        </ekz><ekz>
+          la birdoj <tld/>as iafoje ion sur mia &ccirc;apelo
+          <fnt>
+            <bib>ElektFab</bib>
+            <lok>Fingreto</lok>
+          </fnt>;
+        </ekz><ekz>
+          <uzo tip="stl">FIG</uzo>
+          la opero iris tre bone, nur la &hcirc;oroj <tld/>is ion por deziri
+          <klr>(ne sonis tute bone)</klr>
+          <fnt><bib>FK</bib></fnt>;
+        </ekz><ekz>
+          ni <tld/>u &gcirc;in flanke kaj komencu...
+          <fnt><bib>Hamlet</bib></fnt>;
+        </ekz><ekz>
+          <tld/>u nin solajn por momento
+          <fnt><bib>Hamlet</bib></fnt>;
+        </ekz><ekz>
+          la tie kreskantaj beroj <tld/>as post si en la mano <klr>[&#8230;]</klr> neforigeblan
+          makulon
+          <fnt><bib>BdV</bib></fnt>;
+        </ekz><ekz>
+          tiu &ccirc;i frazo sonas tiel bele kaj sa&gcirc;e, ke por la grandega plimulto da homoj &gcirc;i
+          jam <tld/>as nenian dubon
+          <fnt><bib>EE</bib></fnt>;
+        </ekz><ekz>
+          la servantino, elirante, <tld/>is la pordon ne fermita
+          <fnt><bib>FK</bib></fnt>;
+        </ekz><ekz>
+          se kalumnio e&ccirc; pasas, &gcirc;i &ccirc;iam ion <tld/>as
+          <fnt><bib>PrV</bib></fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="sin">
+        <ref cel="las.post0i">postlasi</ref>
+      </refgrp>
+      <trd lng="be">&c_p;&c_a;&c_k;&c_ib;&c_d;&c_a;&c_c;&c_mol;</trd>
+      <trdgrp lng="de">
+        <trd>hinterlassen</trd>,
+        <trd>zur&uuml;cklassen</trd>,
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>hagy</trd>,
+        <trd>otthagy</trd>
+      </trdgrp>
+      <trd lng="ru">&c_o;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>
+    </subsnc>
+    <subsnc mrk="las.0i.ne_plu_teni">
+      <dif>
+        Ne plu <ref tip="ant" cel="ten.0i">teni</ref>,
+        ne plu <ref tip="ant" cel="konser.0i.pluhavi">konservi</ref>,
+        foriri de...:
+        <ekz>
+          Aleksandro <tld/>is sian paroladon pri batalo kaj petis de ili panon
+          <fnt><bib>FK</bib></fnt>;
+        </ekz><ekz>
+          kun neniu alia li volis danci, li ne <tld/>is &scirc;ian manon
+          <fnt>
+            <bib>ElektFab</bib>
+            <lok>Cindrulino</lok>
+          </fnt>;
+        </ekz><ekz>
+          &scirc;i <tld/>is la gardistodomon, kiun &scirc;i lo&gcirc;is, kaj loki&gcirc;is en kastelon
+          <fnt><bib>KPr</bib></fnt>;
+        </ekz><ekz>
+          &ccirc;u preni, &ccirc;u <tld/>i: elektu
+          <fnt><bib>KPr</bib></fnt>;
+        </ekz><ekz>
+          la dekunua matene <klr>[&#8230;]</klr> Herbeno <tld/>is sian oficejon
+          <fnt>
+          </fnt>;
+        </ekz><ekz>
+          <tld/>u por momento flanke vian nobelecon
+          <fnt><bib>GDn</bib></fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="sin">
+        <ref cel="ced.0i.fordoni">cedi<sncref/></ref>,
+        <ref cel="las.for0i">forlasi</ref>,
+        <ref cel="rezign.0i">rezigni</ref>
+      </refgrp>
+      <trdgrp lng="be">
+        <trd>&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>,
+        <trd>&c_a;&c_d;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>,
+        <trd>&c_p;&c_a;&c_k;&c_ib;&c_d;&c_a;&c_c;&c_mol;</trd>
+      </trdgrp>
+      <trdgrp lng="de">
+        <trd>ablassen</trd>,
+        <trd>fallenlassen</trd>,
+        <trd>loslassen</trd>,
+        <trd>verlassen</trd>,
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>elenged</trd>,
+        <trd>elhagy</trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
+        <trd>&c_o;&c_t;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
+        <trd>&c_o;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="las.0i.transdoni">
+      <dif>
+        <ref tip="super" cel="don.trans0i">Transdoni</ref> je ies dispono,
+        <ref tip="sin" cel="hered.0igi">heredigi</ref>, <ref cel="asign.0i.destini">asigni</ref>:
+        <ekz>
+          li <tld/>is &ccirc;ion, kion li havis, en la manoj de <nom>Jozef</nom>
+          <fnt>
+            <bib>MT</bib>
+            <lok>Genezo 39:6</lok>
+          </fnt>;
+        </ekz><ekz>
+          ekkonu la re&gcirc;an favoron: mi <tld/>as al vi la domon kaj korton
+          <fnt>
+            <bib>ElektFab</bib>
+            <lok>Du fratoj</lok>
+          </fnt>;
+        </ekz><ekz>
+          la edzino <klr>[&#8230;]</klr> <tld/>as al li malgrandan filon
+          <fnt><bib>FK</bib></fnt>;
+        </ekz><ekz>
+          li <tld/>as al vi neniajn ordonojn por la estonteco, por ke vi povu administri
+          <klr>[&#8230;]</klr>, kiel vi mem volos
+          <fnt>
+            <bib>Far2</bib>
+            <lok>&Ccirc;apitro XIV</lok>
+          </fnt>;
+        </ekz><ekz>
+          Kristoforo Kolumbo en siaj memora&jcirc;oj <tld/>is detalan sciigon, en kia maniero la
+          homoj konati&gcirc;is kun tiu &ccirc;i kreska&jcirc;o
+          <fnt><bib>FK</bib></fnt>;
+        </ekz><ekz>
+          al la firmo <nom>Hachette</nom> mi <tld/>is personan privilegion pri miaj verkoj
+          <fnt>
+            <vrk><url ref="&Tekstaro;?nomo=paroladoj-de-zamenhof">Parolado en la Unua
+            &Gcirc;enerala Kunveno, 7. A&ubreve;gusto 1905</url></vrk>
+          </fnt>;
+        </ekz><ekz>
+          al &scirc;i oni <tld/>is nek tempon, nek liberecon
+          <fnt>
+            <bib>Far1</bib>
+            <lok>&Ccirc;apitro XV</lok>
+          </fnt>;
+        </ekz><ekz>
+          &ccirc;u li diris sian nomon? &ndash; ne, sinjoro: sed li <tld/>is sian vizitkarton
+          <fnt><bib>ChL</bib></fnt>.
+        </ekz>
+      </dif>
+      <ref tip="sin" cel="las.trans0i">trans<tld/>i</ref>
+      <trd lng="be">&c_p;&c_a;&c_k;&c_ib;&c_d;&c_a;&c_c;&c_mol;</trd>
+      <trdgrp lng="de">
+        <trd>nachlassen</trd>,
+        <trd>hinterlassen</trd>,
+        <trd>&uuml;berlassen</trd>,
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>r&aacute;hagy</trd>,
+        <trd>&aacute;tenged</trd>
+      </trdgrp>
+      <trd lng="ru">&c_o;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>
+    </subsnc>
+  </snc>
+
+  <snc mrk="las.0i.ne_malhelpi">
+    <dif>
+      Ne <ref tip="ant" cel="help.mal0i">malhelpi</ref> ion a&ubreve; iun.
+    </dif>
+    <subsnc mrk="las.0i.ne_gxeni">
+      <dif>
+        Ne malhelpi ies agadon, ne &gcirc;eni iun:
+        <ekz>
+          volu <tld/>i min trinki iom da akvo el via kru&ccirc;o
+          <fnt>
+            <bib>MT</bib>
+            <lok>Genezo 24:17</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          pacon mi <tld/>as al vi
+          <fnt>
+            <bib>NT</bib>
+            <lok>Johano 14:27</lok>
+          </fnt>;
+        </ekz><ekz>
+          trosateco ne <tld/>as la ri&ccirc;ulon dormi
+          <fnt>
+            <bib>MT</bib>
+            <lok>Predikanto 5:12</lok>
+          </fnt>;
+        </ekz><ekz>
+          <klr>[li]</klr> staras tiel modeste en la angulo kaj <tld/>as kra&ccirc;i sur sin
+          <fnt>
+            <bib>Fab2</bib>
+            <lok>Dio de dormo</lok>
+          </fnt>;
+        </ekz><ekz>
+          <tld/>u vian propran senton esti via gvidanto
+          <fnt><bib>Hamlet</bib></fnt>;
+        </ekz><ekz>
+          pardonu min, ke mi ne <tld/>as vin mem legi la leteron
+          <fnt>
+            <bib>Rabistoj</bib>
+            <lok>Akto Unua</lok>
+          </fnt>;
+        </ekz><ekz>
+          ni <tld/>as al la legantoj elparoli la nomon kiel ili volas
+          <fnt>
+            <bib>LR</bib>
+            <lok>2. Transskribo</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="ant">
+        <ref cel="embara.0i.MOV">embarasi<sncref/></ref>,
+        <ref cel="gxen.0i.maloportuni">&gcirc;eni<sncref/></ref>
+      </refgrp>
+      <refgrp tip="vid">
+        <ref cel="permes.0i">permesi</ref>
+      </refgrp>
+    </subsnc>
+    <subsnc mrk="las.0i.irpermesi">
+      <dif>
+        Ne malhelpi iri:
+        <ekz>
+          &scirc;teliston neniu <tld/>as en sian domon
+          <fnt>
+            <bib>F</bib>
+            <lok>&FE; 37</lok>
+          </fnt>;
+        </ekz><ekz>
+          sinjoro, oni ne <tld/>as min anta&ubreve;en
+          <fnt><bib>Hamlet</bib></fnt>;
+        </ekz><ekz>
+          iaj komercistoj volas eniri, sed la policano ilin ne <tld/>as
+          <fnt>
+            <bib>Revizoro</bib>
+            <lok>Akto kvara</lok>
+          </fnt>;
+        </ekz><ekz>
+          mi petas vin, sinjoro, <tld/>u min al &scirc;i
+          <fnt><bib>BdV</bib></fnt>;
+        </ekz><ekz>
+          min <tld/>u for
+        <fnt><bib>Ifigenio</bib></fnt>!
+        </ekz>
+      </dif>
+      <refgrp tip="ant">
+        <ref cel="bar.0i">bari</ref>
+      </refgrp>
+      <trd lng="be">&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>
+      <trdgrp lng="br">
+        <trd>lezel</trd>,
+        <trd>leuskel</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>hagy</trd>,
+        <trd>enged</trd>
+      </trdgrp>
+      <trd lng="ru">&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+    </subsnc>
+    <subsnc mrk="las.0i.okazi">
+      <dif>
+        Ne malhelpi, ke io okazu:
+        <ekz>
+          <klr>[ili]</klr> <tld/>as la dan&gcirc;eron ludi &ccirc;irka&ubreve; <klr>[si]</klr>, kiel dresita serpento
+          <fnt>
+            <bib>Rabistoj</bib>
+            <lok>Akto Tria</lok>
+          </fnt>;
+        </ekz><ekz>
+          parolu nenian nomon kaj ne <tld/>u rimarki, ke ni parolas pri sekretoj
+          <fnt><bib>BdV</bib></fnt>;
+        </ekz><ekz>
+          <klr>[li]</klr> <tld/>is &scirc;in atendi
+          <fnt><bib>BdV</bib></fnt>;
+        </ekz><ekz>
+          <klr>[li]</klr> estis homo, kiu <tld/>is sin konvinki
+          <fnt><bib>BdV</bib></fnt>;
+        </ekz><ekz>
+          ili ne devis <tld/>i rimarki, ke ili nenion vidas
+          <fnt>
+            <bib>Fab1</bib>
+            <lok>La novaj vestoj de la re&gcirc;o</lok>
+          </fnt>;
+        </ekz><ekz>
+          <klr>[certe]</klr> vi ne <tld/>as pasi tutan monaton, anta&ubreve; ol vi denove venos
+          nin vidi
+          <fnt>
+            <bib>Fab3</bib>
+            <lok>Sub la saliko</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="las.al0i">allasi</ref>
+      </refgrp>
+        <trd lng="de">zulassen</trd>
+    </subsnc>
+    <subsnc mrk="las.0i.favori">
+      <dif>
+        <ref tip="sin" cel="favor.0i">Favori</ref> ies liberan agadon, ne zorgante mem,
+        sed eventuale profitante de tio:
+        <ekz>
+          mi ne eldonas mem vortarojn pli plenajn, sed <tld/>as ilian kreadon al la publiko
+          <fnt><bib>ADL</bib></fnt>;
+        </ekz><ekz>
+          mi <tld/>as al aliaj personoj kaj aliaj tempoj la iom-post-ioman plenan
+          klarigadon de la homaranismo
+          <fnt>
+            <bib>Homaranismo</bib>
+            <vrk>Pri la homaranismo</vrk>
+          </fnt>;
+        </ekz><ekz>
+          mi restas hejme, mi <tld/>as la aliajn voja&gcirc;i, <tld/>as ilin veni al mi
+          <fnt>
+            <bib>Fab4</bib>
+            <lok>Peco da perlovico</lok>
+          </fnt>;
+        </ekz><ekz>
+          la vila&gcirc;anoj transiras en la pa&scirc;tistajn dometojn kaj <tld/>as siajn brutojn
+          pa&scirc;ti&gcirc;i sur la alta&jcirc;oj
+          <fnt>
+            <bib>Fab4</bib>
+            <lok>Historio el la dunoj</lok>
+          </fnt>;
+        </ekz><ekz>
+          &ccirc;ar tiu &ccirc;i demando estas tre malfacile solvebla <klr>[&#8230;]</klr>, ni <tld/>as nun
+          ankora&ubreve; &gcirc;ian solvon al la forto de la tempo
+          <fnt>
+            <bib>LR</bib>
+            <lok>2. Transskribo</lok>
+          </fnt>;
+        </ekz><ekz>
+          la klarigadon de l&#8217; fenomeno mi <tld/>as al ia pli sa&gcirc;a cerbo
+          <fnt><bib>Voja&gcirc;Imp</bib></fnt>.
+        </ekz>
+      </dif>
+      <trdgrp lng="de">
+        <trd>&uuml;berlassen</trd>,
+        <trd>anregen</trd>
+      </trdgrp>
+    </subsnc>
+    <rim>
+      Kvankam oni trovas iom ofte &ccirc;e &Z; la verbon <em>lasi</em> uzata
+      anta&ubreve; infinitivo en la senco de <em>igi</em>, tiu germanismo, kiu povas
+      naski konfuzon, estas nepre evitinda:
+      <ekz>
+        Rapide la gardistojn! <tld lit="L"/>u gardi La pordon
+        <fnt><bib>Hamlet</bib></fnt>!
+      </ekz><ekz>
+        &scirc;i <klr>[&#8230;]</klr> <tld/>as pendigi <klr>[ilin]</klr>, se ili ne povas diveni,
+        kion &scirc;i postulas de ili
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz><ekz>
+        la maljuna re&gcirc;o <tld/>is poluri sian oran kronon
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Monteto de elfoj</lok>
+        </fnt>;
+      </ekz><ekz>
+        vi <tld/>is min voki
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvina</lok>
+        </fnt>
+        <klr>(vi ordonis voki min)</klr>.
+      </ekz>
+    </rim>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_a;&c_z;&c_v;&c_a;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+      <trd>&c_d;&c_a;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>zugestehen</trd>,
+      <trd>dulden</trd>,
+      <trd>erlauben</trd>,
+      <trd>nicht <ind>hindern</ind></trd>,
+      <trd>in <ind>Ruhe</ind> lassen</trd>,
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>hagy</trd>,
+      <trd>enged</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_o;&c_z;&c_v;&c_o;&c_l;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_d;&c_o;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="af">laat</trd>
+  <trd lng="am">&#4773;&#4757;&#4610;&#4853;</trd>
+  <trd lng="ar">&a_s;&a_m;&a_H;</trd>
+  <trd lng="az">qoy</trd>
+  <trd lng="bn">&#2479;&#2494;&#2453;</trd>
+  <trd lng="bs">neka</trd>
+  <trd lng="co">ch&igrave;</trd>
+  <trd lng="cy">gadewch</trd>
+  <trd lng="da">lad</trd>
+  <trd lng="de">lassen</trd>
+  <trd lng="et">lase</trd>
+  <trd lng="eu">utzi</trd>
+  <trd lng="fy">litte</trd>
+  <trd lng="ga">a ligean</trd>
+  <trd lng="gd">leig</trd>
+  <trd lng="gl">deixe</trd>
+  <trd lng="gu">&#2726;&#2763;</trd>
+  <trd lng="ha">bari</trd>
+  <trd lng="hi">&#2330;&#2354;&#2379;</trd>
+  <trd lng="hmn">cia</trd>
+  <trd lng="hr">pustiti</trd>
+  <trd lng="ht">kite</trd>
+  <trd lng="hy">&#1385;&#1400;&#1394;</trd>
+  <trd lng="ig">ka</trd>
+  <trd lng="is">l&aacute;ta</trd>
+  <trd lng="ja">&#12390;&#12415;&#12414;&#12375;&#12423;&#12358;</trd>
+  <trd lng="jv">supaya</trd>
+  <trd lng="ka">&#4315;&#4312;&#4304;&#4307;&#4308;&#4309;&#4316;&#4308;</trd>
+  <trd lng="kek">ach&#789;ab&#789;ank</trd>
+  <trdgrp lng="cs">
+    <trd>nechat</trd>,
+    <trd>opustit</trd>,
+    <trd>propustit</trd>,
+    <trd>zanechat</trd>
+  </trdgrp>
+  <trd lng="en">leave</trd>
+  <trdgrp lng="es">
+    <trd>dejar</trd>,
+    <trd>abandonar</trd>
+  </trdgrp>
+  <trd lng="fr">laisser</trd>
+  <trdgrp lng="id">
+    <trd><baz>tinggal</baz>meninggalkan</trd>,
+    <trd><baz>biar</baz>membiarkan</trd>
+  </trdgrp>
+  <trd lng="it">lasciare</trd>
+  <trd lng="kk">&c_m;&#1199;&c_m;&c_k;&c_ib;&c_n;&c_d;&c_ib;&c_k;</trd>
+  <trd lng="km">&#6050;&#6035;&#6075;&#6025;&#6098;&#6025;&#6070;&#6031;&#6065;&#6098;&#6041;</trd>
+  <trd lng="kn">&#3205;&#3253;&#3221;&#3262;&#3254;</trd>
+  <trd lng="ko">&#54616;&#51088;</trd>
+  <trd lng="ku">berdan</trd>
+  <trd lng="ky">&c_zh;&c_o;&c_l;</trd>
+  <trd lng="lat">dimitte</trd>
+  <trd lng="lo">&#3779;&#3755;&#3785;</trd>
+  <trd lng="lt">tegul</trd>
+  <trd lng="lv">&lcommaaccent;aujiet</trd>
+  <trd lng="mg">aoka</trd>
+  <trd lng="mi">kia</trd>
+  <trd lng="mk">&c_n;&c_je;&c_k;&c_a;</trd>
+  <trd lng="ml">&#3342;&#3368;&#3405;&#3368;&#3393;</trd>
+  <trd lng="mn">&c_z;&#1257;&c_v;&c_sh;&#1257;&#1257;&c_r;&#1257;&c_h;</trd>
+  <trd lng="mr">&#2342;&#2381;&#2351;&#2366;</trd>
+  <trd lng="ms">mari</trd>
+  <trd lng="my">&#4096;&#4143;&#4116;&#4154;&#4129;&#4150;&#4151;</trd>
+  <trd lng="ne">&#2327;&#2352;&#2380;&#2306;</trd>
+  <trdgrp lng="nl">
+    <trd>laten</trd>,
+    <trd>toelaten</trd>,
+    <trd>loslaten</trd>
+  </trdgrp>
+  <trd lng="ny">tiyeni</trd>
+  <trd lng="pa">&#2598;&#2623;&#2569;</trd>
+  <trdgrp lng="pl">
+    <trd>pozostawi&cacute;</trd>,
+    <trd>puszcza&cacute;</trd>,
+    <trd>zostawi&cacute;</trd>
+  </trdgrp>
+  <trd lng="ps">&a_A;&a_j;&a_A;&a_z;&a_h;</trd>
+  <trdgrp lng="pt">
+    <trd>deixar</trd>,
+    <trd>largar</trd>,
+    <trd>abandonar</trd>,
+    <trd>permitir</trd>
+  </trdgrp>
+  <trd lng="ro">admite</trd>
+  <trd lng="rw">reka</trd>
+  <trd lng="sd">&a_A_madda;&#1723;&a_y;</trd>
+  <trd lng="si">&#3465;&#3497; &#3503;&#3545;&#3505;&#3530;&#3505;</trd>
+  <trdgrp lng="sk">
+    <trd>opusti&tcaron;</trd>,
+    <trd>zanecha&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sl">naj</trd>
+  <trd lng="sm">ia</trd>
+  <trd lng="sn">regai</trd>
+  <trd lng="so">ha</trd>
+  <trd lng="sq">le t&euml;</trd>
+  <trd lng="st">a ke</trd>
+  <trd lng="su">ngantepkeun</trd>
+  <trd lng="sw">basi</trd>
+  <trd lng="ta">&#2984;&#3006;&#2990;&#3021;</trd>
+  <trd lng="te">&#3125;&#3136;&#3122;&#3137;</trd>
+  <trd lng="tg">&c_b;&c_i;&c_g;&c_z;&c_o;&c_r;</trd>
+  <trd lng="th">&#3651;&#3627;&#3657;</trd>
+  <trd lng="tl">ipaalam</trd>
+  <trd lng="tt">&c_r;&#1257;&c_h;&c_s;&#1241;&c_t; &c_i;&c_t;</trd>
+  <trd lng="uk">&c_n;&c_je;&c_h;&c_a;&c_j;</trd>
+  <trd lng="ur">&a_d;&a_w;</trd>
+  <trd lng="uz">ruxsat</trd>
+  <trd lng="vi">cho ph&eacute;p</trd>
+  <trd lng="xh">makhe</trd>
+  <trd lng="yi">&lamed;&alef;&#1464;&zayin;&fnun;</trd>
+  <trd lng="yo">j&#7865; ki</trd>
+  <trdgrp lng="zh">
+    <trd>&#26080;&#20026; <pr>w&uacute;w&eacute;i</pr></trd>,
+    <trd>&#28961;&#28858; <pr>w&uacute;w&eacute;i</pr></trd>,
+    <trd>&#25918;&#36807; <pr>f&agrave;nggu&ograve;</pr></trd>,
+    <trd>&#25918;&#36942; <pr>f&agrave;nggu&ograve;</pr></trd>,
+    <trd>&#36208;&#25481; <pr>z&#466;udi&agrave;o</pr></trd>,
+    <trd>&#25730; <pr>li&agrave;o</pr></trd>,
+    <trd>&#19999; <pr>di&umacron;</pr></trd>,
+    <trd>&#20002; <pr>di&umacron;</pr></trd>
+  </trdgrp>
+  <trd lng="zu">ake</trd>
+</drv>
+
+<drv mrk="las.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc>
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        &ccirc;iun objekton, kiun ni forprenos, mi devas inde kompensi kaj kontra&ubreve;pezi per
+        <tld/>o de alia a&jcirc;o
+        <fnt><bib>MMa</bib></fnt>;
+      </ekz><ekz>
+        ili &jcirc;us finis la studadon, <klr>[&#8230;]</klr> kion &ccirc;iu faros post <tld/>o de la
+        edukejo
+        <fnt><bib>KrB</bib></fnt>?
+      </ekz><ekz>
+        notu mian <tld/>on de ne&ubreve;trala spaco
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Probal Da&scirc;gupto</aut>
+          <vrk><url ref="&Monato;/2003/007815.html">Verki unu por la aliaj</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    Similsona estas la vorto <ref tip="hom" cel="laz.0o">lazo</ref> (kapto&scirc;nuro).
+  </rim>
+  <trd lng="uk">&c_z;&c_a;&c_l;&c_i;&c_sh;&c_a;&c_n;&c_n;&c_ja;</trd>
+</drv>
+
+<drv mrk="las.0ema">
+  <kap><tld/>ema</kap>
+  <snc>
+    <dif>
+        Prefere <tld/>anta la aferojn ol interveni:
+        <ekz><tld/>ema edukado;</ekz><ekz><tld/>ema gvidado, politiko.</ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="libera.0a">liberala</ref>,
+      <ref cel="legxer.0a">le&gcirc;era</ref>,
+      <ref cel="neglek.0ema">neglektema</ref>,
+      <ref cel="permes.0ema">permesema</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>freiz&uuml;gig <klr>(Erziehung etc.)</klr></trd>,
+      <trd>l&auml;ssig <klr>(F&uuml;hrung)</klr></trd>
+    </trdgrp>
+    <trd lng="en">permissive</trd>
+    <trd lng="fr">laisser faire</trd>
+  </snc>
+<trd lng="id">permisif</trd>
+  <trdgrp lng="zh">
+    <trd>&#25918;&#32305; <pr>f&agrave;ngz&ograve;ng</pr></trd>,
+    <trd>&#25918;&#32437; <pr>f&agrave;ngz&ograve;ng</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="las.al0i">
+  <kap>al<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <tld lit="L"/>i veni; ne <ref tip="ant" cel="star.kontraux0i">kontra&ubreve;stari</ref>;
+      permesi, ke iu faru, ke io okazu:
+      <ekz>
+        sidi &ccirc;iam en profunda mallumo kaj al<tld/>i al si nenian radion de la suno
+        <fnt><bib>FK</bib></fnt>;
+      </ekz><ekz>
+        <klr>[ili]</klr> akceptas tiun &ccirc;i le&gcirc;on <klr>[&#8230;]</klr> al<tld/>antan jam nenian
+        dubon
+        <fnt><bib>FK</bib></fnt>;
+      </ekz><ekz>
+        ili ne volas al<tld/>i al la malsupro de l' trono homojn de alia kredo
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro VII</lok>
+        </fnt>;
+      </ekz><ekz>
+        <nom>Sara</nom>, sciu, ke se vi al<tld/>us min al intimeco kun vi, mi donus al vi du
+        talentojn, kaj al via patro unu talenton
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIII</lok>
+        </fnt>;
+      </ekz><ekz>
+        li facile ekregus sian sangon, sed io alia naski&gcirc;is en li, kion li ne volis
+        al<tld/>i
+        <fnt><bib>PatrojFiloj</bib></fnt>;
+      </ekz><ekz>
+        &ccirc;u estas al<tld/>ebla uzi &leftquot;voki&rightquot;, por montri plila&ubreve;tigon de la vo&ccirc;o
+        <fnt>
+          <bib>LR</bib>
+          <lok>2. Vortuzo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="akcept.0i">akcepti</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_d;&c_a;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>degemer</trd>,
+    <trd>aotren</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dopou&scaron;t&ecaron;t se</trd>,
+    <trd>dopustit</trd>,
+    <trd>dovolit</trd>,
+    <trd>p&rcaron;ipustit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>zulassen</trd>,
+    <trd>vorlassen</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>admettre<klr tip="amb"> (laisser passer)</klr></trd>,
+    <trd>laisser passer</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>odaenged</trd>,
+    <trd>megenged</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#35377;&#23481;&#12377;&#12427;  <pr>&#12365;&#12423;&#12424;&#12358;&#12377;&#12427;</pr></trd>,
+    <trd>&#23481;&#35469;&#12377;&#12427;  <pr>&#12424;&#12358;&#12395;&#12435;&#12377;&#12427;</pr></trd>,
+    <trd>&#21463;&#12369;&#20837;&#12428;&#12427;  <pr>&#12358;&#12369;&#12356;&#12428;&#12427;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">toelaten</trd>
+  <trdgrp lng="pl">
+    <trd>dopu&sacute;ci&cacute;</trd>,
+    <trd>zezwala&cacute;</trd>,
+    <trd>przypu&sacute;ci&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>admite</trd>,
+    <trd>recunoa&scomma;te</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_d;&c_o;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dovoli&tcaron;</trd>,
+    <trd>pripusti&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_o;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_ib;&c_d;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="las.de0i">
+  <kap>de<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <tld lit="L"/>i fali, demeti:
+      <ekz>
+        kun bruo la ankroj estas de<tld/>itaj
+        <fnt><bib>FK</bib></fnt>;
+      </ekz><ekz>
+        tra fenestro oni min de<tld/>is la&ubreve;flanke de la muro en korbo kaj mi eli&gcirc;is
+        <fnt>
+          <bib>NT</bib>
+          <lok>II. Korintanoj 11:33</lok>
+        </fnt>;
+      </ekz><ekz>
+        mi renkontis tiun, kiun mia animo amas <klr>[&#8230;]</klr> kaj ne de<tld/>is lin, &gcirc;is
+        mi enkondukis lin en la domon de mia patrino
+        <fnt>
+          <bib>MT</bib>
+          <lok>Alta kanto 3:4</lok>
+        </fnt>;
+      </ekz><ekz>
+        surprizita, Viktoro de<tld/>is la bridon
+        <fnt><bib>KPr</bib></fnt>;
+      </ekz><ekz>
+        Beatrico estis kortu&scirc;ita, kaj nesenteble de<tld/>is ion da sia kutima severeco
+        <fnt><bib>ChL</bib></fnt>;
+      </ekz><ekz>
+        malgrasa, senforta skeleto, <klr>[&scirc;i]</klr> ne de<tld/>is plu sian kanapon
+        <fnt><bib>ChL</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="br">tenna&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>pou&scaron;t&ecaron;t</trd>,
+    <trd>upustit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>herab <ind>lassen</ind></trd>,
+    <trd>loslassen</trd>
+  </trdgrp>
+  <trd lng="fr">d&eacute;poser</trd>
+  <trdgrp lng="hu">
+    <trd>leenged</trd>,
+    <trd>elenged</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#25918;&#12377;  <pr>&#12399;&#12394;&#12377;</pr></trd>,
+    <trd>&#33853;&#12392;&#12377;  <pr>&#12362;&#12392;&#12377;</pr></trd>,
+    <trd>&#33073;&#12368;  <pr>&#12396;&#12368;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">weglaten</trd>
+  <trdgrp lng="pl">
+    <trd>opuszcza&cacute;</trd>,
+    <trd>pozostawia&cacute;</trd>,
+    <trd>spu&sacute;ci&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>pleca</trd>,
+    <trd>r&abreve;m&acirc;ne</trd>
+  </trdgrp>
+  <trd lng="sk">upusti&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_k;&c_i;&c_d;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#25918;&#19979; <pr>f&agrave;ngxi&agrave;</pr></trd>,
+    <trd>&#25918;&#25163; <pr>f&agrave;ngsh&#466;u</pr></trd>,
+    <trd>&#26494;&#25163; <pr>s&omacron;ngsh&#466;u</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="las.el0i">
+  <kap>el<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <tld lit="L"/>i eli&gcirc;i:
+      <ekz>
+        li altiris la pli junan fratinon al sia brusto, kiam li &scirc;in ree el<tld/>is, &scirc;i
+        denove alvolvi&gcirc;is
+        <fnt><bib>BdV</bib></fnt>;
+      </ekz><ekz>
+        por el<tld/>i la koleron, &scirc;i ekbatis la hundeton
+        <fnt><bib>FK</bib></fnt>;
+      </ekz><ekz>
+        <klr>[ili]</klr> tiel ektimis, ke ili el<tld/>is el la manoj, kion ili tenis
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ha&ccirc;jo kaj Grenjo</lok>
+        </fnt>;
+      </ekz><ekz>
+        mi decidis eldoni la libron <klr>[&#8230;]</klr> per apartaj kajeroj <klr>[&#8230;]</klr>
+        el<tld/>ataj <klr>[&#8230;]</klr> periode, kun intertempoj de &ccirc;irka&ubreve; du monatoj
+        <fnt><bib>DL</bib></fnt>;
+      </ekz><ekz>
+        Kovrilon de la korbo levu, // El<tld/>u la birdetojn
+        <fnt><bib>Hamlet</bib></fnt>;
+      </ekz><ekz>
+        la kaldronoj de la &scirc;ipo kun mu&gcirc;o kaj bruo el<tld/>as vaporon
+        <fnt><bib>FK</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="el.0igi">eligi</ref>,
+      <ref cel="fal.0igi">faligi</ref>,
+      <ref cel="liber.0igi">liberigi</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>herauslassen</trd>,
+      <trd>ablassen</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="las.el0i.mankigi">
+    <dif>
+      Ne enmeti en la kutima loko; <ref cel="mank.0igi">mankigi</ref>:
+      <ekz>
+        tiu parto iel, pro instinkta ordono el<tld/>i&gcirc;is el la rakonto, eble &ccirc;ar li ne
+        volis veki neestetikajn pensasociojn
+        <fnt>
+          <bib>LGA</bib>
+          <lok>II.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi postulis redukton, forstrekon de multaj dira&jcirc;oj, kaj kompletan
+        <ind>el<tld/>o</ind>n de &ccirc;io, kio odoris je &#8218;persona atesto&#8216;
+        <fnt>
+          <bib>ChV</bib>
+          <lok>12</lok>
+        </fnt>;
+        <trd lng="de">Auslassung</trd>
+      </ekz>
+      <ekz>
+        tiaj antologiaj verkoj, kun historia enkonduko, estas tre valoraj <klr>[&#8230;]</klr>
+        kvankam kompreneble oni povus diskuti pri kelkaj enmetoj &ndash; kaj, &ccirc;efe, pri
+        pluraj el<tld/>oj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni facile rimarkas, ke estas el<tld/>itaj la konsideroj <klr>[&#8230;]</klr> pri la
+        impona nombro da subskribintoj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvina Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="neglek.0i">neglekti</ref>,
+      <ref cel="las.preter0i">preterlasi</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>auslassen</trd>,
+      <trd>aussparen</trd>,
+      <trd>weglassen</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bo">&t_ma;&t_cha;&t_naro;&t_nga;&t_tsheg;&t_ra;&t_gata;&t_yata;&t_ga;&t_tsheg;&t_ra;&t_gata;&t_yata;&t_ga;&t_tsheg;</trd>
+  <trd lng="br">lezel da vont er-maez</trd>
+  <trdgrp lng="cs">
+    <trd>odpustit</trd>,
+    <trd>vynechat</trd>,
+    <trd>vypustit</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>laisser &eacute;chapper</trd>,
+    <trd>laisser sortir</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kienged</trd>,
+    <trd>kiereszt</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#25918;&#12388;  <pr>&#12399;&#12394;&#12388;</pr></trd>,
+    <trd>&#20986;&#12375;&#12390;&#12420;&#12427;  <pr>&#12384;&#12375;&#12390;&#12420;&#12427;</pr></trd>,
+    <trd>&#25918;&#20986;&#12377;&#12427;  <pr>&#12411;&#12358;&#12375;&#12421;&#12388;&#12377;&#12427;</pr></trd>,
+    <trd>&#30465;&#30053;&#12377;&#12427;  <pr>&#12375;&#12423;&#12358;&#12426;&#12419;&#12367;&#12377;&#12427;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>spuszcza&cacute;</trd>,
+    <trd>wypuszcza&cacute;</trd>,
+    <trd>wypu&sacute;ci&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>scurgere</trd>,
+    <trd>eliberare</trd>,
+    <trd>elibera</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_y;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>vynecha&tcaron;</trd>,
+    <trd>vypusti&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_i; <klr>(&c_k;&c_r;&c_o;&c_v;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#27969;&#38706; <pr>li&uacute;l&ugrave;</pr></trd>,
+    <trd>&#33067;&#21475; <pr>tu&omacron;k&#466;u</pr></trd>,
+    <trd>&#33073;&#21475; <pr>tu&omacron;k&#466;u</pr></trd>,
+    <trd>&#36339;&#36807; <pr>ti&agrave;ogu&ograve;</pr></trd>,
+    <trd>&#36339;&#36942; <pr>ti&agrave;ogu&ograve;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="las.en0i">
+  <kap>en<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="las.en0i.KOMUNE">
+    <dif>
+      <tld lit="L"/>i eniri:
+      <ekz>
+        <klr>[la]</klr> fi&scirc;o, en<tld/>ita en akvon, revivi&gcirc;as
+        <fnt><bib>FK</bib></fnt>;
+      </ekz><ekz>
+        <klr>[la]</klr> lupoj <klr>[&#8230;]</klr> sufokis tuj la ratojn kaj musojn, kiujn oni
+        en<tld/>is al ili en la ka&gcirc;on
+        <fnt><bib>FK</bib></fnt>;
+      </ekz><ekz>
+        en<tld/>u neniun
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ne&gcirc;ulino</lok>
+        </fnt>;
+      </ekz><ekz>
+        estus sa&gcirc;e malfermi la fenestron por en<tld/>i iom da pura aero
+        <fnt><bib>Gerda</bib>, <lok>&ccirc;apitro 14a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="akcept.0i.eniri">akcepti<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_u;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="br">lezel da zont e-barzh</trd>
+  <trdgrp lng="cs">
+    <trd>napou&scaron;t&ecaron;t <klr>(n&ecaron;co / n&ecaron;&ccaron;&iacute;m)</klr></trd>,
+    <trd>vpustit</trd>
+  </trdgrp>
+  <trd lng="de">einlassen</trd>
+  <trd lng="fr">faire entrer</trd>
+  <trdgrp lng="hu">
+    <trd>beenged</trd>,
+    <trd>beereszt</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#21213;&#25163;&#12395;&#20837;&#12425;&#12379;&#12427;
+    <pr>&#12363;&#12387;&#12390;&#12395;&#12399;&#12356;&#12425;&#12379;&#12427;</pr></trd>,
+    <trd>&#20837;&#12428;&#12390;&#12420;&#12427;  <pr>&#12356;&#12428;&#12390;&#12420;&#12427;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">binnenlaten</trd>
+  <trdgrp lng="pl">
+    <trd>pozostawi&cacute; niewyra&zdot;onym</trd>,
+    <trd>wpuszcza&cacute;</trd>,
+    <trd>wpu&sacute;ci&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>l&abreve;sa&tcomma;i la nesf&acirc;r&scomma;it</trd>,
+    <trd>admite</trd>,
+    <trd>l&abreve;sa&tcomma;i</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">vpusti&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_i; &c_d;&c_o;&c_s;&c_je;&c_r;&c_je;&c_d;&c_i;&c_n;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="las.for0i">
+  <kap>for<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <tld lit="L"/>i for de ie; definitive <tld/>i:
+      <ekz>
+        mi for<tld/>as hodia&ubreve; vian domon
+        <fnt><bib>BdV</bib></fnt>;
+      </ekz><ekz>
+        li &jcirc;us for<tld/>is la universitaton
+        <fnt><bib>FK</bib></fnt>;
+      </ekz><ekz>
+        la edzino <klr>[&#8230;]</klr> for<tld/>as la edzon, dum la hundo restas fidela al sia
+        mastro
+        <fnt><bib>FK</bib></fnt>;
+      </ekz><ekz>
+        almena&ubreve; la espero min ne for<tld/>as
+        <fnt><bib>FK</bib></fnt>;
+      </ekz><ekz>
+        la vivo for<tld/>is la korpon
+        <fnt><bib>FK</bib></fnt>;
+      </ekz><ekz>
+        for<tld/>i la landon
+        <fnt><bib>Voja&gcirc;Imp</bib></fnt>;
+      </ekz><ekz>
+        mi <klr>[&#8230;]</klr> provos iom post iom for<tld/>i mian &gcirc;isnunan manieron de
+        skribado
+        <fnt><bib>LR</bib></fnt>;
+      </ekz><ekz>
+        for<tld/>i iun sufikson, por ricevi vorton pli mallongan
+        <fnt><bib>LR</bib></fnt>;
+      </ekz><ekz>
+        la artikolo povas esti for<tld/>ata kaj anstata&ubreve;igata de apostrofo
+        <fnt><bib>FK</bib></fnt>;
+      </ekz><ekz>
+        dormu trankvile, Dio ne for<tld/>os nin
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ha&ccirc;jo kaj Grenjo</lok>
+        </fnt>;
+      </ekz><ekz>
+        kelkaj tre malmultaj malkontentuloj for<tld/>is Esperanton
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto
+          1908</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="adiaux.0i">adia&ubreve;i</ref>,
+      <ref cel="divorc.0i">divorci</ref>,
+      <ref cel="ekzil.0igxi">ekzili&gcirc;i</ref>,
+      <ref cel="rezign.0i">rezigni</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="las.preter0i">preterlasi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_k;&c_ib;&c_d;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_ba;&t_ca;&t_gigu;&t_la;&t_tsheg;&t_ba;&t_tsheg;</trd>
+  <trd lng="br">dilezel</trd>
+  <trdgrp lng="cs">
+    <trd>opustit</trd>,
+    <trd>propustit</trd>,
+    <trd>zanechat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>verlassen</trd>,
+    <trd><ind>ablassen</ind> von</trd>
+  </trdgrp>
+  <trd lng="fr">abandonner</trd>
+  <trdgrp lng="hu">
+    <trd>otthagy</trd>,
+    <trd>elhagy</trd>
+  </trdgrp>
+  <trd lng="id"><baz>tinggal</baz>meninggalkan</trd>
+  <trdgrp lng="ja">
+    <trd>&#32622;&#12365;&#21435;&#12426;&#12395;&#12377;&#12427;
+    <pr>&#12362;&#12365;&#12374;&#12426;&#12395;&#12377;&#12427;</pr></trd>,
+    <trd>&#21435;&#12427;  <pr>&#12373;&#12427;</pr></trd>,
+    <trd>&#35211;&#25448;&#12390;&#12427;  <pr>&#12415;&#12377;&#12390;&#12427;</pr></trd>,
+    <trd>&#25918;&#26820;&#12377;&#12427;  <pr>&#12411;&#12358;&#12365;&#12377;&#12427;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">verlaten</trd>
+  <trdgrp lng="pl">
+    <trd>opu&sacute;ci&cacute;</trd>,
+    <trd>porzuci&cacute;</trd>,
+    <trd>rozstawa&cacute; si&eogonek;</trd>,
+    <trd>odst&aogonek;pi&cacute;</trd>,
+    <trd>zaniecha&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>p&abreve;r&abreve;si</trd>,
+    <trd>abandona</trd>,
+    <trd>desp&abreve;r&tcomma;i</trd>,
+    <trd>renun&tcomma;a</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_k;&c_i;&c_n;&c_u;&c_t;&c_mol;</trd>,
+    <trd>&c_b;&c_r;&c_o;&c_s;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>opusti&tcaron;</trd>,
+    <trd>zanecha&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_k;&c_i;&c_d;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_l;&c_i;&c_sh;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_k;&c_i;&c_d;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_r;&c_ib;&c_k;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#19999;&#19979; <pr>di&umacron;xi&agrave;</pr></trd>,
+    <trd>&#20002;&#19979; <pr>di&umacron;xi&agrave;</pr></trd>,
+    <trd>&#19999;&#26820; <pr>di&umacron;q&igrave;</pr></trd>,
+    <trd>&#20002;&#24323; <pr>di&umacron;q&igrave;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="las.for0ebla">
+  <kap>
+    for<tld/>ebla
+  </kap>
+  <snc>
+    <dif>
+      Kion oni povas <tld/>i for:
+      <ekz>
+        kondi&ccirc;a fini&gcirc;o, tiel same for<tld/>ebla, kiel &leftquot;o&rightquot; en la substantivo
+        <fnt>
+          <bib>LR</bib>
+          <lok>Unua Parto &ndash; Leksikologio</lok>
+        </fnt>;
+      </ekz><ekz>
+        <klr>[krom]</klr> moraleco, &ccirc;io alia estas for<tld/>ebla, &ccirc;ar ni trovis ke tiu
+        elekto estas plej grava por vivanto
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Dek</lok>
+        </fnt>;
+      </ekz><ekz>
+        <ref cel="grav.mal0a">negrava</ref> elemento kaj do for<tld/>ebla
+        <fnt>
+	<aut>Marc Vanden Bempt</aut>
+	<vrk><url ref="&Monato;/2000/006821.php">E&ubreve;ro unujara</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/03, p. 14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fakultativ.0a">fakultativa</ref>,
+      <ref cel="nepr.mal0a">malnepra</ref>,
+      <ref cel="rezign.0ebla">rezignebla</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>auslassbar</trd>,
+    <trd>optional</trd>,
+    <trd>erl&auml;sslich</trd>
+  </trdgrp>
+  <trd lng="en">optional</trd>
+<trd lng="id">opsional</trd>
+  <trdgrp lng="zh">
+    <trd>&#21487;&#20379;&#29992;&#25142;&#36984;&#29992; <pr>k&ecaron;g&omacron;ngy&ograve;ngh&ugrave;xu&#462;ny&ograve;ng</pr></trd>,
+    <trd>&#21487;&#20379;&#29992;&#25143;&#36873;&#29992; <pr>k&ecaron;g&omacron;ngy&ograve;ngh&ugrave;xu&#462;ny&ograve;ng</pr></trd>,
+    <trd>&#21487;&#36873;&#36141; <pr>k&ecaron;xu&#462;ng&ograve;u</pr></trd>,
+    <trd>&#21487;&#36984;&#36092; <pr>k&ecaron;xu&#462;ng&ograve;u</pr></trd>,
+    <trd>&#29992;&#25142;&#21487;&#36984;&#36092; <pr>y&ograve;ngh&ugrave;k&ecaron;xu&#462;ng&ograve;u</pr></trd>,
+    <trd>&#29992;&#25143;&#21487;&#36873;&#36141; <pr>y&ograve;ngh&ugrave;k&ecaron;xu&#462;ng&ograve;u</pr></trd>,
+    <trd>&#29992;&#25142;&#21487;&#36984;&#36092;&#30340; <pr>y&ograve;ngh&ugrave;k&ecaron;xu&#462;ng&ograve;ude</pr></trd>,
+    <trd>&#29992;&#25143;&#21487;&#36873;&#36141;&#30340; <pr>y&ograve;ngh&ugrave;k&ecaron;xu&#462;ng&ograve;ude</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="las.post0i">
+  <kap>post<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <tld lit="L"/>i post si:
+      <ekz>
+        &scirc;ajnigu al &scirc;i, ke vi post<tld/>is la malgrandajn garbetojn, kaj vi permesu al
+        &scirc;i, ke &scirc;i kolektu ilin
+        <fnt>
+          <bib>MT</bib>
+          <lok>Rut 2:16</lok>
+        </fnt>;
+      </ekz><ekz>
+        se ies frato mortos kaj post<tld/>os edzinon kaj ne lasos infanon, la frato de
+        la mortinto prenu lian edzinon
+        <fnt>
+          <bib>NT</bib>
+          <lok>Marko 12:19</lok>
+        </fnt>;
+      </ekz><ekz>
+        &jcirc;us fini&gcirc;is la dua revolucio kaj post<tld/>is &ccirc;ie sangon
+        <fnt><bib>VivZam</bib></fnt>;
+      </ekz><ekz>
+        <nom>Zamenhof</nom> deziris post<tld/>i tiun tekston <klr>[&#8230;]</klr> kiel parton ja necesan
+        de komenca fundamento
+        <fnt><bib>VivZam</bib></fnt>;
+      </ekz><ekz>
+        ili post<tld/>is severajn ordonojn, ke neniu alproksimi&gcirc;u al la mortinto
+        <fnt><bib>I&scirc;tar</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="rest.0igi">restigi</ref>,
+      <ref cel="testam.0i">testamenti</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_k;&c_ib;&c_d;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja; &c_s;&c_ja;&c_b;&c_je;)</klr></trd>
+  <trd lng="br">lezel war e lerc'h</trd>
+  <trd lng="cs">zanechat</trd>
+  <trd lng="de">hinterlassen</trd>
+  <trd lng="fr">laisser derri&egrave;re soi</trd>
+  <trdgrp lng="hu">
+    <trd>h&aacute;trahagy</trd>,
+    <trd>maga m&ouml;g&ouml;tt <ind>hagy</ind></trd>
+  </trdgrp>
+  <trd lng="ja">&#24460;&#12395;&#27531;&#12377;  <pr>&#12354;&#12392;&#12395;&#12398;&#12371;&#12377;</pr></trd>
+  <trd lng="nl">achterlaten</trd>
+  <trdgrp lng="pl">
+    <trd>zostawi&cacute; po sobie</trd>,
+    <trd>pozostawia&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>las&abreve; &icirc;n urm&abreve;</trd>,
+    <trd>r&abreve;m&acirc;ne</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol; <klr>(&c_p;&c_o;&c_s;&c_l;&c_je; &c_s;&c_je;&c_b;&c_ja;)</klr></trd>
+  <trd lng="sk">zanecha&tcaron;</trd>
+  <trd lng="uk">&c_z;&c_a;&c_l;&c_i;&c_sh;&c_a;&c_t;&c_i; &c_p;&c_ib;&c_s;&c_l;&c_ja; &c_s;&c_je;&c_b;&c_je;/&c_z;&c_a; &c_s;&c_o;&c_b;&c_o;&c_ju;</trd>
+  <trdgrp lng="zh">
+    <trd>&#33853; <pr>l&agrave;</pr></trd>,
+    <trd>&#36951; <pr>y&iacute;</pr></trd>,
+    <trd>&#36986; <pr>y&iacute;</pr></trd>,
+    <trd>&#30041;&#19979; <pr>li&uacute;xia</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="las.preter0i">
+  <kap>preter<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <tld lit="L"/>i preterpasante, neatentante, ne kaptante:
+      <ekz>
+        ni preter<tld/>as multajn aliajn <klr>[&#8230;]</klr> anta&ubreve;dirojn kaj transiras al
+        pririgardo de la teorioj, sur kiuj liaj anta&ubreve;diroj estis fondataj
+        <fnt><bib>FK</bib></fnt>;
+      </ekz><ekz>
+        mi esperas, ke li ne preter<tld/>is
+        <klr>(<ref cel="traf.mal0i">maltrafis</ref>)</klr> la vagonaron
+        <fnt><bib>KPr</bib></fnt>;
+      </ekz><ekz>
+        <klr>[li]</klr> divenis, tra la maldol&ccirc;eco de tiuj paroloj, la konfeson, kiun
+        preter<tld/>is la junulino
+        <fnt><bib>KPr</bib></fnt>;
+      </ekz><ekz>
+        dank&#8217; al kelkaj vortoj, kiujn preter<tld/>is tiu viro, mi e&ccirc; kredis kompreni
+        <fnt><bib>ChL</bib></fnt>;
+      </ekz><ekz>
+        vi estas homo sa&gcirc;a kaj vi ne amas preter<tld/>i tion, kio na&gcirc;as al la manoj
+        <fnt><bib>Revizoro</bib></fnt>;
+      </ekz><ekz>
+        li preter<tld/>is neniun okazon
+        <fnt><bib>ChL</bib></fnt>;
+      </ekz><ekz>
+        &gcirc;is nun &ccirc;iuj iliaj ama&jcirc;oj ne preter<tld/>is la limojn de negrava amindumeto
+        <fnt><bib>ChL</bib></fnt>;
+      </ekz><ekz>
+        oni malsupre solene ekkantis la dek-ok-pre&gcirc;on, kiun neniu devas preter<tld/>i
+        <fnt><bib>RBa</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="neglek.0i">neglekti</ref>,
+      <ref cel="salt.0i">salti</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="br">lezel da dremen</trd>
+  <trdgrp lng="cs">
+    <trd>nechat proj&iacute;t</trd>,
+    <trd>nechat uj&iacute;t</trd>,
+    <trd>opomenout</trd>,
+    <trd>propusti</trd>,
+    <trd>prop&aacute;st</trd>,
+    <trd>p&rcaron;ehl&eacute;dnout</trd>,
+    <trd>zame&scaron;kat</trd>,
+    <trd>zanechat</trd>,
+    <trd>zanedbat</trd>,
+    <trd>zme&scaron;kat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>beiseite <ind>lassen</ind></trd>,
+    <trd>auslassen</trd>,
+    <trd>weg <ind>lassen</ind></trd>
+  </trdgrp>
+  <trd lng="fr">laisser passer<klr tip="amb"> (ne pas voir)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>elszalaszt</trd>,
+    <trd>elmulaszt</trd>,
+    <trd>elenged <klr tip="amb"> (maga mellett)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12398;&#12364;&#12377;</trd>,
+    <trd>&#35211;&#36867;&#12377;  <pr>&#12415;&#12398;&#12364;&#12377;</pr></trd>,
+    <trd>&#35211;&#33853;&#12392;&#12377;  <pr>&#12415;&#12362;&#12392;&#12377;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>verzuimen</trd>,
+    <trd>nalaten</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>przepuszcza&cacute;</trd>,
+    <trd>przepu&sacute;ci&cacute; obok siebie</trd>,
+    <trd>przeoczy&cacute;</trd>,
+    <trd>porzuca&cacute;</trd>,
+    <trd>omieszka&cacute;</trd>,
+    <trd>omija&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>trece</trd>,
+    <trd>treci unul l&acirc;ng&abreve; altul</trd>,
+    <trd>omite</trd>,
+    <trd>rata</trd>,
+    <trd>evita</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>necha&tcaron; prejs&tcaron; okolo; prep&aacute;s&tcaron;</trd>,
+    <trd>necha&tcaron; ujs&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_o;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_o;&c_m;&c_i;&c_n;&c_a;&c_t;&c_i; <klr>(&c_z;&c_a;&c_l;&c_i;&c_sh;&c_a;&c_t;&c_i; &c_p;&c_o;&c_z;&c_a; &c_u;&c_v;&c_a;&c_g;&c_o;&c_ju;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#24573;&#30053; <pr>h&umacron;l&uuml;&egrave;</pr></trd>,
+    <trd>&#36339;&#36807; <pr>ti&agrave;ogu&ograve;</pr></trd>,
+    <trd>&#36339;&#36942; <pr>ti&agrave;ogu&ograve;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="las.re0i">
+  <kap>re<tld/>i <fnt><bib>PIV1</bib></fnt></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="las.re0i.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Post plenumo de &gcirc;ia funkcio &ccirc;esi teni a&ubreve; premi ion, <tld/>i &gcirc;in reveni al
+      sia normala stato:
+      <ekz>
+        <em>klaki</em>: Premi (klavon, butonon de muso) kaj re<tld/>i
+        (ekz-e por elekti)
+        <fnt><bib>KompLeks</bib>,
+        <lok><url>https://dvd.ikso.net/vortaro/Komputada_leksikono/K.html#KLAKI</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">loslassen</trd>
+    <trd lng="en">release</trd>
+    <trd lng="ru">&c_o;&c_t;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+    <trdgrp lng="zh">
+    <trd>&#25918;&#36208; <pr>f&agrave;ngz&#466;u</pr></trd>,
+    <trd>&#25918;&#24320; <pr>f&agrave;ngk&amacron;i</pr></trd>,
+    <trd>&#25918;&#38283; <pr>f&agrave;ngk&amacron;i</pr></trd>
+  </trdgrp>
+</snc>
+  <trdgrp lng="ja">
+    <trd>&#12422;&#12427;&#12417;&#12427;</trd>,
+    <trd>&#21644;&#12425;&#12370;&#12427;  <pr>&#12420;&#12431;&#12425;&#12370;&#12427;</pr></trd>,
+    <trd>&#28187;&#22311;&#12377;&#12427;  <pr>&#12370;&#12435;&#12354;&#12388;&#12377;&#12427;</pr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="las.sinal0o">
+  <kap>sinal<tld/>o</kap>
+  <snc mrk="las.sinal0o.PSI">
+    <uzo tip="fak">PSI</uzo>
+    <dif>
+      <ref tip="super" cel="konfid.0o">Konfido</ref> de si mem, sendefenda, fida sinteno:
+      <ekz>
+        sinal<tld/>o al la dol&ccirc;a emocio de sia koro
+        <fnt>
+          <aut>C. de Laclos, trad. J.-L. Tortel</aut>,
+          <vrk><url ref="http://www.satesperanto.org/Letero-76a.html">
+          Dan&gcirc;eraj rilatoj</url></vrk>,
+          <lok>[vidita en 2015]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="don.sin0o">sindonemo</ref>
+    <trdgrp lng="de">
+      <trd>Selbstvergessenheit</trd>,
+      <trd>Willf&auml;hrigkeit</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="fr">abandon<klr> (de soi)</klr></trd>
+  <trd lng="pl">pewno&sacute;&cacute; siebie</trd>
+  <trd lng="ro">curaj</trd>
+</drv>
+
+<drv mrk="las.tra0i">
+  <kap>tra<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <tld lit="L"/>i trairi:
+      <ekz>
+        pro la malvasteco de la eniroj, kiuj apena&ubreve; sufi&ccirc;as por tra<tld/>i la plej
+        malgrandajn regatojn, la gere&gcirc;oj neniel povas eliri
+        <fnt><bib>FK</bib></fnt>;
+      </ekz><ekz>
+        &scirc;ipetoj <klr>[&#8230;]</klr> diskuradis en &ccirc;iujn direktojn por tra<tld/>i grandegan
+        floson
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
+      </ekz><ekz>
+        la dua kohorto tra<tld/>is supren nur tiujn, kiuj havis rolon en la ekzekuto
+        <fnt><bib>MkM</bib></fnt>;
+      </ekz><ekz>
+        la maldika &scirc;tofo tra<tld/>is neklaran lumon
+        <fnt><bib>Metrop</bib></fnt>;
+      </ekz><ekz>
+        en la alto &scirc;vebis densa, senkontura nuba&jcirc;o, kiu sen&ccirc;ese ver&scirc;is akvon kaj ne
+        tra<tld/>is e&ccirc; imageton pri suno kaj lumo
+        <fnt><bib>InfanTorent2</bib></fnt>;
+      </ekz><ekz>
+        interne de ili estas &scirc;tone malmola muro, kiu <klr>[&#8230;]</klr> ne tra<tld/>as ion
+        el tio, kio estas ka&scirc;ita en ilia propra interno
+        <fnt><bib>HsT</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_p;&c_r;&c_a;&c_z; &c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+  <trd lng="br">lezel da dreuzi&ntilde;</trd>
+  <trd lng="cs">propou&scaron;t&ecaron;t</trd>
+  <trd lng="de">durchlassen</trd>
+  <trd lng="fr">laisser passer</trd>
+  <trdgrp lng="hu">
+    <trd>&aacute;tenged</trd>,
+    <trd>&aacute;tereszt</trd>
+  </trdgrp>
+  <trd lng="id"><baz>tembus</baz>menembus</trd>
+  <trdgrp lng="ja">
+    <trd>&#36890;&#12426;&#25244;&#12369;&#12373;&#12379;&#12427;
+    <pr>&#12392;&#12362;&#12426;&#12396;&#12369;&#12373;&#12379;&#12427;</pr></trd>,
+    <trd>&#36879;&#36942;&#12373;&#12379;&#12427;  <pr>&#12392;&#12358;&#12363;&#12373;&#12379;&#12427;</pr></trd>,
+    <trd>&#12429;&#36942;&#12377;&#12427;  <pr>&#12429;&#12363;&#12377;&#12427;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">doorlaten</trd>
+  <trdgrp lng="pl">
+    <trd>przepuszcza&cacute;</trd>,
+    <trd>przepu&sacute;ci&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>petrece</trd>,
+    <trd>trece</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">prep&uacute;&scaron;&tcaron;a&tcaron;</trd>
+  <trd lng="uk">&c_p;&c_r;&c_o;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_i; <klr>(&c_k;&c_r;&c_ib;&c_z;&c_mol; &c_s;&c_je;&c_b;&c_je;)</klr></trd>
+  <trd lng="zh">&#25918;&#34892; <pr>f&agrave;ngx&iacute;ng</pr></trd>
+</drv>
+
+<drv mrk="las.tra0ema">
+  <kap>tra<tld/>ema</kap>
+  <snc mrk="las.tra0ema.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Facile <tld/>anta trairi tra sia substanco:
+      <ekz>
+        la surfaco konsistas el diversaj specoj de tra<tld/>ema
+        kalk&scirc;tono, kiun oni uzas anka&ubreve; kiel konstrumaterialo
+        <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;Malto (lando)&rightquot;,
+        2007-04-06</lok></fnt>;
+      </ekz><ekz>
+        ili agas pere de provizoraj aliancoj kaj scipovas profiti el la tra<tld/>emo de
+        la landlimoj
+        <fnt>
+          <bib>MD14</bib>
+          <vrk>Tralaseblaj landlimoj, malfortaj institucioj kaj eksterlandaj intervenoj</vrk>
+        </fnt>;
+      </ekz><ekz>
+        <uzo tip="stl">FIG</uzo>
+        tra<tld/>emaj al la strategio de propeka kapro
+        <fnt>
+          <bib>MD17</bib>
+          <vrk>Francujo: pejza&gcirc;o anta&ubreve; la prezidanto-elekto</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>durchl&auml;ssig</trd>,
+      <trd>zug&auml;nglich</trd>,
+      <trd>vulnerabel</trd>
+    </trdgrp>
+    <trd lng="fr">perm&eacute;able</trd>
+    <trd lng="it">permeabile</trd>
+    <trd lng="pl">przepuszczalny</trd>
+    <trd lng="ro">permeabil</trd>
+    <trdgrp lng="zh">
+    <trd>&#21487;&#36827;&#20837; <pr>k&ecaron;j&igrave;nr&ugrave;</pr></trd>,
+    <trd>&#21487;&#36914;&#20837; <pr>k&ecaron;j&igrave;nr&ugrave;</pr></trd>,
+    <trd>&#36879;&#27700; <pr>t&ograve;ushu&#464;</pr></trd>,
+    <trd>&#21487;&#28183;&#36879; <pr>k&ecaron;sh&egrave;nt&ograve;u</pr></trd>,
+    <trd>&#21487;&#28402;&#36879; <pr>k&ecaron;sh&egrave;nt&ograve;u</pr></trd>,
+    <trd>&#21487;&#36879;&#36807; <pr>k&ecaron;t&ograve;ugu&ograve;</pr></trd>,
+    <trd>&#21487;&#36879;&#36942; <pr>k&ecaron;t&ograve;ugu&ograve;</pr></trd>,
+    <trd>&#26377;&#23380; <pr>y&#466;uk&#466;ng</pr></trd>,
+    <trd>&#33021;&#36879;&#36807; <pr>n&eacute;ngt&ograve;ugu&ograve;</pr></trd>,
+    <trd>&#33021;&#36879;&#36942; <pr>n&eacute;ngt&ograve;ugu&ograve;</pr></trd>
+  </trdgrp>
+</snc>
+<trdgrp lng="id">
+  <trd><baz>tembus</baz>tertembus</trd>,
+  <trd>dapat di<ind>tembus</ind></trd>
+</trdgrp>
+</drv>
+
+<drv mrk="las.trans0i">
+  <kap>
+    trans<tld/>i
+  </kap>
+  <snc>
+    <dif>
+      Permesi transi&gcirc;on, t.e. transiron, transdonon kc:
+      <ekz>
+        vi povos trans<tld/>i por &ccirc;iam la honoron al la aliaj
+        <fnt><bib>Mortul&Scirc;ip</bib></fnt>;
+      </ekz><ekz>
+        li estis morta, je la oka oni &jcirc;etis lin en la maron <klr>[&#8230;]</klr>, al unu el
+        liaj kruroj oni ligis dikan karbobulon, mi pensas, ke la &scirc;ipestro
+        trans<tld/>is e&ccirc; tiun dikan karbobulon nur kun oblikva bu&scirc;o
+        <fnt><bib>Mortul&Scirc;ip</bib></fnt>;
+      </ekz><ekz>
+        ili &gcirc;uas sian junecon, povas sin trans<tld/>i al la vibranta Nuno, al la logo de
+        la karaj efemera&jcirc;oj
+        <fnt><bib>MPe</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+       <ref cel="las.0i.transdoni">lasi<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">&uuml;berlassen</trd>
+</drv>
+
+</art>
+<!--
+$Log$
+versio 1.122 2024/04/13 10:20:32
+Wolfram Diestel: +el~i 2 (mankigi)
+
+versio 1.120 2023/12/12 20:10:23
+revo: kor. lat. transskribo/latvaj literoj
+
+versio 1.119 2023/10/26 09:24:20
+Eko Nur Syah Hidayat: +trd id
+
+versio 1.118 2023/10/19 05:15:34
+revo: transskribo per <pr>
+
+versio 1.116 2023/06/01 06:32:20
+Wolfram Diestel: +trd de
+
+versio 1.115 2023/05/26 08:30:10
+Sergio Pokrovskij: + re~i
+
+versio 1.114 2023/05/07 12:41:10
+Wolfram Diestel: +ref
+
+versio 1.113 2023/05/07 09:24:31
+-->
+</vortaro>

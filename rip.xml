@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: rip.xml,v 1.28 2024/04/14 05:46:55 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>rip</rad>/o
+  <fnt><bib>UV</bib></fnt>
+</kap>
+<drv mrk="rip.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="rip.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      &Ccirc;iu el la kurbaj <ref tip="super" cel="ost.0o">osto</ref>j, kiuj &ccirc;irka&ubreve;as la bruston de homo
+      a&ubreve; besto:
+      <ekz>
+        unu el ili lasis lin kun tri rompitaj <tld/>oj, elartikigita &scirc;ultro kaj
+        <klr>[&#x2026;]</klr> subsanga&jcirc;oj
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kaj Dio konstruis el la <tld/>o, kiun li prenis de la homo,
+        virinon        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 2:22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi lasos el&scirc;iri al vi la koron el post la <tld/>oj
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        via propra koro <klr>[&#x2026;]</klr> kun timega tremado frapas viajn <tld/>ojn
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>oj sub &gcirc;ia ta&ubreve;zita felo estis nombreblaj, la vertebroj &ccirc;e la spino
+        elstaris kiel la dentoj de segilo
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>Fantomurbo</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        a&ubreve; kuseno sub <tld/>o, a&ubreve; bato per vipo
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="rip.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Io simila al <tld/>o<sncref ref="rip.0o.ANA"/>; arka peco fortikiganta surfacon:
+      <ekz>
+        <tld/>o de folio, de ombrelo, de &scirc;ipa skeleto;
+      </ekz>
+      <ekz>
+        ni provis malsuprengrimpi la koridoran &scirc;akton, <klr>[&#x2026;]</klr> ni uzis la pordojn
+        de la diversaj kajutoj kaj la &scirc;elajn <tld/>ojn kiel &scirc;tupojn
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 47</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ark.0o.KOMUNE">arko</ref>,
+      <ref cel="nervur.0o">nervuro</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Spant</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_b;&c_r;&c_o;</trd>
+  <trd lng="bg">&c_r;&c_je;&c_b;&c_r;&c_o;</trd>
+  <trd lng="bo">&t_ra;&t_tsata;&t_gigu;&t_ba;&t_tsheg;&t_ma;&t_tsheg;</trd>
+  <trdgrp lng="br">
+    <trd>kostenn</trd>,
+    <trd>kostezenn<klr tip="ind"> (askorn)</klr></trd>
+  </trdgrp>
+  <trd lng="ca">costella</trd>
+  <trd lng="cs">&zcaron;ebro</trd>
+  <trd lng="de">Rippe</trd>
+  <trd lng="en">rib</trd>
+  <trd lng="es">costilla</trd>
+  <trd lng="fr">c&ocirc;te<klr> (anatomie)</klr></trd>
+  <trd lng="hu">borda</trd>
+  <trdgrp lng="id">
+    <trd>iga</trd>,
+    <trd><ind>tulang</ind> rusuk</trd>
+  </trdgrp>
+  <trd lng="it">costola</trd>
+  <trdgrp lng="ja">
+    <trd>&#x808B;&#x9AA8;  <pr>&#x3042;&#x3070;&#x3089;&#x307C;&#x306D;</pr></trd>,
+    <trd>&#x3042;&#x3070;&#x3089;&#x9AA8;  <pr>&#x3042;&#x3070;&#x3089;&#x307C;&#x306D;</pr></trd>,
+    <trd>&#x8449;&#x8108;  <pr>&#x3088;&#x3046;&#x307F;&#x3083;&#x304F;</pr></trd>,
+    <trd>&#x3046;&#x306D;</trd>,
+    <trd>&#x30EA;&#x30D6;</trd>,
+    <trd>&#x88DC;&#x5F37;&#x6750;  <pr>&#x307B;&#x304D;&#x3087;&#x3046;&#x3056;&#x3044;</pr></trd>,
+    <trd>&#x808B;&#x6750;  <pr>&#x308D;&#x304F;&#x3056;&#x3044;</pr></trd>
+  </trdgrp>
+  <trd lng="nl">rib</trd>
+  <trd lng="pl">&zdot;ebro</trd>
+  <trd lng="pt">costela</trd>
+  <trd lng="ro">coast&abreve;</trd>
+  <trd lng="ru">&c_r;&c_je;&c_b;&c_r;&c_o; <klr tip="amb">(&c_a;&c_n;&c_a;&c_t;.)</klr></trd>
+  <trd lng="sk">rebro</trd>
+  <trd lng="uk">&c_r;&c_je;&c_b;&c_r;&c_o;</trd>
+  <trdgrp lng="zh">
+    <trd>&#x808B;&#x9AA8; <pr>l&#xE8;ig&#x1D4;</pr></trd>,
+    <trd>&#x808B; <pr>l&#xE8;i</pr></trd>,
+    <trd>&#x9AA8;&#x5B50; <pr>g&#x1D4;zi</pr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log$
+versio 1.27 2024/02/04 09:20:02
+Wolfram Diestel: +ref, trd de
+
+versio 1.26 2024/02/03 21:18:13
+Wolfram Diestel: +snc FIG
+
+versio 1.25 2023/10/21 05:38:06
+revo: transskribo per <pr>
+
+versio 1.23 2022/11/30 18:35:20
+Vito Redsky: +trd pl + trd ro
+
+Revision 1.19  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2015/01/29 04:10:31  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.16  2010/12/17 17:30:48  revo
+-->
+</vortaro>
