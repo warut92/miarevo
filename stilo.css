@@ -1,0 +1,55 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: aliceblue;  
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#vortoj {
+    overflow-wrap: break-word;
+}
+input {
+    font-size: 20px;
+    width: 80%;
+}
+
+ekz {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+trdgrp[lng="en"].trd {
+    display: block;
+}
+trd[lng="en"] {
+    display: block;
+}
+trd[lng="la"] {
+    display: block;
+}
+trd:only-child {
+    display: block;
+}
+trd, trdgrp  {
+    display: none;
+}
+ref, refgrp  {
+    border: 1px solid white;
+    background-color: rgb(201, 115, 115);
+    color: black;
+}
+kap {
+    border: 1px solid white;
+    background-color: orange;
+    color: black;
+}
+mlg {
+    border: 1px solid white;
+    background-color: blue;
+}
+#kapvorto {
+    font-size: 20px;
+    border: 1px solid white;
+    background-color: rgb(145, 67, 218);
+    color: black;
+}

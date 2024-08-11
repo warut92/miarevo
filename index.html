@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stilo.css">
+    <title>Mia Revo</title>
+</head>
+<body>
+    <h1>📗Mia Revo</h1><small>La datumoj prenitaj de <a href="https://retavortaro.de" target="_blank" >Reta Vortaro</a></small><br>
+    <input type="text" id="xmlPath" oninput="tujaVorto(this.value)" onfocus="tujaVorto(this.value)"  placeholder="via serĉanta vorto">
+    <button onclick="loadXML()">Serĉi</button>
+    <hr>
+    <div id="vortoj"></div>
+    <div id="xmlContent"></div>
+    <div id="demo"></div>
+    <script src="./vortoj.js"></script>
+    <script src="./skripto.js"></script>
+</body>
+</html>
