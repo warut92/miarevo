@@ -42,6 +42,7 @@ kap {
     border: 1px solid white;
     background-color: orange;
     color: black;
+    font-weight: 100;
 }
 mlg {
     border: 1px solid white;

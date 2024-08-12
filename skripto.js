@@ -39,11 +39,19 @@ function displayXML(xmlText) {
     //ekzemplo
     .replace(/<ekz>/g, "📖<ekz> ")
     .replace(/<\/ekz>/g, "</ekz><hr>")
+    //scienca nomo
+    .replace(/<trd lng=\"la\">(.*)<\/trd>/g, "<i>$1</i>")
+    //fnt (fontoj)
+    .replace(/<fnt>/g, "<small><i>")
+    .replace(/<\/fnt>/g, "</i></small>")
     //kapvorto
     .replace(/<\/kap>/g, "</kap><br>")
     .replace(/(<kap><rad>[a-z].*<\/rad>\/[a-z].*)<\/kap>/gm, "<span id=\"kapvorto\">$1</span>")
-    //emfazi la vorton tajpitan
+    //preni la literojn kaj emfazi la vorton tajpitan
     .replace(/<tld\/>/g, "<u>" + dosieroNomo.slice(0, dosieroNomo.length - 4) + "</u>")
+    //por la vortoj,kiuj komenciĝas per granda litero
+    .replace(/<tld lit=\"(.)\"\/>/g, "<u>$1" + dosieroNomo.slice(1, dosieroNomo.length - 4) + "</u>")
+    //aldoni etikedon "name"
 }
 //กด Enter เพื่อรัน loadXML
 document.addEventListener('keydown', e => {
@@ -54,7 +62,7 @@ document.addEventListener('keydown', e => {
 })
 tujaVorto() 
 
-//ฟังก์ชันแสดง live search
+//ฟังก์ชันแสดงข้อความ live search
 //โดยนำข้อมูลจากช่อง input มาค้นหาคำ
 function tujaVorto(v) {
     cxiuj_vortoj = cxiuj_vortoj.replace(/\.0/g, "")
@@ -63,8 +71,8 @@ function tujaVorto(v) {
     cxiuj_vortoj = cxiuj_vortoj.replace(/([a-z]*)\.([a-z]*)([a-z]{1})/g, "$2$1$3")
     cxiuj_vortoj = cxiuj_vortoj.replace(/(xm)([a-z]*)([l]{1})/g, "$2.$1$3")
     cxiuj_vortoj = cxiuj_vortoj.replace(/( [a-z]*)\.(.*)0(.*$)/gm, "$2$1$3").replace(/ /g,"")
+    // console.log(v);
     // console.log(cxiuj_vortoj);
-    console.log(v);
     let sercxantaVorto = document.getElementById("xmlPath").value.trim()
 
     const cxiuj_vortoj_arr = cxiuj_vortoj.split(/\n/g)
@@ -81,6 +89,18 @@ function tujaVorto(v) {
         document.getElementById("vortoj").innerHTML = aldoni_ion_al_rezulto.toString()
         //,palinu.xml
         .replace(/\+/gm, "<br><hr>")
+        //ĉapelitaj malgrandaj literoj
+        .replace(/hx/g, "ĥ")
+        .replace(/sx/g, "ŝ")
+        .replace(/gx/g, "ĝ")
+        .replace(/cx/g, "ĉ")
+        .replace(/jx/g, "ĵ")
+        //ĉapelitaj grandaj literoj
+        .replace(/HX/g, "Ĥ")
+        .replace(/SX/g, "Ŝ")
+        .replace(/GX/g, "Ĝ")
+        .replace(/CX/g, "Ĉ")
+        .replace(/JX/g, "Ĵ")
         .replace(/([a-z0-9]*)\.xml/g, "<u><span onclick=\"vorto(this.innerText)\">$1</span></u>") + "<hr><hr>"
     } else if (sercxantaVorto.length < 1) {
         document.getElementById("vortoj").innerHTML = ""
