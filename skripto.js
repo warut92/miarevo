@@ -5,6 +5,9 @@ function loadXML() {
     dosieroNomo = document.getElementById("xmlPath").value.trim()  + ".xml";
     dosieroNomoVojo = "./XML/" + dosieroNomo;
 
+    //ใส่ hash ที่ url
+    location.hash = dosieroNomo
+
     console.log(dosieroNomo);
     if (dosieroNomo === "") {
         alert("La vojo de la dosiero estas malĝusta!");
@@ -38,7 +41,8 @@ function displayXML(xmlText) {
     .replace(/<trdgrp lng=\"en\">/g, "<trdgrp lng=\"en\"> 🇬🇧:")
     //ekzemplo
     .replace(/<ekz>/g, "📖<ekz> ")
-    .replace(/<\/ekz>/g, "</ekz><hr>")
+    .replace(/📖<ekz>/g, "<hr>📖<ekz> ")
+    .replace(/<\/ekz>/g, "</ekz><hr")
     //scienca nomo
     .replace(/<trd lng=\"la\">(.*)<\/trd>/g, "<i>$1</i>")
     //fnt (fontoj)
@@ -114,3 +118,11 @@ function tujaVorto(v) {
         //และลบตัวข้อความของ live search
         document.getElementById("vortoj").innerHTML = ""
     }
+
+//โหลดคำจาก hash และดำเนินการรัน loadXML()
+if (location.hash) {
+    let vorto_hash = location.hash
+    let vorto_hash_substring = vorto_hash.substring(1,vorto_hash.length-4)
+    document.getElementById('xmlPath').value = decodeURI(vorto_hash_substring)
+    loadXML()
+  }
