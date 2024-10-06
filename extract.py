@@ -11,7 +11,11 @@ def extract_filenames(directory):
 def extract_strings(filename):
     strings = []
     with open(filename, 'r', encoding='utf-8') as f:
+        print(filename)
         content = f.read()
+        #<rad>elektromagnet</rad>/o
+        # matches = re.findall(r'<rad>"([^"]*)"', content)
+
         matches = re.findall(r'<drv mrk="([^"]*)"', content)
         for match in matches:
             strings.append(match)
@@ -23,7 +27,7 @@ def save_to_text_file(filename_strings, output_file):
             f.write(f'{filename}, {", ".join(string_list)}\n')
 
 if __name__ == "__main__":
-    directory = "."  # Specify the directory path you want to search
+    directory = "./XML"  # Specify the directory path you want to search
     output_file = "0extracted_strings.txt"  # Specify the output text file name
 
     filenames = extract_filenames(directory)

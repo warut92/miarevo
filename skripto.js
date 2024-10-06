@@ -34,6 +34,7 @@ function loadXML() {
 // โดยการเปลี่ยน XML ของ Reta Vortaro เป็น tag ของ html
 function displayXML(xmlText) {
     document.getElementById("xmlContent").innerHTML = xmlText
+    // .replace(/<drv mrk=\"(.*)\">/g, "<a href=\"\#$1\">")
     .replace(/<\/drv>/g, "</drv><br><br><hr>")
     .replace(/<\/uzo>/g, "</uzo><hr>")
     //tradukoj
@@ -48,6 +49,9 @@ function displayXML(xmlText) {
     //fnt (fontoj)
     .replace(/<fnt>/g, "<small><i>")
     .replace(/<\/fnt>/g, "</i></small>")
+    //VIKI
+    // .replace(/<url ref=\"&Viki;/g, "<a href=\"https://eo.wikipedia.org/wiki")
+    // .replace(/<url /g, "https://eo.wikipedia.org/wiki/")
     //kapvorto
     .replace(/<\/kap>/g, "</kap><br>")
     .replace(/(<kap><rad>[a-z].*<\/rad>\/[a-z].*)<\/kap>/gm, "<span id=\"kapvorto\">$1</span>")
@@ -94,22 +98,22 @@ function tujaVorto(v) {
         //,palinu.xml
         .replace(/\+/gm, "<br><hr>")
         //ĉapelitaj malgrandaj literoj
-        .replace(/hx/g, "ĥ")
-        .replace(/sx/g, "ŝ")
-        .replace(/gx/g, "ĝ")
-        .replace(/cx/g, "ĉ")
-        .replace(/jx/g, "ĵ")
+        // .replace(/hx/g, "ĥ")
+        // .replace(/sx/g, "ŝ")
+        // .replace(/gx/g, "ĝ")
+        // .replace(/cx/g, "ĉ")
+        // .replace(/jx/g, "ĵ")
         //ĉapelitaj grandaj literoj
-        .replace(/HX/g, "Ĥ")
-        .replace(/SX/g, "Ŝ")
-        .replace(/GX/g, "Ĝ")
-        .replace(/CX/g, "Ĉ")
-        .replace(/JX/g, "Ĵ")
+        // .replace(/HX/g, "Ĥ")
+        // .replace(/SX/g, "Ŝ")
+        // .replace(/GX/g, "Ĝ")
+        // .replace(/CX/g, "Ĉ")
+        // .replace(/JX/g, "Ĵ")
         .replace(/([a-z0-9]*)\.xml/g, "<u><span onclick=\"vorto(this.innerText)\">$1</span></u>") + "<hr><hr>"
     } else if (sercxantaVorto.length < 1) {
         document.getElementById("vortoj").innerHTML = ""
     }
-    }
+}
 
     //ฟังก์ชันดึงคำจาก live search ไปสร้าง Path ของ XML ในฟังก์ชัน loadXML() 
     function vorto(vorto) {
