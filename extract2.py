@@ -21,6 +21,11 @@ def extract_strings(filename):
         for match in rad_matches:
             rad_strings.append(match)
 
+                # Extract strings that start with <ofc>
+        rad_matches = re.findall(r'<rad>([^<]*)</rad>', content)
+        for match in rad_matches:
+            rad_strings.append(match)    
+
         # Extract strings that start with <drv mrk="">
         drv_matches = re.findall(r'<drv mrk="([^"]*)"', content)
         for match in drv_matches:

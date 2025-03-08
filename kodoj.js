@@ -37,37 +37,26 @@ function displayXML(xmlText) {
     // .replace(/<drv mrk=\"(.*)\">/g, "<a href=\"\#$1\">")
     .replace(/<\/drv>/g, "</drv><br><br><hr>")
     .replace(/<\/uzo>/g, "</uzo><hr>")
-
     //tradukoj
     .replace(/<trd lng=\"en\">/g, "<trd lng=\"en\"> 🇬🇧:")
     .replace(/<trdgrp lng=\"en\">/g, "<trdgrp lng=\"en\"> 🇬🇧:")
-
     //ekzemplo
     .replace(/<ekz>/g, "📖<ekz> ")
-    // .replace(/📖<ekz>/g, "<hr>📖<ekz> ")
-    // .replace(/<\/ekz>/g, "</ekz><hr")
-
-    //montri sciencan nomon
+    .replace(/📖<ekz>/g, "<hr>📖<ekz> ")
+    .replace(/<\/ekz>/g, "</ekz><hr")
+    //scienca nomo
     .replace(/<trd lng=\"la\">(.*)<\/trd>/g, "<i>$1</i>")
-
     //fnt (fontoj)
-    .replace(/<fnt>/g, "<small><i>✒️")
+    .replace(/<fnt>/g, "<small><i>")
     .replace(/<\/fnt>/g, "</i></small>")
-
-    //citiloj
-    .replace(/&leftquot;/g, "“")
-    .replace(/&rightquot;/g, "”")
-
     //VIKI
-    // .replace(/<url ref=/g, "<a href=\"https://eo.wikipedia.org/wiki")
+    // .replace(/<url ref=\"&Viki;/g, "<a href=\"https://eo.wikipedia.org/wiki")
     // .replace(/<url /g, "https://eo.wikipedia.org/wiki/")
     //kapvorto
     .replace(/<\/kap>/g, "</kap><br>")
     .replace(/(<kap><rad>[a-z].*<\/rad>\/[a-z].*)<\/kap>/gm, "<span id=\"kapvorto\">$1</span>")
-
     //preni la literojn kaj emfazi la vorton tajpitan
     .replace(/<tld\/>/g, "<u>" + dosieroNomo.slice(0, dosieroNomo.length - 4) + "</u>")
-
     //por la vortoj,kiuj komenciĝas per granda litero
     .replace(/<tld lit=\"(.)\"\/>/g, "<u>$1" + dosieroNomo.slice(1, dosieroNomo.length - 4) + "</u>")
     //aldoni etikedon "name"
@@ -121,7 +110,7 @@ function tujaVorto(v) {
         // .replace(/GX/g, "Ĝ")
         // .replace(/CX/g, "Ĉ")
         // .replace(/JX/g, "Ĵ")
-        .replace(/([a-z0-9]*)\.xml/g, "<u><span onclick=\"vorto(this.innerText)\">$1</span></u>") + "<hr>"
+        .replace(/([a-z0-9]*)\.xml/g, "<u><span onclick=\"vorto(this.innerText)\">$1</span></u>") + "<hr><hr>"
     } else if (sercxantaVorto.length < 1) {
         document.getElementById("vortoj").innerHTML = ""
     }

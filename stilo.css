@@ -58,3 +58,15 @@ mlg {
 a {
     color: aliceblue;
 }
+
+vspec {
+    border: 1px solid white;
+    background-color: red;
+    color: black;
+    font-weight: 100;
+    border-radius: 10px;
+}
+
+lok {
+    display: none;
+}
